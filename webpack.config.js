@@ -16,6 +16,7 @@ module.exports = {
     },
     plugins: [htmlPlugin],
     module: {
+
         rules: [{
                 test: /\.(js|jsx)$/,
                 exclude: /node_modules/,

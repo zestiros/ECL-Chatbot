@@ -27,63 +27,29 @@ app.get("/", (req, res) => {
     res.status(200).send(HTML_FILE)
 })
 
-app.get("/api/hello", invokeChatbotHi);
+app.get("/api/hello", invokeChatbotWelcome);
 
 
-app.get('/ecl_nlp', (req, res) => {
-
-    var pythonScriptPath = './chatbot_ecl.py'
-
-
-    pyshell = new PythonShell(pythonScriptPath)
-
-    pyshell.on('message', function(message) {
-        console.log(message)
-    })
-
-    pyshell.end(function(err) {
-        if (err) {
-            throw err;
-        }
-    })
-
-    console.log("finished")
-
-    //Importing node 'child-process' module to spawn a child process
-    // const { spawn } = require('child_process');
-
-    //the spawned python process which takes 2 args , the name of the python script to invoke and the query param msg="hi"
-
-    // var process = spawn('python', [
-    //     "./chatbot_ecl.py", "combien cours mth tc1 ?"
-    // ]);
-
-    // process.stdout.on('data', function(data) {
-    //     console.log("hi")
-    //     console.log(data)
-    //     res.send(data.toString());
-    // })
-
-})
+app.post('/api/df_text_query', invokeChatbot);
 
 
 
 
 /// chatbot code starts here
 
-function invokeChatbotHi(req, res) {
+
+let chatbotScript = path.join(__dirname, '.', 'chatbot_ecl.py')
+
+console.log(chatbotScript)
+
+async function invokeChatbotWelcome(req, res) {
     console.log('welcome');
-
-    var pythonScriptPath = '/home/Projects/projet_option/ecl_chatbot/server/chatbot_ecl.py'
-
-    var pyshell = new PythonShell(pythonScriptPath)
-
     var options = {
         mode: 'text',
-        args: ["combien cours mth tc1 ?"]
+        args: ["bonjour"]
     }
 
-    PythonShell.run(pythonScriptPath, options, function(err, results) {
+    await PythonShell.run(chatbotScript, options, function(err, results) {
         if (err) console.log(err);
 
 
@@ -93,18 +59,25 @@ function invokeChatbotHi(req, res) {
 }
 
 
-function invokeChatbot(req, res) {
+async function invokeChatbot(req, res) {
 
-    console.log(req)
-        //Importing node 'child-process' module to spawn a child process
-    var spawn = require("child_process").spawn;
+    console.log("new message from client")
+    console.log(req.body.text)
 
-    //the spawned python process which takes 2 args , the name of the python script to invoke and the query param msg="hi"
 
-    var process = spawn('python', [
-        "./chatbot_ecl.py " +
-        req.query.msg
-    ]);
+    var options = {
+        mode: 'text',
+        args: [req.body.text]
+    }
+
+    await PythonShell.run(chatbotScript, options, function(err, results) {
+        if (err) console.log(err);
+
+        console.log(results[0])
+        res.send(results[0])
+    })
+
+    console.log("response sent!")
 }
 
 

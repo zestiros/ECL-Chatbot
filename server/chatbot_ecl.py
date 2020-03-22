@@ -483,20 +483,20 @@ s4 = "combien cours mth tc1 ?"
 # chat(encoder1,attn_decoder1,s1)
 # chat(encoder1,attn_decoder1,s2)
 # chat(encoder1,attn_decoder1,s3)
-chat(encoder1,attn_decoder1,s4)
+# chat(encoder1,attn_decoder1,s4)
 
 
 
 
 # print("RESPONSES FROM NODE SERVER********************")
 
-# print(reply)
+
 
 import sys
 
 text_from_node_server=str(sys.argv[1])
 
-# chat(encoder1,attn_decoder1,"combien cours mth tc1 ?")
+chat(encoder1,attn_decoder1,text_from_node_server)
 
 sys.stdout.flush()
 
