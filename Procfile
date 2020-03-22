@@ -1,1 +1,2 @@
-web: gunicorn gettingstarted.wsgi --log-file -
+web: node server/index.js
+pipinstall: pip install -r requirements.txt
