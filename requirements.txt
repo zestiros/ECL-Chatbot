@@ -1,3 +1,7 @@
-numpy==1.18.1
+matplotlib==3.2.1
+nltk==3.4.5
+numpy==1.18.2
+scikit-learn==0.22.2.post1
+sklearn==0.0
 https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp37-cp37m-linux_x86_64.whl
-matplotlib==3.1.3
+
