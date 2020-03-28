@@ -678,7 +678,7 @@ s2 = "il combien de cours y du mth tc1 ?"
 s3 = "cours combien mth tc1 ?"
 s4 = "combien cours mth tc3 ?"
 
-# chat(encoder,decoder,s1,beam_size=3,stem=True)
+# chat(encoder,decoder,s1,beam_size=4,stem=True)
 # chat(encoder,decoder,s2,beam_size=1,stem=True)
 # chat(encoder,decoder,s3,beam_size=1,stem=True)
 # chat(encoder,decoder,s4,beam_size=3,stem=True)
@@ -799,7 +799,7 @@ import sys
 
 text_from_node_server=str(sys.argv[1])
 
-chat(encoder,decoder,text_from_node_server,beam_size=1,stem=True)
+chat(encoder,decoder,text_from_node_server,beam_size=4,stem=True)
 
 sys.stdout.flush()
 
