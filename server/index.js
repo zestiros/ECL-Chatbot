@@ -38,7 +38,7 @@ app.post('/api/df_text_query', invokeChatbot);
 /// chatbot code starts here
 
 
-let chatbotScript = path.join(__dirname, '.', 'chatbot_ecl.py')
+let chatbotScript = path.join(__dirname, '.', 'chatbot_ecl_2.py')
 
 console.log(chatbotScript)
 
