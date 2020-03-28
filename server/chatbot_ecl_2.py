@@ -799,7 +799,7 @@ import sys
 
 text_from_node_server=str(sys.argv[1])
 
-chat(encoder,decoder,text_from_node_server,beam_size=1,stem=True)
+chat(encoder,decoder,text_from_node_server,beam_size=5,stem=True)
 
 sys.stdout.flush()
 
