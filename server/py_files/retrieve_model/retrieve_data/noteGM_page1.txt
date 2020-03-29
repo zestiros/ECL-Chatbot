@@ -1,0 +1,52 @@
+
+Règle de calcul des notes de l’UE Génie Mécanique
+
+Notes des Actions de Formation
+
+
+GM tc 1 Génie Mécanique : 
+Note Savoir : NS1 = TEST
+
+Poids en % des notes de compétence dans la note de l’AF GM tc 1
+Compétences
+Savoir
+Poids
+100%
+
+
+GM tc 2 Activités pratiques de Génie Mécanique
+Note Savoir-faire : NSF2 = 0.25Ndessin + 0.25Nµtest1 + 0.25Nµtest2 + 0.125*NTP1 + 0.125*NTP2
+• Dessin : Dessin d’un montage de roulements (BE1 Projet Technologie Mécanique)
+• µtest1 : Microtest d’évaluation du savoir-faire (BE2 Projet Technologie Mécanique)
+• µtest2 : Microtest d’évaluation du savoir-faire (TP Métrologie Projet Technologie Mécanique) 
+• TP1 : TP Mécanique Générale
+• TP2 : TP Résistance des Matériaux
+
+Poids en % des notes de compétence dans la note de l’AF GM tc 2
+Compétences
+Savoir-Faire
+Poids
+100 %
+
+
+GM tc 3 ou tc4 Parcours: 
+Note Savoir-faire : NSF3 compte rendu d’activité pratique
+
+Poids en % des notes de compétence dans la note de l’AF GM tc 3
+Compétence
+Savoir-Faire
+Poids
+100%
+
+
+Note de l’UE GM
+
+Poids en % des notes des Actions de Formation
+AF
+GM tc 1
+GM tc 2
+GM tc 3
+Poids
+50%
+30%
+20%

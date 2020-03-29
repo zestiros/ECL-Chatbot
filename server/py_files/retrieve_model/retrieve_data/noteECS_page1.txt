@@ -1,0 +1,64 @@
+
+Règle de calcul des notes de l'UE Energie et Commande des Systèmes
+
+Notes des Actions de Formation
+
+ECS tc 0 Autonomie
+Note Savoir-faire : 
+
+Poids en % des notes de compétence dans la note de l'AF ECS tc 0
+Compétence
+Savoir-Faire
+Poids
+100%
+
+
+ECS tc 1 Energie Electrique : 
+Note Savoir : 
+Note Savoir-faire : 
+
+Poids en % des notes de compétence dans la note de l'AF ECS tc 1
+Compétences
+Savoir
+Savoir-Faire
+Poids
+90%
+10%
+
+
+ECS tc 2 Automatique des Procédés Linéaires : 
+Note Savoir : 
+Note Savoir-faire : 
+
+Poids en % des notes de compétence dans la note de l'AF ECS tc 2
+Compétences
+Savoir
+Savoir-Faire
+Poids
+90%
+10%
+
+
+ECS tc 3 Association convertisseur - machine - commande : 
+Note Savoir-faire : 
+
+Poids en % des notes de compétence dans la note de l'AF ECS tc 3
+Compétence
+Savoir-Faire
+Poids
+100%
+
+
+Note de l'UE ECS
+
+Poids en % des notes des Actions de Formation
+AF
+ECS tc 0
+ECS tc 1
+ECS tc 2
+ECS tc 3
+Poids
+15%
+40%
+40%
+5%

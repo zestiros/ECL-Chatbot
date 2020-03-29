@@ -1,101 +1,98 @@
-import React,{Component} from 'react';
+import React, { Component } from "react";
 import axios from "axios";
-import {Widget,addResponseMessage} from 'react-chat-widget';
-import messageSound from '../../assets/open-ended.mp3';
-import logo from "../../assets/bot.png"
+import {
+  Widget,
+  addResponseMessage,
+  renderCustomComponent
+} from "react-chat-widget";
+import messageSound from "../../assets/open-ended.mp3";
+import logo from "../../assets/bot.png";
+import Satisfaction from "./Satisfaction";
 
+import "react-chat-widget/lib/styles.css";
 
+class Chatbot extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      messages: []
+    };
 
-import 'react-chat-widget/lib/styles.css'
+    this.sound = new Audio(messageSound);
+  }
 
-class Chatbot extends Component{
-    constructor(props) {
-        super(props);
-        this.state = {
-            messages: [],
-        };
+  resolveAfterXSeconds(time) {
+    return new Promise(resolve => {
+      setTimeout(() => {
+        resolve(time);
+      }, time * 1000);
+    });
+  }
 
-        this.sound = new Audio(messageSound);
-
-        //Setting the cookie using uuid
-        // if (!cookies.get("userID")) {
-        //     cookies.set("userID", uuid(), { path: "/" });
-        // }
-
-        //Binding event listeners
-        // this.toggleBot = this.toggleBot.bind(this);
-        // this._handleInputKeyPress = this._handleInputKeyPress.bind(this);
+  async componentDidMount() {
+    if (!this.state.welcomeSent) {
+      await this.resolveAfterXSeconds(1.2);
+      this.hello();
     }
+    // addResponseMessage("Welcome ");
+  }
 
+  async df_text_query(text) {
+    let model = "g";
+    await axios
+      .post("/api/df_text_query", {
+        text,
+        model
+      })
+      .then(response => {
+        console.log(response);
+        addResponseMessage(response.data);
+        setTimeout(
+          addResponseMessage("are u satisfied with this reply?"),
+          1500
+        );
+        renderCustomComponent(Satisfaction);
+      })
+      .catch(err => {
+        console.log(err);
+      });
 
-    resolveAfterXSeconds(time) {
-        return new Promise(resolve => {
-            setTimeout(() => {
-                resolve(time);
-            }, time * 1000);
-        });
-    }
+    this.sound.play();
+  }
 
-    async componentDidMount(){
+  async hello() {
+    await axios
+      .get("/api/hello")
+      .then(response => {
+        console.log(response);
+        addResponseMessage(response.data);
+      })
+      .catch(err => {
+        console.log(err);
+      });
 
-        if (!this.state.welcomeSent) {
-            await this.resolveAfterXSeconds(1.2);
-            this.df_event_query("WELCOME_TO_SITE");
-        }
-        // addResponseMessage("Welcome ");
-    }
+    this.sound.play();
+  }
 
-
-    async df_text_query(text){
-
-        await axios.post("/api/df_text_query",{
-            text
-        }).then((response)=>{
-            console.log(response)
-            addResponseMessage(response.data)
-        }).catch(err=>{
-            console.log(err)
-        })
-
-        this.sound.play();
-        
-    }
-
-
-    async df_event_query(event){
-        await axios.get("/api/hello")
-        .then((response)=>{
-            console.log(response)
-            addResponseMessage(response.data)
-        }).catch(err=>{
-            console.log(err)
-        })
-
-
-        this.sound.play()
-    }
-
-
-handleNewUserMessage=(newMessage)=>{
-
-    this.df_text_query(newMessage)
+  handleNewUserMessage = newMessage => {
+    this.df_text_query(newMessage);
 
     // addResponseMessage(res.toString());
+  };
+
+  render() {
+    return (
+      <div>
+        <Widget
+          handleNewUserMessage={this.handleNewUserMessage}
+          profileAvatar={logo}
+          title="Chatbot"
+          subtitle=" "
+          senderPlaceHolder="taper un message..."
+        />
+      </div>
+    );
+  }
 }
 
-    render(){
-        return (
-            <div>
-                <Widget
-                    handleNewUserMessage={this.handleNewUserMessage}
-                profileAvatar={logo}
-                title="Chatbot"
-                subtitle=" "
-                senderPlaceHolder="taper un message..."
-                />
-            </div>
-        )
-    }
-}
-
-export default Chatbot; 
+export default Chatbot;

@@ -1,0 +1,47 @@
+
+Règle de calcul des notes de l’UE Ingénierie des Matériaux
+
+Notes des Actions de Formation
+
+IDM tc 1 De la Matière aux Matériaux : Structure et Propriétés: 
+Note Savoir : NS1 = 0,9 Ntest + 0,1 NContr. Conti = NAF1
+
+Poids en % des notes de compétence dans la note de l’AF IDM tc 1
+Compétence
+Savoir
+Poids
+100%
+
+
+IDM tc 2 Travaux Pratiques en Science et Génie des Matériaux et des Surfaces: 
+Note Savoir-faire : NSF2 = NAF2
+
+Poids en % des notes de compétence dans la note de l’AF IDM tc 2
+Compétence
+Savoir-Faire
+Poids
+100%
+
+
+IDM tc 3 Synthèse et étude de cas en matière et matériaux : 
+
+Note de méthodologie : NM3 = NAF3
+
+Poids en % des notes de compétence dans la note de l’AF IDM tc 3
+Compétence
+Méthodologie
+Poids
+100%
+
+
+Note de l’UE IDM
+
+Poids en % des notes des Actions de Formation
+AF
+IDM tc 1
+IDM tc 2
+IDM tc 3
+Poids
+65%
+25%
+10%

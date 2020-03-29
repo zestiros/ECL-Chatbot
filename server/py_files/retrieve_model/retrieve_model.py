@@ -18,6 +18,7 @@ from nltk.stem.snowball import FrenchStemmer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import copy
+import sys
 
 
 
@@ -63,7 +64,7 @@ def key_search(question,all_doc,match_dict):
     for i in ind:
         answer = match_dict["{}".format(i)]
         doc_site = match_dict["{}".format(answer.split("_")[0])]
-        print("you can find the whole document here ; {} in {}".format(doc_site,answer.split("_")[-1].split(".")[0]))
+        print("{}{}".format(doc_site,answer.split("_")[-1].split(".")[0]))
     return ind
 
 
@@ -79,11 +80,11 @@ def stemString(s,stemmer):
 
 if __name__ == '__main__':
     
-    dirname = "C://Users//ruiya//Desktop//projet_ecl"
+    dirname = os.path.dirname(__file__)
 
     raw_data_path = os.path.join(dirname,'scolarite_raw_data')
     raw_files = os.listdir(raw_data_path)
-    DATA_FILE_retrieve = os.path.join(dirname,'retrieve_data//')
+    DATA_FILE_retrieve = os.path.join(dirname,'retrieve_data/')
     stemmer = FrenchStemmer()
     
     files = os.listdir(DATA_FILE_retrieve)
@@ -102,8 +103,15 @@ if __name__ == '__main__':
     match_dict['s9Secteur'] = 'https://drive.google.com/file/d/1nqUI1ywgBYQSFvAubbvWQXSJ7GVezgXB/view?usp=sharing'
     match_dict['ueS7'] = 'https://drive.google.com/file/d/1Gr3XwKbMf0BtoaYGo3kSDyvqOiRMZFG_/view?usp=sharing'
     match_dict['ueS8'] = 'https://drive.google.com/file/d/1KmAPKqaSta_6HD9CbR7DzGY7c5n93Cvm/view?usp=sharing'
+    match_dict['noteECS'] = 'https://drive.google.com/file/d/12tQD0N0KoWKOF4Cw7p57_rH7f1u49ZPJ/view?usp=sharing'
+    match_dict['noteFLE'] = 'https://drive.google.com/file/d/1-N7oRoBba5wyRS0kS_D5xvX78B5DYog_/view?usp=sharing'
+    match_dict['noteGM'] = 'https://drive.google.com/file/d/1SUsvI79fMeaJ_mguUQ6xI0KQm6Z4tDcv/view?usp=sharing'
+    match_dict['noteIDM'] = 'https://drive.google.com/file/d/1pstkqUQrl4vk9eiDAZIq0cC--lONlJpR/view?usp=sharing'
+    
+#node server
+    text_from_node_server = str(sys.argv[1])
 
-    val = key_search("mathematique et ingenieur du risque",all_doc,match_dict)
+    val = key_search(text_from_node_server,all_doc,match_dict)
 
-
+    sys.stdout.flush()
 

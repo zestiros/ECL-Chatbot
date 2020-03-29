@@ -1,0 +1,53 @@
+
+Règle de calcul des notes de l’UE Fluides et Energie
+
+Notes des Actions de Formation
+
+FLE tc1 Concepts et applications
+Note Savoir : 
+Note Méthodologie 
+
+Poids en % des notes de compétence dans la note de l’AF FLE tc 1
+Compétence
+Savoir
+Méthodologie
+Poids
+85%
+15%
+
+
+FLE tc2 Méthodes expérimentales et numériques
+Note Savoir-faire : 
+
+Poids en % des notes de compétence dans la note de l’AF FLE tc 2
+Compétence
+Savoir-Faire
+Poids
+100%
+
+
+FLE tc3 Etudes thématiques
+Note Savoir-faire : 
+Note Méthodologie : 
+
+Poids en % des notes de compétence dans la note de l’AF FLE tc 3
+Compétence
+Savoir-Faire
+Méthodologie
+Poids
+30%
+70%
+
+
+
+Note de l’UE FLE
+
+Poids en % des notes des Actions de Formation
+AF
+FLE tc 1
+FLE tc 2
+FLE tc 3
+Poids
+60%
+15%
+25%

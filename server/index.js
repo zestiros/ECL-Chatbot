@@ -29,7 +29,7 @@ app.get("/", (req, res) => {
 app.get("/api/hello", invokeChatbotWelcome);
 
 
-app.post('/api/df_text_query', invokeChatbotGenerativeModel);
+app.post('/api/df_text_query', invokeChatbot);
 
 
 
@@ -38,7 +38,7 @@ app.post('/api/df_text_query', invokeChatbotGenerativeModel);
 
 
 let generativeModelScript = path.join(__dirname, '.', '/py_files/generative_model/main.py')
-    // let retrieveModelScript = path.join(__dirname, )
+let retrieveModelScript = path.join(__dirname, '.', '/py_files/retrieve_model/retrieve_model.py')
 
 
 async function invokeChatbotWelcome(req, res) {
@@ -56,26 +56,47 @@ async function invokeChatbotWelcome(req, res) {
 }
 
 
-async function invokeChatbotGenerativeModel(req, res) {
+async function invokeChatbot(req, res) {
 
     console.log("new message from client")
     console.log(req.body.text)
+    console.log(req.body.model)
 
+    if (req.body.model == "g") {
+        var options = {
+            mode: 'text',
+            args: [req.body.text]
+        }
 
-    var options = {
-        mode: 'text',
-        args: [req.body.text]
+        await PythonShell.run(generativeModelScript, options, function(err, results) {
+            if (err) console.log(err);
+
+            console.log(results[0])
+            res.send(results[0])
+        })
+
+    } else {
+
+        let resp = []
+        var options = {
+            mode: 'text',
+            args: [req.body.text]
+        }
+
+        await PythonShell.run(retrieveModelScript, options, function(err, results) {
+            if (err) console.log(err);
+
+            for (i = 0; i < 3; i++) {
+                resp.push(results[i])
+            }
+            console.log(resp)
+            res.send(resp)
+        })
     }
-
-    await PythonShell.run(generativeModelScript, options, function(err, results) {
-        if (err) console.log(err);
-
-        console.log(results[0])
-        res.send(results[0])
-    })
 
     console.log("response sent!")
 }
+
 
 
 
