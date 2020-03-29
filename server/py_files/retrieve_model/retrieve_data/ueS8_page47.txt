@@ -1,0 +1,79 @@
+
+ AF ELC E-4
+
+
+Ingéniérie des Procédés Industriels
+
+Industrial Process Engineering
+
+Responsable(s) : Jean Pierre CLOAREC, Eric BLANCO
+
+| Cours : 20 h | TD : 0 h | TP : 0 h | Autonomie : 8 h | BE : 4 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le but de ce cours est de sensibiliser les élèves-ingénieurs généralistes au génie des procédés et aux enjeux des grands secteurs de la Chimie Industrielle. 30 à 40 % des ingénieurs ECL ont une activité professionnelle se rattachant à ce domaine.
+
+Entre sa conception et sa commercialisation, un produit chimique va subir des transformations. Le cours propose un panorama de ce domaine d'activité et une "radioscopie" de la genèse d'un produit. Pour cela une synthèse de connaissance est proposée, orientée vers l'Ingénierie des Procédés. Il tentera de répondre à la question : Comment mettre en oeuvre industriellement un produit ?
+
+Mots-clés : Génie Chimique, Génie des procédés, Transformation de matière, conduite de process
+
+
+
+Programme	1 - Panorama de la Chimie Industrielle :
+> Les grands secteurs d'activités
+   > Les enjeux géopolitiques et stratégiques liés aux matières premières et à l'énergie, 2 - Synoptique de "l'histoire " d'un produit : Les opérations unitaires.
+
+3 - Le génie des procédés : la règle des 3 T : Transport, Transfert, Transformation 4 - Le coeur de la transformation - le réacteur
+
+5 - Comment récupérer les produits : outils de la séparation 6 - Environnement et sécurité
+
+7 - Commande des procédés :
+> Schémas P&ID,
+> Outils de Gestion d'une unité
+> Exploitation de Modèle : du bilan à l'exploitation,
+
+
+Compétences	◊ Connaître les enjeux du secteur de la chimie
+◊ Choisir un process de transformation
+◊ Lire et Construire un schéma d'instrumention
+◊ Modéliser et gerer des séquences de fonctionnement
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : Analyser un procédé industriel et concevoir une partie de l'installation de transformation.
+
+Méthodes : Étude d'un sujet unique avec en groupe (4 à 5 élèves), Compte rendu écrit et correction croisée.
+
+R. Perrin et J P. Scaiarff. Chimie industrielle 1 et 2 (2ème édition). Dunod, 2002.
+
+J.P. Corriou. Commande des procédés (3ème éditon). Tec &Doc Lavoisier, 2012.
+
+
+
+Test 2 heures, exercices et étude de cas.
+
+
+
+
+
+
+
+

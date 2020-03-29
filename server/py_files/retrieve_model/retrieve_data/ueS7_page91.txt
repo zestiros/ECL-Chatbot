@@ -1,0 +1,80 @@
+
+ AF MSS a 2-EG
+
+
+Comportement anélastique des structures
+
+Inelastic behaviour of structures
+
+Responsable(s) : Francesco Froiio, Cécile Nouguier
+
+| Cours : 12 h | TD : 6 h | TP : 0 h | Autonomie : 20 h | BE : 0 h | Projet : 10 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Elargir le champ de connaissances concernant les structures à comportement élastiques et anélastiques Mots-clés : Anisotropie, élasto-plasticité, thermo-élasticité, visco-élasticité
+
+
+Programme	Cours 1 et 2 : Eléments d'élasto-plasticité et notions d'anisotropie
+Cours 3 et 4 : Méthode des déplacements et son application en thermo-élasticité des structures
+
+Cours 5 et 6 : Plasticité dans les structures
+
+
+Compétences	◊ Situer l'élasticité linéaire dans un cadre théorique plus large
+◊ Utiliser des éléments de visco-thermo-élasticité ou élasto-plasticité pour l'analyse de structures
+
+◊ Structurer un problème mécanique en vue de sa résolution en mode projet
+◊ Utiliser des méthodes de résolution diverses : analytiques et numériques
+
+Travail en
+Objectifs : Calcul analytique et/ou numérique de structures anélastiques
+autonomie
+Méthodes : Les élèves seront répartis sur 3 groupes de projet (8 élèves par groupe) ; le temps
+
+total alloué à chaque projet est de 30h (1/3 encadrée et 2/3 en autonomie)
+
+J. Lemaitre, J.L. Chaboche. Mécanique des matériaux solides. Dunod, 2001.
+Bibliographie
+
+
+Albiges, Coin et Journet. Etude des structures par les méthodes matricielles. Eyrolles, 1969.
+
+Timoshenko. Résistance des Matériaux. Dunod, 1968.
+
+Examen terminal de 2h sans document (savoir)
+Contrôle des
+
+connaissances
+Evaluation du projet (savoir-faire)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

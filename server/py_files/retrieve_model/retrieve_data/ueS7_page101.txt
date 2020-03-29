@@ -1,0 +1,86 @@
+
+ AF STI a 2-FH
+
+
+Estimation et Transmission de L'information
+
+Optimal filtering and Information Transmission
+
+Responsable(s) : Laurent Bako, Eric Blanco, Julien Huillery
+
+| Cours : 12 h | TD : 18 h | TP : 4 h | Autonomie : 8 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'essor des systèmes de communication et de traitement de l'information a entraîné l'émergence de nouveaux services. Cet essor est basé sur une appropriation toujours plus grande par le monde industriel de la théorie de l'information et des méthodes de traitement du signal dont les bases théoriques ont été présentées en Tronc Commun (STI tc2).
+L'objectif de l'enseignement proposé est de compléter l'exposé des bases et des méthodes du Traitement du Signal de façon à acquérir une panoplie complète d'outils permettant d'aborder la modélisation, l'analyse et le filtrage des signaux, ainsi que le fonctionnement des canaux de communication. Ces principes se retrouvent dans des applications comme les télécommunications, les capteurs logiciel ou encore le positionnement GPS.
+
+Mots-clés : Signaux aléatoires, Filtre générateur, Filtre de Wiener, Filtre de Kalman, Théorie de l'information, Entropie d'une source, Capacité d'un canal, Théorèmes du codage.
+
+
+Programme
+Partie 1 : Filtrage optimal
+
+1- Signaux aléatoires
+
+2- Filtrage de Wiener
+
+3- Filtrage de Kalman
+
+Partie 2 : Transmission de l'information
+
+1- Éléments de théorie de l'information
+
+2- Sources : entropie et codage
+
+3- Canal : capacité et codage
+
+◊ Modéliser un signal et mettre en forme un processus générateur
+Compétences
+
+
+◊ Concevoir un filtre optimal dans les domaines temporel et fréquentiel
+
+◊ Réaliser un codage de source
+
+◊ Calculer les performances limites d'un système de communication
+
+Objectifs : Réalisation et évaluation d'un système complet de transmission d'information à travers
+Travail en
+
+autonomie
+un canal physique, via la mise en œuvre des étapes de codage/décodage, modulation/démodula-
+
+tion et égalisation du canal.
+
+Méthodes : Définition d'un cahier des charges, modélisation signaux/système, mise en œuvre
+
+sous matlab/simulink et évaluation des solutions proposées.
+
+La restitution du travail effectué en binôme prend la forme d'une présentation orale.
+
+A. Gelb. Applied Optimal Estimation. MIT Press, 1974.
+Bibliographie
+
+
+D. Simmon. Optimal State Estimation: Kalman, H Infinity, and Nonlinear Approaches. Wiley-
+
+Interscience, 2006.
+
+O. Rioul. Théorie de l'information et du codage. Hermès, 2007.
+
+Savoir (70%) : test final 2h (56%), 2 microtests 1h (14%)
+Contrôle des
+
+connaissances
+Savoir-faire (30%) : restitution autonomie
+
+
+
+
+

@@ -1,0 +1,94 @@
+
+ AF MOD 10.3
+
+
+Le système électrique
+
+Electric Power System
+
+Responsable(s) : Eric VIGNON
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le système électrique est une infrastructure majeure des sociétés modernes. La libéralisation du secteur ces dernières années a profondément modifié sa gestion dans un grand nombre de pays et notamment en Europe.
+
+L'objectif du cours est donc d'une part de donner les bases techniques permettant de comprendre le fonctionnement du système électrique et d'autre part de présenter l'organisation de celui-ci a travers le rôle et les relations entre les différents acteurs: producteurs, gestionnaires de réseau de transport, responsables d'équilibre et consommateurs.
+
+Mots-clés : production, transports, gestionnaire de réseau, équilibre production consommation, planification court et long terme
+
+
+
+Programme
+Introduction: le système électrique dans le contexte énergétique
+
+Equilibre production/consommation
+
+Plan de tension
+
+Les différents acteurs du système électrique, leurs rôles et leurs relations dans le contexte de la
+
+libéralisation du marché.
+
+La planification du réseau
+
+Analyse de grands incidents
+
+Fonctionnement d'une bourse de l'énergie électrique
+
+◊ Nommer les contraintes et avantages techniques ou économiques d'un système électrique
+Compétences
+
+
+étendu
+
+◊ Differentier le rôle des différents acteurs du système électrique
+
+◊ Définir les actions permettant de gérer le système électrique
+
+◊ Interpréter et expliquer des évolutions observées sur un réseau
+
+Analyse des problèmes de transport - Load flow
+Activités /
+
+Autonomie
+Visite du dispatching régional de Lyon (installation soumise à restriction d'accès - la visite n'a pu
+
+avoir lieu en 2016-2017)
+
+Simulation du fonctionnement d'une bourse de l'énergie
+
+EEEA: Electronique, Energie Electrique, Automatique
+Masters
+
+affiliés
+
+
+P. Bastard et al. Voyage au coeur du sytème. Eyrolles, 1999.
+Bibliographie
+
+
+Persoz et al. Planification des réseaux électriques. Eyrolles, 1984.
+
+Savoir 70%
+Contrôle des
+
+connaissances
+Savoir-faire 30%
+
+
+
+
+
+
+
+
+
+
+

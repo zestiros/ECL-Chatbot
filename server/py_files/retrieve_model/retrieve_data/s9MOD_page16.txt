@@ -1,0 +1,76 @@
+
+ AF MOD 2.4
+
+
+Les turbines pour la production d'énergie
+
+Power plant turbine technology
+
+Responsable(s) : Pierre DUQUESNE , Alexis GIAUQUE
+
+| Cours : 16 h | TD : 4 h | TP : 4 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+On s'intéressera dans ce cours aux différents types et assemblages de turbomachines utilisées pour la production d'énergie actuelle et future, en réseau ou locale. On analysera les différentes ressources, les types, géométries et dimensions de turbomachines associées et leur mode de fonctionnement.
+
+L'extraction directe de l'énergie contenue dans le vent (les éoliennes), dans les cours d'eau (les hydrauliennes) ou dans les chutes d'eau (les turbines hydrauliques) représente une part de cette production. Une autre partie provient d'assemblages de constituants (compresseurs, turbines et sources de chaleur) communément dénommés turbine à gaz ou turbine à vapeur, pouvant produire simultanément chaleur et énergie mécanique (ou électrique).
+
+Mots-clés : Production d'énergie, Turbines hydrauliques, Éolienne, Turbine à gaz, Turbine à vapeur
+
+
+
+Programme	- Turbines hydrauliques : géométries (turbines à action et à réaction, Francis, Kaplan, Pelton), échanges d'énergie (équation d'Euler), rendement, lois de similitude, phénomène de cavitation
+- Éoliennes : géométrie, taille, nombre de pales, puissance récupérable (loi de Betz), régulation.
+- Turbines à gaz : introduction à la production d'énergie à partir d'une source de chaleur, formes d'énergie échangée dans les différents composants (notions de travail utile et de variables d'arrêt), représentation graphique des transformations, description des composants.
+
+- Turbines à vapeur : cycle de Rankine, cycle de Hirn et améliorations ( resurchauffe, soutirage).
+
+Compétences
+◊ Comprendre la génération d'énergie à partir d'une turbomachine
+
+◊ Savoir dimemsionner une turbine hydraulique
+
+◊ Savoir dimensionner une éolienne
+
+◊ Savoir calculer un cycle de turbine à gaz et à vapeur
+
+Savoir expliquer le fonctionnement d'une turbine Pelton à partir du TP et illustrer l'analyse
+Activités /
+
+Autonomie
+dimensionnelle
+
+Examen écrit + rapport de TP (60% Examen (savoir) + 40% TP (savoir-faire)
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

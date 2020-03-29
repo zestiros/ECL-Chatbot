@@ -1,0 +1,136 @@
+
+Filière ENV
+
+En v i r o n n e m e n t
+
+Environmental Engineering
+
+Responsables : Richard Perkins
+
+
+
+Présentation
+
+L’objectif de cette UE est de former l’ingénieur à la gestion de l’impact de l’homme et de ses activités sur l’environnement. Deux modules – Hydrogéologie et Qualité et Traitement des Eaux – sont consacrés aux milieux naturels, leurs caractéristiques et les techniques pour limiter leur dégradation ou même de les dépolluer. Le module Bioremédiation concerne plus particulièrement les méthodes biologiques pour la dépollution, et le module ‘Advanced Building Physics’ vise la conception et le dimensionnement des systèmes de ventilation et de climatisation à basse consommation énergétique. Le module sur les Systèmes d’Information Géographiques fournit une introduction à l’utilisation de cette approche dans la gestion de l’impact environnemental.
+
+
+
+
+Départements/laboratoires
+
+MFAE, LMFA, Ampère
+
+
+
+Programme
+
+Systèmes d’Information Géographiques
+
+Hydrogéologie
+Bioremédiation
+Qualité et traitement des Eaux
+Advanced Building Physics
+
+Projet (50h)
+
+
+Compétences visées
+
+◊ Connaitre les paramètres clés pour caractériser un milieu naturel
+◊ Évaluer l’impact d’un polluant sur un milieu naturel
+◊ Proposer des techniques adaptées pour dépolluer un milieu naturel
+◊ 
+◊ 
+
+Débouchés
+
+Bureau d'Etudes en Génie Civil, aménagement urbain, impact environnemental
+
+Pré-requis
+
+
+Évaluation
+
+ENV 3.1 : 20%, ENV 3.2 : 20%, ENV 3.3 : 20%, ENV 3.4 : 10%, ENV 3.5 : 30%,
+
+Site web de l’option
+
+
+Informations complémentaires
+
+
+
+AF ENV 3.4
+
+
+Advanced building physics
+
+Advanced Building Physics
+
+Responsable(s) : Gary Hunt (Cambridge University), Pietro Salizzoni, Lionel Soulhac
+
+| Cours : 4 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours :	|
+
+
+
+Objectifs de la formation
+49
+
+ AF ENV 3.1
+
+
+Qualité et traitement des eaux
+
+Water quality and water treatment
+
+Responsable(s) : Richard Perkins & Sébastien Cecillon
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+L’objectif de ce cours est de fournir à l’élève une connaissance approfondie de la filière de gestion de l’eau. Le cours présente les différents aspects de cette filière depuis la caractérisation des sources d’eaux jusqu’à la distribution et le retraitement des eaux usées dans un contexte d’utilisation de ces eaux tant industriel qu’urbain. Les modes de fonctionnement et dimensionnement des stations d’épuration et de potabilisation sont étudiés. Le cours apporte aussi des éléments réglementaires sur l’utilisation et le traitement de l’eau.
+
+Une partie du cours sera faite en anglais.
+
+Mots-clés : Qualité des eaux, traitement des eaux usées, dépollution, potabilisation ; principe « pollueur payeur » ; modélisation
+
+
+
+Programme	Les cours d’eau naturels : les aspects physiques ; la chimie ; l’écologie.
+
+La vie biologique dans les cours d’eau : les espèces : micro-organismes, plantes, invertébrés, vertébrés ; adaptation à la vie aquatique ; énergie et nutriments ; mouvement et interaction.
+
+La qualité des eaux : les principaux polluants ; l’équation d’advection-diffusion et son application
+à un cours d’eau ; la notion de la demande biologique en oxygène ; un modèle pour la concentration d’oxygène dissous.
+
+Le traitement et l’approvisionnement en eau : l’évacuation des eaux de surface ; le traitement des eaux (les procédés mécaniques et chimiques) ; les réseaux de distribution.
+
+
+Compétences	◊ À l’issu de cette UE l’élève doit connaitre les critères pour la définition de la qualité de l’eau, les principaux polluants, et leur impact sur la qualité de l
+◊ À l’issu de cette UE l’élève doit connaitre les différentes méthodes pour évaluer la qualité de l’eau.
+
+◊ À l’issu de cette UE l’élève doit être capable de mettre en œuvre un modèle simple pour prédire l’évolution de la qualité de l’eau dans un cours d’eau.
+
+◊ À l’issu de cette UE l’élève doit connaitre les différentes approches pour la dépollution et le traitement des eaux usées.
+
+
+
+Bibliographie	Gray, N.F.. Water Technology - An Introduction for Environmental Scientists and Engineers.
+Elsevier, 2010.
+
+Spellman, F. R.. Handbook of Water and Wastewater Treatment Plant Operations. CRC Press, 2013.
+
+
+Henze, M., Harremoes, P. Cour Jansen, J. la, Arvin. Wastewater Treatment : Biological and Chemical Processes. Springer, 2002.
+
+
+
+Contrôle des	L’évaluation sera basée sur les comptes rendus des Bureaux d’Études
+
+connaissances
+
+
+

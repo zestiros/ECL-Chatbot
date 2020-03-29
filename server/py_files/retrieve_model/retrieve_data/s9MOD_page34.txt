@@ -1,0 +1,79 @@
+
+ AF MOD 5.5
+
+
+Tribologie : principes et applications
+
+Tribology
+
+Responsable(s) : Denis MAZUYER
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Bien que présente depuis longtemps dans notre vie quotidienne, la tribologie est une discipline scientifique récente traitant du frottement, de l'usure et de la lubrification. Si les structures sont souvent bien dimensionnées, les surfaces constituent une butée technologique dans la prédiction de leur endommagement. La prise en compte des phénomènes tribologiques devient un passage obligé dans de nombreux secteurs industriels pour répondre aux enjeux technologiques et économiques (production et maîtrise de l'énergie, fiabilisation des produits). Grâce à une approche interdisciplinaire couplant mécanique, science des matériaux et des surfaces, ce cours donne les principes généraux de la tribologie et leurs applications pour le diagnostic et la résolution de problèmes concrets.
+
+Mots-clés : Frottement, Lubrification, Usure, Adhésion, Surfaces, Contact
+
+
+
+Programme	La mécanique du contact statique
+- Mécanique du contact lisse et rugueux
+- Effet des couches minces
+Les lois macroscopiques de frottement et d'usure
+- Frottements statique et dynamique
+- Les mécanismes physiques de l'usure
+Les lubrifiants et les surfaces
+- Adhésion entre surfaces et mécanique du contact adhésif
+- Structure, propriétés des lubrifiants et additifs de lubrification La lubrification fluide
+
+- La lubrification hydrodynamique : principes physiques, notion de portance
+- La lubrification élastohydrodynamique : formation des films lubrifiants sous haute pression La lubrification limite
+
+- Le contrôle du frottement et la réduction de l'usure
+- La lubrification moléculaire et nanotribologie
+
+Compétences
+◊ Mise en oeuvre de méthodes d'expertises et de résolution de problèmes trilogiques
+
+◊ Compréhension fondamentale des phénomènes de contact impliquant des surfaces en
+
+mouvement.
+
+2 TP : démarche expérimentale en tribologie, caractérisation d'un contact élastohydrodynamique
+Activités /
+
+Autonomie
+avec une approche expérimentale et numérique
+
+1 BE : Simulation numérique des contacts soumis à des sollicitations tribologiques : application au
+
+contact came/poussoir
+
+Master OIV
+Masters
+
+affiliés
+Master mécanique - parcours Tribologie et Ingénierie des Surfaces
+
+G.W. Stachowiak and A. Batchelor. Engineering Tribology. Butterworth-Heinemann, 2013.
+Bibliographie
+
+
+F.P. Bowden and D. Tabor. Friction and Lubrication of Solids. Oxford University Press, 1954.
+
+J.M. Georges. Frottement, Usure et Lubrification. CNRS Editions, Eyrolles, 2000.
+
+Examen écrit de 2 heures (Coeff. 2/3)
+Contrôle des
+
+connaissances
+Evaluation des comptes-rendus de TP et BE (Coeff. 1/3)
+
+

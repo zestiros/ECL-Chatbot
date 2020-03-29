@@ -1,0 +1,72 @@
+
+ AF MOD 1.3
+
+
+Nanophotonique
+
+Nanophotonics
+
+Responsable(s) : Emmanuel DROUARD, Christelle MONAT
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+La photonique a connu des développements importants dans l'émission de la lumière, son traitement, son transport et sa détection, appliqués dans de nombreux secteurs. Les progrès technologiques, notamment issus de la microélectronique, pour la réalisation de dispositifs micrométriques, ont permis la mise en oeuvre de nouveaux concepts d'optique intégrée pour le contrôle de la lumière, qui sont aujourd'hui couramment utilisés. Les recherches actuelles, très actives, sur les dispositifs submicrométriques, tels les cristaux photoniques, bénéficieront à des secteurs à fort potentiel : information et communications, biologie, énergie. Le but de ce cours est de donner les bases physiques communes à ces nouvelles technologies, afin de pouvoir aborder la littérature plus spécialisée.
+
+Mots-clés : Biréfringence, Guide d'onde, Cristal Photonique, Optique non linéaire
+
+
+
+Programme	Polarisation de la lumière
+Optique guidée planaire
+Optique intégrée & Fibre optiques
+Cristaux photoniques & Nanophotonique: principes et perspectives d'applications
+Optique non linéaire: effet Kerr optique, doublage de fréquence, conversion de longueur d'onde.
+Exemple d'applications: source accordable, interrupteur optique, peigne de fréquences...
+
+Sujets de travaux pratiques possibles (2 séances): Simulations " Finite Difference Time Domain " de composants d'optique intégrée, Transmission d'un signal par modulation électro-optique, Laser à cristaux photoniques. Laser à fibre optique.
+
+BE d'Optique non linéaire sur de la conversion de longueur d'onde
+
+
+Compétences	◊ être capable de décrire la propagation de la lumière dans un matériau biréfringent
+◊ comprendre et utiliser les effets du profil d'indice et de la longueur d'onde sur les modes guidés
+◊ comprendre et savoir utiliser les propriétes de dispersion des structures micro-nanophotoniques
+◊ comprendre l'origine de phénomènes d'optique nonlinéaire et comment les appliquer à du traitement tout optique de l'information
+
+Activités /
+Maîtrise des compétences
+Autonomie
+Rédaction de Compte Rendu de certains TP
+
+Master NSE (50% des cours sont en anglais)
+Masters
+
+affiliés
+
+
+B.E. A. Saleh, M.C.Teich. Fundamental of Photonics. Wiley, 2007.
+Bibliographie
+
+
+Rigneault H., Lourtioz JM.. La Nanophotonique. Hermes science publ. Lavoisier, 2005.
+
+TP/ BE, test écrit final.
+Contrôle des
+
+connaissances
+70% savoir (test écrit final), 30% savoir faire (TP/BE)
+
+
+
+
+
+
+
+

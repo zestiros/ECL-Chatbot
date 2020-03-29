@@ -1,0 +1,69 @@
+
+ AF BIO 3.1
+
+
+Imageries médicales
+
+Medical imaging
+
+Responsable(s) : Emmanuelle Laurenceau, Christelle Yéromonahos
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+A travers cette AF, 3 techniques principales d’imagerie et de traitement d’images seront abordées : la cryo-tomographie électronique, l’imagerie par rayons X et l’imagerie ultra-sonore. Des exemples concrets de reconstruction d’image et de modélisation ainsi que des manipulations sur appareils (RX, US) permettront d’appréhender la chaine complète de la formation d’une image et son interprétation.
+
+Mots-clés :
+
+
+
+Programme	Cours (6h) :
+- Principe de la cryo-tomographie électronique
+- Principe de l’imagerie aux Rayons X
+- Principe de l’imagerie Ultra-sonore
+
+TP (9h) : 1 atelier proposé chaque année sur une des 3 techniques d’imagerie
+
+
+Compétences	◊ Comprendre les enjeux scientifiques de l’imagerie médicale en termes d’extraction de l’information
+◊ Comprendre les difficultés liées à la reconstruction d’images à partir de mesures physiques et connaître les méthodes permettant de les surmonter
+
+◊ Connaître les techniques de traitement du signal utilisées en imagerie ultrasonore
+
+◊
+
+
+
+
+Contrôle des	50% savoir (rapport du travail en autonomie), 50% savoir-faire (compte-rendu d’atelier)
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

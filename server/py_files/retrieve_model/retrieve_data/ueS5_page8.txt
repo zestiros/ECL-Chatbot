@@ -1,0 +1,358 @@
+
+
+
+Table des matières
+
+
+
+UNITÉS D’ENSEIGNEMENTS SCIENTIFIQUES
+7
+Mathématiques
+8
+Analyse appliquée
+9
+Analyse numérique
+10
+Mathématiques adaptées I : algèbre et analyse
+12
+Mathématiques adaptées II : probabilités et statistiques
+13
+Probabilités et Statistiques
+11
+Informatique
+14
+Algorithmique et structures de données : conception, analyse et implémentation
+15
+Conception et programmation objet
+16
+Projet d’application Web
+17
+Energie électrique et Commande des Systèmes
+18
+Automatique linéaire
+21
+Autonomie
+19
+Énergie Électrique
+20
+Régulation et entrainement électrique
+22
+Sciences et Techniques de l'Information
+23
+Autonomie
+24
+Conversion Analogique-Numérique pour les systèmes audio
+27
+Systèmes électroniques
+25
+Traitement du Signal
+26
+Fluides et Energie
+28
+Méthodes expérimentales et numériques
+30
+Projet thématique
+31
+Sensibilisation et bases théoriques
+29
+Génie Mécanique
+32
+Activités pratiques de Génie Mécanique
+34
+Conception de mécanismes
+36
+Modélisation et conception
+35
+Technologie - Mécanique Générale et Analytique - Résistance des Matériaux
+33
+Mécanique des Solides et des Structures
+37
+Dynamique des Structures
+41
+Expérimentations et Simulations en mécanique des solides
+39
+Maquettage Numérique
+40
+Mécanique des Solides Déformables
+38
+Plasticité et mise en forme
+42
+
+
+Ingénierie Des Matériaux
+43
+De la Matière aux Matériaux : Structure et Propriétés
+44
+Travaux Pratiques en Science et Génie des Matériaux et des Surfaces
+45
+Physique Chimie de la Matière
+46
+Chimie
+48
+Physique
+47
+Travaux Pratiques de Physique-Chimie
+49
+Sciences Economiques et de Management
+50
+Economie
+51
+Gestion d’Entreprise
+52
+Sciences Humaines et Sociales
+53
+Ethique
+56
+Individus et société
+54
+Travailler aujourd'hui
+55
+
+
+UNITÉ D’ENSEIGNEMENT D’APPROFONDISSEMENTS
+57
+Unité d'enseignements d'Approfondissements
+58
+Acoustique et ondes dans les fluides
+66
+Analyse de données et reconnaissance des formes
+76
+Analyse mathématique des équations aux dérivées partielles
+80
+Applications concurrentes, mobiles et réparties en Java
+75
+Approximation numérique d’équations différentielles et aux dérivées partielles
+81
+Architectures Embarquées et Informatique Industrielle
+87
+Architectures numériques de calcul et de traitement de l'information
+89
+Automatique et phénomènes non linéaires
+63
+Biomécanique des tissus vivants et biomatériaux prothétiques
+72
+Capteurs intelligents communicants : systèmes d'interface
+90
+Chimie Moléculaire et Supramoléculaire
+84
+Commande multi-actionneurs multi-capteurs
+64
+Comportement anélastique des structures
+78
+Conversion Electromécanique
+62
+Ecoulements supersoniques
+67
+Electrochimie et Chimitronique
+85
+Électronique de puissance
+61
+Endommagement et ruine des matériaux
+69
+Estimation et Transmission de L’information
+88
+Ingénierie Mécanique
+60
+Matériaux amorphes pour structures fonctionnelles innovantes
+71
+Matériaux et traitements de surface innovants
+70
+Mécanique quantique et applications
+83
+Multimédia : Concepts et technologies
+73
+Physique des semiconducteurs
+86
+Processus aléatoires pour l’ingénieur
+79
+Statistiques et économétrie
+82
+
+
+Stratégies de Résolution de Problèmes
+74
+Systèmes mécaniques polyarticulés
+59
+Thermique et Combustion
+68
+Turbulences et instabilité
+65
+Vibration des systèmes mécaniques
+77
+
+
+UNITÉ D’ENSEIGNEMENT PROFESSIONNELLE
+91
+Professionnelle
+92
+Accompagnement au projet professionnel
+99
+CLIC - Centrale Lyon Innovation Camp
+102
+Conférences
+93
+Enquête découverte
+94
+Projet d’Application industriel (PAi)
+100
+Projet d’Application recherche (PAr)
+101
+Projet d’Etudes (PE)
+98
+Sport et éducation physique
+97
+Stage d'exécution
+96
+Visite d'entreprises
+95
+
+
+LANGUES ET CULTURES
+103
+Langues et Cultures
+104
+Allemand
+106
+Anglais
+107
+Arabe
+105
+Chinois
+114
+Espagnol
+108
+Français langue étrangère
+109
+Italien
+110
+Japonais
+111
+Portugais
+112
+Russe
+113
+
+
+
+
+Enseignements tronc commun
+
+Responsables
+
+Marie-Annick GALLAND, Directrice des études
+
+Ségolène CALLARD, Directrice adjointe au tronc commun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unités d’enseignements scientifiques
+
+
+UE MTH
+
+Ma t h éma t i q u e s
+
+Mathematics
+
+Direction : Céline Helbert
+
+90hTD, 6ECTS
+
+
+Présentation
+
+Les compétences acquises dans l'UE Mathématiques sont transversales au sens où elles sont applicables dans les autres UE du tronc commun.Cette UE présente des outils de résolution pour des classes de problèmes abstraits dont la formalisation fait intervenir des modèles déterministes ou non déterministes. Ces modèles peuvent décrire des phénomènes apparaissant en physique, mécanique, économie, gestion, etc.
+
+Les cours proposés apportent un cadre rigoureux pour l'analyse et la résolution de problèmes.
+
+
+Semestre
+Programme
+S5
+MTH tc 1 : Analyse appliquée
+
+MTH tc 2
+: Analyse numérique
+Département
+
+
+
+MTH tc 3
+: Probabilités Statistique
+Mathématiques Informatique
+
+
+
+MTH tc 4
+: Mathématiques adaptées I algèbre-analyse
+
+MTH tc 5
+: Mathématiques adaptées II probabilités-statistique
+Équipes d’enseignement
+
+
+
+
+
+
+Mathématiques
+
+Compétences visées par l’UE
+
+◊ Utiliser un concept ou un principe mathématique pour décrire un problème
+◊ Modéliser une expérience aléatoire à l’aide de variables aléatoires
+◊ Identifier les différentes étapes de la simulation numérique de phénomènes
+◊ Maîtriser les outils de base de l'analyse mathématique
+◊ Utiliser les fonctions de base d'un logiciel pour le calcul numérique ou la statistique
+
+Pré-requis
+
+Intégrales de fonctions continues par morceaux, convergence de suites et de séries, espace vectoriel, espace normé, matrice, valeur propre, calcul des probabilités sur un univers fini ou dénombrable, variable aléatoire discrète
+
+Évaluation
+
+Moyenne pondérée: MTH tc1/tc4 : 40%, MTH tc2 : 30%, MTH tc3/tc5 : 30%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

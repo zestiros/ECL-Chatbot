@@ -1,0 +1,75 @@
+
+UE INF
+
+In f o rma t i q u e
+
+Computer Science
+
+Direction : DELLANDREA Emmanuel 90hTD, 6ECTS
+
+Présentation
+
+L'informatique est omniprésente, dans les systèmes complexes auxquels l'ingénieur généraliste est confronté, comme dans les objets de notre quotidien : informatique mobile, informatique embarquée, nouvelles interactions homme-machine, intelligence artificielle... Dans ce contexte, l'UE Informatique vise deux objectifs. Tout d'abord apporter aux étudiants certaines méthodes de l'informatique en tant que discipline scientifique, en particulier dans le domaine de l'algorithmique et de la programmation. Ensuite, apprendre aux futurs ingénieurs généralistes à décomposer un problème complexe et à le coder grâce au langage Python. Les méthodes acquises en cours sont mis en oeuvre lors d'un projet collaboratif de développement d’une application Web dynamique selon une architecture client-serveur.
+
+
+
+Semestre
+
+S5 ou S6
+
+
+Département
+
+Département Math-Info
+
+
+Équipes d’enseignement
+
+Equipe d’Informatique ( E6), Equipe Ingénierie du Traitement et de la Transformation de l’Information (H9)
+
+
+
+Programme
+
+INF tc1 : Algorithmique et structures de données : conception, analyse et implémentation
+INF tc2 : Conception et programmation objet
+INF tc3 : Projet d’application Web
+
+
+Compétences visées par l’UE
+
+◊ Savoir choisir les structures de données et algorithmes à même de résoudre efficacement un problème donné.
+
+◊ Etre capable d'analyser et de décomposer un problème informatique de grande dimension en entités fonctionnelles.
+
+◊ Etre capable d'implémenter une solution efficace et robuste, par le biais du langage Python.
+◊ Savoir mettre en oeuvre une architecture client-serveur basée sur des services Web.
+◊ Être capable d'appliquer les concepts dans le cadre d'un projet en contexte de développement collaboratif.
+
+Pré-requis
+
+Programme d'informatique des classes préparatoires.
+Pratique du langage Python.
+
+Évaluation
+
+Moyenne des trois actions de formation : INF tc1 (1/3), INF tc2 (1/3), INF tc3 (1/3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

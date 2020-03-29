@@ -1,0 +1,74 @@
+
+ AF MOD 2.2
+
+
+Dynamique de l'Atmosphère et l'Océan
+
+Atmosphere and Ocean Dynamics
+
+Responsable(s) : Richard PERKINS, Lionel SOULHAC
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le but de ce cours est de fournir une compréhension physique des circulations atmosphériques et océaniques à grande échelle, et les conséquences pratiques de tels systèmes. Le vent est le résultat de l'interaction entre des déséquilibres thermodynamiques - poussés notamment par le rayonnement solaire - et la rotation de la Terre. Grâce à la différence entre la capacité calorifique de l'eau et de l'air, l'océan agit comme un réservoir de chaleur qui peut stabiliser ou déstabiliser l'atmosphère. L'interaction entre les mouvements atmosphériques et océaniques assure le transport de chaleur de l'équateur vers les pôles. Dans ce cours on étudie donc les processus d'échange de chaleur dans l'atmosphère, les effets de la rotation de la Terre, et l'interaction entre ces deux.
+
+Mots-clés : Atmosphère, Océan, Chaleur, Humidité, Rotation, Rayonnement, Coriolis, Rossby, Ekman, Richardson, Géostrophique, Nuages, Courants, Ondes internes
+
+
+
+Programme	Introduction : Les propriétés physico-chimiques de l'atmosphère et de l'océan
+La thermodynamique de l'atmosphère : Les échanges radiatifs, stratification et stabilité
+L'eau dans l'atmosphère : L'atmosphère humide, les nuages
+Les ondes dans un fluide stratifié : Discontinuité de masse volumique, stratification continue
+
+Les effets de rotation : L'équation de mouvement dans un système en rotation, les vents géostrophiques et quasi-géostrophiques, le vent thermique
+Les mouvements forcés : La couche d'Ekman, le pompage d'Ekman
+Les ondes dans un système en rotation : L'approximation du plan β, les ondes de Rossby, le problème d'ajustement vers l'équilibre
+
+Mouvements à grande échelle : La circulation générale
+
+
+Compétences	◊ Calculer l'évolution des propriétés d'une masse d'air lors de son déplacement dans l'atmosphère.
+◊ Appréhender les différentes formes d'ondes internes dans l'atmosphère et l'océan
+◊ Calculer un vent géostrophique ou quasi-géostrophique, en fonction du gradient de pression dans l'atmosphère.
+
+◊ Expliquer les phénomènes principaux sur une carte météorologique.
+
+Activités /
+Renforcer les notions du cours en travaillant les exemples.
+Autonomie
+Approfondir certains éléments du cours à travers les sujets des BE.
+
+Des questions sur chaque partie du cours seront fournies, avec les solutions, pour permettre à
+
+l'élève de vérifier son travail et sa compréhension du cours.
+
+Sciences de l'Océan, Atmosphère et Climat (SOAC); Mécanique
+Masters
+
+affiliés
+
+
+GILL, A.E.. Atmosphere-ocean dynamics. Academic Press, 1982.
+Bibliographie
+
+
+FLEAGLE, R.G. & BUSINGER, J.A.. An introduction to atmospheric physics.. Academic Press, 1980.
+
+HOLTON, J.R. & HAKIM, G.J.. An introduction to dynamic meteorology. Academic Press, 2012.
+
+Savoir: Examen en fin de cours (40%) Savoir faire: Comptes rendus des trois BE (60%)
+Contrôle des
+
+connaissances
+
+
+
+

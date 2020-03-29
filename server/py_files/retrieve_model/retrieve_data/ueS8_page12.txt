@@ -1,0 +1,90 @@
+
+ AF ELC A-7
+
+
+Mécanique des structures minces Plaques et Coques
+
+Mechanics of Thin Structures: Plates and Shells
+
+Responsable(s) : Hélène MAGOARIEC, Cécile NOUGUIER
+
+| Cours : 14 h | TD : 12 h | TP : 4 h | Autonomie : 2 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les structures minces, optimisant le rapport poids / performances, occupent une place prédominante dans de nombreux secteurs industriels (aéronautique, génie civil, génie chimique, etc). L'objectif premier de cette AF est de fournir au futur ingénieur les éléments nécessaires à la modélisation et à la conception de constructions à base d'éléments structuraux élancés, par l'analyse du comportement statique de structures minces 2D, planes ou courbes.
+
+En contrepartie du gain de matière, le risque d'instabilité se trouve amplifié : des phénomènes tels le voilement des plaques ou le flambement des coques sont donc à prendre en compte dans le dimensionnement. Le second objectif de cette AF est de fournir les bases nécessaires à une étude d'instabilités élastiques des structures minces.
+
+Mots-clés : Mécanique des solides, Plaques et coques minces, Modèle de Love-Kirchhoff, Dimensionnement, Instabilités élastiques, Mesures extensométriques, Comparaisons théorie/expériences
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+Partie 1 - Comportement des plaques élastiques : 3 CM / 3 TD / 1 TP; Définition, schématisation, hypothèses et actions mécaniques ; efforts intérieurs ; équilibre local ; modèle de plaques minces de Love-Kirchhoff ; conditions limites.
+
+Thème du TP : validation expérimentale du modèle de Love-Kirchhoff et étude d'une solution approchée.
+
+Partie 2 - Comportement des coques élastiques de révolution : 2 CM / 2 TD; Géométrie des surfaces ; définition, schématisation et actions mécaniques ; efforts intérieurs membranaires ; équilibre local; cas usuels de chargements ; effets élastiques.
+
+Partie 3 - Instabilités élastiques des structures minces : 2 CM / 1 TD; Voilement des plaques minces ; flambement des coques; charges critiques limite et ultime.
+
+◊ Savoir dimensionner plaques et coques, en contraintes, en déplacements et vis-à-vis des instabilités élastiques
+
+◊ Savoir évaluer la prédominance des effets élastiques (efforts intérieurs, contraintes, déformations, déplacements) dans les structures minces
+
+◊ Etre capable de construire un modèle mécanique de structures minces 2D, en se basant sur la démarche 1D (poutres) du tronc commun
+
+◊ Savoir confronter théorie et expériences : mener une analyse critique pour valider un modèle et/ou une solution approchée (par une approche énergétique)
+
+Objectifs : Applications théorique et expérimentale du cours aux plaques circulaire et rectangulaire.
+
+Rédaction d'un document de synthèse des analyses.
+Méthodes : Autonomies encadrée / non-encadrée, travail en groupe à proximité des salles de TP (accès aux bancs d'essais), appropriation du polycopié associé, validation des éléments théo-riques/numériques, réflexions communes : dépouillement, analyses critiques.
+
+
+
+Bibliographie	S. P. Timoshenko, S. Wionowski-Krieger. Theory of plates and shells. Mc Graw Hill, 1970.
+
+F. Frey. Traité de Génie Civil de l'Ecole polytechnique fédérale de Lausanne, Vol. 1 à 6. Presses Polytechniques et Universitaires Romandes, 2003.
+
+S. P. Timoshenko, J. M. Gere. Theory of elastic stability. Dover Publications, 1961.
+
+
+Contrôle des Test écrit de 2h (modalités définies en concertation élèves / équipe pédagogique) connaissances Evaluation TD/TP : compte-rendu + participation.

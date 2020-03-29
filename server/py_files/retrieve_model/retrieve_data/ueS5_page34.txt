@@ -1,0 +1,71 @@
+
+ AF GM tc 2
+
+
+Activités pratiques de Génie Mécanique
+
+Practical Activities in Mechanical Engineering
+
+Responsable(s) : Bertrand Houx, Olivier Dessombz, Hélène Magoariec
+
+| Cours : 0 h | TD : 0 h | TP : 16 h | Autonomie : 0 h | BE : 16 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L’objectif de l’action de formation est de mettre en pratique (savoir faire) les compétences de l’Unité d’Enseignement GM. Le projet technologique de développement de produit a pour objectif de mettre en œuvre toutes les étapes de conception, de fabrication et de contrôle de la conformité géométrique d’un système mécanique.
+
+Les autres TP ont pour objectif d’analyser l’architecture d’un système mécanique réel, de réaliser un diagnostic des performances, en fonction des sollicitations extérieures et des éléments technologiques utilisés pour réaliser les liaisons entre solides ou mettre en action le système.
+
+Mots-clés : Architecture d’un système mécanique ; Éléments de construction ; Conception ; Fabrication ; Métrologie ; Dimensionnement élastique ; Diagnostic des performances.
+
+
+Programme	TP découverte - Analyse technologique (4h)
+BE dessin - Projet technologique (2h)
+BE cotation - Projet technologique (4h)
+BE fabrication - Projet technologique (2h)
+BE Gamme d'usinage - Projet technologique (4h)
+TP usinage - Projet technologique (4h)
+TP métrologie dimensionnelle - Projet technologique (4h)
+TP dimensionnement en RdM (4h)
+
+TP dynamique (4h)
+
+
+Compétences	◊ Savoir analyser l’architecture d’un système mécanique.
+◊ Maîtriser les étapes de conception et de fabrication d’un système mécanique.
+◊ Être capable de contrôler la conformité géométrique d’un système mécanique.
+◊ Être capable de réaliser un diagnostic des performances d’un système mécanique.
+
+
+
+
+Contrôle des	Microtest1 et microtest2 (Projet technologique) (75%) + compte-rendus TP (25%)
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

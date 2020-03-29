@@ -1,0 +1,111 @@
+
+ AF ICo 3.2
+
+
+Outils modernes de conception
+
+Modern design tools
+
+Responsable(s) : Louis JEZEQUEL, Olivier DESSOMBZ
+
+| Cours : 12 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Montrer à quoi sert la simulation numérique et pourquoi est-elle de plus en plus importante. Supprimer le réflexe : il suffit de laisser faire l'outil. Comment vérifier un modèle et valider un résultat. On aborde tous les problèmes physiques qui peuvent se poser : ils sont décrits par 5 équations essentielles dont il faut (pour certaines) raviver le souvenir.
+
+Mots-clés : Éléments finis, réalité virtuelle et augmentée, simulation numérique.
+
+
+
+Programme
+1.
+INTRODUCTION
+
+Contexte du Bureau d'étude, Problèmes à résoudre, Qu'est ce qu'un modèle. Point de vue
+
+académique, Point de vue industriel. Quelques méthodes de résolution. Importance des éléments
+
+finis. Le besoin de simulation multiphysiques
+
+2.
+HISTORIQUE
+
+La simulation numérique à travers les ages. Simulation numérique et essais réels
+
+3.
+LES CODES
+
+4. LA FORMATION
+
+5.
+LES ACTEURS
+
+6.
+NOTIONS & PROBLÈMES
+
+Étude de quelques problèmes pathologiques. Exemples : raffinement, calcul de contraintes en
+
+mécanique...
+
+7. LES APPLICATIONS
+
+Quelques vidéos de simulation multiphysiques posant chacune des questions : pourquoi, comment
+
+?
+
+
+8.
+LES CHALLENGES
+
+Que doit-on attendre (pour faire mieux) dans l'avenir ?
+
+9.
+CONCLUSIONS
+
+◊ Faire des ingénieurs capables d'analyser le comportement physique des structures et des
+Compétences
+
+
+procédés de fabrication.
+
+◊ transformer la connaissance scolaire en connaissance utile pour l'industriel.
+
+Objectifs : Étude bibliographique.
+Travail en
+
+autonomie
+Méthodes : Au cours de l'exposé, il y a un certain nombre de questions, permettant de connaitre
+
+ce qu'ils savent et permettant de faire passer des messages clés.
+
+Jean-Louis Batoz, Gouri Dhatt. Modélisation des structures par éléments finis - volume 1 - solides
+Bibliographie
+
+
+
+élastiques. HERMES, 1990.
+
+Jean-Louis Batoz, Gouri Dhatt. Modélisation des structures par éléments finis - volume 2 - poutres
+
+
+et plaques. HERMES, 1990.
+
+Jean-Louis Batoz, Gouri Dhatt. Modélisation des structures par éléments finis - volume 3 - coques.
+
+
+HERMES, 1990.
+
+Une dizaine de questions dont la moitié est sous forme QCM
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+

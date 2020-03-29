@@ -1,0 +1,96 @@
+
+ AF MOD 9.6
+
+
+Méthodes numériques pour les EDP
+
+Numerical methods for PDEs
+
+Responsable(s) : Grégory VIAL, Laurent SEPPECHER
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le but du cours est de presenter les principales approches actuelles pour la resolution numerique des equations aux derivees partielles (EDP). Il s'agit moins de proposer une liste exhaustive des techniques effectivement utilisees dans les codes professionnels, que de donner les reperes mathematiques et numeriques pour la construction et l'analyse des methodes les plus courantes. La programmation effective de certaines methodes lors de seances de BE permettra aux eleves de se sensibiliser aux aspects pratiques de mise en œuvre. D'autres BE seront consacres a l'utilisation de logiciels de recherche, illustrant la resolution complete de problemes plus complexes.
+
+Mots-clés : Méthodes numériques. Calcul scientifique. Équations aux dérivées partielles.
+
+
+
+
+Programme
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Activités /
+
+Autonomie
+
+
+Masters
+
+affiliés
+
+
+
+Bibliographie
+
+
+
+
+Chapitre 1. Rappels sur les EDP lineaires et les methodes aux differences finies Chapitre 2. Methodes d'elements finis
+
+Chapitre 3. Approximation numérique pour les lois de conservation scalaires
+
+◊ Savoir reconnaître la nature d'une EDP et les enjeux de son approximation numérique
+◊ Connaître les principes des principales familles de méthodes d'approximation des EDP
+◊ Reconnaître les comportements des méthodes dans leurs limites d'utilisation
+◊ Être capable de mettre en œuvre les méthodes d'approximation pour des problèmes modèles
+
+Implémenter les méthodes numériques sur des exemples simples, mais représentatifs.
+Les trois BE permettent de commencer le travail, qui est terminé en autonomie.
+
+Option MD/Filière MIR (fortement conseillé)
+Master mention "Mathématiques appliquées, statistique" (obligatoire)
+
+Master mention "Statistique et économétrie" (obligatoire)
+
+A. Ern, J.-L. Guermond. Elements finis : theorie, applications, mise en œuvre. Mathematiques et applications. Springer, 2002.
+
+B. Despres, F. Dubois. Systemes hyperboliques de lois de conservation : Application a la dynamique des gaz. Ecole Polytechnique, 2005.
+
+
+
+Contrôle des	Savoir (60%) : examen de 2H
+
+connaissances	Savoir-faire (40%) : compte-rendus de BE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

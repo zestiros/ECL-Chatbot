@@ -1,0 +1,82 @@
+
+ AF MOD 7.1
+
+
+Systèmes d'information en entreprise
+
+Enterprise Information Systems
+
+Responsable(s) : Romain VUILLEMOT
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les systèmes d'information se positionnent dans les organisations modernes comme des acteurs incontournables car ils mettent en œuvre les processus opérationnels de l'organisation et permettent la circulation de l'information. La bonne santé des organisations, de la multinationale à la petite entreprise, dépend de plus en plus de la performance de leur système d'information. Il est donc crucial pour les ingénieurs et futurs responsables de comprendre le fonctionnement et l'organisation des systèmes d'information quand bien même ils n'y travailleraient pas directement.
+
+Mots-clés : Systèmes d'information, processus, urbanisation, architecture orientée services, analytics, KPI, cloud computing, big data, management des organisations, ERP, progiciel de gestion intégré, CRM, progiciel de gestion client.
+
+
+
+Programme	Chapitre 1 : Introduction
+Chapitre 2 : Architectures techniques et grandes constituantes du SI en entreprise
+Chapitre 3 : Projets, coûts et normes d'un SI
+Chapitre 4 : Architecture orientée service, cloud computing et big data
+Chapitre 5 : KPI et Pilotage d'un SI
+Chapitre 6 : Tendances et impact du Big Data et IA dans les SI
+
+
+Compétences	◊ Connaître les composantes d'un système d'information en entreprise
+◊ Mettre en oeuvre une démarche d'urbanisation du système d'information
+◊ Mettre en oeuvre les bonnes pratiques des systèmes d'information en entreprise
+◊ Connaître les problématiques auxquelles sont confrontées les systèmes d'information et savoir les résoudre
+
+
+
+Activités /
+
+Autonomie
+
+
+
+Bibliographie
+
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+Bureaux d'étude autour d'un problème concrêt de mise en oeuvre et suivit de SI.
+Rédaction d'une note de synthèse sur un sujet d'approfondissement, au choix, lié aux systèmes d'information (ex: développement durable, etc.)
+
+Christophe Longépé. Le projet d'urbanisation du SI. Lavoisier, 2009.
+
+Yves Caseaut, Gérard Roucairol. Urbanisation, SOA et BPM : Le point de vue d'un DSI. Broché, 2008.
+
+Jacques Printz, Yves Caseau. Architecture logicielle : Concevoir des applications simples, sûres et adaptables. Dunod, 2009.
+
+
+Contrôle du savoir par examen (60%) et du savoir-faire par l'évaluation de la note de synthèse (40%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

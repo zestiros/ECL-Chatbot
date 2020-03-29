@@ -1,0 +1,85 @@
+
+ AF MTH tc 1
+
+
+Analyse appliquée
+
+Applied analysis
+
+Responsable(s) : Martine Marion, Philippe Michel
+
+| Cours : 20 h | TD : 20 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Cette AF présente les outils de base de l'analyse mathématique nécessaires à l'étude des modèles rencontrés dans l'ingénierie et la recherche.
+
+Mots-clés : Analyse mathématique, intégration, optimisation, équations différentielles ordinaires.
+
+
+
+Programme	Topologie et calcul différentiel
+Intégration et notion de dérivée faible
+Optimisation : extremums libres et liés
+Equations différentielles ordinaires
+
+
+Compétences	◊ Maîtriser le calcul intégral et différentiel.
+◊ Être capable d'étudier un problème d'optimisation sans ou avec contrainte, existence d'extremum, conditions d'optimalité, multiplicateurs de Lagrange
+
+◊ Être capable d'étudier un système d'équations différentielles (existence, analyse qualitative
+élémentaire, approximation numérique)
+◊ Savoir situer le degré de difficulté dans l'analyse mathématique d'un problème
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : Permettre aux élèves de mettre en œuvre les méthodes vues en cours sur des exemples concrets.
+
+Méthodes : Des fiches d'exercices corrigés sont proposés sur la plateforme pédagogique.
+
+J. Saint Raymond. Topologie, calcul différentiel et variable complexe. Calvage and Mounet, 2008.
+
+S. Benzoni. Calcul différentiel et équations différentielles. Dunod, 2014. M. Briane,G. Pagès. Analyse - théorie de l'intégration. Vuibert, 2012.
+
+Note de savoir par examen terminal sans document
+1 BE de 2x2h sur la partie Equations Différentielles Ordinaires 80%savoir
+
+20% savoir faire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,63 @@
+
+ AF ELC D-5
+
+
+Ecoulement diphasique et systèmes énergétiques
+
+Two-Phase Flow Related to Energy Production
+
+Responsable(s) : Mathieu CREYSSELS, Mikhael GOROKHOVSKI
+
+| Cours : 24 h | TD : 8 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les écoulements diphasiques du type gaz-liquide, gaz-solide ou solide-liquide, se rencontrent dans un nombre considérable d'applications industrielles. Par exemple : (i) les réacteurs refroidis à eau et les systèmes bouillants dans lesquels des bulles se déplacent dans l'écoulement liquide ; les moteurs à combustion interne et les sécheurs pour lesquels la dynamique des gouttes joue un rôle essentiel ; (iii) les lits fluidisés et le transport de particules par un écoulement d'air ou de liquide. Ces écoulements sont aussi très présents de façon naturelle : nuages et pluies, éruptions volcaniques, geysers. Les objectifs du cours sont d'appréhender les processus physiques, d'introduire des modèles et de montrer des applications dans le domaine de la production d'énergie.
+
+Mots-clés : Ecoulements diphasiques, interface et les instabilités, changements de phase, formation, dynamique et combustion de sprays ; combustion du charbon et de biomasse
+
+
+Programme	Ce cours fournit les éléments essentiels nécessaires à la mise en œuvre d'écoulements diphasiques et les application dans le domaine de la production d'énergie.
+Les thèmes abordés seront :
+i) la formation et la dynamique d'une phase dispersée (atomisation, dispersion) et de l'interface gaz-liquide entre deux phases séparées,
+
+ii) la combustion en milieu dispersé (combustion de sprays, de charbon pulvérisé, de biomasse) ainsi que le fonctionnement des brûleurs industriels
+
+iii) les transferts thermiques et les changements de phase (ébullition, condensation, évaporation) ; les échangeurs thermiques et les réacteurs de refroidissement à l'eau.
+
+
+Compétences	◊ L'élève aura un aperçu de la richesse et de l'intérêt aussi bien fondamental que applicatif des écoulements diphasiques.
+◊ Comprendre les mécanismes qui contrôlent les écoulements diphasiques ; comprendre les différents régimes de ces écoulements.
+
+◊ Caractériser la formation, la dynamique et la combustion d'un spray. Caractériser un échangeur thermique avec le changement des phases.
+
+◊ Savoir prendre en main et commencer à utiliser des modèles d'écoulements diphasiques introduits dans les codes industriels.
+
+
+Bibliographie	Crowe C., Sommerfeld, Tsuji Y.. Multiphase flows with droplets and particles.. CRC Press, 1998.
+
+Whalley P.B.. Two-phase flow and heat transfer. Oxford University Press, 1996.
+
+3. S. Mostafa Ghiaasiaan. Two-Phase Flow, Boiling, and Condensation. Cambridge University Press, 2008.
+
+
+
+Contrôle des	Examen écrit de 2 heures.
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+

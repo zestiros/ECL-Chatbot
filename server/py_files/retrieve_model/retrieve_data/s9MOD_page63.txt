@@ -1,0 +1,70 @@
+
+ AF MOD 10.5
+
+
+Ingénierie d'un objet de grande consommation
+
+
+Responsable(s) : Jose PENUELAS, Charles-Edmond BICHOT
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Montrer à des étudiants n'ayant pas suivi auparavant d'études scientifiques l'implication et l'imbrication des sciences et techniques de l'ingénieur à partir d'un objet connu : le CD. Ce module est l'occasion d'introduire l'approche multidisciplinaire propre à l'ingénieur généraliste en exposant les concepts et les outils de la physique, de la science des matériaux, de l'informatique, du traitement du signal et de l'automatique qui coexistent dans la conception et la réalisation d'un CD.
+
+Mots-clés : Ingénierie , Matériaux , Physique , Traitement du signal , Informatique , Automatique , Conception
+
+
+
+Programme	1 - Présentation générale
+2 - Physique : le laser
+3 - Les matériaux du CD
+4 - Les fondamentaux de l'informatique
+5 - Représentation de l'information
+6 - Conception
+7 - Traitement du signal : de l'analogique au numérique
+8 - Automatique : les principes de base du contrôle / commande
+
+
+Compétences	◊ Comprendre la nature multidisciplinaire de la conception des objets du quotidien
+◊ Posséder quelques fondamentaux dans les disciplines impliquées
+◊ Programmer un logiciel simple
+
+
+Activités /	6 séances de TD de 2h permettant de découvrir ,de manière accompagnée, la programmation
+
+Autonomie	informatique sur une série de petits cas concrèts.
+
+
+Bibliographie	T. Goussard. Java 8, les fondamentaux du langage Java avec exercices et corrigés. ENI.
+
+
+
+Contrôle des Il prendra en compte le travail effectué lors des séances de bureau d'études (1/3) ainsi que la connaissances note de l'examen final (sans document = 2/3).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

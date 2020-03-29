@@ -1,0 +1,77 @@
+
+ AF MTH tc 2
+
+
+Analyse numérique
+
+Numerical Analysis
+
+Responsable(s) : Grégory Vial, Laurent Seppecher
+
+| Cours : 12 h | TD : 12 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Cette AF a pour but de donner un aperçu des méthodes numériques utiles à l'ingénieur dans différents contextes. Les techniques décrites sont motivées par des applications, et l'accent est mis sur l'étude de la performance et des limites des méthodes.
+
+Mots-clés : Approximation, résolution de systèmes, intégration, équations différentielles et aux dérivées partielles, optimisation.
+
+
+Programme	Systèmes linéaires/Valeurs propres
+
+Optimisation/Équations non-linéaires
+
+Interpolation/Intégration numérique
+
+Approximation numérique des équations différentielles ordinaires
+
+Discrétisation des équations aux dérivées partielles
+
+
+Compétences	◊ Identifier les différentes étapes de la simulation numérique de phénomènes
+◊ S'interroger sur la pertinence du choix des différentes méthodes utilisées dans ce processus
+◊ Mettre en oeuvre sur ordinateur des algorithmes simples de résolution de systèmes
+◊ Savoir combiner différentes méthodes pour l'approximation d'un problème complexe
+
+Travail en
+Objectifs : Apprentissage du cours, préparation de simulations numériques simples avec Matlab.
+autonomie
+Méthodes : Exercices d'entraînement.
+
+A. QUARTERONI, R. SACCO, F. SALERI. Numerical Mathematics. Springer, 2006.
+Bibliographie
+
+
+J.RAPPAZ,M.PICASSO. Introduction à l'analyse numérique. Presse polytecniques et universitaires
+
+romandes, 1998.
+
+G.ALLAIRE S.M. KABER. Algèbre linéaire numérique. Ellipses, 2002.
+
+Note de savoir-faire par micro-test et note de savoir par examen terminal sans document
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

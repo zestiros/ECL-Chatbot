@@ -1,0 +1,67 @@
+
+ AF ELC E-6
+
+
+Du micro au macro en mécanique
+
+From Microscale to Macroscale in Mechanics
+
+Responsable(s) : Alexandre DANESCU, Julian SCOTT
+
+| Cours : 12 h | TD : 12 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les lois physiques macroscopiques représentent une "simplification" très utile sur le plan pratique, dont les bases physique profondes se trouvent dans la nature discrète de la matière et des lois d'interaction qui la gouverne. L'objectif du cours est double : d'une part, on présente les techniques de passage entre les modèles discrètes et continu de la matière à travers un changement d'échelle. Ce processus permet d'obtenir une partie les caractéristiques physiques (constitutives) des matériaux solides et/ou fluides à partir de la description discrète. D'autre part, les mêmes méthodes de changement d'échelle permettent également l'obtention des modèles continus "équivalents" pour l'étude des milieux "structurés" (matériaux stratifiés, matériaux perforés).
+
+Mots-clés : Milieux continus hétérogènes, Elasticité avec microstructure, Homogénéisation, Equation de Boltzmann, Théorème H, Equilibre Thermodynamique, Théorie de Chapman-Enskog
+
+
+Programme	1. Bases physiques de l'élasticité (le cas monodimensionnel)
+2. Bases physique de l'élasticité (le cas multidimensionnel)
+3. Diffusion en milieux hétérogènes
+4. Homogénéisation en élasticité
+5. Description statistique d'un gaz
+6. Conséquences de l'équation de Boltzmann
+
+
+Compétences	◊ comprendre les bases physiques des théories continus macroscopiques
+◊ construire des "modéles equivalents" pour des milieux structurés
+
+
+Bibliographie	N.W. Ashcroft, W.D. Mermin. Physique des solides. Brooks Cole, 1976.
+
+L.B. Loeb. Kinetic Theory of Gases. Dover, 2004.
+
+S. Chapman, T.G. Cowling. The mathematical theory of non-uniform gases. Cambridge University Press, 1995.
+
+
+Contrôle des	2/3 - Examen écrit (2h, avec documents) + 1/3 Note BE
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,63 @@
+
+ AF MSS tc 5
+
+
+Plasticité et mise en forme
+
+Plasticity and Metal Forming
+
+Responsable(s) : Alexandre Danescu et Hélène Magoariec
+
+| Cours : 4 h | TD : 4 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif est de sensibiliser au lien entre procédés de mise en forme et propriétés élastoplastiques de matériaux métalliques. La première partie du cours présente les principaux procédés d'élaboration de pièces métalliques brutes
+
+: étirement par déformations plastiques, fonderie, etc. La deuxième partie du cours présente le modèle classique élastoplastique. L’objectif est la compréhension des limites du modèle élastique et de la démarche à suivre pour généraliser ce modèle. La construction du modèle suit l’interprétation d’essais homogènes simples (traction et traction/ torsion) et la démarche logique du cours est phénoménologique. Les activités pratiques permettent, entre autres, la compréhension de l’influence du procédé de mise en forme sur les propriétés élastoplastiques.
+
+Mots-clés : Bruts métalliques, Procédés, Fonderie, Limite élastique, Déformation élastique, Déformation plastique, Ecrouissage isotrope, Ecrouissage cinématique, Critère de plasticité, Loi de normalité.
+
+
+Programme	2 cours destinés à la présentation des concepts de base + 2 TD destinés à consolider les notions acquises en cours par l’étude de structures élastoplastiques.
+Trois activités pratiques destinées à l’application des notions de cours :
+
+TP1 – Mise en forme : élaboration de pièces moulées par les procédés de moulage au sable et en coquille ; usinage par outil coupant d’un brut obtenu par étirement par déformations plastiques. TP2 – Identification : identification des caractéristiques mécaniques élastoplastiques des matériaux mis en forme au TP1 sur la base d’essais de traction et de torsion ; Etude de l’influence de la mise en forme sur ces caractéristiques.
+
+BE – Calcul de structures : analyse éléments finis des matériaux précédemment mis en forme et identifiés.
+
+
+Compétences	◊ Savoir mettre en œuvre expérimentalement deux procédés de fonderie
+◊ Comprendre l’élasto-plasticité phénomènologique
+◊ Savoir mettre en oeuvre l'identification expérimentale du comportement élastoplastique d'un matériau
+
+◊ Savoir interpréter les résultats d'un calcul éléments finis élastoplastique
+
+
+
+Bibliographie	R. Hill. The Mathematical Theory of Plasticity. Oxford University Press, 1998.
+
+P. Suquet. Rupture et plasticité. Ecole Polytechnique, 2006.
+
+J.J. Marigo. Plasticité et Rupture. Ecole Polytechnique, 2012.
+
+
+
+Contrôle des La note de cette action de formation est la moyenne des notes obtenues aux 3 activités pratiques, connaissances modulée par la participation en séances.
+
+
+
+
+
+
+
+
+
+
+
+

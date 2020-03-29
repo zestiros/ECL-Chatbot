@@ -1,0 +1,93 @@
+
+ AF ELC C-4
+
+
+Capteurs et traitement d'images
+
+Image Sensing and Processing
+
+Responsable(s) : Liming CHEN, David NAVARRO
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 8 h | BE : 8 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours a pour objectif d'introduire des concepts et techniques de base sur l'acquisition d'images et de la structure des capteurs classiques, de traitement d'images. Il en couvre les fondements et aborde les principes de la formation d'images, du traitement d'images, de l'extraction de caractéristiques et de la segmentation d'images, du suivi du mouvement. Le cours abordera les concepts comme la structure de capteur (CCD/CMOS), la structure d'images, l'analyse spatiale et fréquentielle d'images, des descripteurs d'image (forme, contour, etc.), la segmentation (point, contour, droite, etc.) et le suivi du mouvement dans les images. Les applications sont nombreuses, comme par exemple la médecine, contrôle qualité, la vision artificielle, l'imagerie satellite, etc.
+
+Mots-clés : formation d'images, filtrage spatial et fréquentiel d'images, détection du contour, segmentation d'images (point, droite, etc.), descripteurs d'image (forme, contour, etc.), suivi du mouvement
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+
+• La formation d'images (caméras, radiométrie, couleurs)
+• Phototransduction, structure de capteurs
+• Structure d'images, quantification, bruit
+• L'analyse spatiale (Manipulation de l'histogramme, le gradient et le laplacien)
+• L'analyse fréquentielle
+• La morphologie
+• La segmentation d'images (détection de points, de contour
+• Représentation et description (forme, texture, signature, etc.)
+• Analyse et suivi du mouvement (filtre Kalman)
+
+◊ A l'issue de cette UE l'élève doit être capable de comprendre le processus de la formation d'images numériques
+
+◊ mettre en oeuvre des techniques fondamentales pour améliorer et traiter les images
+
+Objectifs : L'objectif pédagogique visé est d'approfondir et mettre en pratique des concepts et techniques abordés en cours
+
+Méthodes : pratique d'exercices sur Matlab et résolution de problèmes concrets
+
+
+Rafael C.Gonzalez, Richard E.Woods. Digital Image Processing. Pearson Prentice Hall, 2008.
+
+Richard Szeliski. Computer vision: Algorithms and applications. Springer, 2010.
+
+David A. Forsyth, Jean Ponce. Computer vision : a modern approach. Prentice Hall, 2007.
+
+
+
+Contrôle des Le contrôle des connaissances prend en compte pour 2/3 les comptes rendus des deux BEs et connaissances pour un tiers pour le contrôle de connaissance
+
+
+
+
+
+
+
+
+
+
+

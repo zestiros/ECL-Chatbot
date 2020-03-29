@@ -1,0 +1,72 @@
+
+ AF MOD 6.3
+
+
+Durabilité des matériaux et des structures
+
+Durability of materials and structures
+
+Responsable(s) : Bruno BERTHEL, Michelle SALVIA
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+La recherche de systèmes performants, fiables et à sécurité accrue, passe par une bonne prise en compte des mécanismes d'endommagement des matériaux et des structures. Ce cours vise à fournir les outils permettant d'estimer la durée de vie de pièces sous sollicitation mécanique avec prise en compte de l'environnement, essentiellement appliqués au domaine des transports. Chaque famille de matériaux (métaux, polymères, composites, ...) possédant des modes de ruines différents, nous aborderons pour chacune d'elle leurs propres mécanismes d'endommagement en lien avec leurs modélisations. Nous aborderons des aspects théorique (mécanique de la rupture, critères de fatigue, ...) mais aussi pratique (fractographie, émission acoustique, ...).
+
+Mots-clés : Fatigue, Mécanique de la rupture, Eléments finis, Fractographie, Emission acoustique.
+
+
+
+Programme	Mécanique de la rupture : aspects matériaux, description d'un champ de contrainte autour d'une fissure et critères énergétiques.
+Fatigue des matériaux : les différents domaines de durée de vie, paramètres influençant la tenue en fatigue, règles de dimensionnement et loi de propagation de fissure. Fatigue multiaxiale : définition et les différentes familles de critères multiaxiaux.
+Spécificités des matériaux polymères et composites.
+BE d'analyse fractographique : analyse morphologique des faciès de rupture de plusieurs pièces rompues en fonctionnement et reconstruction du scénario qui a engendré la rupture. TP sur l'utilisation de l'émission acoustique pour la protection de structures composites.
+
+TP sur l'utilisation dans un code de calcul par éléments finis de critères de rupture.
+
+
+Compétences	◊ Identifier les différents modes d'endommagement et de rupture des matériaux utilisé dans le domaine des transports et savoir analyser un faciès de rupture.
+◊ Maitriser les bases de la mécanique de la rupture et de la fatigue des matériaux. Savoir utiliser les outils prédictifs de durée de vie en fatigue multiaxiale.
+
+◊ Connaitre les spécificités des matériaux composites et avoir des notions sur la surveillance de l'état des structures (notamment en l'émission acoustique).
+
+◊ Utiliser des connaissances acquises pour analyser un problème de recherche et en faire une analyse critique.
+
+Activités /
+L'autonomie permet aux élèves de préparer les enseignements pratiques, rédiger le rapport et
+Autonomie
+d'analyser un article scientifique. Travail en groupe. Lecture d'articles scientifiques.
+
+Option Aéronautique du S9 : dans la liste du MOD parmi les 5 obligatoire
+Masters
+
+affiliés
+Master Aéronautique et Espace: obligatoire pour l'option de M2 " Dynamique et Durabilité des
+
+Composites (DDC) ".
+
+Master MISTE : équivalent au TC3-Mécanique Matériaux
+
+D. HULL. Fractography: Observing, Measuring and Interpreting Fracture Surface Topography.
+Bibliographie
+
+
+Cambridge University Press, 1999.
+
+P. C. POWELL. Engineering with polymers. Chapman & Hall, 1992.
+
+C. BATHIAS, A. PINEAU. Fatigue des matériaux et des structures (Volumes 1 à 4). Lavoisier, 2009.
+
+Travaux pratique (50%) + présentation orale (50%)
+Contrôle des
+
+connaissances
+
+
+

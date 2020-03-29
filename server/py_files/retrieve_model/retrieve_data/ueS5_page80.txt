@@ -1,0 +1,87 @@
+
+ AF MTH a 2-FH
+
+
+Analyse mathématique des équations aux dérivées partielles
+
+Deterministic and probabilistic approach for the heat equation
+
+Responsable(s) : Michel Philippe
+
+| Cours : 18 h | TD : 18 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Nous allons présenter ces deux approches de la diffusion (chaleur). Le point de vue probabiliste se place à une échelle microscopique (au niveau du mouvement des particules), en changeant d’échelle, ces deux points de vue se rejoignent au niveau macroscopique (en augmentant le nombre de particules et en dilatant l’espace et le temps) pour lequel on retrouve la forme EDP dont la solution représente la densité de particules évoluant au cours du temps dans l’espace.
+
+Mots-clés : Equations aux dérivées partielles, analyse mathématique, physique mathématique, Chaine de Markov
+
+
+
+Programme
+Chaînes de Markov : introduction, simulation et premiers résultats
+
+Equations de la ‘chaleur’ EDP : théorie, espaces fonctionnels et séries de Fourrier
+
+◊ Savoir simuler et utiliser les outils de probabilité pour les CM
+Compétences
+
+
+◊ Disposer d’outils mathématiques pour l’étude de l'EDP de la chaleur
+
+◊
+
+◊ calculer explicitement des solutions d'EDP de la chaleur
+
+Objectifs : Apprendre à gérer un problème mathématique complexe
+Travail en
+
+autonomie
+Méthodes : Correction sur un exo (choisi par les élèves). Eviter la correction systématique au
+
+tableau et plus d'interactivité avec le chargé de cours/td.
+
+John F. Partial differential equations. Springer, 1982.
+Bibliographie
+
+
+W. Feller. An Introduction to Probability Theory and its Applications, Vol. 1,2,. J. Wiley et Sons
+
+Inc., 1957.
+
+N. Piskounov,. Calcul différentiel et intégral : Tome 2,. ELLIPSES (MIR),, 1987.
+
+Note savoir = examen individuel 50%
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,87 @@
+
+ AF ELC B-2
+
+
+Algorithmes collaboratifs et applications
+
+Collaborative Algorithms and Applications
+
+Responsable(s) : Philippe MICHEL, Alexandre SAIDI
+
+| Cours : 8 h | TD : 16 h | TP : 8 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif de ce cours est de modéliser et résoudre certains problèmes complexes en utilisant des algorithmes dits
+" collaboratifs ". Ceux ci ont pour particularités de prendre exemple sur la nature (algorithmes génétiques, colonies de fourmis,..., réseaux de neurones) et d'utiliser l'expérience collective d' " individus " (agents) aux capacités faibles pour en faire une intelligence collective.
+
+Par exemple, les réseaux de neurones cherchent à imiter la capacité du cerveau à résoudre un problème en se servant de la multitude de neurones (ayant chacun une faible capacité de résolution) qui le composent.
+
+Les applications traitées en cours sont variées : reconnaissance de caractères, détection de contours (dans une image), résolution d'un jeu de poker (simplifié) (voire d'autres jeux), décodage d'un texte, recherche d'un chemin le plus court
+(Dijkstra, voyageur de commerce), détection de pannes, allocation de bus et Cartographie et Localisation Simultanées par utilisation de robots...
+
+Mots-clés : multi-agents, robotiques, algorithmes génétiques, colonies de fourmis, réseaux de neurones, slam
+
+
+
+Programme	Algorithmes génétiques
+Réseaux de neurones
+Cartographie et Localisation Simultanées par utilisation de robots
+Colonies de fourmis et stratégies colaboratives
+
+
+
+Compétences
+
+
+
+Travail en autonomie
+
+
+Bibliographie
+
+
+
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+◊ mise en oeuvre informatique des algorithmes proposés
+◊ modélisation multi-agents de problèmes complexes
+
+Objectifs : Résoudre des problèmes
+Méthodes : Études
+
+
+Simon Haykin. Share Facebook Twitter Pinterest 2 used & new from $160.00 See All Buying Options Add to List Have one to sell? Sell on Amazon See this i. MacMillan Publishing Company, 1994.
+
+Sebastian Thrun. Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series). The MIT Press, 2005.
+
+Marco Dorigo. Ant Colony Optimization. A Bradford Book, 2004.
+
+
+Test écrit/machine 2h
+BE : 4 x 4h
+
+
+
+
+
+
+
+
+
+
+
+
+

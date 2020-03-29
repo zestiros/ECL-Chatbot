@@ -1,0 +1,66 @@
+
+ AF MOD 6.5
+
+
+Changements climatiques et Géo-ingénierie
+
+Climate Change and Geo-engineering
+
+Responsable(s) : Pietro SALIZZONI, Julian SCOTT, Richard PERKINS
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+S'il y a maintenant un consensus que l'évolution de notre climat est en train d'accélérer, il manque toujours un accord sur les mesures à adopter pour le stabiliser et il est probablement trop tard pour qu'une réduction dans les émissions des gaz à effet de serre ait un impact significatif. Les changements climatiques vont impacter tous les aspects du métier de l'ingénieur, et il va falloir les prendre en compte dans chaque projet. Il sera probablement nécessaire également d'envisager d'intervenir directement sur le climat, et diverses stratégies ont déjà été proposées. L'objectif de ce cours est de fournir une compréhension générale des enjeux pour permettre aux futurs ingénieurs de participer à ce débat parce que beaucoup des problèmes sont clairement du domaine de l'ingénierie.
+
+Mots-clés : Changement climatique, gaz à effet de serre, carbone, paléoclimatologie, réchauffement, océans, atmosphère, météorologie, modélisation, systèmes dynamiques
+
+
+
+Programme	Introduction : Définition du climat, les processus principaux, l'évidence du changement climatique
+Transferts radiatifs : Le rayonnement solaire, l'atmosphère comme filtre, les aérosols
+Circulation atmosphérique et océanique
+Modélisation du climat : Les hypothèses de modélisation, les données d'entrée, les résultats, sensibilité aux hypothèses et aux données
+Cycle de carbone : Mécanismes de transfert, captage et stockage de carbone
+Reconstruction du climat : Métrologie, l'histoire du climat
+Les scénarios possibles : Influence des différents processus, l'évolution du climat
+Impact : Météorologique, agricole, économique, politique
+Géo-ingénierie : Les approches, réversibilité, risques, conséquences, difficultés pratiques.
+Le MOD 2.2 (DAO) apporte un complément intéressant à ce MOD.
+
+
+Compétences	◊ Appréhender la notion du climat, et les processus physiques qui contribuent à sa définition
+◊ Appréhender de façon critique les éléments factuels disponibles concernant l'évolution du climat
+
+◊ Comprendre comment sont construits les modèles du climat, les hypothèses utilisées et les données nécessaires
+
+◊ Identifier les conséquences (physiques, économiques et politiques) possibles et probables du changement climatique
+
+
+Masters	Sciences de l'Océan, Atmosphère et Climat (SOAC)
+
+affiliés
+
+
+Bibliographie	SALTZMAN, B. Dynamical Paleoclimatology. Academic Press, 2002.
+
+BURROUGHS, W.J. Climate Change A Multidisciplinary Approach. Cambridge University Press, 2007.
+
+COWIE, J. Climate Change Biological and Human Aspects. Cambridge University Press, 2009.
+
+
+Contrôle des	Savoir : Examen (50%) Savoir faire : Comptes rendus des 3 BE (50%)
+
+connaissances
+
+
+
+
+
+

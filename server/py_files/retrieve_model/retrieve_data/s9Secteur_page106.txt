@@ -1,0 +1,87 @@
+
+ AF MOS 1.5
+
+
+Couches ultraminces et surfaces fonctionnalisées
+
+Functionalized thin layers and surfaces
+
+Responsable(s) : Stéphane Benayoun, Bertrand Vilquin
+
+| Cours : 20 h | TD : 8 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif de cet enseignement est, dans une première partie, d'étudier les relations entre conditions d'élaboration des couches minces, structure et microstructure associées, et les propriétés spécifiques souhaitées dans différents champs d'applications : mécaniques, optiques, électriques. La recherche de nouvelles performances, le développement des nanotechnologies et le souci d'innover imposent dès la conception une approche multifonctionnelle des objets envisagés. La surface, pour être l'interface avec le milieu extérieur, est le siège privilégié de sollicitations, d'endommagements, ou de propriétés qu'il convient d'optimiser et/ou de considérer à part de celle du volume du matériau.
+
+Mots-clés : Couche mince, méthodes de dépôt, défauts, propriétés électriques, supraconductivité, propriétés optiques, propriétés mécaniques.
+
+
+
+Programme
+Dans le cadre de ce module on s'intéressera notamment aux propriétés :
+
+-Mécaniques : Elasticité, plasticité, endommagement et d'adhésion des couches au substrat.
+
+-Electriques spécifiques des couches minces abordées en deux parties. Dans un premier temps,
+
+l'influence de la bidimensionnalité sur le transport des porteurs sera analysée. Le cas des couches
+
+d'épaisseurs nanométriques sera ensuite étudié en prenant en compte le caractère quantique de
+
+leurs propriétés électroniques.
+
+-Optiques des couches minces abordées dans le cadre de leurs applications à l'optique intégrée et
+
+de l'obtention de propriétés fonctionnelles spécifiques.
+
+Une dernière partie de ce cours sera consacrée à l'étude de couches monomoléculaires
+
+autoassemblées, et de leurs applications.
+
+◊ Connaitre les mécanismes et les systèmes de fabrication d'une couche mince.
+Compétences
+
+
+◊ Connaitre les différentes propriétés et les applications d'une couche mince.
+
+Bio-ingénierie et nanotechnologies (BIN)
+Options /
+
+Masters
+Énergie
+
+Transport terrestre (TT)
+
+Equivalence avec les Masters Matériau et NSE.
+
+Test final écrit de 2h.
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

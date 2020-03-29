@@ -1,0 +1,75 @@
+
+ AF TV 3.4
+
+
+Organes et architecture véhicule
+
+Vehicle's Body and Architecture
+
+Responsable(s) : Olivier BAREILLE, Benjamin CHOUVION
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Certains organes et équipement du véhicule routier sont abordés du point de vue équipementier et intégrateur de solution d’architecture.
+
+Les intervenants prennent ainsi le parti de présenter chacun un élément particulier à travers ses performances et ses interfaces au sein de l’architecture du véhicule.
+
+Mots-clés : Motorisation
+
+
+
+
+Pneumatique
+
+
+
+
+Transmission
+
+
+
+Programme	Mécanique du pneumatique. Liaison au sol.
+Motorisations traditionnelles et hybrides.
+
+Transmissions mécaniques.
+
+
+Compétences	◊ Capacité à identifier les interactions entre éléments
+◊
+◊
+◊
+
+
+
+
+Contrôle des	Méthodologie 100 %
+
+connaissances	Validation par présence en cours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

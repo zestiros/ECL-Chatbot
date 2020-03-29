@@ -1,0 +1,77 @@
+
+ AF MOD 3.1
+
+
+Propagation des ondes élastiques
+
+Elastic Wave Propagation
+
+Responsable(s) : Louis JEZEQUEL, Sébastien BESSET
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Dans le domaine de la Vibro-acoustique, la maîtrise du comportement des structures se heurte à la difficulté d'utiliser la méthode des éléments finis. La vision ondulatoire apparaît alors indispensable et constitue la base de nombreuses méthodes d'analyse utilisées dans l'industrie. Sa mise en oeuvre dans le domaine des transports a permis d'optimiser le confort vibro-acoustique des véhicules. Dans le domaine du Génie Civil, le calcul du comportement vibro-acoustique des constructions a été rendu nécessaire par l'évolution de normes de sécurité et de confort. D'autre part, l'analyse ondulatoire des problèmes aéro-élastiques ou hydro-élastique met en évidence des phénomènes dynamiques majeurs comme les ondes de choc, le rayonnement et la transparence acoustique des structures.
+
+Mots-clés : Propagation, vibro-acoustique, rayonnement, sismique, milieux stratifiés, couplage fluide-structure, couplage sol-structure
+
+
+
+Programme	I - Introduction : Propagation d'un milieu mono-dimensionnel - Ondes harmoniques - Flux de puissance
+II - Analyse des ondes dans les solides : Propagation dans un espace fini - Propagation dans un demi-espace - Ondes dans les milieux stratifiés - Guide d'ondes - Cas des milieux périodiques
+III - Analyse vibro-acoustique : Comportement non-modal des structures - Formulation Intégrales des problèmes - Méthodes d'analyse énergétique - Analyse statique de problèmes dynamiques
+IV - Couplage sol-structure : Dynamique des fondations superficielles - Modélisation des fondations par pieux - Modèles de simulation numérique
+
+V - Couplage fluide-structure : Propagation dans les tuyauteries - Etude des coups de bélier -
+Transparence acoustique et rayonnement des parois
+
+Compétences
+◊ Comprendre les principaux phénomènes vibro-acoustiques
+
+◊ Maîtriser les échanges d'énergie vibratoire entre les milieux élastiques
+
+◊ S'initier aux outils de calculs vibro-acoustiques utilisés en conception mécanique
+
+◊ Comprendre les règles de dimensionnement parasismique
+
+Apprendre et approfondir une partie du cours via une analyse bibliographique et une réflexion sur
+Activités /
+
+Autonomie
+un problème d'application.
+
+Master Mécanique
+Masters
+
+affiliés
+Master de Génie Civil
+
+Master Acoustique
+
+A. Bedford & D.S. Drumheller. Introduction to elastic wave propagation. Wiley, 1994.
+Bibliographie
+
+
+F.E. Richard, JR Hall & R.D. Woods. Vibrations of Soils and Foundation. Prentice Hall, 1970.
+
+James F. Doyle. Wave Propagation in Structures. Spectral Analysis using fast discrete Fourier
+
+transforms - Second Edition. Springer, 1997.
+
+Bureaux d'étude
+Contrôle des
+
+connaissances
+Test
+
+
+
+
+
+

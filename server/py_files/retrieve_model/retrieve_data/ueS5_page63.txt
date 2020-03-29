@@ -1,0 +1,83 @@
+
+ AF ECS a 3-EG
+
+
+Automatique et phénomènes non linéaires
+
+Automatic control with nonlinear phenomena
+
+Responsable(s) : Giacomo Casadei, Gérard Scorletti
+
+| Cours : 12 h | TD : 18 h | TP : 4 h | Autonomie : 14 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les exigences de performance de plus en plus fortes dans les systèmes technologiques ont entraîné la généralisation de correcteurs par rétroaction et l’apparition de phénomènes non-linéaires. Or les correcteurs les plus utilisés sont basés sur l’hypothèse de linéarité, voir l’AF ECS tc2 « Automatique linéaire ».
+
+Le premier objectif est de présenter le comportement des systèmes non-linéaires et des méthodes permettant de prévoir l’apparition de ce comportement pour des systèmes en boucle fermée conçus sous l’hypothèse de linéarité. Le cours abordera comment modifier le correcteur pour éviter ces phénomènes dans certaines situations. Le second objectif est de présenter comment concevoir un correcteur pour un système à commander représenté par un modèle non-linéaire.
+
+Mots-clés : Automatique, Systèmes non linéaires, commande, analyse
+
+
+
+Programme
+Introduction générale sur la problématique
+
+Analyse des systèmes en boucle fermée en présence d’une non linéarité
+
+Analyse des systèmes non-linéaires : approche générale
+
+Commande des systèmes non-linéaires
+
+◊ Analyser le comportement dynamique d’un système bouclé en présence de non linéarités
+Compétences
+
+
+◊ Commander les systèmes non linéaires
+
+◊ Traiter une application industrielle présentant des non-linéarités
+
+Objectifs : Mettre en place une démarche d’ingénierie en mobilisant savoir et savoir-faire acquis
+Travail en
+
+autonomie
+au cours de l’AF
+
+Méthodes : Résoudre un problème pratique et original de commande en présence de non
+
+linéarités en appliquant les méthodes et outils numériques acquis au cours de l’AF.
+
+G. Casadei et G. Scorletti. Automatique et phénomènes non linéaires. ECL, 2019.
+Bibliographie
+
+
+G. Scorletti. Commande multi-actionneurs multi-capteurs.. ECL, 0.
+
+H. Khalil. Nonlinear Systems 3rd edition. Prentice Hall, 2002.
+
+Test final écrit individuel 2 heures (Savoir) et évaluation orale individuelle de l’Autonomie (Savoir
+Contrôle des
+
+connaissances
+Faire). Note AF = 2/3*S + 1/3*SF.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

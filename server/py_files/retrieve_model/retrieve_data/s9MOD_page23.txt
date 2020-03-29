@@ -1,0 +1,71 @@
+
+ AF MOD 3.6
+
+
+Automatique Avancée
+
+Advanced Control
+
+Responsable(s) : Anton KORNIIENKO, Xavier BOMBOIS
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les systèmes étant de plus en plus complexes, les cahiers des charges (CdC) serrés, la recherche du correcteur assurant le meilleur compromis entre des spécifications parfois contradictoires doit être vue comme un problème d'optimisation. La commande LQ/LQG est une solution efficace où le CdC est traduit sous la forme d'un critère représentant classiquement un compromis entre la performance dynamique et le coût pour l'atteindre. Supposant un modèle parfait du procédé, elle ne prend pas en compte les besoins actuels de robustesse. La commande H_infini, généralisation de la commande fréquentielle classique, permet de pallier à cela. Ces 2 approches sont présentées ici en soulevant leurs points forts et faibles sur des exemples permettant de s'approprier les outils de mise en œuvre.
+
+Mots-clés : Commande LQ/LQG, Commande H2, Commande robuste, Commande H infinie, Commande multivariable.
+
+
+
+Programme	Le cours commencera par un récapitulatif des méthodes classiques de commande et de leurs cahiers des charges. La méthode de synthèse LQ/LQG et sa généralisation (càd la commande H2) seront ensuite présentées. Nous nous intéresserons particulièrement aux spécifications additionnelles du cahier des charges qui peuvent être traitées avec cette méthode de commande ainsi qu'aux différentes manières de réaliser cette commande (approche entrée-sortie ou retour d'état avec observateur). Finalement, la deuxième méthode avancée de synthèse de correcteur (la commande Hinfinie) sera présentée. Cette méthode permet de considérer un cahier des charges similaire à la méthode LQ/LQG, mais peut également traiter les problèmes de robustesse liée à l'incertitude du modèle.
+
+
+Compétences	◊ Etre capable de spécifier un critère d'optimisation pour la commande LQ/LQG et la commande Hinfinie à partir d'un cahier des charges
+◊ Etre capable de synthétiser un correcteur en utilisant une méthode de commande avancée
+◊ Etre capable d'analyser la boucle fermée obtenue et sa performance
+
+Activités /
+3 séances de BEs :
+Autonomie
+BE1 : Commande LQ/LQG
+
+BE2 : Commande H_infini
+
+BE3 : Synthèse LQ/LQG vs H_infini
+
+Master EEEA, Parcours Génie des Systèmes Automatisés (GSA)
+Masters
+
+affiliés
+
+
+Alazard D., Cumer C., Apkarian P., Gauvrit M. et F. Robustesse et commande optimale.. Cépaduès
+Bibliographie
+
+
+editions, 1999.
+
+Kwakernaak H.. H2-Optimization - Theory and Applications to Robust Control Design. Annual
+
+Reviews in Control, 26 (1), pp. 45-56, 2002.
+
+Skogestad S. and Postlethwaite I.. Multivariable Feedback Control, Analysis and Design.. John Wiley
+
+and Sons Chischester, 2005.
+
+Examen final de 2h avec documents : 50%
+Contrôle des
+
+connaissances
+Évaluation BE1 & BE2 & BE3 : 50%
+
+
+
+
+

@@ -1,0 +1,84 @@
+
+ AF MOD 7.5
+
+
+Bruits d'origine aérodynamique
+
+Aerodynamically generated sound
+
+Responsable(s) : Michel ROGER
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le but est de former les étudiants à l'aéroacoustique, science des bruits d'origine aérodynamique, par opposition aux bruits d'origine vibratoire. Ceci inclut la compréhension des phénomènes physiques, leur illustration expérimentale et leur modélisation, principalement analytique (des simulations numériques sont néanmoins citées). Les étudiants seront amenés au niveau requis pour aborder les problèmes industriels modernes, d'une part, et la littérature scientifique internationale, d'autre part. Des notions de base en aérodynamique et en acoustique seront rappelées succinctement. Les applications concernent les transports aéronautique et terrestre, la ventilation et le conditionnement d'air, les instruments à vents...
+
+Mots-clés : aéroacoustique, aérodynamique instationnaire, modélisation analytique, turbomachines
+
+
+
+Programme	- Petites oscillations dans un gaz et mécanismes du bruit d'origine aérodynamique
+- Les analogies acoustiques et l'équation des ondes
+- Propriétés générales des sources sonores en mouvement (effet Doppler, convection)
+- Bruit des jets turbulents libres (aéronautique)
+- Mécanismes d'oscillations auto-entretenues (instruments à vent)
+- Bruit du vent sur les structures (câbles, antennes, exo-structures)
+- Aérodynamique instationnaire et bruit des profils d'ailes
+- Matériaux absorbants acoustiques sous écoulement
+- Sources sonores en rotation et bruit de raies des rotors (hélices, ventilateurs...)
+- Bruit des turbomachines carénées (turboréacteurs)
+- Essais en soufflerie anéchoïde
+
+
+Compétences	◊ Réaliser une analyse critique d'une publication scientifique
+◊ Conduire des essais en soufflerie anéchoïde
+◊ Modéliser un problème d'aéroacoustique industriel
+
+
+
+Activités /
+
+Autonomie
+
+
+
+Masters
+
+affiliés
+
+
+Bibliographie
+
+
+
+Contrôle des connaissances
+
+
+BE: optimisation acoustique d'un étage rotor-stator (par la modélisation, CR)
+TP1: bruit d'impact de turbulence sur un profil (manipulation en chambre sourde+CR)
+
+TP2: sifflements d'une cavité en conduit (manipulation +CR)
+
+Master d'Acoustique, Ecole Doctorale MEGA
+
+
+Goldstein. Aeroacoustics. McGraw-Hill, 1976.
+
+
+Test de 2 heures (note de savoir 40%)
+Comptes-rendus de TP (note de savoir-faire 30%)
+
+Compte-rendu de BE (note de méthodologie 30%)
+
+
+
+
+
+
+

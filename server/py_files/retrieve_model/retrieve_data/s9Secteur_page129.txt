@@ -1,0 +1,82 @@
+
+ AF MOS 6.5
+
+
+Économétrie des Séries Temporelles
+
+Time series econometrics
+
+Responsable(s) : Christian de Peretti
+
+| Cours : 28 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Une série temporelle est une suite d'observations indexée par le temps. Les principales applications des séries temporelles sont la modélisation des séries macroéconomiques et financières par des processus stochastiques à temps discret. Elles peuvent être aussi utilisées dans d'autres sciences comme la physique, la biologie, la géologie (crues du Nil), la santé (taux d'hormone dans le sang)...
+
+Ce cours fait naturellement suite aux cours de statistique et d'économétrie de 2A, mais il n'est pas indispensable d'avoir suivi ces cours au préalable. L’objectif de ce cours de séries temporelles est de balayer rapidement un grand nombre de modèles économétriques sans rentrer dans les détails mathématiques, et de les appliquer sur données réelles avec le logiciel Eviews.
+
+Mots-clés : Processus stochastique à temps discret, économétrie, estimations, tests, interprétation économique, logiciel Eviews.
+
+
+
+Programme
+Chap 1. Introduction à la notion de séries temporelles.
+
+Chap 2. Modèles autorégressifs à moyenne mobile (ARMA)
+
+Modèle de base.
+
+Chap 3. Modèles d’hétéroscédasticité conditionnelle autorégressive (ARCH)
+
+Modèles spécifiques aux rendements des titres financiers.
+
+Ils prennent en compte les périodes de volatilité observées sur les marchés financiers.
+
+Chap 4. Notion de racine unitaire et modèles ARIMA
+
+Modèles pour les series non stationnaires, telles que les séries macroéconomique et les séries des
+
+prix en finance
+
+Chap 5. Modèles autorégressifs vectoriels (VAR)
+
+Modèles pour traiter conjointement un ensemble de séries temporelles stationnaires.
+
+Chap 6. Notion de cointegration, modèle VECM
+
+Modèles pour traiter conjointement un ensemble de séries temporelles non-stationnaires.
+
+◊ Modélisation mathématique
+Compétences
+
+
+◊ prévisions
+
+◊ Tests d'hypothèses
+
+◊ Applicable en économie, finance, physique, biologie etc...
+
+Statistiques économiques, banque/finance de marché (prévisions financières, pricing de produits
+Options /
+
+Masters
+dérivés), autres... Master co-habilité avec l'ISFA.
+
+Walter Enders. Applied Econometric Time Series, 4th Edition. Wiley, 2015.
+Bibliographie
+
+
+1) Projet 50%
+Contrôle des
+
+connaissances
+2) Examen 1 heure 50%
+
+
+

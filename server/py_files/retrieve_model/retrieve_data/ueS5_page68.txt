@@ -1,0 +1,90 @@
+
+ AF FLE a 4-EG
+
+
+Thermique et Combustion
+
+Thermal Science and Combustion
+
+Responsable(s) : Jean-Marc Vignon, Mikhael Gorokhovski
+
+| Cours : 20 h | TD : 18 h | TP : 10 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Aborder en détail les phénomènes des transferts thermiques : rayonnement, convection, échangeurs de chaleurs. Aborder la thermodynamique appliquée à la production d’énergie (turbines), et de la propulsion (moteurs automobiles, turboréacteurs, moteurs fusée).
+
+Donner les bases de la physique de la combustion.
+
+Mots-clés : Transferts thermiques, convection, rayonnement, échangeurs de chaleur, combustion, flamme, énergie, moteurs, cycles.
+
+
+Programme
+Convection : Formulat1ion des équations couplées dynamique et thermique. Couches limites,
+
+Convection naturelle, Notions sur la turbulence. Lois d’échanges pratiques
+
+Echangeurs thermiques : Evolution des champs thermiques - Bilans locaux. Caractérisations
+
+globale : DTlm, Nombre d’Unités de Transfert, Efficacité. Méthodes de calcul des échangeurs.
+
+Transferts radiatifs : du corps noir aux échanges radiatifs entre surfaces réelles dans un milieu
+
+semi-transparent
+
+Transferts de chaleur avec changement de phase : Les modes de transferts diphasiques.
+
+Coefficients d’échange et régimes d’ébullition. Modèle de Nüsselt de la condensation. Les
+
+évaporateurs et condenseurs.
+
+Production d’énergie - Thermodynamique des turbines à vapeur et à gaz. Etc...
+
+◊ Savoir évaluer les échanges thermiques dans des conditions diverses, y compris avec des
+Compétences
+
+
+modes de transfert combinés.
+
+◊ Appliquer des bilans thermodynamiques sur des systèmes ouverts ou fermés.
+
+◊ Introduction aux théories des propagations des flammes
+
+Objectifs : Assimiler le cours, savoir mettre en pratique les méthodes
+Travail en
+
+autonomie
+Méthodes : Résoudre des problèmes posés sous forme d’exercices, en application directe du cours
+
+J. Taine, E. Iacona, JP. Petit. Transferts Thermiques - Introduction aux transferts d'énergie. Dunod,
+Bibliographie
+
+
+2008.
+
+Note savoir : test (2h)
+Contrôle des
+
+connaissances
+Note savoir-faire : moyenne des comptes-rendus de BE
+
+Note d’AF = 50% (Note de savoir) +50% (Note de savoir-faire)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

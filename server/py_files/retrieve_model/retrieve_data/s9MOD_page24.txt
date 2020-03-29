@@ -1,0 +1,96 @@
+
+ AF MOD 4.1
+
+
+Green Computing
+
+Green Computing
+
+Responsable(s) : Sébastien LE BEUX, Ian O'CONNOR
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours vise à étudier l'exécution d'applications sur les architectures de calcul des points de vue de la fonctionnalité, des performances et de l'efficacité énergétique. Dans ce contexte seront abordés les architectures matérielles parallèles (processeurs multi-cœur, machines SIMD), les ressources matérielles de communications (bus et réseau) ainsi que le déploiement efficace d'applications sur ces ressources matérielles : placement des tâches, partitionnement matériel/ logiciel et adéquation algorithme architecture. Les techniques d'estimation de la consommation énergétique seront présentées et permettront d'estimer le coût des accès mémoires, des calculs et des communications.
+
+Mots-clés : Consommation énergétique dans les systèmes électroniques numériques, Techniques faible consommation, Architectures de calcul parallèles, Déploiement des applications, Adéquation algorithme architecture
+
+
+
+
+Programme
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Activités /
+
+Autonomie
+
+
+
+Masters
+
+affiliés
+
+
+Bibliographie
+
+
+
+
+Principes du partitionnement matériel / logiciel et du dimensionnement des processeurs Architectures multi-cœur et programmation
+Stratégies de déploiement de tâches et de réduction de la consommation
+Coût énergétique de la communication inter-cœur ou du calcul distribué
+
+Estimation énergétique multi-niveau d'abstraction de l'exécution logicielle
+
+◊ Comprendre les enjeux et les origines de la consommation dans les architectures de calcul
+◊ Etre capable d'évaluer la consommation énergétique dans les processeurs
+◊ Etre capable d'optimiser la programmation d'algorithmes sur processeurs pour minimiser la consommation énergétique
+
+BE : analyse des supercalculateurs économes en énergie (green500.org)
+TP (2 séances de 4h) : programmation d'un filtre numérique audio sur processeur, optimisation de la consommation énergétique
+
+Master Electronique, Energie Electrique, Automatique (3EA)
+
+
+M.T. Schmitz et al. System-Level Design Techniques for Energy-Efficient Embedded Systems.
+Springer, 2004.
+
+T.D. Burd et al. Energy-efficient microprocessor design. Kluwer, 2002.
+
+
+
+Contrôle des	50% savoir, 50% savoir-faire
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+

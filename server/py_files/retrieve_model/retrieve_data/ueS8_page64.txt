@@ -1,0 +1,68 @@
+
+ AF ELC E-10
+
+
+Surfaces, friction, vibrations
+
+Surfaces, Friction, Vibrations
+
+Responsable(s) : Joël PERRET-LIAUDET, Denis MAZUYER
+
+| Cours : 12 h | TD : 12 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Dans de nombreux systèmes mécaniques et mécanismes, la dynamique des contacts est souvent prépondérant pour garantir l'intégrité, l'efficacité énergétique et le respect environnemental. Concevoir ces systèmes reste complexe du fait des couplages entre réponse dynamique du système et comportement tribologique local à l'échelle des surfaces. L'objectif de ce cours est d'apporter un éclairage pluridisciplinaire à ces problématiques. On fournira notamment des éléments de compréhension des principaux phénomènes mis en jeu (description des contacts lubrifiés, secs, en sollicitations normale, tangentielle, lois de frottements). Les problèmes vibroacoustiques qui en résultent seront mis en perspective : vibroimpact, crissement, comportement dynamique global induit par les interactions locales.
+
+Mots-clés : contact, mécanismes, tribologie, dynamique des systèmes, conception avancée
+
+
+
+Programme	La formation s'articule autour de plusieurs thèmes sous la forme de cours/TD :
+• Aspect cinématique des systèmes d'entrainement par contact
+• Tolérance, dispersion et morphologie de surfaces
+• Théorie du contact, sec et lubrifié
+• Dynamique du contact normal
+• Instabilités de frottement
+
+La formation est complétée de deux BE qui permettra de lier et de mettre en application les concepts vus en cours. Cette activité de 8h encadrée concernera d'une part l'étude de paliers hydrodynamiques et d'autre part l'étude du crissement dans le contexte d'essuie glace.
+
+
+Compétences	◊ Conception avancée
+◊ Etude des performances de mécanismes
+◊ Introduction à la dynamique des contacts
+◊ Introduction à la lubrification
+
+
+Bibliographie	Johnson K.L.. Contact mechanics. Cambridge University Press. Editeur1, 2001.
+
+
+
+Contrôle des	Test final (50%) - note de savoir
+
+connaissances	BE (50%) - note de savoir faire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

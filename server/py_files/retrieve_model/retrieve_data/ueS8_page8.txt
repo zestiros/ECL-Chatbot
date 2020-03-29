@@ -1,0 +1,84 @@
+
+ AF ELC A-1
+
+
+Machine learning et applications
+
+Machine Learning and Applications
+
+Responsable(s) : Yohann DE CASTRO & Céline HELBERT
+
+| Cours : 13,5 h | TD : 6 h | TP : 0 h | Autonomie : 2,5 h | BE : 10 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Dans ce parcours, on présentera le domaine de l'apprentissage automatique, ses fondements, les problèmes qu'il permet d'aborder (apprentissage supervisé/non supervisé, batch/online, etc.) et les méthodes les plus récentes qui sont actuellement étudiées. Au delà de la description des concepts théoriques (minimisation empirique du risque, complexité combinatoire, etc.), ce module propose de nombreux travaux pratiques permettant de mettre en œuvre numériquement les méthodes abordées (algorithme classiques, validation croisée, etc.) et d'expérimenter certains phénomènes tels que le sur/sous apprentissage. Ces travaux seront réalisés en Python, et requerront de la programmation et l'utilisation de packages dédiés.
+
+Mots-clés : Machine Learning; Apprentissage Supervisé; Statistiques; Probabilités; Optimisation; Deep Learning; Intelligence Artificielle; SciKitLearn;
+
+
+Programme
+Theorie de la Decision, Classification et Regression lineaire ;
+
+Regression Logistique et Analyse Discrimante ;
+
+Validation Croisee, Classification multiclasse ;
+
+Arbres de Decision, Forets, Boosting et Bagging ;
+
+Deep Learning ;
+
+◊ Python (SciKitLearn)
+Compétences
+
+
+◊ etre capable de comprendre et utiliser des outils de Statistique ;
+
+◊ etre capable de comprendre et utiliser des outils d'algebre lineaire ;
+
+Objectifs : Résoudre de vrais problèmes de données grâce à Scikitlearn, apprendre les méthodes
+Travail en
+
+autonomie
+standard d'apprentissage supervisé, apprendre les réseaux de neurones profonds
+
+Méthodes : APP et TD et TPs
+
+Christophe Giraud. Introduction to High-Dimensional Statistics. CRC Press, 2014.
+Bibliographie
+
+
+Massih-Reza, A.. Apprentissage machine: De la theorie a la pratique-Concepts fondamentaux en
+
+Machine Learning. Eyrolles, 2015.
+
+Pedregosa, F. and Varoquaux, G. and Gramfort, A. a. Scikit-learn: Machine Learning in Python. Journal
+
+of Machine Learning Research, 2011.
+
+Exam (70 %) et projet Machine Learning (30 %)
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

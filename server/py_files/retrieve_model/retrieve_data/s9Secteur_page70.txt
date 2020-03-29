@@ -1,0 +1,67 @@
+
+ AF INFO 3.5
+
+
+Vision par ordinateur
+
+Computer Vision
+
+Responsable(s) : Mohsen Ardabilian, Liming Chen
+
+| Cours : 10 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 10 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+La vision par ordinateur a pour objectif de modéliser et d’automatiser le processus de la reconnaissance visuelle par la machine et possède de nombreuses applications (e.g., inspection industrielle, navigation robotique, interaction homme-machine, etc.). Ce cours introduit les concepts et techniques clés du domaine et couvre notamment les sujets suivants : formation et filtrage d’images, détection de contours et segmentation, descripteurs locaux et leur mise en correspondance, stéréovision, l’estimation du mouvement et de la structure, détection et reconnaissance d’objets.
+
+Mots-clés : Filtrage et traitement d’images, détection de contours et segmentation, descripteurs locaux, suivi du mouvement, stéréo vision, détection et reconnaissance d’objets
+
+
+
+Programme	Introduction à la vision par ordinateur
+Rappels sur la formation et le filtrage d’images, détection de contour par des techniques variationnelles
+Rappels sur les coordonnées homogènes et transformation géométrique
+Géométrie projective
+Segmentation d'images et d'objets
+Descripteurs de caractéristiques locaux et mise en correspondance
+Suivi du mouvement et estimation de la structure
+Calibration de caméra et stéréo vision
+
+Détection et reconnaissance d’objets
+
+
+Compétences	◊ Appréhender le processus de formation d’images et de la stéréovision
+◊ Etre capable de mettre en œuvre des techniques fondamentales pour améliorer et traiter les images
+
+◊ Développer des applications de vision pour la détection d’objets simples
+
+◊
+
+
+
+Bibliographie	D. Forsyth, J. Ponce. Computer Vision -- A Modern Approach. Prentice Hall, 2002.
+
+R. Szeliski. Computer Vision -- Algorithms and Applications. Springer, 2010.
+
+R. Hartley, A. Zisserman. Multiple View Geometry in Computer Vision. Cambridge University Press, 2004.
+
+
+
+Contrôle des	Test final et note de BE
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+

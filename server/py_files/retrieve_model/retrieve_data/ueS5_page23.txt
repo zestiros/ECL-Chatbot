@@ -1,0 +1,80 @@
+
+UE STI
+
+Sc i e n c e s e t Te c h n i q u e s d e l 'In f o rma t i o n
+
+Information science and techniques
+
+Direction : Navarro David
+
+90hTD, 6ECTS
+
+
+Présentation
+
+Les systèmes de communication et de traitement de l'information se sont largement développés ces dernières années. Ces systèmes, de plus en plus performants, atteignent un haut niveau de complexité. Il est donc nécessaire d'acquérir des compétences de base dans ces domaines, mais aussi d’acquérir des méthodes et outils scientifiques pour les appréhender.
+
+L'objectif pédagogique de l'UE STI est donc l'acquisition d'une compréhension globale des processus de traitement de l'information et de leur implémentation, nécessaire pour faire face aux défis qu'un ingénieur généraliste rencontrera au cours de sa vie professionnelle.
+
+Le niveau visé est suffisant pour mettre en œuvre les méthodes élémentaires, interagir avec des spécialistes du domaine ou s'orienter par la suite dans une carrière liée aux champs disciplinaires associés aux systèmes technologiques d'information (Électronique et Traitement du signal).
+
+Semestre
+Programme
+S5 ou S6
+STI tc 0
+: Autonomie STI
+
+STI tc 1
+: Systèmes électroniques
+Département
+
+
+
+STI tc 2
+: Traitement du Signal
+Département EEA
+
+
+
+STI tc 3
+: Conversion A/N pour les systèmes audio
+
+
+Équipes d’enseignement
+
+Automatique et Traitement du signal
+,Électronique
+
+Compétences visées par l’UE
+
+◊ Maîtriser les bases scientifiques du traitement de l'information (traitement du signal et électronique)
+◊ Être capable d'apréhender les principales fonctions présentes dans les systèmes de traitement de l'information
+
+◊ Maîtriser les principales techniques qui y sont associées
+◊ Maîtriser les principes technologiques qui sous-tendent ces systèmes de traitement de l'information.
+
+Pré-requis
+
+Lois électriques, filtrage analogique, amplificateurs opérationnels, codage binaire, logique, intégration, convergence (Analyse fonctionnelle), nombres complexes, probabilités élémentaires
+
+Évaluation
+
+Moyenne pondérée : STI tc0 : 15%, STI tc1 : 40%, STI tc2 : 40%, STI tc3 : 5%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

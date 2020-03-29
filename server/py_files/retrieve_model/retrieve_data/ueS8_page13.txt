@@ -1,0 +1,68 @@
+
+ AF ELC A-8
+
+
+Méthodes numériques en mécanique
+
+Numerical Methods for Mechanics
+
+Responsable(s) : Jérôme BOUDET, Olivier DESSOMBZ, Fabien GODEFERD
+
+| Cours : 14 h | TD : 14 h | TP : 0 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce module est une introduction aux méthodes de résolution employées dans les codes de simulation, aussi bien en mécanique des solides qu'en mécanique des fluides (CFD) et en énergétique. Différentes méthodes numériques permettant la résolution des problèmes aux limites introduits en tronc commun sont présentées, afin de maîtriser les concepts nécessaires à une bonne utilisation des logiciels de type industriel. Un effort particulier est porté sur la pratique et l'illustration physique, et l'interdisciplinarité permet une meilleure compréhension à la fois des modélisations et des phénomènes généraux.
+
+Mots-clés : méthodes numériques, volumes finis, résidus pondérés, éléments finis, mécanique des solides, mécanique des fluides
+
+
+Programme	-	Différences finies
+- Méthodes de résolution et propriétés des schémas
+- Volumes finis
+- Méthodes variationnelles
+- Méthodes spectrales
+- Eléments finis (1/2)
+- Eléments finis (2/2)
+
+
+Compétences	◊ Savoir modéliser numériquement un problème de mécanique
+◊ Savoir programmer les méthodes numériques de base en mécanique
+◊ Savoir analyser et interpréter des solutions numériques
+
+
+Bibliographie	C. Hirsch. Numerical computation of internal and external flows (Volumes 1 et 2). John Wiley and Sons, 1988.
+
+H.K. Versteegh and W. Malalasekera. An introduction to computational fluid dynamics. Longman, 1995.
+
+J.C. Craveur. Modélisation par éléments finis : Cours et exercices corrigés Ed. 3. Dunod, 2008.
+
+
+Contrôle des	Examen final de 2h (60%, savoir).
+
+connaissances	Comptes-rendus de travaux en TD / BE / autonomie (40%, savoir faire).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,89 @@
+
+ AF MOS 2.2
+
+
+Informatique Graphique
+
+Computer Graphics
+
+Responsable(s) : Nicola Bonneel
+
+| Cours : 0 h | TD : 28 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L’informatique graphique est un domaine scientifique et technique en plein essor ayant de multiples applications et débouchés dans les industries ayant recours à la visualisation scientifique, la simulation, la planification, l’archivage numérique, la réalité virtuelle et aux loisirs numériques. Malgré les performances sans cesse croissantes des matériels, les problèmes algorithmiques, scientifiques et techniques persistent. On citera en particulier la gestion des masses de données pour la modélisation, l’édition et la visualisation de très grands modèles. L’objectif de ce cours est de présenter les algorithmes et structures de données fondamentales en informatique graphique sous plusieurs angles complémentaires : modélisation 3D, visualisation et synthèse d’image, édition interactive.
+
+Mots-clés : Informatique Graphique. Modélisation 3D. Synthèse d’image. Algorithmes. Structures de données.
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+Options /
+
+Masters
+
+
+Bibliographie
+
+
+
+
+Géométrie algorithmique : algorithmes fondamentaux, calculs d’intersection et de séparation, structures de données spatiales.
+
+Modélisation : état de l’art des représentations d’objets, modélisation à l’aide de surfaces implicites, maillages et traitements sur les maillages, compression, énumération spatiale. Rendu réaliste : état de l’art des techniques de synthèse d’image, lancer de rayon stochastique, lancer de photon, radiosité.
+
+◊ A l’issu de cette UE l’élève doit être capable de maîtriser les modèles, algorithmes et outils abordés ainsi que leurs applications.
+
+Option 3A : Informatique. Secteurs : Jeux, Simulation, Serious Games, Animation.
+
+
+Peter Shirley. Fundamentals of Computer Graphics. AK Peters (Second Edition), 2009.
+
+Tomas Akenine-Moller, Eric Haines, Naty Hoffman. Real-Time Rendering. AK Peters (Third Edition), 2008.
+
+Henrik Wann Jensen. Realistic Image Synthesis Using Photon Mapping. AK Peters, 2005.
+
+
+
+Contrôle des	Examen, contrôle continu
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

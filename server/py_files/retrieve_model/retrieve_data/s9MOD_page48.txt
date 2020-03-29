@@ -1,0 +1,90 @@
+
+ AF MOD 8.1
+
+
+Interactions fluide-structure
+
+Fluid-Structure Interactions
+
+Responsable(s) : Mohammed ICHCHOU, Gilles ROBERT
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours est un cours d'introduction aux phénomènes de rayonnement et de couplage fluide-structure. Il a deux objectifs principaux. Le premier objectif de ce cours vise à donner à l'étudiant une méthode cohérente pour formuler un problème de couplage entre structures et fluides. Le second objectif vise une présentation non exhaustive des phénomènes d'interaction fondamentaux rencontrés dans les domaines d'applications pré-cités. Le rayonnement des structures est ainsi étayé par cet angle. Différentes approches analytiques et numériques permettant d'appréhender ce mécanisme de couplage sont explicitées.
+
+Mots-clés : couplage fluide-solide; fluide compressible; fluide incompressible, masse ajoutée; modes couplés fluide-structures; rayonnement acoustique; accrochage; chargement pariétal.
+
+
+
+Programme
+I- Couplage fluide-structure classification
+
+II- Mise en équation, mécanismes de couplages
+
+III- Couplage inertiel, couplage fort
+
+IV- Couplage dissipatif, rayonnement acoustique
+
+V- Rayonnement de structures simples (cas non borné et borné)
+
+VI- Interprétation physique et description modal, indicateurs de rayonnement, formulations
+
+numériques,
+
+opérateur d'impédance de rayonnement, mise en œuvre.
+
+VII- Eléments de couplage fluide-structure avec convection.
+
+◊ Savoir classifier les intéractions fluides-structures
+Compétences
+
+
+◊ Savoir formuler analytiquement quelques intéractions fluides-structures
+
+◊ Savoir traiter numériquement quelques intéractions fluides-structures
+
+◊ Savoir caractériser un chargement pariétal
+
+Analyse d'article en parallèle avec les activités pratiques
+Activités /
+
+Autonomie
+Calcul numérique par le code ANSYS de quelques situations
+
+Master Acoustiques
+Masters
+
+affiliés
+Master Aéronautique et Espace
+
+Master mécanique
+
+H. J.-P. Morand & R. Ohayon. Fluid-Structure Interaction. Wiley, 1995.
+Bibliographie
+
+
+E. de Langre. Fluides et solides. Editions de l'Ecole Polytechnique, 2002.
+
+Savoir: Contrôle écrit de connaissance individuel pour 50%
+Contrôle des
+
+connaissances
+Savoir-faire: Contrôle des connaissances TP/BE pour 50%
+
+
+
+
+
+
+
+
+
+
+

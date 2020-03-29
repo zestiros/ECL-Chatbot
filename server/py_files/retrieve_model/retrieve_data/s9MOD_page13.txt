@@ -1,0 +1,93 @@
+
+ AF MOD 2.1
+
+
+Défis informatiques du Big Data
+
+Big Data challenges
+
+Responsable(s) : Stéphane DERRODE, Emmanuel DELLANDREA
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'explosion quantitative des données numériques est à l'origine de nouveaux ordres de grandeur qui impactent la capture, le stockage, l'analyse et la visualisation des données. Les perspectives du traitement des big data sont encore en partie insoupçonnées : analyse prospective (climatique, commercial...), gestion des risques (assuranciel, industriel, naturel) ou encore médical (génomique, épidémiologie) et sécurité (lutte contre la criminalité).
+
+L'enseignement proposé permettra de découvrir les grandes problématiques soulevées par l'émergence de ces flots de données (stockage, interrogation, analyse et visualisation) et leur exploitation commerciale. Les questionnements d'ordre éthique et juridique que soulèvent la collecte et l'exploitation de ces données seront également examinés.
+
+Mots-clés : Big Data, NoSQL, Hadoop, Open-data.
+
+
+
+Programme
+Introduction : les enjeux techniques/économiques/éthiques du big-data
+
+Bases de données : NoSQL et MongoDB
+
+Open data et données publiques
+
+Big Data analytics
+
+TP #1 : Map-Reduce avec Apache/Hadoop
+
+TP #2 : Visualisation de données massives : OpenStreetMap
+
+TP #3 : Web sémantique.
+
+◊ comprendre les enjeux économiques, éthiques et techniques que soulèvent les big-data
+Compétences
+
+
+◊ utiliser un algorithme map-reduce fonctionnant sous Hadoop
+
+◊ avoir un esprit critique sur les nouveaux outils s'appuyant sur les données massives
+
+◊ approfondir ses compétences big-data par lui-même
+
+Approfondir un sujet en rédigeant une note de synthèse par groupe de 4/5 (Ex. Big data et
+Activités /
+
+Autonomie
+startup, les Data-Centers).
+
+- Synthèse bibliographique de lectures
+
+- Interview d'un acteur du big data
+
+Master Informatique de Lyon
+Masters
+
+affiliés
+
+
+Pirmin Lemberger et Marc Batty. Big Data et Machine Learning - Manuel du data scientist. Dunod, 2015.
+Bibliographie
+
+
+Rudi Bruchez. Les bases de données NoSQL et le Big Data : Comprendre et mettre en oeuvre.
+
+Eyrolles, 2015.
+
+Jean-Charles Cointot et Yves Eychenne. La Révolution Big data - Les données au coeur de la
+
+transformation de l'entreprise. Dunod, 2014.
+
+L'enseignement sera évalué par un examen et par la synthèse bibliographique (travail en
+Contrôle des
+
+connaissances
+autonomie).
+
+
+
+
+
+
+
+

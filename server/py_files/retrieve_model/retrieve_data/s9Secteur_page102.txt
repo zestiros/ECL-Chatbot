@@ -1,0 +1,120 @@
+
+Modules ouverts sectoriels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Les MOS (2019-2020)
+
+
+ AF MOS 1.1
+
+
+Aérodynamique transsonique
+
+Transonic aerodynamics
+
+Responsable(s) : Stéphane AUBERT
+
+| Cours : 20 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+La maitrise des phénomènes physiques inhérents au caractère compressible d’un écoulement gazeux à fort nombre de Mach est indispensable dans les phases de conception des aéronefs en vol transsonique ou supersonique et des turbines à gaz de nouvelle génération. L’objectif de ce cours est de donner les bases théoriques de l’aérodynamique supersonique, puis de les appliquer à des configurations externes (aile, nez de fuselage,…) et internes (compresseurs, turbines) grâce à des méthodes analytiques simplifiées et éprouvées.
+
+Mots-clés : écoulements compressibles, supersonique, onde de choc, onde de détente, interactions, méthodes analytiques
+
+
+
+Programme
+Mécanique des fluides compressibles et supersonique
+
+Rappel des éléments essentiels de la théorie des fluides compressibles (1D et 2D)
+
+Méthode des caractéristiques – Onde de détente
+
+Ondes de choc droit et oblique.
+
+Aérodynamique externe transsonique
+
+Ecoulements transsoniques/supersoniques autour d’un profil d’aile.
+
+Théorie linéarisée
+
+Phénomènes physiques : nombre de Mach critique, développement d’une poche supersonique,
+
+comportement de l’écoulement dans une interaction choc – couche limite
+
+Aérodynamique interne transsonique
+
+Intérêt des écoulements transsoniques en turbomachine et problèmes associés
+
+Notions d’incidence unique et de blocage sonique
+
+Conséquences sur les règles de conception.
+
+◊ Formuler et appliquer des modèles d’écoulement utilisables en aérodynamique compressible et
+Compétences
+
+
+transsonique
+
+◊ Comprendre les phénomènes transsoniques en aérodynamique externe et interne
+
+◊ Estimer la précision de la prédiction issue des modèles en vue de la détermination des
+
+grandeurs intéressantes du point de vue d’un concepteur.
+
+Aéronautique
+Options /
+
+Masters
+
+
+N.A. Cumpsty. Compressor Aerodynamics. Krieger Publishing Company, 2004.
+Bibliographie
+
+
+J.D. Anderson. Modern Compressible Flow. Mc Graw Hill, 2003.
+
+examen écrit de 2h
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+

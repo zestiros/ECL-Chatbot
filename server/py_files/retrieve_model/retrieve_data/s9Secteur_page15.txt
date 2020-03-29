@@ -1,0 +1,60 @@
+
+ AF AE 3.32
+
+
+Projet spécifique : Automatique
+
+Elective project : Control of aircraft
+
+Responsable(s) : Laurent Bako, Anton Korniienko, Gérard Scorletti
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 72 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Le développement des vols inhabités (aérospatial) a entraîné le développement de méthodes de commande puissantes adaptées aux contraintes fortes de ce domaine : multi-actionneurs multi-capteurs avec des exigences de performance importantes. Ces méthodes ont été très rapidement déployées dans l’aéronautique militaire (réactivité) avant de diffuser massivement dans l’aéronautique civile. Avec le renforcement de la concurrence, il est crucial de gérer au mieux l’énergie afin de limiter les coûts de revient tout en assurant le confort et la sécurité des passagers, ce qui rend indispensable les systèmes de commande. L’objectif de ce projet est de former aux méthodes de conception et de validation (robustesse) des systèmes de commande performants, incontournables dans l’industrie aéronautique.
+
+Mots-clés : Automatique, Commande multi-actionneurs multi-capteurs (multivariable), Mécanique du vol, Robustesse
+
+
+
+Programme	Il est possible de décomposer le travail à réaliser en trois phases :
+Une première étape d’étude bibliographique dans laquelle il s’agira de se familiariser à quelques notions de dynamique de vol, comprendre le modèle de mouvement latéral, formaliser le cahier de charges pour la conception des lois de commande.
+
+Une deuxième étape de conception proprement dite des correcteurs. En fonction du cahier des charges, les élèves sont amenés à choisir parmi un ensemble de méthodes multivariables (placement de pôles, H-infini, LQG, …), une méthode adéquate pour le calcul du correcteur. Une troisième étape de validation par application des méthodes d’analyse de la robustesse.
+
+
+Compétences	◊ Savoir formaliser le cahier des charges d’un système de commande
+◊ Savoir concevoir un algorithme de commande multivariable répondant à un cahier des charges complet
+
+◊ Savoir analyser la robustesse d’un système de commande
+◊ Savoir appliquer les compétences ci-dessus sur un avion de transport civil
+
+
+
+Bibliographie	D. Alazard, C. Cumer, P. Apkarian, M. Gauvrit et G. Robustesse et commande optimale. Cépaduès éditions, 1999.
+
+A. E. Bryson. Control of aircraft and spacecraft. Princeton University Press, 1994.
+
+S. Skogestad and I. Postlethwaite. Multivariable feedback control: analysis and design. Wiley-BlackWell, 2005.
+
+
+
+Contrôle des	Participation, compte-rendu écrit et soutenance
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+

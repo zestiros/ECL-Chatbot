@@ -1,0 +1,69 @@
+
+ AF FLE a 2-FH
+
+
+Acoustique et ondes dans les fluides
+
+Acoustics and Waves in Fluids
+
+Responsable(s) : Daniel Juve, Christophe Bailly
+
+| Cours : 20 h | TD : 24 h | TP : 4 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Acquérir les connaissances de base en acoustique et en propagation des ondes dans les fluides
+
+Mots-clés : Acoustique, Son, Bruit, Acoustique des Salles, Ondes, Relations de dispersion, Vitesses de phase et de groupe
+
+
+Programme	Les ondes sonores comme perturbations linéaires des équations de la mécanique des fluides. Equation de propagation des ondes ; énergie et intensité acoustique. Description dans le domaine fréquentiel ; équation de Helmholtz.
+Ondes planes et ondes sphériques ; impédance caractéristique ; champ proche, champ lointain.
+Génération des ondes planes et réflexion aux interfaces. Notion d'efficacité de rayonnement.
+Aspects perceptifs : déciBels, phones et sones, courbes de pondération.
+Notions d'acoustique architecturale : approche énergétique, temps de réverbération. Propagation d'un paquet d'ondes, vitesse de phase, vitesse de groupe, énergie, relation de dispersion, ondes longitudinales et transversales, approximations haute fréquence. Etc...
+
+
+Compétences	◊ Calculs simples d'acoustique (niveaux sonore, dB, temps de reverbération) ; maîtrise des sources élémentaires (planes, sphériques).
+◊ Etre capable de réaliser des calculs courants d'acoustique : niveaux sonores, puissance d'une source, temps de réverbération en acoustique des salles
+
+◊ Posséder des notions sur les échelles de déciBels, la caractérisation des nuisances sonores et leur perception
+
+◊ Maîtriser les techniques générales d'analyse de la propagation linéaires d'ondes dans les fluides
+: relations de dispersion, approximation haute fréquence
+
+
+Bibliographie	A. Pierce. Acoustics, an introduction to its physical principles and applicatons. McGraw-Hill, 1991.
+
+M. J. Lighthill. Waves in fluids. Cambridge, 1978.
+
+G. B. Whitham. Linear and nonlinear waves. Wiley, 1974.
+
+
+
+Contrôle des	Test écrit (50%) et évaluation des TD, autonomie et TP (50%)
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

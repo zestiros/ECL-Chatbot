@@ -1,0 +1,73 @@
+
+ AF ELC D-4
+
+
+Physico-chimie des surfaces
+
+Physics and Chemistry of Surfaces and Interfaces
+
+Responsable(s) : Denis MAZUYER, Juliette CAYER-BARRIOZ
+
+| Cours : 8 h | TD : 8 h | TP : 0 h | Autonomie : 0 h | BE : 16 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours aborde les notions fondamentales concernant les propriétés des surfaces et d'interfaces, liquides ou solides. À partir d'une introduction unifiée des forces intermoléculaires, on présente une description physique de l'état liquide et de systèmes complexes où la matière est dans un état très divisé tels que les agrégats moléculaires, les molécules en solutions ou les particules en suspension. Ils se caractérisent par la création des rapports surface/volume extrêmement élevés. Le contrôle des propriétés physico-chimiques de ces interfaces est nécessaire pour optimiser leurs procédés d'élaboration et leurs propriétés d'usage. Ces notions concernent le comportement d'objets comme les tissus vivants, les cosmétiques, les peintures et des procédés tels que l'enduction ou la détergence.
+
+Mots-clés : Energie de surface, forces intermoléculaires, surfaces, mouillage, colloïdes
+
+
+
+Programme	I. Forces intermoléculaires et forces de surfaces
+- Les forces de polarisation et de van der Waals
+- Forces de solvatation
+- Couche double électrique (DLVO)
+
+II. Interfaces solide/liquide
+- Énergie de surface et tension interfaciale : adhésion
+- Mouillage et capillarité
+- Films minces liquides
+
+III. Phénomènes d'adsorption et modification de surfaces
+- Systèmes moléculaires auto-assemblés et film de Langmuir
+- Polymères aux interfaces
+
+IV. Micelles, émulsions et mousses
+- Surfactants et systèmes micellaires
+- Stabilité colloïdale
+- Propriétés rhéologiques, structure moléculaires et interactions
+
+
+Compétences	◊ Maîtriser les notions d'adhésion et d'énergie de surface
+◊ Connaître les principales forces intermoléculaires, les lois de mouillage, de capillarité et d'adsorption
+
+◊ Etre capable de mettre en oeuvre une démarche de conception des milieux collo¨daux et d'analyse de leurs propriétés
+
+Travail en
+Objectifs : Approfondir et faire des liens entre les concepts abordés en cours et appréhender des
+autonomie
+nouveaux savoirs non traités en cours
+
+Méthodes : Méthodes d'apprentissage par problème, étude de cas et exposés
+
+J.N. Israelachvili. Intermolecular forces. Elsevier, 2011.
+Bibliographie
+
+
+H.-J. Butt, K. Graf, M. Kappl. Physics and Chemistry of Interfaces. Wiley, 2006.
+
+J.-M. Di Meglio. Les états de la matière, de la molécule au matériau. Dunod, 2001.
+
+Notes de BE (50%) + examen final (50%)
+Contrôle des
+
+connaissances
+
+
+
+

@@ -1,0 +1,87 @@
+
+ AF STI a 3-EG
+
+
+Architectures numériques de calcul et de traitement de l'information
+
+Digital computing and information processing architectures
+
+Responsable(s) : Ian O'Connor
+
+| Cours : 16 h | TD : 10 h | TP : 8 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours a pour objectif l'étude du fonctionnement matériel d'architectures électroniques numériques pour le calcul et le traitement de l'information. Il présente les composants systématiquement présents dans les architectures numériques
+: contrôle, chemin de données et mémoire. Il sera question d'analyser en première partie les architectures internes de processeurs et la façon dont elles exécutent les instructions logicielles, et ensuite de comprendre comment (par l'organisation des composants) il est possible d'améliorer les performances du processeur.
+
+Mots-clés : Processeurs, chemin de données, instructions logicielles, mémoires, architectures pipeline, mémoires cache
+
+
+
+Programme	Principes des architectures : von Neumann et Harvard (modifié), RISC, CISC.
+Construction d'un chemin de données, Contrôle et acheminement des instructions.
+Jeux d'instructions, mémoire et types d'adressage.
+Evaluation des performances d'une machine de calcul
+
+Accélérateurs de performances : Exécution en pipeline, Mémoires cache
+
+
+Compétences	◊ Comprendre le fonctionnement d'un processeur
+◊ Appréhender la programmation matérielle d'un processeur
+◊ Comprendre les enjeux des architectures (taille mémoire, vitesse, consommation énergétique ...)
+
+◊ Connaître les techniques d'accélération de performances classiques
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : Préparation des TDs (restitution en séance) ; séances de révision (préparation du contrôle)
+
+Méthodes : Interaction en séance
+
+John L. Hennessy, David A. Patterson, Morgan Kaufm. Computer Architecture: A Quantitative Approach, 4th Edition. PPUR, 2006.
+
+David A. Patterson, John L. Hennessy, Morgan Kaufm. Computer Organization and Design: The Hardware/Software Interface. DUNOD, 2008.
+
+David Harris, Sarah Harris. Digital Design and Computer Architecture,. Magnis nostris frequentibus, 2007.
+
+Contrôle écrit sans documents (50%)
+Activités pratiques (25%)
+
+Evaluation d'autonomie et de participation (25%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

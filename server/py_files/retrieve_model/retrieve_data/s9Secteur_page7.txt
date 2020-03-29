@@ -1,0 +1,132 @@
+
+◊ AE - Aéronautique
+
+◊ BIN - Bio-Ingénierie et Nanotechnologies
+
+◊ EN - Énergie
+
+◊ GCE - Génie Civil et Environnement
+
+◊ INFO - Informatique
+
+◊ MD - Mathématiques et Décision
+
+◊ TT - Transport et Trafic
+
+La note du module spécifique option est la moyenne pondérée des notes des modules spécifiques options. Le module est validé si cette moyenne est supérieure à 10.
+
+Les modules ouverts sectoriels (84h)
+
+En dehors des actions de formation spécifiques à l’option, l’élève doit choisir 3 actions de for-mations parmi 32 modules ouverts sectoriels (MOS) :
+
+
+Créneau 1
+Lundi 8h-12h
+
+
+MOS 1.1
+Aérodynamique transsonique
+
+
+MOS 2.1
+Algorithmes pour la décision en entreprise
+
+
+MOS 3.1
+Compatibilité électromagnétique des systèmes de puissance et interaction
+
+avec leur environnement
+
+
+MOS 4.1
+Génie de l’océan et du littoral (anglais)
+
+
+MOS 5.1
+Géotechnique
+
+
+MOS 6.1
+Ingénierie tissulaire et biomatériaux
+
+
+MOS 7.1
+Stabilité des machines tournantes (anglais)
+
+
+MOS 8.1
+Intrapreneur
+
+
+Créneau 2
+Mercredi 8h-12h
+
+
+MOS 1.2
+Bruit des transports
+
+
+MOS 2.2
+Informatique graphique
+
+
+MOS 3.2
+Ouvrages de production d’énergie
+
+
+MOS 4.2
+Pollution atmosphérique
+
+
+MOS 6.2
+Stratégie d’entreprise
+
+
+MOS 7.2
+Sûreté de fonctionnement des systèmes et des structures
+
+
+Créneau 3
+Mercredi 14h-18h
+
+
+MOS 1.3
+Calculs avancés en dynamique des véhicules
+
+
+MOS 2.3
+Choix des matériaux et des assemblages
+
+
+MOS 3.3
+Véhicules hybrides : modélisation et gestion de l’énergie
+
+
+MOS 4.3
+Informatique d’entreprise
+
+
+MOS 5.3
+Problèmes en domaines non bornés : analyse mathématique et
+
+simulation numérique (anglais)
+
+
+MOS 6.3
+Microsystèmes, microcapteurs, microfluidique
+
+
+MOS 7.3
+Procédés généraux de construction
+
+
+MOS 8.3
+Entrepreneur
+
+
+
+
+
+
+
+

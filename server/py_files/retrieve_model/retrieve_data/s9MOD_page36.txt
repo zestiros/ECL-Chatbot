@@ -1,0 +1,95 @@
+
+ AF MOD 6.1
+
+
+Nanotechnologies
+
+Nanotechnologies
+
+Responsable(s) : Magali PHANER-GOUTORBE, Virginie MONNIER
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les nanosciences et nanotechnologies traitent de la compréhension des propriétés spécifiques de structures à l'échelle nanométrique, ainsi que de l'élaboration et de la caractérisation de ces nanostructures. Les nanotechnologies permettent de repousser les limites de la miniaturisation et d'engendrer de nouvelles applications et de nouvelles fonctionnalités en micro- et optoélectronique, en science des matériaux, en biologie, en médecine, en énergie et environnement. Ce cours présentera les propriétés spécifiques des nanostructures et nanomatériaux, ainsi que les outils d'observation et d'élaboration à l'échelle nanométrique. Il mettra l'accent sur les réalisations technologiques déjà existantes ou susceptibles d'émerger dans un avenir proche.
+
+Mots-clés : Physique des systèmes de faible dimensionnalité, Microscopies champ proche, Nanolithographie, Nanomatériaux, Nanoélectronique, Nanobiotechnologies, Nanotechnologie pour l'énergie et l'environnement
+
+
+
+Programme
+Introduction aux nanosciences et nanotechnologies.
+
+Applications des nanotechnologies dans les objets de tous les jours et de demain (smartphone,
+
+nanorobot, nanocapsule médicale...)
+
+Techniques d'observation et de caractérisation des nanostructures.
+
+Procédés de fabrication nanolithographie.
+
+Nanomatériaux, nanofils et nanoparticules.
+
+Nanoélectronique, électronique moléculaire, transistor à un électron.
+
+Nanobiotechnologies : biopuces à ADN et à protéines, auto-assemblage et biologie, structures
+
+biomimétiques.
+
+Nanotechnologie pour l'énergie et l'environnement
+
+BE nanoparticules magnétiques - stockage de données et applications biomédicales
+
+TP Microscopie à Force Atomique
+
+◊ Maîtriser les enjeux des nanotechnologies dans les domaines des technologies de l'information,
+Compétences
+
+
+des matériaux, de la médecine,de l'énergie et de l'environnement.
+
+◊ Comprendre les phénomènes physiques des structures de faible dimensionnalité
+
+◊ Réfléchir aux développements futurs des nanotechnologies
+
+Approfondissement d'une partie du cours
+Activités /
+
+Autonomie
+Études spécifiques d'objets utilisant les nanos, travail en groupe
+
+Exposés
+
+Equivalence possible pour le master NSE et lien très fort avec les masters MISTE et EEEA
+Masters
+
+affiliés
+Recommandé pour l'option BIN
+
+M. LAHMANI, C. BRECHIGNAC, P. HOUDY. Les nanosciences. Tome 1: Nanotechnologies et
+Bibliographie
+
+
+nanophysique. Editions Belin, 2004.
+
+M. LAHMANI, C. BRECHIGNAC, P. HOUDY. Les nanosciences. Tome 2: Nanomatériaux et
+
+nanochimie. Editions Belin, 2006.
+
+M. LAHMANI, C. BRECHIGNAC, P. HOUDY. Les nanosciences. Tome 3: Nanobiotechnologies et
+
+nanobiologie. Editions Belin, 2007.
+
+Évaluation de l'activité pratique.
+Contrôle des
+
+connaissances
+Évaluation en BE.
+
+

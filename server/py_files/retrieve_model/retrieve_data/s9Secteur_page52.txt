@@ -1,0 +1,66 @@
+
+ AF ENV 3.3
+
+
+Hydrogéologie
+
+Hydrogeology
+
+Responsable(s) : Pietro Salizzoni, Jean-Sébastien Beaulne, Richard Perkins
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Acquisition des connaissances scientifiques et technologiques pour traiter des problèmes environnementaux où l’eau souterraine et la géologie du site jouent un rôle majeur. Elle vise à donner une formation à la modélisation hydrogéologique pour la simulation des écoulements et le transport de polluants dans les eaux souterraines.
+
+Mots-clés : Milieu poreux, charge hydraulique, piézométrie, conductivité hydraulique, écoulement, ligne de courant, dispersion hydrodynamique.
+
+
+
+Programme	Les eaux souterraines dans le cycle hydrologique naturel.
+Types d'eau dans les milieux poreux et fracturés.
+Nappes, propriétés physiques des réservoirs, cartes piézométriques et réseaux d'écoulement.
+Notions de base de mécanique des fluides en milieu poreux et loi de Darcy.
+Intégration des équations élémentaires, équation de diffusivité.
+Solutions analytiques de l’équation de diffusivité, (Dupuit, Thiem, Theis, Jacob).
+Mesure des caractéristiques hydrauliques par l'interprétation des essais de pompage. Modalité de
+perforation des puits.
+Essais de puits.
+Transport des polluants en milieux poreux : phénomènes physiques et chimiques. Modélisation numérique des écoulements dans les milieux poreux.
+
+
+Compétences	◊ Connaître et maitriser les concepts fondamentaux d’hydrogéologie
+◊ Savoir appliquer les modèles analytiques simples à des problèmes réels
+◊ Être capable de mettre en œuvre une simulation numérique d’un cas réel
+◊ 
+
+
+
+Bibliographie	Bear, J.. Dynamics of Fluids in Porous Media. Dover Civil and Mechanical Engineering, 1988.
+
+Domenico, P.A. & Schwartz, F.W.. Physical and Chemical Hydrogeology. John Wiley & Sons, 1998.
+
+Freeze, R.A. & Cherry, J.A.,. Groundwater. Prentice Hall, 1979.
+
+
+
+Contrôle des L’évaluation du cours sera basée sur les comptes rendus de BE réalisés pendant le cours et sur connaissances une évaluation orale des compétences acquises par l’étu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

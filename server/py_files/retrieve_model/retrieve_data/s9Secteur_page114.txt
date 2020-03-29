@@ -1,0 +1,97 @@
+
+ AF MOS 3.3
+
+
+Véhicules hybrides : modélisation et gestion de l'énergie
+
+Hybrid electric vehicles : modelling and energy management
+
+Responsable(s) : Florent Morel
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif de ce module est de présenter les véhicules électriques et hybrides ainsi que leurs composants. La modélisation, le dimensionnent et la gestion de l’énergie pour les véhicules hybrides et leurs composants sont étudiés.
+
+Douze heures sont consacrées à des BE pour développer des modèles et simuler des véhicules. Les sujets abordés couvrent le développement de modèle des véhicules électriques, la modélisation et la gestion de la Toyota Prius, l'optimisation de la gestion de l’énergie des véhicules hybrides série.
+
+Mots-clés : Véhicule hybride, véhicule électrique, modélisation systémique, batterie, moteur thermique, moteur électrique, normes anti-pollution, gestion d'énergie, bilan environnemental
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+
+Options /
+
+Masters
+
+
+Bibliographie
+
+
+
+La totalité des séances est assurée par des spécialistes du sujet, chercheurs de l'IFSTTAR.
+
+1) Les véhicules à motorisation hybride : généralités, définitions, classification et modélisation systémiques.
+
+2) Les batteries pour les véhicules électriques et hybrides : introduction, modélisation, utilisation, dimensionnement, sécurité et vieillissement.
+
+3) Les moteurs thermiques et électriques : présentation générale, les différents moteurs électriques et leurs commandes, les différents moteurs thermiques, les normes anti-pollution, application sur véhicules électriques et thermiques.
+
+4) La gestion d’énergie dans les véhicules hybrides : définition, optimisation, application au cas de la Toyota Prius, dimensionnement des systèmes, notion de bilan environnemental.
+
+5) Application : 12h de BE.
+
+◊ Comprendre le principe de fonctionnement des constituants des véhicules électriques et hybrides (moteurs, batteries, convertisseurs électroniques de puissance…)
+
+◊ Modéliser un véhicule hybride
+◊ Dimensionner les constituants d'un véhicule électrique/hybride
+◊ Simuler un système de gestion de l'énergie dans un véhicule hybride
+
+MOS conseillé pour les Options "Énergie" et "Transport et trafic" et pour les élèves en double inscription avec le parcours GE du master EEEA.
+
+Lino Guzzella, Antonio Sciarretta. Vehicle Propulsion Systems -- Introduction to Modeling and Optimization. Springer, 2013.
+
+
+Chris Mi, M. Abul Masrur, David Wenzhong Gao. Hybrid Electric Vehicles: Principles and Applications with Practical Perspectives. Wiley, 2011.
+
+
+
+Contrôle des	Test final sous forme de QCM et de questions ouvertes.
+
+connaissances	Compte rendu et contrôle continu pendant les BE.
+
+
+
+
+
+

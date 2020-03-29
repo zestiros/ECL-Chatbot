@@ -1,0 +1,80 @@
+
+ AF OUV 3.1
+
+
+Constructions
+
+Constructions
+
+Responsable(s) : Francesco Froiio
+
+| Cours : 24 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 16 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+A travers ce cours, trois technologies constructives les plus représentatives des pratiques actuelles sont abordées, à savoir le béton armé, le béton précontraint et la construction métallique.
+
+Le but de ce cours est de donner des outils pour réaliser des choix technologiques, et les techniques de calculs pour dimensionner, poutres, planchers, poteaux ainsi que les murs porteurs. Le cadre réglementaire européen est posé sans quoi aucun calcul ne peut être mené.
+
+Tous les BE associés à ces cours sont encadrés par des ingénieurs de la profession.
+
+Mots-clés :
+
+
+
+Programme
+Béton armé : CM 10h + 2BE 4h
+
+Construction métallique : CM 10h + 2BE 4h
+
+Béton précontraint : CM 4h
+
+Une partie du cours de construction métallique sera abordée dans le cadre du MOD11.5 qui est
+
+obligatoire pour la filière OUV.
+
+◊
+Compétences
+
+
+◊
+
+◊
+
+◊
+
+Jean-Louis Granju. Introduction au béton armé : Théorie et application. Eyrolles Afnor éd, 2014.
+Bibliographie
+
+
+Henry Thonier. Conception et calcul des structures de bâtiment : L'Eurocode 2 pratique. Presses de
+
+l'École nationale des ponts et chaussée, 2006.
+
+Muzeau Jean-Pierre. Manuel de construction métallique. Eyrolles Afnor éd., 2012.
+
+1 test de 2h lié au béton armé 0,67 + 1 note de travail en BE 0,33
+Contrôle des
+
+connaissances
+1 test de 2h lié à la construction métallique 0,67 + 1 note de travail en BE 0,33
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

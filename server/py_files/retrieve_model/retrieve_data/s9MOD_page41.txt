@@ -1,0 +1,87 @@
+
+ AF MOD 6.6
+
+
+Dynamique des systèmes biologiques humains
+
+Dynamics of biological human systems
+
+Responsable(s) : Didier DRAGNA
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le corps humain est un système dynamique extraordinairement complexe, dont la description physique est essentiellement multidisciplinaire. Il comporte de nombreux processus d'autorégulation visant à maintenir l'équilibre interne, appelé l'homéostasie. Dans ce cours, on se propose d'aborder la modélisation physique des systèmes biologiques chez l'homme, ainsi que de présenter quelques applications en bio-ingénierie (cœur artificiel, robotique médicale et imagerie).
+
+Mots-clés :
+
+
+
+Programme	1. Modélisation des systèmes biologiques humains
+1.1 Modèles mécaniques :
+- le système musculo-squelettique
+Résistance des matériaux, systèmes multi-corps rigides et flexibles, biomatériaux.
+- le système auditif
+mécanique des fluides, acoustique.
+1.2 Modèles multi-physiques :
+- le système cardiovasculaire
+mécanique du cœur, circulation sanguine, circuits électriques équivalents, cœur artificiel.
+2. Robotique médicale
+3. Imagerie médicale
+
+problèmes inverses, contrôle non destructif, ultrasons, rayons X, IRM.
+
+
+Compétences	◊ Faire le lien entre votre formation pluri-disciplinaire fondamentale et le génie biomédical.
+◊ Acquérir des connaissances fondamentales en génie biomédical pour maîtriser les applications récentes et futures
+
+◊ Etre capable de dialoguer avec des professionnels de santé sur les sujets du programme.
+
+Activités /
+1.
+Simulation du mouvement avec un modèle multi-corps
+Autonomie
+2.
+Traitement du signal pour un électrocardiogramme
+
+3.
+Présentation et compte-rendu de lecture d'un article de recherche.
+
+Ingénierie de la santé.
+Masters
+
+affiliés
+Biomécanique.
+
+D. A. Neumann. Kinesiology of the musculoskeletal system. Foundations for physical rehabilitation.
+Bibliographie
+
+
+
+McGraw-Hill, 2002.
+
+L. Waite. Biofluid mechanics in cardiovascular systems. McGraw-Hill, 2006.
+
+C. Guy et D. Ffytche. Introduction to the principles of medical imaging. Imperial College Press, 2005.
+
+examen + comptes-rendus de BE + un exposé relatif à une lecture d'article (50%+25%+25%)
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+

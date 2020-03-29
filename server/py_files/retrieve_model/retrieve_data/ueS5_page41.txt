@@ -1,0 +1,72 @@
+
+ AF MSS tc 4
+
+
+Dynamique des Structures
+
+Structural Dynamics
+
+Responsable(s) : Sébastien Besset
+
+| Cours : 4 h | TD : 4 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif de cette action de formation est d'approfondir les techniques de synthèses modales : effets de troncature, modifications structurales, et d'étendre les modèles dynamiques aux situations de structures soumises à de grands déplacements et/ou à des chargements combinés, pour prévoir et maitriser, lors de la conception, les phénomènes associés : risques d'instabilité, de flottement. Le contenu pédagogique s'appuie sur des compléments de formation sous la forme de cours et TD, d'une séance de TP portant sur l'effet d'une pré-charge statique sur le comportement dynamique d'une structure et d'un projet de conception qui servira d'exemple support.
+
+Mots-clés : Synthèse modale, Grands déplacements, Précontraintes statiques
+
+
+
+Programme	Synthèse modale : description du comportement dynamique d'une structure sur la base des modes propres. Définition du nombre de modes pris en compte en fonction du domaine fréquentiel de l'excitation, effets de la troncature modale. Prévision de l'effet d'une modification structurale localisée.
+
+Grands déplacements, précontraintes statiques : mise en équations sur des cas simples, prévision qualitative des phénomènes attendus, mise en œuvre des simulations à l'aide d'un logiciel de calcul de structures par la méthode des éléments finis.
+
+TP : modifications des modes propres d'une structure soumise à un chargement statique croissant. Phénomène de flambement.
+
+BE : projet de conception d'une structure ou de simulation du comportement d'une structure.
+
+
+Compétences	◊ Être capapble de proposer un modèle de simulation prédictif de comportement dynamique d’une structure
+◊ Être capable de réunir les informations nécessaires et estimer leurs degrés d’importance et de fiabilité
+
+◊ Savoir évaluer les limites de validité d’un modèle
+◊ Comprendre les notions nécessaires à l'utilisation d'un code de calcul en dynamique
+
+Travail en
+Objectifs : Les élèves sont confrontés à un problème de modélisation dans le cadre d’une
+autonomie
+application quasi industrielle
+
+Méthodes : L’enseignant présente le problème et intervient en ressource
+
+T. Gmür. Dynamique des Structures : Analyse modale numérique. Presses Polytechniques et
+Bibliographie
+
+
+Universitaires Romandes, 1997.
+
+Michel Géradin, Daniel Rixen. Théorie des Vibrations, Application à la Dynamique des Structures.
+
+Elsevier-Masson, 1999.
+
+Olgierd Cecil Zienkiewicz. La méthode des éléments finis. McGraw Hill, 1979.
+
+Note de TP (1/3) et note de BE (2/3)
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+

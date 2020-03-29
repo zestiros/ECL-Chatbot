@@ -1,0 +1,68 @@
+
+ AF EI 3.1
+
+
+Réseaux d'énergie
+
+Energy Networks
+
+Responsable(s) : D. VOYER
+
+| Cours : 14 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Les réseaux jouent un rôle central dans le système électrique (grands réseaux d’interconnexion, réseaux de site industriel, d’agglomération). La continuité et la qualité de la fourniture dépendent de la fiabilité de ses composants et des performances de la gestion du réseau. Ce module s’articule autour de 3 thématiques :
+- Technique Haute Tension;
+- Alternateur;
+- Production répartie
+
+Mots-clés :
+
+
+
+Programme	- Technique Haute Tension : La transmission des hautes puissances passe inévitablement par la mise en œuvre de tensions élevées qui nécessite la maîtrise d’une technologie spécifique.
+- Alternateur : La production électrique se fait essentiellement au travers d’une conversion électromécanique réalisée très souvent par des alternateurs. Ce cours permet d’acquérir les notions minimales pour de comprendre le pilotage de ces systèmes.
+
+- Production répartie : On assiste à une montée en puissance des moyens de production décentralisée (cogénération, éolien, solaire) introduisant des contraintes supplémentaires sur les réseaux. Les techniques de production répartie de l’énergie électrique et leurs contraintes seront présentées dans ce cours.
+
+Compétences
+◊
+
+◊
+
+◊
+
+◊
+
+
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

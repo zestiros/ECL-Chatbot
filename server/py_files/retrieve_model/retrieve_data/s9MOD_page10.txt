@@ -1,0 +1,84 @@
+
+ AF MOD 1.4
+
+
+Physique des écoulements turbulents
+
+Physics of turbulent flows
+
+Responsable(s) : Christophe BAILLY, Christophe BOGEY, Simon PRIGENT
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+La turbulence intervient dans de nombreuses applications technologiques des transports terrestres, de l'aéronautique et du spatial (aérodynamique interne et externe, combustion, aéroacoustique, vibroacoustique) et de l'énergie. Elle joue également un rôle déterminant dans le domaine de l'environnement (dispersion de polluants) et des écoulements géophysiques (météorologie, climat). Ce cours aborde les grandes problématiques de la turbulence, et présente la physique des phénomènes impliqués et leur modélisation. Le cours s'appuie sur de nombreux exemples de cas pratiques, ainsi que sur les résultats les plus récents obtenus par les simulations numériques et les techniques expérimentales (cours pouvant d'être donné en anglais suivant le public présent, supports de cours en anglais)
+
+Mots-clés : turbulence, mécanique des fluides, aérodynamique, couche limite, modèle de turbulence, dynamique de la vorticité, turbulence homogène et isotrope, théorie de Kolmogorov, simulation numérique (DNS, LES, RANS), techniques expérimentales (HWA, LDA, PIV)
+
+
+
+Programme	Quelques exemples d'écoulements turbulents Description statistique pour l'écoulement moyen
+Ecoulements de paroi et propriétés physiques de la couche limite turbulente
+Un exemple de modélisation de type RANS: le modèle k-epsilon (k-omega)
+Dynamique de la vorticité
+Turbulence homogène et isotrope, théorie de Kolmogorov
+
+Quelques illustrations sur l'état de l'art pour les simulations numériques et les techniques expérimentales
+
+
+Compétences	◊ Maitriser des principaux éléments physiques (production, couche limite, vorticité, Kolmogorov)
+◊ Connaissance générales des techniques numériques et expérimentales (état de l'art)
+◊ Savoir-faire dans la modélisation (modèles de turbulence)
+◊ Savoir-faire dans l'analyse des résultats (traitement du signal ou modélisation avec Matlab par exemple)
+
+
+
+Activités /
+
+Autonomie
+
+
+
+
+
+
+
+Masters
+
+affiliés
+
+
+
+Bibliographie
+
+
+
+
+
+Contrôle des connaissances
+
+
+Exercices à résoudre de manière régulière par binôme (4 dans une liste d'une dizaine au choix) portant sur la modélisation, la résolution de problèmes sous Matlab, l'approfondissement d'un sujet via la bibliographie, ...
+
+2 séances de travaux pratiques (caractérisation d'une turbulence de jet libre par fil chaud et modélisation numérique d'un écoulement de paroi) et un TD (4h)
+
+Mécanique des fluides & énergie
+Acoustique
+
+Aéronautique
+
+
+Bailly C. & Comte-Bellot G.. Turbulence. Springer, 2015.
+
+Davidson P. A.. Turbulence. An introduction for scientists and engineers. Oxford University Press, 2004.
+
+Pope S.B.. Turbulent flows. Cambridge University Press, 2000.
+
+
+Contrôle continu (4 exercices dans une liste), activités pratiques (2 TP, 1 BE). Savoir 30%, Savoir-faire 30%, Méthodologie 40%

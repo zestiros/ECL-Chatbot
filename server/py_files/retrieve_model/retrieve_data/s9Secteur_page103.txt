@@ -1,0 +1,77 @@
+
+ AF MOS 1.2
+
+
+Bruit des Transports
+
+Transportation Noise
+
+Responsable(s) : Mohamed Ichchou, Didier Dragna
+
+| Cours : 16 h | TD : 0 h | TP : 12 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le niveau sonore tant à l'intérieur qu'à l'extérieur des systèmes de transport est un élément important à prendre en compte dès la phase de conception : contraintes législatives fortes en terme de nuisances ; confort acoustique et vibratoire souvent déterminant dans le choix des clients. Ces bruits ont une origine multiple : systèmes de propulsion et de motorisation, ventilation et climatisation, écoulement instationnaire se développant autour des véhicules. Ce module traite des sources sonores liées aux différents moyens de transports, avec une attention particulière sur le transport aérien, et de leurs conséquences pour les niveaux de bruit perçus à l'intérieur et à l'extérieur des véhicules. Les cours liés au transport aérien sont assurés par des intervenants de SAFRAN Aircraft Engines.
+
+Mots-clés : Acoustique, bruit, vibrations, confort, nuisances, systèmes de transport, automobile, ferroviaire, aéronautique
+
+
+
+Programme	I - Sources de bruit pour les transports terrestres. Législation et certification.
+II - Sources de bruit pour les transports aériens. Législation et certification. (SAFRAN AE) III - Technologies de réduction de bruit en aéronautique. (SAFRAN AE)
+
+IV - Localisation et Identification des sources. Mesures avancées (SAFRAN AE).
+V - Analyse du bruit solidien. Vibroacoustique. Approche SEA. Eléments de vibroacoustique numérique.
+
+Compétences
+◊ comprendre les enjeux bruit et vibration dans les transports
+
+◊ connaître et être capable d'analyser les sources de bruit dans les transports
+
+◊ résoudre des problèmes types en acoustique des transports
+
+Options ECL : Aéronautique, Transports et trafic (MOS conseillé).
+Options /
+
+Masters
+Master : Acoustique (MOS conseillé) et Aéronautique et espace.
+
+M. P. Norton. Fundamentals of noise and vibration analysis for engineers. Cambridge University
+Bibliographie
+
+
+Press, 1989.
+
+F. Fahy. Engineering Acoustics. Academic Press, 2001.
+
+T.D. Rossing. Springer Handbook of Acoustics. Springer Verlag, 2007.
+
+Examen écrit
+Contrôle des
+
+connaissances
+Rapports sur TP/BE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,73 @@
+
+ AF MOD 4.2
+
+
+Energie Stockage-Conversion
+
+Energy, Storage, Conversion
+
+Responsable(s) : Guy STREMSDOERFER, Jean-Pierre CLOAREC
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'augmentation de la population mondiale, l'élargissement de la demande (2 milliards de personnes n'ont pas accès à l'électricité), ou l'augmentation de la demande (parc automobile passera de 400 millions à 1 milliard dès 2020), fait que la place et le rôle des énergies revêt une grande importance
+
+La matière " stocke différemment l'énergie". Cette réserve et densité énergétique disponible seront différentes selon les sources et interactions impliquées. Les cycles et procédés de la transformation permettant les conversions et échanges d'énergie seront étudiés en soulignant l'ingénierie liée aux énergies renouvelables (hydraulique, solaire, éolien, biomasse, géothermie). Ce module ouvert doit permettre d'avoir une meilleure vision des enjeux énergétique au regard des concepts scientifiques.
+
+Mots-clés : Interaction nucléaire, électromagnétique, gravitationnelle ; densité énergétique ; procédés de transformation ; conversion et échange d'énergie ; techniques de stockage.
+
+
+
+Programme	1-Les diverses conversions et hiérarchie des énergies (2H) G.Stremsdoerfer, JP. Cloarec 2- Transformation et stockage : Mécanique - Electrique (2H), F.Morel 3- Transformation et stockage : Chimique - Thermique (2H) J.M. Vignon
+4- Transformation et stockage : Chimique - Electrique (2H) G. Stremsdoerfer
+5- Transformation et stockage : Electrique - Magnétique (2H) D. Voyer
+6- Transformation et stockage : Nucleaire Thermique (2H) Y.Robach
+7- Transformation: Rayonnement - Electrique, (2H) E. Drouard
+
+8- Transformation et stockage : Biochimique-Thermique (2H) E. Laurenceau
+
+
+Compétences	◊ être capable de faire une analyse systémique d'un système énergétique
+◊ comprendre et formuler le problème lié à une conversion énergétique
+◊ identifier les interactions entre éléments (types de transformations, stockages, conversions)
+◊ travailler en groupe et présenter des solutions pour un problème énergétique
+
+Activités /
+BE: Le véhicule écologique : réalité ou utopie ? Etude d'un véhicule à air comprimé
+Autonomie
+BE: Les différentes formes de Stockage et étude de dimensionnement d'un champ photovoltaïque
+
+3 BE : Restitution du travail à partir d'un choix de sujets ( 18-20 sujets proposés ou à proposer).
+
+Travail en autonomie par groupes de 2 ou 3.
+
+CEA. Memento sur l'énergie " Energy handbook ". CEA, 2015.
+Bibliographie
+
+
+2h de test (50%) + restitution travail en BE (50%)
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

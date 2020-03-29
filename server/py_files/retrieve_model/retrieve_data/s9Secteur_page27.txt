@@ -1,0 +1,68 @@
+
+ AF EI 3.3
+
+
+Ingénierie nucléaire
+
+Nuclear Engineering
+
+Responsable(s) : Yves ROBACH
+
+| Cours : 27 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Ce cours apporte les éléments d’approfondissement essentiels pour ceux qui seraient amenés à travailler dans le domaine des énergies nucléaires de fission ou de fusion. Concernant l’énergie nucléaire de fission, il portera sur 2 aspects intimement liés à la sûreté nucléaire: la thermohydraulique du cœur d’une part et l’analyse de risque appliquée spécifiquement au domaine nucléaire d’autre part. Concernant l’énergie nucléaire de fusion, ce module permettra d’approfondir la physique des plasmas, les problèmes d’interactions plasma – matière et les aspects liés au confinement magnétique.
+
+Mots-clés : Fission nucléaire, fusion nucléaire
+
+
+
+Programme	Le module se déroule en deux parties : un partie sur la fission et une partie sur la fusion.
+
+
+Compétences	◊ Etre capable d'identifier les grands enjeux énergétiques dans le domaine du nucléaire.
+◊ Identifier les risques en sûreté nucléaire.
+◊ Appréhender les verrous technologiques liés à la fusion nucléaire.
+◊ 
+
+
+
+
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

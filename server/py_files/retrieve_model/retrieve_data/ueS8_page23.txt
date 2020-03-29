@@ -1,0 +1,71 @@
+
+ AF ELC B-8
+
+
+Elaboration de pièces techniques
+
+Development of Technical Products
+
+Responsable(s) : Denis MAZUYER, Bertrand HOUX
+
+| Cours : 4 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 4 h | Projet : 20 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours a pour objectif d'étudier les interactions matières, formes, procédés dans la conception et l'industrialisation de pièces techniques.
+
+A partir d'études de cas, cet enseignement permettra d'aborder les points suivants :
+- Connaissance des procédés de mise en forme des matériaux plastiques et métalliques,
+- Choix d'un matériau (critères fonctionnels et mise en œuvre),
+- Choix d'un procédé (critères économique et technique),
+- Définition d'une forme (critères fonctionnel, procédé et matériau).
+
+On s'intéressera plus particulièrement aux procédés impliquant :
+- des transformations de la matière : Matériaux plastiques : injection, extrusion, thermoformage...
+- des déformations plastiques : Matériaux métalliques : estampage, emboutissage...
+
+Mots-clés : Procédés de mise en forme, Matières plastiques, Injection, extrusion, thermoformage, Matériaux métalliques, Déformation plastique, Estampage, Emboutissage.
+
+
+Programme	I. Injection des matières plastiques
+- Conception et dimensionnement d'une pièce à injecter,
+- Définition des outillages d'injection,
+- Simulation, mise en œuvre et paramétrage du procédé d'injection.
+
+II. Mise en forme par déformation plastique
+- Conception de pièces obtenues par emboutissage et/ou estampage,
+- Définition des outillages,
+- Simulation expérimentale des procédés d'emboutissage et/ou d'estampage.
+
+Lors du déroulement des séances, pour chaque problème, des ressources seront proposées aux élèves et par les élèves, sous forme diverses : ouvrages, articles, polycopiés, sites web, logiciels, matériel...
+
+
+Compétences	◊ Etre capable de choisir un procédé de mise en forme.
+◊ Maitriser le procédé d'injection de matières plastiques et être capable de concevoir une pièce mécanique en matière plastique injectée.
+
+◊ Etre capable de concevoir une pièce mécanique métallique emboutie et/ou estampée.
+
+Travail en
+Objectifs : 5 séances de 4 heures seront réalisées sous forme de projet (dont 1 séance consacrée
+autonomie
+à l'évaluation orale).
+
+Méthodes : L'enseignement sera basé sur une adaptation de la méthode PBL (Situation-pro-
+
+blème), permettant d'aborder de façon concrète ces problématiques à partir d'études de cas
+
+réels et de mises en situation.
+
+La dernière séance est consacrée à l'évaluation orale du travail effectué par chaque groupe (50
+Contrôle des
+
+connaissances
+%) + examen final sous forme d'un QCM (50 %).
+
+
+

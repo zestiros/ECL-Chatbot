@@ -1,0 +1,92 @@
+
+UE MTH
+
+Ma t h é m a t i q ues
+
+Mathematics
+
+Directeur : Céline Helbert
+
+96hTD, 6 ECTS
+
+
+Présentation
+
+Les compétences acquises dans l'UE Mathématiques sont transversales au sens où elles sont applicables dans les autres UE du tronc commun. Cette UE présente des outils de résolution pour des classes de problèmes abstraits dont la formalisation fait intervenir des modèles déterministes ou non déterministes. Ces modèles peuvent décrire des phénomènes apparaissant en physique, mécanique, économie, gestion, etc.
+
+Les cours proposés apportent un cadre rigoureux pour l'analyse et la résolution de problèmes.
+
+
+Semestre
+Programme
+S5
+MTH tc 1 : Analyse appliquée
+
+MTH tc 2 : Analyse numérique
+Département
+
+
+MTH tc 3
+: Probabilités
+Math-Info
+
+
+
+MTH tc 4
+: Statistique
+
+MTH tc 5
+: Mathématiques adaptées I algèbre-analyse
+Équipes d'enseignement
+
+
+
+MTH tc 6
+: Mathématiques adaptées II probabilités
+Mathématiques
+
+
+
+
+
+
+Compétences visées par l'UE
+
+◊ Utiliser un concept ou un principe mathématique pour décrire un problème
+◊ Modéliser une expérience aléatoire à l'aide de variables aléatoires
+◊ Identifier les différentes étapes de la simulation numérique de phénomènes
+◊ Maîtriser les outils de base de l'analyse mathématique
+◊ Utiliser les fonctions de base d'un logiciel pour le calcul numérique ou la statistique
+
+Pré-requis
+
+Intégrales de fonctions continues par morceaux, convergence de suites et de séries, espace vectoriel, espace normé, matrice, valeur propre, calcul des probabilités sur un univers fini ou dénombrable, variable aléatoire discrète
+
+Évaluation
+
+Moyenne pondérée: MTH tc1/tc5 : 40%, MTH tc2 : 30%, MTH tc3/tc6 : 15% , MTH tc 4: 15 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

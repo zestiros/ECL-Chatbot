@@ -1,0 +1,88 @@
+
+ AF ELC B-5
+
+
+Ingénierie pour la santé
+
+Health Engineering
+
+Responsable(s) : Emmanuelle LAURENCEAU, Romain RIEGER
+
+| Cours : 22 h | TD : 0 h | TP : 0 h | Autonomie : 2 h | BE : 8 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le vieillissement de la population et les grands progrès en biologie de ces dernières années ouvrent de nouvelles voies en matière de soin et de réponses aux attentes sociétales. Dans ces avancées, les problèmes d'ingénieries prennent une place de plus en plus importante (Développement de dispositifs de diagnostics, production de médicaments, miniaturisation des dispositifs, Biomatériaux de substitutions, Ingénierie tissulaire). L'objectif du cours est de montrer la potentialité des approches couplant ingénierie et biologie.
+
+Mots-clés : Diagnostic, vectorisation, imagerie médicale, biomatériaux, biomécanique, développement de médicaments
+
+
+
+Programme
+1- Evolution des outils de diagnostic
+
+2- Nanoparticules en santé
+
+3- Développement de médicaments
+
+4- Les défis de l'orthopédie et les biomatériaux
+
+5- Activité cellulaire et adaptation osseuse
+
+1 BE-1 sur la modélisation du comportement mécanique de l'os
+
+1 BE-2 de restitution de mini-projets
+
+◊ Connaitre les différentes technologies
+Compétences
+
+
+◊ Appréhender les différents domaines de l'ingénierie pour la santé
+
+◊ Analyser des documents scientifiques
+
+◊ Faire une synthèse d'informations et une présentation des résultats
+
+Objectifs : Approfondir un des thèmes abordés en cours sur un exemple précis.
+Travail en
+
+autonomie
+Utilisation des notions de cours
+
+Méthodes : Travail en groupe de 3-4 élèves sur un mini-projet relatif à l'un des thèmes abordés en cours
+
+Recherche et analyse de documents, rédaction d'un rapport, préparation de la présentation orale
+
+Stephen C. Cowin. Bone Mechanics Handbook. Stephen C. Cowin, 2001.
+Bibliographie
+
+
+John P. Bilezikian, Lawrence G. Raisz and T. John. Principles of Bone Biology. John P. Bilezikian,
+
+Lawrence G. Raisz and T. John, 2008.
+
+25% savoir-faire: BE-1 (individuelle écrite)
+Contrôle des
+
+connaissances
+25% méthodologie: Rapport écrit (collective)
+
+50% savoir: BE-2 (individuelle orale)
+
+
+
+
+
+
+
+
+
+
+
+
+

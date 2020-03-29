@@ -1,0 +1,68 @@
+
+ AF ELC F-11
+
+
+Méthode des éléments finis, de la théorie à la mise en oeuvre
+
+Finite Element Method, from the theory to the implementation
+
+Responsable(s) : Abdelmalek ZINE
+
+| Cours : 24 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Dans le domaine de l'ingénierie, il existe plusieurs techniques d'approximation permettant de résoudre les équations différentielles ou aux dérivées partielles régissant les phénomènes étudiés.
+
+La plus largement répandue est la Méthode des Éléments Finis. Cette méthode permet, en effet, de traiter tout type de géométrie, tout type de problème au limites issu de l'électromagnétisme, de l'acoustique, de la mécanique des fluides, du solide de la biologie et même de la finance !
+
+Elle possède une approche mathématique rigoureuse, basée sur les méthodes variationnelles. Cette base mathématique permet de prévoir la précision de l'approximation et de l'améliorer via les estimations d'erreur.
+
+Mots-clés : Problèmes aux limites, formulations variationnelles, approximation numérique, méthode des éléments finis, estimation d'erreur.
+
+
+Programme	Problème variationnel, cadre abstrait
+Problèmes aux limites elliptiques
+Méthode des éléments finis, approximation des problèmes aux limites
+Applications à quelques problèmes d'ingénierie
+Estimations a priori et a posteriori de l'erreur
+Méthode des éléments finis pour les problèmes paraboliques Méthode des éléments finis pour les problèmes hyperboliques
+
+
+Compétences	◊ être capable d'écrire et d'analyser une formulation variationnelle d'un problème aux limites,
+◊ être capable d'en étudier l'approximation par la méthode des éléments finis,
+◊ être capable d'écrire un programme Matlab permettant de résoudre le problème approché.
+
+
+Bibliographie	A. Ern et J. L. Guermo. Eléments finis : théorie, applications, mise en oeuvre. Collection Mathématiques et applications, Springer, 2002.
+
+J. Rappaz et M. Picasso. so Introduction à l'analyse numérique. Presses polytechniques et universitaire romandes, 1999.
+
+A. Quarteroni and A. Valli. Numerical Approximation of Partial Differential Equations. Springer, 2008.
+
+
+Contrôle des	Un test écrit de 2 heures et Comptes rendus de BE
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

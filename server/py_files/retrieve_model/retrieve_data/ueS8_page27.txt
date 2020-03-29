@@ -1,0 +1,75 @@
+
+ AF ELC C-1
+
+
+Mathématiques appliquées à la biologie
+
+Mathematical Tools for Biological Problems
+
+Responsable(s) : Philippe MICHEL, Laurent SEPPECHER
+
+| Cours : 16 h | TD : 8 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le cours est une introduction aux méthodes mathématiques en biologie et médecine. Il sera illustré par de nombreux exemples et applications.
+Le cours comporte deux parties :
+I - Systèmes dynamiques
+
+II - Modèles spatio-temporels
+
+Mots-clés : Mathématiques pour la biologie, équations différentielles ordinaires, équations aux dérivées partielles, dynamique des populations, Chaînes de Markov, phénomènes de propagation
+
+
+Programme	Partie I - Systèmes dynamiques
+Partie II - Modèles biologiques spatio-temporels
+
+
+Compétences	◊ comprendre des modèles mathématiques de base en biologie et médecine
+◊ acquérir des compétences mathématiques (EDO,EDP, CM)
+◊ appliquer les notions mathématiques à l'étude de différents modèles
+
+
+Bibliographie	J. Murray. Mathematical biology. Springer, 2002.
+
+B. Perthame. Parabolic Equations in Biology. Springer, 2015.
+
+
+
+Contrôle des	Test écrit de deux heures et BE
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

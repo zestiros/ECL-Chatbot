@@ -1,0 +1,75 @@
+
+ AF ECS a 1-FH
+
+
+Électronique de puissance
+
+Power Electronics
+
+Responsable(s) : Florent Morel, Christian Vollaire
+
+| Cours : 12 h | TD : 12 h | TP : 6 h | Autonomie : 10 h | BE : 2 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'action de formation est divisée en trois grandes parties (commande des convertisseurs, composants passifs et compatibilité électromagnétique). Elle pour objectif de présenter concepts fondamentaux et les principales structures des convertisseurs électroniques de puissance. Les plus courantes sont étudiées au travers des exemples illustratifs des différentes parties. Lors de ce cours, les élèves sont sensibilisés aux tendances, travaux de recherche et problèmes ouverts dans cette discipline. Les liens entre l’électronique de puissance et d’autres disciplines notamment l’automatique et l’électromagnétisme sont aussi présentés.
+
+Mots-clés : Commande des convertisseurs, Composants passifs, Compatibilité électromagnétique
+
+
+
+Programme	Chapitres des cours et travaux dirigés :
+Commande des convertisseurs
+Composants passifs
+Compatibilité électromagnétique
+
+En travaux pratiques, à partir des documentations techniques, de mesures et de bibliographie, les élèves doivent comprendre le fonctionnement d'une carte de convertisseur, le rôle de chaque composant et déterminer comment modifier la carte pour un cahier des charges différent.
+
+
+Compétences	◊ Appréhender les concepts fondamentaux et les principales structures des convertisseurs électroniques de puissance.
+◊ Être capable de dimensionner les composants passifs d’un convertisseur à partir d’un cahier des charges.
+
+◊ Déterminer et savoir appliquer une loi de commande permettant de réaliser un asservissement de courant ou de tension
+
+◊ Appréhender les problèmes ouverts de la discipline
+
+Travail en
+Objectifs : Pré-dimensionner un système comprennent un actionneur électromécanique et un
+autonomie
+convertisseur électronique de puissance.
+
+Déterminer une structure satisfaisante pour le convertisseur de puissance
+
+Dimensionner les principaux composants
+
+Déterminer la structure des régulateurs pour l'asservissement
+
+Régler ces correcteurs
+
+Méthodes : Calculs analytiques et simulations sous Matlab/Simulink en binôme avec un élève de
+
+l'AF "Conversion Électromécanique"
+
+Restitution orale
+
+Ferrieux - Forest. Alimentations à découpage, convertisseurs à résonance. Dunod, 2006.
+Bibliographie
+
+
+Erickson -- Maksimovic. Fundamentals of power electronics. Kluwer academic publishers, 2001.
+
+Laroche. Electronique de puissance -- convertisseurs. Dunod, 2005.
+
+Note finale = 0,65 * Savoir + 0,35 * Savoir Faire
+Contrôle des
+
+connaissances
+Note finale = 0,65 * Test final + (0,25 * Travail en autonomie + 0.10 * Compte rendu du TP)
+
+
+

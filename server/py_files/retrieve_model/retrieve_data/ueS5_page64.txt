@@ -1,0 +1,89 @@
+
+ AF ECS a 4-EG
+
+
+Commande multi-actionneurs multi-capteurs
+
+Multi-sensor, Multi-activator Control
+
+Responsable(s) : Eric Blanco, Catherine Musy-Bassot, Gérard Scorletti
+
+| Cours : 12 h | TD : 18 h | TP : 4 h | Autonomie : 14 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'accroissement des exigences de performance dans les systèmes technologiques a entraîné l'extension de l'utilisation des correcteurs, autrefois réservés aux systèmes de haute technologie (aéronautique, aérospatial, etc.) vers les systèmes du quotidien (automobiles, métros et plus récemment habitat ou de canaux d'irrigation).
+
+Les enjeux industriels actuels se traduisent par des cahiers des charges de plus en plus serrés, pour la commande de procédés de plus en plus complexes, avec des temps de développement de plus en plus courts.
+
+Un enjeu important est donc de concevoir efficacement les correcteurs pour des procédés à plusieurs actionneurs et plusieurs capteurs, appelés aussi systèmes multivariables (pilotage d'avions, lanceurs spatiaux,etc..).
+
+Mots-clés : Automatique, Représentation d’état, Commande par retour d’état, commande multivariable, observateurs
+
+
+
+Programme
+Modélisation et analyse de la dynamique par représentation d'état
+
+Notions d'analyse de systèmes non-linéaires
+
+Commande modale (placement de pôles)
+
+Observation et capteurs logiciels
+
+Commande en poursuite et en régulation
+
+Etudes de cas
+
+◊ Analyser le comportement dynamique et statique d’un système
+Compétences
+
+
+◊ Concevoir une Commande modale
+
+◊ Concevoir une Commande multivariable en performance
+
+◊ Concevoir un observateur par approche modale
+
+Objectifs : Mettre en place une démarche d’ingénierie en mobilisant savoir et savoir-faire acquis
+Travail en
+
+autonomie
+au cours de l’AF
+
+Méthodes : Résoudre un problème pratique et original de commande en appliquant les méthodes
+
+et outils numériques acquis au cours de l’AF.
+
+G. Scorletti. Commande multi-actionneurs multi-capteurs. Polycop ECL, 2014.
+Bibliographie
+
+
+R.C. Dorf and R.H. Bishop. Modern Control Systems. Pearson Prentice Hall, 2005.
+
+G. F. Franklin, J. D. Powell, and A. Emami-Naeni. Feedback Control of Dynamic Systems. Addison-
+
+Wesley, 1986.
+
+Test final écrit individuel (Savoir, 66.7%), évaluation orale individuelle de l'Autonomie (Savoir
+Contrôle des
+
+connaissances
+Faire, 33.3%).
+
+
+
+
+
+
+
+
+
+
+
+

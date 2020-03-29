@@ -1,0 +1,95 @@
+
+ AF MTH tc 4
+
+
+Statistique
+
+Statistics
+
+Responsable(s) : Elisabeth Mironescu, Christophette Blanchet
+
+| Cours : 8 h | TD : 8 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Cette AF présente les notions de base de statistique inférentielle, la construction et l'utilisation des tests d'hypothèses usuels, ainsi que la régression linéaire
+
+Mots-clés : Estimateurs, biais, risque, tests d'hypothèses paramétriques (moyenne et variance), test d' ajustement de loi, régression linéaire
+
+
+
+
+Programme
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+
+1) Estimation ponctuelle (Biais, risque quadratique, méthode des moments, maximum de vraisemblance)
+
+2) Estimation par intervalle de confiance (Petits échantillons-Grands échantillons)
+3) Tests Statistiques (Tests paramétriques, Tests d'ajustements)
+4) Régression linéaire
+
+◊ Savoir construire un test d'hypothèse dans des situations concrètes du métier d'ingénieur
+◊ Réaliser et interpréter des tests d'hypothèses sous EXCEL
+◊ Etre capable de mener des calculs de statistique à l'aide de l'outil informatique
+◊ Savoir construire une régression linéaire dans des situations concrètes du métier d'ingénieur
+
+Objectifs : Mise Prise en main des outils de simulation aléatoire et de représentation graphique sous EXCEL à niveau sur la statistique descriptive.
+
+Méthodes : Exercices corrigés en statistique descriptive sous EXCEL, tests des années précédentes.
+
+Gilbert Saporta. Probabilités, analyse des données et statistique. Technip, 2011.
+
+Mario  Lefebvre. Probabilités, statistiques et applications. Presse Internationales, 2011.
+
+Pierre Dagnelie. Statistique théorique et appliquée. Deboeck supérieur, 2011.
+
+
+
+Contrôle des note de savoir-faire note de TD sur ordinateur connaissances note de savoir par examen terminal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

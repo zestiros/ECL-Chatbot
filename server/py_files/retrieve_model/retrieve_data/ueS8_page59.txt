@@ -1,0 +1,95 @@
+
+ AF ELC F-8
+
+
+Design optimal et mécanique des fluides numérique
+
+Optimal Design and Computational Fluid Dynamics
+
+Responsable(s) : Christophe CORRE, Stéphane AUBERT
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 16 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'AF est dédiée à la présentation et à la mise en œuvre d'un éventail de techniques numériques actuellement utilisées par l'ingénieur pour la conception optimale de dispositifs fluidiques (optimisation de forme, choix optimal de paramètres de conception géométriques ou non). Le cours présente deux points originaux principaux :
+
+- les techniques présentées sont systématiquement reliées aux outils de simulation fluide à la disposition de l'ingénieur en distinguant les outils ouverts (modifiables par l'ingénieur) et fermés (codes commerciaux).
+
+- la présentation est structurée en retenant comme fil conducteur la quantité d'informations à la disposition de l'ingénieur pour résoudre le problème de conception optimale.
+
+Mots-clés : optimisation à base de gradient, approche adjointe, recherche directe, optimisation multi-objectifs idéale, algorithmes génétiques, métaheuristiques, modèles substituts, optimisation robuste
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+Optimisation utilisant le gradient en CFD. Estimation par différences finies et approche adjointe. Extension à des problèmes multi-objectifs. BE#1 & #2 : résolution de problèmes modèles puis complexes.
+
+Optimisation sans gradient. De la recherche directe aux métaheuristiques. Optimisation multi-objectifs idéale. BE#3, #4 &#5 : résolution de problèmes modèles puis complexes (échangeur de chaleur, parc éolien) ; démarrage du projet.
+
+Construction de modèles substituts pour des objectifs à coût élevé. BE#6, #7 : résolution d'un problème d'optimisation de forme ou de maximisation de puissance.
+
+Concept d'optimisation robuste. Quantification et propagation d'incertitudes (Chaos Polynomial).
+BE #8 : optimisation robuste d'un problème précédemment traité en BE.
+
+◊ Posséder une vision d'ensemble de problèmes-clefs actuels de conception optimale en aéronautique et en énergétique
+
+◊ Savoir sélectionner et mettre en œuvre une démarche d'optimisation adaptée au problème d'ingénierie à résoudre
+
+◊ Savoir utiliser un modèle substitut pour limiter le coût d'une optimisation
+◊ Savoir prendre en compte les incertitudes présentes sur certains paramètres de conception
+
+Objectifs : Développer la capacité de mise en œuvre des techniques d'optimisation présentées et d'analyse critique des résultats obtenus pour un problème d'optimisation ouvert.
+
+Méthodes : Réalisation en autonomie (par binôme) du projet d'optimisation. Utilisation des outils (Matlab, codes spécifiques) mis à disposition sur les postes de travail des salles informatiques.
+
+
+
+Bibliographie	K. Deb. Multi-objective optimization using evolutionary algorithms. John Wiley & Sons, 2008.
+
+A. Forrester, A. Sobester. Engineering Design via Surrogate Modelling : A Practical Guide. Wiley, 2008.
+
+P. Siarry. Métaheuristiques. Eyrolles, 2014.
+
+
+Contrôle des	Note finale = 50% note de savoir, 50% note de savoir faire.
+
+connaissances	Note de savoir = note d'examen (2h, sans documents).
+Note de savoir-faire = note de projet

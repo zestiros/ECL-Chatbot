@@ -1,0 +1,69 @@
+
+ AF IMR 3.2
+
+
+Evaluation et quantification des Risques
+
+
+Responsable(s) : Pietro SALIZZONI, Philippe POLOMÉ
+
+| Cours : 26 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 16 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Construire des modèles pour quantifier les risques et les incertitudes associées à leur occurrence. Proposer des outils économiques pour quantifier les conséquences des danger associé à des activité humaines ou de phénomènes naturels.
+
+Mots-clés :
+
+
+
+Programme	Modélisation des risques (4h CM + 12h BE)
+1. Risques, prédictibilité et chaos
+2. Probabilité, probabilité conditionnelle
+3. Théorème de Bayes
+4. Théorie statistique
+5. Génération de variable aléatoires
+6. Modélisation stochastique
+
+Economie des Risques (14h CM)
+1. Bien-être & Efficience
+* Efficience économique & marché
+* Théorèmes du bien-être : pourquoi il faut laisser faire les marchés
+* Théorème du second rang : pourquoi l'état doit intervenir
+2. Externalité
+Les outils à disposition de l'économie environnementale
+Normes, Taxes, Marchés de droit
+Arrangements locaux
+
+3. Biens publics Provision optimale
+
+Manipulation
+
+Risque et gouvernance de l'entreprise (3h CM)
+
+
+Compétences	◊ Maîtriser la modélisation des variables aléatoires
+◊ Apprendre à concevoir l'architecture d'un modèle stochastique
+◊ Aptitude à s'exprimer et comprendre un langage économique précis
+◊ Capacité à intégrer les valeurs non-marchandes de l'environnement dans une analyse coût-bénéfice
+
+
+
+
+Contrôle des	50% savoir, 25% savoir faire, 25% métodologie
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+

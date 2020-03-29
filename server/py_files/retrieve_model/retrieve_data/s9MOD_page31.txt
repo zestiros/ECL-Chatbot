@@ -1,0 +1,89 @@
+
+ AF MOD 5.2
+
+
+Aléas et hétérogénéités dans les structures
+
+Uncertainties and heterogeneities in real structures
+
+Responsable(s) : Francesco FROIIO, Eric VINCENS
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le TC de Mécanique des Solides envisage les matériaux constitutifs des structures comme des matériaux homogènes dont les caractéristiques mécaniques et physiques possèdent une valeur déterministe. Les actions ont été aussi envisagées comme étant des actions déterministes pour le dimensionnement des sections.
+
+Or, les structures réelles sont souvent sujettes à des actions, qui par nature sont aléatoires, et fabriquées selon des procédés induisant une certaine variabilité des propriétés. Nous verrons dans ce cours comment prendre en compte cette réalité complexe dans une démarche de dimensionnement qui se doit de rester simple pour l'ingénieur.
+
+Mots-clés : Dimensionnement des structures, méthode semi-probabiliste; Eurocodes, sections hétérogènes, béton armé
+
+
+
+Programme	Lors de ce cours nous aborderons :
+- la caractérisation statistique des sollicitations, des matériaux dans les modèles mécaniques, introduction à la fiabilité des structures, facteurs partiels de sécurité
+
+- compléments de mécanique des structures
+- sections hétérogènes et approche spécifique de leur dimensionnement, calcul à la rupture
+
+
+Compétences	◊ Identifer les aléas de chargement et les incertitudes liées aux matériaux et aux modèles dans une structure réelle (ex. ossature de bâtiment)
+◊ Appliquer la démarche générale prévue par les Eurocodes (approche semi-probabiliste)
+◊ Appliquer les méthodes de calcul usuelles permettant l'evaluation des sollicitations dans une structure réelle
+
+◊ Dimensionner un élément de structure ayant une section hétérogène, selon la méthode du calcul à la rupture
+
+
+
+Activités /
+
+Autonomie
+
+
+
+Masters
+
+affiliés
+
+
+Bibliographie
+
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+BE1 : Calculs des actions climatiques sur une structure réelle
+BE2 : Calculs des sollicitations dans un plancher de bâtiment en béton armé
+
+BE3 : Dimensionnement d'un plancher de bâtiment en béton armé
+
+Master de Génie Civil
+
+
+J.-A. Calgaro. Introduction aux Eurocodes : sécurité des constructions et bases de la théorie de la fiabilité. Presses de l'École Nationale des Ponts et Chaussée, 1999.
+
+R. Park, T. Paulay. Reinforced concrete structures. John Wiley & Sons, 1975.
+
+Y. Sieffert. Le béton armé selon les Eurocodes 2. Dunod, 2010.
+
+
+Elle sera faite sur la base de :
+- un compte rendu du BE 1 (coefficient 1/3)
+- un test final sans dcouments (coefficient 2/3)
+
+
+
+
+
+
+

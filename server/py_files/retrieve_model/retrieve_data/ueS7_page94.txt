@@ -1,0 +1,87 @@
+
+ AF MTH a 3-EG
+
+
+Approximation numérique d'équations différentielles et aux dérivées partielles
+
+Numerical approximation of ordinary and partial differential equations
+
+Responsable(s) : Grégory Vial
+
+| Cours : 18 h | TD : 18 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Il s'agit de dégager les idées fondamentales dans la construction, l'analyse et la mise en œuvre de méthodes numériques pour les EDO et les EDP. L'accent est mis sur la mise en pratique sur des modèles issus d'applications variées.
+
+Mots-clés : Méthodes numériques. Analyse mathématique. Modélisation mathématique. Simulation.
+
+
+
+Programme	Partie 1. Équations différentielles ordinaires (EDO)
+Rappels théoriques
+Analyse détaillée des méthodes d'Euler
+Méthodes de Runge-Kutta et multipas
+Partie 2. Équations aux dérivées partielles (EDP)
+Élements de théorie, classification
+Méthodes de différences finies
+Problèmes elliptiques
+Problèmes paraboliques
+Transport, ondes
+
+Partie 3. Modélisation mathématique et simulation
+
+
+Compétences	◊ Connaître les procédés de construction de méthodes numériques pour les EDO et EDP.
+◊ Identifier les points clés pour chaque type de problème (EDO raides, EDP elliptiques / paraboliques / hyperboliques).
+
+◊ Être capable de mettre en œuvre les méthodes dans des cas relativement simples.
+◊ Avoir conscience des difficultés supplémentaires dans des cas plus complexes (non linéaires).
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : Confronter les propriétés vues en cours sur des exemples, et à utiliser les méthodes pour résoudre des problèmes plus complexes.
+
+Méthodes : Compte-rendus de TP, projets en groupe.
+
+Hubert, Hubbard. Calcul scientifique. Vuibert, 2006.
+
+Danaila, Joly, Kaber, Postel. Introduction au calcul scientifique par la pratique. Dunod, 2005.
+
+Quarteroni, Sacco, Saleri. Méthodes numériques. Springer, 2007.
+
+
+Note de savoir = examen de 2H sur feuille.
+Note de savoir-faire = comptes-rendus de TP, projet.
+
+
+
+
+
+
+
+
+
+
+
+
+

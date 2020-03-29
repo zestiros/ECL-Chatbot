@@ -1,0 +1,101 @@
+
+ AF MSS a 1-FH
+
+
+Vibration des systèmes mécaniques
+
+Vibration Analysis
+
+Responsable(s) : Louis Jézéquel, Olivier Dessombz
+
+| Cours : 12 h | TD : 16 h | TP : 4 h | Autonomie : 12 h | BE : 4 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Dans le cadre de la Mécanique Générale et de la Mécanique des Structures, le cours constitue une introduction à la mécanique des vibrations et une ouverture vers les phénomènes non linéaires et la stabilité des systèmes mécaniques.
+
+Mots-clés : Vibrations, systèmes discrets/continus, amortissement, synthèse modale, systèmes non-linéaires.
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+Bibliographie
+
+
+
+
+Systèmes discrets
+Réponse vibratoire des systèmes
+Isolation et amortissement des systèmes
+Synthèse modale
+Systèmes continus
+Calcul des modes de poutres
+Construction de modèles discrets
+Application de la méthode des éléments finis
+Systèmes non linéaires
+Stabilité des systèmes mécaniques
+
+◊ Savoir mettre en équations un système mécanique dans le cadre des petits mouvements.
+◊ Savoir calculer les modes propres normaux et s'en servir en synthèse modale.
+◊ Appréhender les grandes méthodes d'approximation, en particulier les éléments finis
+◊ Savoir prendre en compte des non-linéarités en mécanique vibratoire
+
+Objectifs : Permettre aux étudiants d'assimiler les notions et les concepts vus en cours et en BE
+
+Méthodes : Mise en forme des résultats et rédaction.
+
+J-F. Imbert. Analyse des structures par éléments finis. Cépaduès éd, 1991.
+
+M. Géradin and D. Rixen. Théorie des vibrations. Application à la dynamique des structures..
+Masson, 1993.
+
+P. Pahut and M. Del Pedro. Mécanique vibratoire. Systèmes discrets linéaires. Presses polytechniques et universitaires romandes, 2003.
+
+
+Contrôle des	Savoir : 0.8*test + 0.1*note BE + 0.1*TD noté
+
+connaissances	Savoir Faire : 0.3* note TP + 0.35* note BE + 0,35* note TD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

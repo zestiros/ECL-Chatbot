@@ -1,0 +1,82 @@
+
+ AF MOD 1.5
+
+
+Introduction aux vibrations non-linéaires
+
+Introduction to nonlinear vibrations
+
+Responsable(s) : Joël PERRET-LIAUDET, Fabrice THOUVEREZ
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Il s'agit de sensibiliser et familiariser les élèves aux principaux phénomènes liées aux problèmes des vibrations non linéaires. Les connaissances minimales et les règles utiles à l'ingénieur seront introduites en vue de diagnostiquer et traiter ces problèmes. De nombreux exemples issus de problèmes de l'ingénierie viendront illustrer le cours. On peut citer la dynamique des contacts frottants (crissements), des systèmes à jeux (cliquetis), des rotors et transmissions, des ponts soumis aux vents...
+
+Mots-clés : vibrations non linéaires, dynamique des systèmes, stabilité, bifurcations, modes non linéaires, résonances principales, surharmoniques, sous harmoniques, vibrations auto entretenues, galop flottement
+
+
+
+Programme	◊ Généralités sur les problèmes vibratoires non linéaires en ingénierie, classification des sources
+◊ Outil de description et d'analyse, Analyse modale non linéaire
+◊ Perte de stabilité d'équilibre et vibrations auto entretenues (phénomènes de galop, crissement)
+◊ Phénomènes de résonances non linéaires (principales et harmoniques)
+◊ Notion de réponses complexes (chaos)
+◊ Introduction aux méthodes spécifiques aux traitements des phénomènes non linéaires
+
+Compétences
+◊ détecter et/ou diagnostiquer un phénomène de vibrations non linéaires
+
+◊ caractériser les principaux types de réponses vibratoires
+
+◊ identifier les principaux phénomènes qui conduisent à ces réponses dynamiques
+
+◊ modéliser certains problèmes non linéaires et les traiter par des méthodes spécifiques
+
+1 BE et 2 TP permettront d'illustrer
+Activités /
+
+Autonomie
+- les résonances non linéaires dans le cas de contacts sous sollicitations normales
+
+- les instabilités qui conduisent à des vibrations auto entretenues comme pour le crissement
+
+- de manipuler les principaux concepts et outils de description
+
+- quelques scénarios de route vers le chaos
+
+A. H. Nayfeh, B. Balachandran. Applied Nonlinear Dynamics: Analytical, Computational and
+Bibliographie
+
+
+Experimental Methods. Wiley, 1995.
+
+Vidal, Bergé, Pommeau. L'ordre dans le Chaos. Hermann, 1984.
+
+P. Manneville. Instabilités, chaos et turbulence. Ed. Ecole Polytechnique, 2004.
+
+50 % savoir (test)
+Contrôle des
+
+connaissances
+50 % savoir faire (BE/TP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,85 @@
+
+ AF ELC D-3
+
+
+Applications Web
+
+Webapps
+
+Responsable(s) : Daniel MULLER, René CHALON
+
+| Cours : 10 h | TD : 0 h | TP : 0 h | Autonomie : 14 h | BE : 8 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+De nombreux éditeurs développent des applications en technologie Web, qu'elles soient intégrées au Système d'Information ou autonomes proposées en mode SAAS. L'intérêt réside dans la facilité de déploiement et de maintenance par rapport à un client lourd, et la possibilité d'accès distant par rapport à une application dédiée.
+
+Dans un autre contexte, la multiplicité des plateformes mobiles rend extrêmement coûteux le développement de clients dédiés. Grâce à la maturation des standards liés à HTML5, le choix de la technologie Web (WebApp) représente une solution transversale à ce problème.
+
+Ce cours fait le point sur l'état actuel des standards du Web et leur implémentation, et présente node.js une technologie côté serveur, émergente et novatrice pour la réalisation d'applications Web.
+
+Mots-clés : Webapp, HTML5, Javascript, nodejs
+
+
+
+Programme
+Qu'est-ce que le Web 2.0 ?
+
+HTML5, CSS3 et APIs JavaScript
+
+JavaScript, le langage - Frameworks côté client
+
+Introduction à NoSQL
+
+Node.js ou JavaScript côté serveur
+
+◊ Etre capable de développer une application Web simple en technologie nodejs
+Compétences
+
+
+◊ Avoir une vision transversale des technologies disponibles, et de leurs limites, pour le
+
+développement d'une Webapp
+
+Objectifs : Savoir mener à bien un projet sous Node.js avec exploitation d'une API JavaScript HTML5.
+Travail en
+
+autonomie
+Méthodes : Projet en binôme
+
+Stoyan Stefanov,. JavaScript Patterns - Build Better Applications with Coding and Design Patterns.
+Bibliographie
+
+
+O'Reilly Media, 2010.
+
+Peter Gasston. The Modern Web : Multi-Device Web Development With HTML5, CSS3, and
+
+JavaScript. No Starch Press, 2013.
+
+Pedro Teixeira,. Professional Node.js - Building JavaScript-Based Scalable Software. Wiley / Wrox, 2012.
+
+Examen sous forme de QCM comptant pour 50% de la note, complété avec la note de BE/projet
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

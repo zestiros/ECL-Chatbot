@@ -1,0 +1,92 @@
+
+ AF MOD 5.6
+
+
+Aerodynamique externe
+
+External aerodynamics
+
+Responsable(s) : Julian SCOTT, Jérôme BOUDET
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Comprendre et décrire les forces (portance et traînée) induites par un écoulement sur un corps.
+Identifier les paramètres de conception associés.
+Formuler et appliquer des modèles d'écoulement utilisables en aérodynamique.
+Estimer la précision de la prédiction issue des modèles, du point de vue d'un concepteur.
+
+Mots-clés : Aérodynamique, Portance, Traînée, Aéronautique, Aéronefs, Surfaces portantes.
+
+
+
+Programme	1. Dynamique du vol. Pilotage et surfaces de contrôle. Équilibre longitudinal. Stabilité du vol.
+2. Conception bidimensionnelle d'une aile. Eléments essentiels de la théorie du profil d'aile. Cas particulier d'un profil mince. Modèles : méthodes potentielle, des panneaux.
+
+3. Portance et effets 3D. Lien portance / circulation et ses conséquences pour les écoulements 3D. Cas particulier de l'aile elliptique et généralisation. Modèles : théories de la surface et de la ligne portantes.
+
+4. Contrôle de la traînée. Couches limites laminaires et turbulentes. Paramètres d'influence sur la transition. Composantes de traînée sur un aéronef.
+
+5. Effets de la compressibilité. Nombre de Mach, ondes de choc. Profils transoniques et supersoniques. Modèles : théories de Prandtl-Glauert et d'Ackeret.
+
+
+Compétences	◊ Comprendre les principes élémentaires du vol d'un aéronef.
+◊ Exploiter les modèles de base de l'aérodynamique.
+◊ Pré-dimensionner une surface portante en aérodynamique.
+
+
+
+Activités /
+
+Autonomie
+
+
+
+Masters
+
+affiliés
+
+
+Bibliographie
+
+
+
+
+
+Contrôle des connaissances
+
+
+TP : étude en soufflerie d'un profil d'aile, et comparaison à des simulations.
+BE : modélisations élémentaires d'un avion : illustrations.
+
+BE : conception géométrique d'un profil d'aile répondant à un cahier des charges donné.
+
+Master Aéronautique et Espace.
+Master Mécanique (parcours mécanique des fluides et énergétique).
+
+E.L. Houghton, P.W. Carpenter. Aerodynamics for Engineering Student. Butterworth-Heinemann, 2003.
+
+D.P. Raymer. Aircraft Design: A Conceptual Approach. AIAA, 2012.
+
+B.W. McCormick. Aerodynamics, Aeronautics and Flight Mechanics. Wiley, 1994.
+
+
+Contrôle écrit (55%, savoir).
+Participation et comptes-rendus des séances BE et TP (45%, savoir faire).
+
+
+
+
+
+
+
+
+
+
+

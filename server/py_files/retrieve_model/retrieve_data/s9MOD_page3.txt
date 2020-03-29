@@ -1,0 +1,89 @@
+
+
+
+
+
+
+
+Sommaire
+
+
+Acoustic sources and propagation
+44
+Acoustique Environnementale
+12
+Aérodynamique et Energétique des Turbomachines
+8
+Aerodynamique externe
+35
+Aléas et hétérogénéités dans les structures
+31
+Analyse des assemblages : géométrie et architecture
+28
+Apprentissage profond & Intelligence Artificielle : une introduction
+19
+Automatique Avancée
+23
+Bruits d'origine aérodynamique
+46
+Caractérisation des surfaces et des nanostructures
+47
+Changements climatiques et Géo-ingénierie
+40
+Combustion pour la propulsion
+26
+Comportement des matériaux
+57
+Défis informatiques du Big Data
+13
+Diagnostic et Sûreté de Fonctionnement
+22
+Durabilité des matériaux et des structures
+38
+Dynamique de l'Atmosphère et l'Océan
+14
+Dynamique des structures
+45
+Dynamique des systèmes biologiques humains
+41
+Energie Nucléaire
+53
+Energie Stockage-Conversion
+25
+Extraction de Connaissances
+43
+Green Computing
+24
+Hydraulique Fluviale
+50
+Identification des systèmes et décomposition parcimonieuse des signaux
+21
+Ingénierie d'un objet de grande consommation
+63
+Interactions fluide-structure
+48
+Introduction aux vibrations non-linéaires
+11
+Les turbines pour la production d'énergie
+16
+Le système électrique
+61
+Matériaux de construction
+33
+Matière molle : nanosystèmes et interfaces biologiques
+37
+Mécanique des matériaux et structures composites
+55
+Méthodes numériques pour les EDP
+59
+Méthodes variationnelles pour les EDP
+65
+Microsystèmes Autonomes
+39
+MOD Parcours Entrepreneur 1
+62
+MOD Parcours Entrepreneur 2
+64
+
+
+

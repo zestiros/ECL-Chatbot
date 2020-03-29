@@ -1,0 +1,4121 @@
+﻿PROGRAMME DES ENSEIGNEMENTS
+
+
+PARCOURS ÉLECTIF S8
+
+2019-2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+SommaireAcoustique musicale55Algorithme et raisonnement45Algorithmes collaboratifs et applications18Analyse fonctionnelle théorie et applications17Analyser et observer la matière31Antennes, signal et processeurs (Fermé en 2019-2020)57Applications Web38Capteurs et traitement d'images30Circuits et Dispositifs en Micro-Ondes28Collaborer et manager à l'ère du numérique46Communication interpersonnelle et pratiques professionnelles42Conception d'un emballage responsable25Contrôle non destructif19Des déchets et des hommes65Design de l'interaction et prototypage rapide par fablab29Design optimal et mécanique des fluides numérique59Du micro au macro en mécanique49Dynamique des rotors en ingénierie mécanique11Ecologie et Environnement61Ecoulement diphasique et systèmes énergétiques40Elaboration de pièces techniques23Entreprendre et innover58Eoliennes44Filtrage adaptatif application au contrôle actif de bruit37Finance de marché52Finance d'entreprise35Hydrologie et Gestion des Ressources en Eau22Ingéniérie des Procédés Industriels47Ingénierie Nucléaire20Ingénierie pour la santé21Introduction5Introduction aux vibrations aléatoires62Les enjeux du développement durable16Les métamatériaux mécaniques9Machine learning et applications8Marketing26Matériaux polymères propriétés physiques et innovations60Matériaux pour les composants des réseaux d'énergie54Mathématiques appliquées à la biologie27
+
+Mécanique des sols32Mécanique des structures minces Plaques et Coques12Méthode des éléments finis, de la théorie à la mise en oeuvre66Méthodes numériques en mécanique13Mondialisation et transculturalités51Optique et Photonique pour l'Ingénieur10Ordre, chaos, fractales56Philosophie des sciences et techniques34Physico-chimie des surfaces39PLM - Maquette numérique41Programmation des interfaces graphiques en C++15Propulseurs aéronautiques50Savoir choisir un matériau48Simulation multiphysique en conception mécanique33Sociologie des comportements politiques24Space physics and solar-terrestrial coupling63Surfaces, friction, vibrations64Systèmes autonomes de production (SAP)43Systèmes mécatroniques intelligents53Théorie des probabilités et introduction aux processus aléatoires36Vivant, Information et Système (Fermé en 2019-2020)14
+
+Introduction
+
+
+
+Programme du parcours électif
+
+
+
+Au S8, chaque élève suit l'UE élective (UE ELC), l'UE langue et l'UE pro.
+
+Semestre S8 à l'École Centrale de Lyon
+
+Au S8, chaque élève suit l'UE élective (UE ELC), l'UE Langues et cultures et l'UE Pro.
+
+1. L'UE Élective
+
+Dans cette UE, un élève sont affectés à 5 actions de formation (AF), en fonction de leurs voeux et des places disponibles, parmi une liste de 58 cours, répartis dans 6 créneaux horaires. Chaque AF représente un total de 32h de cours et 3 ECTS.
+
+Les AF proposées sont des cours interdisciplinaires ou des cours d'ouverture sur des disciplines peu ou non abordées lors du tronc commun.
+
+
+Liste des cours :
+
+Créneau ALundi 8h-12hELC A-1Machine learning et applicationsELC A-2Les métamatériaux mécaniques (anglais)ELC A-5Optique et photonique pour l'ingénieurELC A-6Dynamique des rotors en ingénierie mécanique (anglais)ELC A-7Mécanique des structures minces : plaques et coquesELC A-8Méthodes numériques en mécanique (anglais)ELC A-10Vivant, information et système (Fermé en 2019-2020)ELC A-11Programmation des interfaces graphiques en C++ELC A-12Les enjeux du développement durable
+
+Créneau BLundi 14h-18hELC B-1Analyse fonctionnelle : théorie et applicationsELC B-2Algorithmes collaboratifs et applicationsELC B-3Contrôle non destructifELC B-4Ingénierie nucléaireELC B-5Ingénierie pour la santéELC B-6Hydrologie et gestion des ressources en eau (anglais)ELC B-8Élaboration de pièces techniquesELC B-9Sociologie des comportements politiquesELC B-10Conception d'un emballage responsableELC B-12Marketing
+
+
+
+
+
+
+
+
+
+
+5
+
+
+Créneau CMardi 8h-12hELC C-1Mathématiques appliquées à la biologieELC C-2Circuits et dispositifs en micro-ondesELC C-3Design de l'interaction et prototypage rapide par le FablabELC C-4Capteurs et traitement d'imagesELC C-5Analyser et observer la matière (anglais)ELC C-6Mécanique des solsELC C-7Simulation multiphysique en conception mécaniqueELC C-8Philosophie des sciences et techniquesELC C-9Finance d'entreprise
+Créneau DMercredi 8h-12hELC D-1Théorie des probabilités et introduction aux processus aléatoiresELC D-2Filtrage adaptatif : application au contrôle actif de bruit (anglais)ELC D-3Applications webELC D-4Physico-chimie des surfacesELC D-5Ecoulement diphasique et systèmes énergétiques (anglais)ELC D-6PLM - Maquette numériqueELC D-7Communication interpersonnelle et pratiques professionnellesELC D-8Systèmes autonomes de production (SAP)ELC D-9EoliennesELC D-10Écologie et environnementELC D-11Introduction aux vibrations aléatoiresELC D-12Space physics and solar terrestrial coupling (anglais)
+
+Créneau EJeudi 8h-12hELC E-1Algorithme et raisonnementELC E-2Collaborer et manager à l'ère du numériqueELC E-4Ingénierie des procédés industrielsELC E-5Savoir choisir un matériau (anglais)ELC E-6Du micro au macro en mécanique (anglais)ELC E-7Propulseurs aéronautiques (anglais)ELC E-9Mondialisation et transculturalitésELC E-10Surfaces, frictions et vibrations
+
+Créneau FVendredi 8h-12hELC F-1Finance de marchéELC F-2Systèmes mécatroniques intelligents (anglais)ELC F-3Matériaux pour les composants des réseaux d'énergieELC F-4Acoustique musicaleELC F-5Ordre, chaos, fractalesELC F-6Antennes, signal et processeursELC F-7Entreprendre et innoverELC F-8Design optimal et mécanique des fluides numérique (anglais)ELC F-9Matériaux polymères : propriétés physiques et innovations (anglais)ELC F-10Des déchets et des hommes6ELC F-11Méthode des éléments finis, de la théorie à la mise en oeuvre
+
+
+Les élèves centraliens ont les possibilités de choisir un des 5 cours parmi les cours proposés dans le cadre du CHELS (www.ec-lyon.fr/sites/default/files/legacy-files/tableau_chels.pdf).
+
+2. L'UE professionnelle
+
+Au S8, les élèves poursuivent les activités de l'UE commencées au S7 :
+
+◊ le projet d'application " industriel " ou " recherche ", qui doit répondre à des problématiques posées par les acteurs du monde de l'entreprise ou du monde de la recherche,
+
+◊ le sport,
+
+◊ l'accompagnement au projet professionnel.
+
+A l'issu du S8, les élèves ingénieurs doivent effectuer un stage d'application de 12 semaines, en fin de deuxième année.
+
+3. L'UE Langues et cultures
+
+Les élèves poursuivent les activités linguistiques débutés au S7.
+
+
+4. Cas des étudiants internationaux accueillis au S8 :
+
+Les élèves qui arrivent à l'École Centrale de Lyon au S8 doivent suivre l'UE élective. Dans l'UE PRO, ils suivent les activités physiques et sportives, effectuent un projet de recherche dans un des 6 laboratoires de l'École Centrale de Lyon (LMFA, LTDS, INL, LIRIS, Camille Jordan, Ampère), participent à l'enquête découverte, effectuent une visite d'entreprise et suivent des conférences en fonction de leur cursus d'origine. Le projet recherche remplace le stage d'application. Les activités linguistiques sont aussi obligatoires, dans une des 10 langues proposées.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+ AF ELC A-1
+
+
+Machine learning et applications
+
+Machine Learning and Applications
+
+Responsable(s) : Yohann DE CASTRO & Céline HELBERT
+
+| Cours : 13,5 h | TD : 6 h | TP : 0 h | Autonomie : 2,5 h | BE : 10 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Dans ce parcours, on présentera le domaine de l'apprentissage automatique, ses fondements, les problèmes qu'il permet d'aborder (apprentissage supervisé/non supervisé, batch/online, etc.) et les méthodes les plus récentes qui sont actuellement étudiées. Au delà de la description des concepts théoriques (minimisation empirique du risque, complexité combinatoire, etc.), ce module propose de nombreux travaux pratiques permettant de mettre en œuvre numériquement les méthodes abordées (algorithme classiques, validation croisée, etc.) et d'expérimenter certains phénomènes tels que le sur/sous apprentissage. Ces travaux seront réalisés en Python, et requerront de la programmation et l'utilisation de packages dédiés.
+
+Mots-clés : Machine Learning; Apprentissage Supervisé; Statistiques; Probabilités; Optimisation; Deep Learning; Intelligence Artificielle; SciKitLearn;
+
+
+ProgrammeTheorie de la Decision, Classification et Regression lineaire ;Regression Logistique et Analyse Discrimante ;Validation Croisee, Classification multiclasse ;Arbres de Decision, Forets, Boosting et Bagging ;Deep Learning ;◊ Python (SciKitLearn)Compétences◊ etre capable de comprendre et utiliser des outils de Statistique ;◊ etre capable de comprendre et utiliser des outils d'algebre lineaire ;Objectifs : Résoudre de vrais problèmes de données grâce à Scikitlearn, apprendre les méthodesTravail enautonomiestandard d'apprentissage supervisé, apprendre les réseaux de neurones profondsMéthodes : APP et TD et TPsChristophe Giraud. Introduction to High-Dimensional Statistics. CRC Press, 2014.BibliographieMassih-Reza, A.. Apprentissage machine: De la theorie a la pratique-Concepts fondamentaux enMachine Learning. Eyrolles, 2015.Pedregosa, F. and Varoquaux, G. and Gramfort, A. a. Scikit-learn: Machine Learning in Python. Journalof Machine Learning Research, 2011.Exam (70 %) et projet Machine Learning (30 %)Contrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+ AF ELC A-2
+
+
+Les métamatériaux mécaniques
+
+Mechanical Metamaterial : Functionalized by design
+
+Responsable(s) : O. Bareille, M. Collet
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Les métamateriaux sont des matériaux artificiels présentant une structuration interne plus petite que la longueur d'onde leur permettant d'adopter un comportement ondulatoire sans équivalent dans les matériaux à l'état naturel. Dans le cas de l'acoustique, ils donnent lieu à des applications très importantes dans des domaines de l'ingénierie aussi divers que l'isolation phonique, la vibroacoustique, la furtivité en acoustique sous-marine, la réalisation de transducteurs. Les technologies associées suscite d'ors et déjà l'intérêt de nombreux industriels. L'objectif principal de ce cours est de donner une formation d'ensemble aux étudiants de l'Ecole Centrale de Lyon sur la thématique des métamatériaux et la capacité qu'ils offrent pour répondre à des problèmes d'ingénierie.
+
+Mots-clés : Ondes, Vibrations, Acoustiques, Matériaux adaptatifs, optimisation, traitements des nuisances vibroacoustiques
+
+
+
+Programme1. Propagation des ondes: retour sur les bases2. Modelisationa) Méthode Analytiques et semi-analytique SAFEb) WFE : Wave Finite Elementsc) Shift Cell Operator pour introduire des métamatériaux couplés multiphysiquesd) L'approche d'expansion en ondes PWE3. Le Design de structures en utilisant les propriétés des bandes interdites de Bragg ourésonnantes :a) Diffusion d'énergie: Contrôle de la réflexion et de l'absorptionb) La finitude : une limite à l'efficacité des bandes interditesc) Au délà des bandes interdites• La focalisation• La rupture de réciprocité et les diodes• L'invisibilité◊ Comprendre un phénomène de bandes interditesCompétences◊ Calculer les diagrammes de dispersion d'un métamatériaux◊ Optimiser le comportement d'une interface de métamatériaux◊ caractériser son comportement et apréhender les effets originaux observablesObjectifs : L'objectif du travail en autonomie est de mettre en oeuvre sur un exemple concret unTravail enautonomieaspect du cours portant soit sur la modélisation, l'optimisation ou la réalisation et la caractérisa-tion de métamatériaux mécaniquesMéthodes : La méthode utilisée repose sur la réalisation de mini-projets de 14h par groupes de 6élèves. Chaque groupe profitera de 8h d'encadrement sur l'appropriation et la méthodologie. Unerestitution finale des résultats sera faite devant la classe.La note sera composée :Contrôle desconnaissances1/3 par le résultat d'un QCM1/3 par l'évaluation du rapport de projet1/3 par la note de la restitution donnée par la classe
+
+
+
+
+
+
+9
+
+ AF ELC A-5
+
+
+Optique et Photonique pour l'Ingénieur
+
+Optics and Photonics for Engineers
+
+Responsable(s) : Emmanuel DROUARD, Ségolène CALLARD
+
+| Cours : 14 h | TD : 6 h | TP : 4 h | Autonomie : 4 h | BE : 4 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+L'essor récent des méthodes optiques dans divers domaines s'explique par les avantages intrinsèques de ces méthodes (grandes résolutions spatiale et temporelle, mesure ponctuelle ou globale, méthode sans contact...) et par les progrès récents réalisés en photonique. Les applications couvrent un large champ de domaines industriels et de recherche : l'automobile, l'aéronautique, la santé, l'environnement...
+
+Ce cours a pour objectif de donner les éléments nécessaires à la compréhension des technologies optiques les plus utilisées.
+
+Mots-clés : Méthodes télémétriques, interférométriques, technologies infrarouges, traitement optique des matériaux...
+
+
+
+ProgrammeIntroduction : grands domaines de l'optiqueCohérence spatio-temporelle, applications à la métrologieNotions de photométriePhénomènes de bruit dans les détecteursApplications à la mesure (principes) : télémétrie, vélocimétrie, interférométrieApplications des lasers au traitement des matériauxTD: Holographie, télémétrie, capteur interférométrique, application des lasers au traitement desmatériaux4 TP d'1h: holographie, vibrométrie, spéctrométrie FTIR, anémométrie laser◊ Savoir choisir et mettre en œuvre le formalisme optique pertinent (géométrique, ondulatoire,Compétencesélectromagnétique, photométrique...) approprié.◊ Etre capable d'identifier les différents composants d'une chaîne de mesure optique◊ Savoir choisir une méthode de mesure ou de traitement optique◊ Identifier les causes du bruit dans un détecteur optiqueObjectifs : Appréhender de façon approfondie une technologie optique particulièreTravail enautonomieMéthodes : Problem based learning : brainstorming (2h), préparation d'exposé et séance de restitution.Bahaa E. A. Saleh, Malvin Carl Teich. Fundamental of Photonics. Wiley, 2007.BibliographieR. Farcy. Applications des lasers. Masson, 1993.D. Schuöcker. Engineering Lasers and Their Applications, Handbook of the Eurolaser Academy,Volume 1 & 2. Springer, 1998.60 % Test écrit de 2 heures sans document (Savoir)Contrôle desconnaissances40 % Note d'exposé (divisée en 50 % méthodologie et 50% Savoir Faire)
+
+
+
+
+
+
+
+
+
+
+
+10
+
+ AF ELC A-6
+
+
+Dynamique des rotors en ingénierie mécanique
+
+Rotors Dynamics in Mechanical Engineering
+
+Responsable(s) : Laurent BLANC, Fabrice THOUVEREZ
+
+| Cours : 12 h | TD : 10 h | TP : 4 h | Autonomie : 2 h | BE : 4 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+L'objectif est d'acquérir les connaissances spécifiques au dimensionnement des machines tournantes. Les domaines d'application vont de la dynamique des moteurs d'avion à l'analyse des lignes d'arbres en passant par les micro-pompes ou encore les turbines électriques. Cette action de formation approfondit les notions vues en UE MSS et GM : elle donne les connaissances technologiques, de modélisation et expérimentales nécessaires pour comprendre la dynamique des structures produites ou mises en oeuvre, entre autres, par Safran-Snecma, Safran-Turboméca, General Electric, Siemens, Alstom Power, Rolls-Royce, EDF, Pratt&Whitney...
+
+Mots-clés : dynamique des structures, vibrations, analyse modale, éléments finis, diagramme de Campbell, diagramme zig-zag, vitesses critiques, coïncidences, roulements à billes, squeeze-films, rotors, turbomachines, health monitoring
+
+
+Programme	Cours + TD :
+- cycle de conception d'une machine tournante, spécificités et outils
+- modélisation des rotors mono- et multi-disques
+- modélisation des roues aubagées
+- phénoménologie des organes de guidage
+BE :
+- analyse modale par éléments finis d'une roue aubagée
+
+
+Compétences	◊ connaître les étapes-clefs du cycle de conception d'une machine tournante
+◊ savoir lire un diagramme de Campbell pour identifier des situations d'utilisation à risque
+◊ savoir calculer par éléments finis les modes propres d'une structure tournante
+
+Travail enObjectifs : s'informer de l'état de l'art en machines tournantesautonomieMéthodes : analyse d'article de recherche en binôme + exposé au groupe
+
+Bibliographie	M. Lalanne and G. Ferraris. Rotordynamics Prediction in Engineering. John Wiley and Sons, 1998.
+
+D. W. Childs. Turbomachinery rotordynamics phenomena, modelling and analysis. John Wiley and Sons, 1993.
+
+F. F. Ehrich. Handbook of rotordynamics. Krieger Publishing company, 1999.
+
+
+Contrôle des	examen final, exposé sur l'analyse d'articles
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+
+ AF ELC A-7
+
+
+Mécanique des structures minces Plaques et Coques
+
+Mechanics of Thin Structures: Plates and Shells
+
+Responsable(s) : Hélène MAGOARIEC, Cécile NOUGUIER
+
+| Cours : 14 h | TD : 12 h | TP : 4 h | Autonomie : 2 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Les structures minces, optimisant le rapport poids / performances, occupent une place prédominante dans de nombreux secteurs industriels (aéronautique, génie civil, génie chimique, etc). L'objectif premier de cette AF est de fournir au futur ingénieur les éléments nécessaires à la modélisation et à la conception de constructions à base d'éléments structuraux élancés, par l'analyse du comportement statique de structures minces 2D, planes ou courbes.
+
+En contrepartie du gain de matière, le risque d'instabilité se trouve amplifié : des phénomènes tels le voilement des plaques ou le flambement des coques sont donc à prendre en compte dans le dimensionnement. Le second objectif de cette AF est de fournir les bases nécessaires à une étude d'instabilités élastiques des structures minces.
+
+Mots-clés : Mécanique des solides, Plaques et coques minces, Modèle de Love-Kirchhoff, Dimensionnement, Instabilités élastiques, Mesures extensométriques, Comparaisons théorie/expériences
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+Partie 1 - Comportement des plaques élastiques : 3 CM / 3 TD / 1 TP; Définition, schématisation, hypothèses et actions mécaniques ; efforts intérieurs ; équilibre local ; modèle de plaques minces de Love-Kirchhoff ; conditions limites.
+
+Thème du TP : validation expérimentale du modèle de Love-Kirchhoff et étude d'une solution approchée.
+
+Partie 2 - Comportement des coques élastiques de révolution : 2 CM / 2 TD; Géométrie des surfaces ; définition, schématisation et actions mécaniques ; efforts intérieurs membranaires ; équilibre local; cas usuels de chargements ; effets élastiques.
+
+Partie 3 - Instabilités élastiques des structures minces : 2 CM / 1 TD; Voilement des plaques minces ; flambement des coques; charges critiques limite et ultime.
+
+◊ Savoir dimensionner plaques et coques, en contraintes, en déplacements et vis-à-vis des instabilités élastiques
+
+◊ Savoir évaluer la prédominance des effets élastiques (efforts intérieurs, contraintes, déformations, déplacements) dans les structures minces
+
+◊ Etre capable de construire un modèle mécanique de structures minces 2D, en se basant sur la démarche 1D (poutres) du tronc commun
+
+◊ Savoir confronter théorie et expériences : mener une analyse critique pour valider un modèle et/ou une solution approchée (par une approche énergétique)
+
+Objectifs : Applications théorique et expérimentale du cours aux plaques circulaire et rectangulaire.
+
+Rédaction d'un document de synthèse des analyses.
+Méthodes : Autonomies encadrée / non-encadrée, travail en groupe à proximité des salles de TP (accès aux bancs d'essais), appropriation du polycopié associé, validation des éléments théo-riques/numériques, réflexions communes : dépouillement, analyses critiques.
+
+
+
+Bibliographie	S. P. Timoshenko, S. Wionowski-Krieger. Theory of plates and shells. Mc Graw Hill, 1970.
+
+F. Frey. Traité de Génie Civil de l'Ecole polytechnique fédérale de Lausanne, Vol. 1 à 6. Presses Polytechniques et Universitaires Romandes, 2003.
+
+S. P. Timoshenko, J. M. Gere. Theory of elastic stability. Dover Publications, 1961.
+
+
+Contrôle des Test écrit de 2h (modalités définies en concertation élèves / équipe pédagogique) connaissances Evaluation TD/TP : compte-rendu + participation.
+
+
+12
+
+ AF ELC A-8
+
+
+Méthodes numériques en mécanique
+
+Numerical Methods for Mechanics
+
+Responsable(s) : Jérôme BOUDET, Olivier DESSOMBZ, Fabien GODEFERD
+
+| Cours : 14 h | TD : 14 h | TP : 0 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Ce module est une introduction aux méthodes de résolution employées dans les codes de simulation, aussi bien en mécanique des solides qu'en mécanique des fluides (CFD) et en énergétique. Différentes méthodes numériques permettant la résolution des problèmes aux limites introduits en tronc commun sont présentées, afin de maîtriser les concepts nécessaires à une bonne utilisation des logiciels de type industriel. Un effort particulier est porté sur la pratique et l'illustration physique, et l'interdisciplinarité permet une meilleure compréhension à la fois des modélisations et des phénomènes généraux.
+
+Mots-clés : méthodes numériques, volumes finis, résidus pondérés, éléments finis, mécanique des solides, mécanique des fluides
+
+
+Programme	-	Différences finies
+- Méthodes de résolution et propriétés des schémas
+- Volumes finis
+- Méthodes variationnelles
+- Méthodes spectrales
+- Eléments finis (1/2)
+- Eléments finis (2/2)
+
+
+Compétences	◊ Savoir modéliser numériquement un problème de mécanique
+◊ Savoir programmer les méthodes numériques de base en mécanique
+◊ Savoir analyser et interpréter des solutions numériques
+
+
+Bibliographie	C. Hirsch. Numerical computation of internal and external flows (Volumes 1 et 2). John Wiley and Sons, 1988.
+
+H.K. Versteegh and W. Malalasekera. An introduction to computational fluid dynamics. Longman, 1995.
+
+J.C. Craveur. Modélisation par éléments finis : Cours et exercices corrigés Ed. 3. Dunod, 2008.
+
+
+Contrôle des	Examen final de 2h (60%, savoir).
+
+connaissances	Comptes-rendus de travaux en TD / BE / autonomie (40%, savoir faire).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13
+
+ AF ELC A-10
+
+
+Vivant, Information et Système (Fermé en 2019-2020)
+
+Life, Information and Systems
+
+Responsable(s) : Julien HUILLERY, Bénédicte LAFAY, Gérard SCORLETTI
+
+| Cours : 12 h | TD : 16 h | TP : 0 h | Autonomie : 4 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Comprendre le vivant, ses formes, structure et organisation, son fonctionnement et sa variation, est indispensable pour appréhender le monde dont nous faisons partie et dont nous dépendons. De nombreuses propriétés du vivant n'apparaissent qu'au niveau du système biologique considéré dans sa globalité. De même, la notion d'information est au cœur des mécanismes d'adaptation, de reproduction et d'évolution. L'objectif de cet enseignement est de présenter la pertinence et le potentiel d'application de l'approche système et de la théorie de l'information à l'étude du vivant.
+
+Mots-clés : Vivant, ADN, ARN, Réplication, Transcription, Évolution, Adaptation, Émergence, Théorie de l'information, Information génétique, Stockage, Codage, Transmission de l'information, Systèmes, Rétroaction, Régulation, Réseaux, Interconnexions.
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+I - Vivant
+a) Le processus de la vie
+b) Information biologique II - Information
+a) Théorie de l'information en biologie
+b) Interactions et réseaux d'information III - Systèmes
+
+a) Modèles dynamiques des systèmes vivants
+b) La rétroaction
+
+Pour chaque partie, des séances de TD permettront de mettre en application les notions du cours.
+
+◊ Connaître et analyser l'objet d'étude (le vivant)
+◊ Identifier et formuler les questions et les enjeux propres à l'étude du vivant
+◊ Appliquer l'approche systémique à l'analyse du fonctionnement du vivant (ingénierie inverse)
+◊ Comprendre les enjeux de stockage, de codage et de transmission de l'information génétique
+
+Objectifs : Étude d'un article scientifique à l'interface des trois aspects du cours. Chaque groupe, de 7 ou 8 élèves selon l'effectif, étudie un article différent.
+Méthodes : Travail demandé :
+- écrire un résumé retraçant les enjeux et la démarche de l'article.
+- effectuer une présentation orale à l'ensemble des élèves.
+- animer une séance de questions pour un autre groupe.
+- évaluer un troisième groupe
+
+
+
+Bibliographie	L. Von Bertalanffy. General System Theory, Foundations, Development, Applications. George Braziller, 1968.
+
+C.E. Shannon. A Mathematical Theory of Communication. Bell System Technical Journal, 1948.
+
+N. Wiener. Cybernetics or Control and Communication in the Animal and the Machine. MIT Press, 1948.
+
+
+
+Contrôle des	Comptes rendus de TD (binôme)
+
+connaissances	Résumé et restitution de l'étude bibliographique (groupe)
+Test final écrit (individuel)
+
+Savoir : 30%; Savoir-faire : 70%
+
+
+
+14
+
+ AF ELC A-11
+
+
+Programmation des interfaces graphiques en C++
+
+Gui Programming in C++
+
+Responsable(s) : Stéphane DERRODE, Emmanuel DELLANDREA
+
+| Cours : 6 h | TD : 4 h | TP : 14 h | Autonomie : 8 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+L'objectif est d'apporter aux étudiants des compétences avancées en programmation orientée objet (POO), par le biais de la programmation des interfaces graphiques. Ce contexte permettra
+- d'aborder de nouveaux concepts, comme la programmation évènementielle ou les patrons de conception ;
+- d'approfondir les notions d'héritage, de polymorphisme, de classe abstraite ou de gestion des exceptions;
+- d'introduire des méthodes et outils de " bonnes pratiques " de développement, comme la programmation par test, la gestion de version des codes ou la documentation des sources.
+
+L'enseignement se ferra pour l'essentiel sous forme de tutoriaux permettant à l'élève d'accumuler progressivement, par la pratique, les savoirs et savoir faire de la programmation des interfaces graphiques.
+
+Mots-clés : Programmation orientée objet, Interfaces graphiques, Design Pattern (patron de conception), Programmation par tests, C++, QT.
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+- Cours #1 (2h) : Les spécificités de la programmation en C
+- Cours #2 (2h) : C++ avancé et programmation évènementielle.
+- Cours #3 (2h) : Interface graphique avec QT.
+
+- TD #1 (2h) : Présentation en séance des design pattern par binômes (#1)
+- TD #2 (2h) : Présentation en séance des design pattern par binômes (#2)
+
+- TP #1 (4h) : QtDesigner.
+- TP #2 (4h) : Patrons de conception.
+- TP #3 (2h) : Git et Doxygen.
+- TP #4 (4h) : Gestion des exceptions et programmation par tests.
+
+◊ Créer un programme reposant sur une interface graphique (avec QT)
+◊ Identifier et implémenter le patron de conception adéquat lorsqu'il se présente
+◊ Concevoir des programmes propres, robustes et documentés
+◊ Travailler en groupe sur le même projet, grace à une plateforme collaborative type Github
+
+Objectifs : Le travail en autonomie consistera à réaliser, par binôme, une interface graphique pour un mini-jeu (morpion, 2048, ...)
+
+Méthodes : Chaque binôme travaillera sur une plateforme de développement collaborative (type Github), permettant le partage de sources.
+
+
+Bibliographie	Courtois, Jonathan. Créer des applications avec QT 5 - Les essentiels. D-Booker Editions, 2013.
+
+Erich Gamma, Richard Helm, Ralph Johnson, John M.. Design Patterns: Elements of Reusable Object-Oriented Software. http://www.uml.org.cn/c%2B%2B/pdf/DesignPatterns.p, 1997.
+
+
+Contrôle des Note de mini-projet en autonomie par binôme (savoir-faire) = 50% connaissances Examen classique (savoir) = 50%
+
+
+
+
+
+
+
+15
+
+ AF ELC A-12
+
+
+Les enjeux du développement durable
+
+Social, Economical and Political Issues for a Sustainable Development
+
+Responsable(s) : Laure Flandrin
+
+| Cours : 24 h | TD : 0 h | TP : 0 h | Autonomie : 8 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+A partir de l'étude d'un thème précis (en l'occurrence, le développement durable), ce cours offre aux élèves l'opportunité d'appliquer et d'approfondir les méthodes et les modes de raisonnement des sciences humaines et sociales appréhendés dans les modules de base du semestre 7. Les enseignements, la recherche bibliographique et documentaire en sciences humaines et sociales ainsi que la rédaction d'un dossier, informé, construit et argumenté, permettent aux élèves d'apprendre à préparer une note de synthèse et, plus largement, de former et de développer leur culture générale et leur esprit critique.
+
+Mots-clés : Philosophie, Politique, Economie, Justice, Croissance verte, Indicateurs de richesse, Inégalités
+
+
+
+Programme	Ce module vise à comprendre les enjeux du développement durable. Dans les années 1970, le double constat d'une crise des modèles de croissance et d'un épuisement des ressources dû à l'action humaine suscite une remise en cause des objectifs mis en place dans l'après-guerre. Cette crise des valeurs fait émerger la question du développement comme un choix, à la fois au niveau des organisations internationales, des pays, des entreprises et des individus - consommateurs ou acteurs du développement. Il s'agit de comprendre les fondements du développement durable ; sa traduction politique, sociale et économique ; les outils qui sont mis en place pour l'implémenter au niveau des individus, des entreprises, des pays, des organisations internationales.
+
+
+Compétences	◊ Appliquer les méthodes des sciences humaines pour comprendre un enjeu de société.
+◊ Savoir préparer une note de synthèse
+◊ Développer sa culture générale
+◊ Former son esprit critique
+
+
+Bibliographie	Afeissa, Hicham-Stéphane. Ethique de l'environnement. Nature, Valeur, Respect. Vrin, 2007.
+
+Larrère, Catherine. Les philosophies de l'environnement. PUF, 1997.
+
+Callon, Michel, Lacousmes P., Barthe Y. Agir dans un monde incertain. Seuil, 2001.
+
+
+Contrôle des	Test final 2h : Note de synthèse sur dossier documentaire
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
+
+ AF ELC B-1
+
+
+Analyse fonctionnelle théorie et applications
+
+Functional Analysis, Theory and Applications
+
+Responsable(s) : Martine MARION
+
+| Cours : 18 h | TD : 14 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+L'étude des équations aux dérivées partielles (EDP) s'est longtemps limitée à la résolution explicite d'un nombre très réduit d'équations. Ce sont les développements récents de l'analyse fonctionnelle qui ont permis d'aborder des problèmes beaucoup plus généraux. Ce cours a un double but :
+
+- Présenter des résultats 'abstraits' d'analyse fonctionnelle, c'est-à-dire concernant des espaces qui ne sont pas de dimension finie,
+
+- Etudier des espaces fonctionnels 'concrets' intervenant en théorie des EDP et montrer comment la théorie générale s'applique à la résolution de ces équations.
+
+Ce cours est recommandé à tout étudiant intéressé par l'analyse et les EDP et tout particulièrement à ceux envisageant de suivre un cursus de Master en mathématique.
+
+Mots-clés : Analyse fonctionnelle, équations aux dérivée partielles
+
+
+
+Programme	Partie I - Problèmes inéaires
+Chapitre 1 : Espaces de Hilbert
+Chapitre 2 : Dérivées faibles et espaces de Sobolev
+Chapitre 3 : Résolution de problèmes elliptiques linéaires
+Partie II - Problèmes non linéaires
+Chapitre 3 : Topologie faible
+
+Chapitre 4 : Minimisation de fonctionnelles et résolution d'EDP
+
+
+Compétences	◊ être capable de comprendre et utiliser des outils d'analyse fonctionnelle.
+◊ être capable de comprendre et utiliser les espaces fonctionnels de base intervenant dans l'étude des EDP.
+
+◊ être capable de comprendre et utiliser différentes méthodes pour obtenir l'existence de solutions dans ces espaces.
+
+
+Bibliographie	H. Brezis. Analyse fonctionnelle. Dunod, 2005.
+
+G. Allaire. Analyse Numérique et optimisation. Editions de l'Ecole Polytechnique, 2009.
+
+
+
+Contrôle des	Test en fin de cours
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17
+
+ AF ELC B-2
+
+
+Algorithmes collaboratifs et applications
+
+Collaborative Algorithms and Applications
+
+Responsable(s) : Philippe MICHEL, Alexandre SAIDI
+
+| Cours : 8 h | TD : 16 h | TP : 8 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+L'objectif de ce cours est de modéliser et résoudre certains problèmes complexes en utilisant des algorithmes dits
+" collaboratifs ". Ceux ci ont pour particularités de prendre exemple sur la nature (algorithmes génétiques, colonies de fourmis,..., réseaux de neurones) et d'utiliser l'expérience collective d' " individus " (agents) aux capacités faibles pour en faire une intelligence collective.
+
+Par exemple, les réseaux de neurones cherchent à imiter la capacité du cerveau à résoudre un problème en se servant de la multitude de neurones (ayant chacun une faible capacité de résolution) qui le composent.
+
+Les applications traitées en cours sont variées : reconnaissance de caractères, détection de contours (dans une image), résolution d'un jeu de poker (simplifié) (voire d'autres jeux), décodage d'un texte, recherche d'un chemin le plus court
+(Dijkstra, voyageur de commerce), détection de pannes, allocation de bus et Cartographie et Localisation Simultanées par utilisation de robots...
+
+Mots-clés : multi-agents, robotiques, algorithmes génétiques, colonies de fourmis, réseaux de neurones, slam
+
+
+
+Programme	Algorithmes génétiques
+Réseaux de neurones
+Cartographie et Localisation Simultanées par utilisation de robots
+Colonies de fourmis et stratégies colaboratives
+
+
+
+Compétences
+
+
+
+Travail en autonomie
+
+
+Bibliographie
+
+
+
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+◊ mise en oeuvre informatique des algorithmes proposés
+◊ modélisation multi-agents de problèmes complexes
+
+Objectifs : Résoudre des problèmes
+Méthodes : Études
+
+
+Simon Haykin. Share Facebook Twitter Pinterest 2 used & new from $160.00 See All Buying Options Add to List Have one to sell? Sell on Amazon See this i. MacMillan Publishing Company, 1994.
+
+Sebastian Thrun. Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series). The MIT Press, 2005.
+
+Marco Dorigo. Ant Colony Optimization. A Bradford Book, 2004.
+
+
+Test écrit/machine 2h
+BE : 4 x 4h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18
+
+ AF ELC B-3
+
+
+Contrôle non destructif
+
+Non Destructive Testing
+
+Responsable(s) : Arnaud Bréard, Christian vollaire
+
+| Cours : 18 h | TD : 0 h | TP : 8 h | Autonomie : 6 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Ce cours a pour objectif de sensibiliser les élèves à la notion de Contrôle Non Destructif. Ce domaine s'inscrit dans la notion générale de qualité appliquée à la production, il joue un rôle clé dans toutes les applications requérant un haut niveau de sécurité et de fiabilité (nucléaire, aéronautique, automobile,...). Il s'agit d'une initiation à trois techniques (rayon X , ultra sons, électromagnétiques) qui a pour but de montrer d'une manière concrète (en s'appuyant sur des travaux pratiques réalisés sur pièces réelles) dans quels cadres ces techniques sont mises en œuvre et quelles peuvent être leurs performances.
+
+Mots-clés : Contrôle Non Destructif, Méthodes Electromagnétiques, CND par courants de Foucault, rayons X, ultra sons
+
+
+
+ProgrammeA) Intervenant Noël BURAISGénéralités sur les méthodes électromagnétiques (magnétoscopie, impédancemétrie, courants deFoucault, ondes HF), catégories de matériaux.Structures de capteurs, association de capteurs, mesures double-fonction ou fonctions séparées,absolues ou différentielles.B) Intervenant Jean-Michel LETANG1°) Contrôle par ultrason (US).Principe de l'échographie,Incidence normale: coefficient de transmission et réflexion,incidence oblique: loi de Snell-Descartes,Production des US et capteurs, types de contrôles, visualisation2°) Contrôle par rayons X (RX).Principe de la radiologie par transmission, intéractions photons-matière,Dosimétrie,radioprotection et effets biologiques,Production et détection des RX, caractéristiques des générateurs et des capteurs.◊ Connaitre les principes des principales méthodes de CNDCompétences◊ Connaitre les performances, des limites et des champs d'application des méhodesObjectifs : Approfondir une méthode de détection de défaut au niveau de son fonctionnement et/Travail enautonomieou de ses domaines d'applicationMéthodes : L'autonomie est constituée d'une étude bibliographique donnant lieu à un rapportE.M. Hussein. Handbook on Radiation Probing, Gauging, Imaging and Analysis: Volume I: BasicsBibliographieand Techniques (Non-Destructive Evaluation). Kluwer Academic Publishers, 2003.Charles Hellier. Handbook of nondestructive Evaluation. Mc Graw-Hill, 2003.test de 2hContrôle desconnaissancesCompte rendu des travaux pratiquesRapport de l'étude bibliographique réalisée en autonomie
+
+
+
+
+
+
+
+
+19
+
+ AF ELC B-4
+
+
+Ingénierie Nucléaire
+
+Nuclear Engineering
+
+Responsable(s) : Yves ROBACH, Ségolène CALLARD
+
+| Cours : 18 h | TD : 10 h | TP : 0 h | Autonomie : 4 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+L'ingénierie nucléaire recouvre actuellement un large domaine scientifique et économique, qui s'enrichit des relations multiples avec d'autres disciplines. Son champ d'applications s'étend de la production d'énergie (réacteurs de fission et fusion) à l'analyse ou au traitement de matériaux, à l'utilisation de radioéléments (traceurs radioactifs) en médecine, biologie ou géologie jusqu'aux applications médicales en radiothérapie et imagerie. L'objectif du cours est de fournir les bases physiques de l'ingénierie nucléaire et d'illustrer un certain nombre des applications précédemment citées. Les cours seront suivis de 2 conférences (Réacteurs nucléaires de future génération, Radioprotection) présentés par des spécialistes et des professionnels du domaine.
+
+Mots-clés : Noyaux, désintégrations nucléaires, radioactivité, modèle de la goutte liquide, modèle en couche, fusion, fission.
+
+
+
+Programme	1. Structure du noyau, bilans énergétiques en physique nucléaire, notion de section efficace d'interaction. Stabilité nucléaire et modèles nucléaires.
+2. Instabilités nucléaires : les différents types de radioactivité, notions de base en radioprotection.
+3. Réactions nucléaires et application.
+4. Fission nucléaire, notions de base de neutronique, principe de fonctionnement d'un réacteur nucléaire.
+
+5. Fusion nucléaire
+6. Applications du nucléaire en chimie, biologie, médecine. Traceurs radioactifs et applications, imagerie médicale.
+
+Compétences◊ Savoir Identifier les champs d'application de la physique nucléaire.◊ Evaluer les ordres de grandeurs dans les processus nucléaires◊ Savoir équilibrer une réaction nucléaire et calculer son bilan de masse◊ Savoir distinguer et décrire les principaux types de désintégrations des noyauxObjectifs : Lors des TD, les élèves doivent résoudre des problèmes en utilisant les concepts pré-Travail enautonomiesentés en cours.Méthodes : Ce travail s'effectue en binôme et donne lieu, à la fin de chaque séance, à un compte-rendu écrit qui est évalué.W.E. Meyerhof. Elements de physique nucléaire. Editions Dunod., 1970.BibliographieDaniel Blanc. Noyaux, particules, réacteurs nucléaires. Masson, 1987.P. Bonche. Le nucléaire expliqué par les physiciens. EDP Sciences, 2002.Examen écrit (2h, 60%)Contrôle desconnaissancesCompte-rendus des activités de TD (40%)
+
+
+
+
+
+
+
+
+
+
+
+
+20
+
+ AF ELC B-5
+
+
+Ingénierie pour la santé
+
+Health Engineering
+
+Responsable(s) : Emmanuelle LAURENCEAU, Romain RIEGER
+
+| Cours : 22 h | TD : 0 h | TP : 0 h | Autonomie : 2 h | BE : 8 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Le vieillissement de la population et les grands progrès en biologie de ces dernières années ouvrent de nouvelles voies en matière de soin et de réponses aux attentes sociétales. Dans ces avancées, les problèmes d'ingénieries prennent une place de plus en plus importante (Développement de dispositifs de diagnostics, production de médicaments, miniaturisation des dispositifs, Biomatériaux de substitutions, Ingénierie tissulaire). L'objectif du cours est de montrer la potentialité des approches couplant ingénierie et biologie.
+
+Mots-clés : Diagnostic, vectorisation, imagerie médicale, biomatériaux, biomécanique, développement de médicaments
+
+
+
+Programme1- Evolution des outils de diagnostic2- Nanoparticules en santé3- Développement de médicaments4- Les défis de l'orthopédie et les biomatériaux5- Activité cellulaire et adaptation osseuse1 BE-1 sur la modélisation du comportement mécanique de l'os1 BE-2 de restitution de mini-projets◊ Connaitre les différentes technologiesCompétences◊ Appréhender les différents domaines de l'ingénierie pour la santé◊ Analyser des documents scientifiques◊ Faire une synthèse d'informations et une présentation des résultatsObjectifs : Approfondir un des thèmes abordés en cours sur un exemple précis.Travail enautonomieUtilisation des notions de coursMéthodes : Travail en groupe de 3-4 élèves sur un mini-projet relatif à l'un des thèmes abordés en coursRecherche et analyse de documents, rédaction d'un rapport, préparation de la présentation oraleStephen C. Cowin. Bone Mechanics Handbook. Stephen C. Cowin, 2001.BibliographieJohn P. Bilezikian, Lawrence G. Raisz and T. John. Principles of Bone Biology. John P. Bilezikian,Lawrence G. Raisz and T. John, 2008.25% savoir-faire: BE-1 (individuelle écrite)Contrôle desconnaissances25% méthodologie: Rapport écrit (collective)50% savoir: BE-2 (individuelle orale)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21
+
+ AF ELC B-6
+
+
+Hydrologie et Gestion des Ressources en Eau
+
+Hydrology and Water Resources
+
+Responsable(s) : Richard PERKINS
+
+| Cours : 18 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 14 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+L'eau est une ressource naturelle essentielle à la vie, et bien qu'elle recouvre 71% de la surface de la terre, il n'y a qu'une petite partie de cette eau qui est directement utilisable. Pire, cette fraction est distribuée de manière très inhomogène sur la surface de la terre, et la croissance sans arrêt de la demande pour l'eau rende sa gestion de plus en plus critique. L'ingénieur a un rôle central dans la maitrise et gestion des ressources en eau. Les objectifs de ce cours sont :
+
+- d'introduire et d'expliquer le cycle hydrologique et son influence sur la qualité et la quantité d'eau disponible ;
+- d'étudier l'interaction entre l'eau et l'environnement ;
+- de présenter les différentes techniques pour la gestion des ressources en eau.
+
+Mots-clés : Hydrologie, Atmosphère, Ressources en Eau, Traitement de l'Eau, Modélisation
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+1. Introduction
+Les ressources en eau, les premiers systèmes d'approvisionnement et traitement
+
+2. Le cycle hydrologique
+Atmosphère : humidité, précipitation, évapotranspiration
+Eau dans les sols : structure des roches et sols, écoulement en milieu poreux
+Eaux de surface : lacs, rivières, zones humides
+
+3. Approvisionnement en eau Qualité de l'eau Traitement de l'eau Distribution de l'eau
+
+4. Les aspects politiques et économiques
+Lois d'allocation, gestion et utilisation, aspects économiques, conflits
+
+◊ L'étudiant devrait connaître les processus principaux dans le cycle hydrologique, et les interactions entre eux
+
+◊ L'étudiant devrait comprendre comment modéliser des processus complexes
+◊ L'étudiant devrait être capable d'utiliser un modèle simple pour expliquer des données réelles
+
+Objectifs : Les étudiants travailleront sur un modèle simple 1-D du cycle hydrologique, afin de comprendre les interactions entre les différents processus
+
+Méthodes : Les étudiants utiliseront un modèle existant ; ils pourront comparer les résultats du modèle avec des données réelles.
+
+
+
+Bibliographie	Brutsaert , W.. Hydrology: an introduction. Cambridge University Press, 2005.
+
+Shaw, E.M.. Hydrology in practice. Taylor & Francis, 1994.
+
+Pennington, K.L. & Cech, T.V.. Introduction to Water Resources and Environmental Issues.
+Cambridge University Press, 2010.
+
+Contrôle desRapport sur le travail de modélisation.connaissancesExamen final
+
+22
+
+ AF ELC B-8
+
+
+Elaboration de pièces techniques
+
+Development of Technical Products
+
+Responsable(s) : Denis MAZUYER, Bertrand HOUX
+
+| Cours : 4 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 4 h | Projet : 20 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Ce cours a pour objectif d'étudier les interactions matières, formes, procédés dans la conception et l'industrialisation de pièces techniques.
+
+A partir d'études de cas, cet enseignement permettra d'aborder les points suivants :
+- Connaissance des procédés de mise en forme des matériaux plastiques et métalliques,
+- Choix d'un matériau (critères fonctionnels et mise en œuvre),
+- Choix d'un procédé (critères économique et technique),
+- Définition d'une forme (critères fonctionnel, procédé et matériau).
+
+On s'intéressera plus particulièrement aux procédés impliquant :
+- des transformations de la matière : Matériaux plastiques : injection, extrusion, thermoformage...
+- des déformations plastiques : Matériaux métalliques : estampage, emboutissage...
+
+Mots-clés : Procédés de mise en forme, Matières plastiques, Injection, extrusion, thermoformage, Matériaux métalliques, Déformation plastique, Estampage, Emboutissage.
+
+
+Programme	I. Injection des matières plastiques
+- Conception et dimensionnement d'une pièce à injecter,
+- Définition des outillages d'injection,
+- Simulation, mise en œuvre et paramétrage du procédé d'injection.
+
+II. Mise en forme par déformation plastique
+- Conception de pièces obtenues par emboutissage et/ou estampage,
+- Définition des outillages,
+- Simulation expérimentale des procédés d'emboutissage et/ou d'estampage.
+
+Lors du déroulement des séances, pour chaque problème, des ressources seront proposées aux élèves et par les élèves, sous forme diverses : ouvrages, articles, polycopiés, sites web, logiciels, matériel...
+
+
+Compétences	◊ Etre capable de choisir un procédé de mise en forme.
+◊ Maitriser le procédé d'injection de matières plastiques et être capable de concevoir une pièce mécanique en matière plastique injectée.
+
+◊ Etre capable de concevoir une pièce mécanique métallique emboutie et/ou estampée.
+
+Travail enObjectifs : 5 séances de 4 heures seront réalisées sous forme de projet (dont 1 séance consacréeautonomieà l'évaluation orale).Méthodes : L'enseignement sera basé sur une adaptation de la méthode PBL (Situation-pro-blème), permettant d'aborder de façon concrète ces problématiques à partir d'études de casréels et de mises en situation.La dernière séance est consacrée à l'évaluation orale du travail effectué par chaque groupe (50Contrôle desconnaissances%) + examen final sous forme d'un QCM (50 %).
+
+
+
+
+
+23
+
+ AF ELC B-9
+
+
+Sociologie des comportements politiques
+
+Political Sociology
+
+Responsable(s) : Nicolas HOURCADE
+
+| Cours : 32 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Ce cours permet aux élèves d'appliquer et d'approfondir les méthodes et les modes de raisonnement de la sociologie appréhendés dans l'UE SHS au semestre 7, en traitant du thème des comportements politiques.
+
+Le module présente les principaux objets, méthodes et théories de la sociologie des comportements politiques. Sa problématique s'organise autour des interrogations suivantes : Quels sont les comportements politiques qui s'expriment dans les sociétés occidentales contemporaines ? Comment peuvent-ils être analysés ? En quoi les modes de participation politique sont-ils liés, d'une part au contexte historique, d'autre part (et corrélativement) aux caractéristiques sociales des individus ?
+
+Mots-clés : Sociologie, politique, comportements politiques, espace politique, participation politique, action collective, mouvements sociaux, violence politique, sondages, médias...
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+Après avoir défini la notion de comportement politique, le cours étudie les comportements dits "conventionnels", liés au processus électoral, en présentant les principales théories et en analysant des questions d'actualité comme l'orientation du vote, l'abstention ou les transformations du champ politique. Puis il se penche sur les comportements dits "non conventionnels" et s'intéresse à l'action collective et aux mouvements sociaux, en croisant là aussi outils théoriques et analyse de sujets d'actualité. Enfin, quelques thèmes sont approfondis, en fonction notamment de l'actualité.
+
+Pour suivre ce module, une bonne maîtrise du français est nécessaire.
+
+◊ Découvrir les champs d'étude de la sociologie politique.
+◊ Acquérir des méthodes et des outils théoriques pour analyser les comportements politiques.
+◊ Acquérir des connaissances solides sur des phénomènes politiques actuels.
+◊ Comprendre et analyser des textes de sciences sociales et des documents d'actualité.
+
+Objectifs : Un travail en autonomie est mené entre les séances. Il est effectué en groupe et consiste à faire une courte synthèse bibliographique sur un sujet donné par l'enseignant (ou, par-fois, choisi par le groupe). Le sujet est ensuite traité en cours, ce qui permet aux élèves de mobi-liser les connaissances acquises et d'en débattre. Quatre notes d'autonomie seront demandées. Méthodes : Des consignes seront données par l'enseignant pour la réalisation du travail en auto-nomie. Les retours effectués sur les premières notes devront permettre aux élèves d'améliorer les suivantes.
+
+
+Bibliographie	Jean-Yves DORMAGEN et Daniel MOUCHARD. Introduction à la sociologie politique. De Boeck, 2015.
+
+Nonna MAYER. Sociologie des comportements politiques. Armand Colin, 2010.
+
+O. FILLIEULE, F. HAEGEL, C. HAMIDI et V. TIBERJ (d. Sociologie plurielle des comportements politiques. Les Presses de Sciences Po, 2017.
+
+
+Contrôle des	Savoir : Examen final (réponses à des questions sur un texte) : 75 %.
+
+connaissances	Savoir-faire : Travail en autonomie : 25 %
+
+
+
+
+
+
+
+24
+
+ AF ELC B-10
+
+
+Conception d'un emballage responsable
+
+Conception of a Sustainable Packaging
+
+Responsable(s) : Michelle SALVIA, Catherine GIRAUD-MAINAND
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 4 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Sensibiliser les étudiants aux intérêts de l'écoconception :
+pourquoi écoconcevoir ? comment écoconcevoir ? avec quelle méthode ? comment faire adhérer l'ensemble des collaborateurs et des parties prenantes ?
+Découvrir les outils de l'écoconception et de l'analyse de cycle de vie.
+Apprendre à collecter les données et à évaluer les impacts environnementaux au travers du prisme de l'emballage, produit emblématique et paradoxal de notre société de consommation.
+Appréhender ce qu'est une démarche RSE et les obligations règlementaires des entreprises.
+Faire de la démarche RSE un avantage concurrentiel pour l'entreprise.
+
+Mots-clés : écoconception, design, analyse de cycle de vie, emballage, économie circulaire, développement durable, RSE
+
+
+
+ProgrammeLe marché de l'emballageLes matériaux de l'emballageIntroduction au design thinkingIntroduction à l'ACVIntroduction à l'écoconceptionMarketing et communication responsablesVisite d'un centre de tri / recyclage◊ Capacité à associer les logiques économiques, environnementales et sociétalesCompétences◊ Capacité à hiérarchiser des données complexes tels que les différents impactsenvironnementaux◊ Capacité à faire des choix rapidement à partir de ces données et à les étayer◊ Capacité à fédérer et convaincre du bien fondé de ces choixObjectifs : Manipuler l'outil Bee, outil gratuit qui permet de réaliser l'ACV des EmballagesTravail enautonomieGérer un projet via la méthode du Design ThinkingMéthodes : Cas concrets : Par groupes de 6, pour utiliser la méthode du design thinking et amé-liorer un emballage par le prisme de l'éco-conception et de l'ACV. Chaque groupe présentera etdéfendra ensuite les options qu'il a choisi devant les autres.Hélène Teulon. Le guide de l'éco-innovation. Eyrolles, 2014.BibliographieMonique Gouiran. Les indicateurs clés de la RSE. Afnor, 2012.Philippe Osset. L'analyse de cycle de vie d'un produit/service. Afnor, 2008.Compte-rendu des deux cas concretsContrôle desconnaissancesQCM final
+
+
+
+
+
+
+
+
+
+
+
+25
+
+ AF ELC B-12
+
+
+Marketing
+
+Marketing
+
+Responsable(s) : Sylvie MIRA-BONNARDEL
+
+| Cours : 32 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Comprendre la dynamique des marchés et identifier les opportunités de développement afin de positionner avec succès une offre de produits / services / technologies.
+
+Connaitre les méthodes et outils d'analyse des marchés à la fois pour les produits grand public et les produits industriels. Identifier les approches marketing de valorisation des innovation technologiques
+
+Comprendre les approche déployées en marketing digital. Mots-clés : analyse de marché, stratégie marketing, segmentation, profilage, analyse quantitative,
+
+
+ProgrammeLes fondamentaux du marketingÉtudes de marché qualitatives et quantitativesMarketing de l'innovationMarketing digital◊ Analyser un marchéCompétences◊ Segmenter et profiler une cible de clientèle◊ Concevoir une stratégie marketing◊ Implementer une stratégie marketing digitaleObjectifs : Étude de marché grand publicTravail enautonomieÉtude de valorisation de technologiesÉtude profilage digitalMéthodes : Les études seront menées en groupe et donneront lieu à un rendu écrit et oralLe Nagard-Assayag E.. Le marketing de l'innovation Concevoir et lancer de nouveaux produits etBibliographieservices. Dunod, 2015.Goudey A.,. Marketing pour ingénieurs. Dunod, 2010.Chaffey  D. (collectif). Marketing digital. Pearson, 2014.Etudes de marchéContrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26
+
+ AF ELC C-1
+
+
+Mathématiques appliquées à la biologie
+
+Mathematical Tools for Biological Problems
+
+Responsable(s) : Philippe MICHEL, Laurent SEPPECHER
+
+| Cours : 16 h | TD : 8 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Le cours est une introduction aux méthodes mathématiques en biologie et médecine. Il sera illustré par de nombreux exemples et applications.
+Le cours comporte deux parties :
+I - Systèmes dynamiques
+
+II - Modèles spatio-temporels
+
+Mots-clés : Mathématiques pour la biologie, équations différentielles ordinaires, équations aux dérivées partielles, dynamique des populations, Chaînes de Markov, phénomènes de propagation
+
+
+Programme	Partie I - Systèmes dynamiques
+Partie II - Modèles biologiques spatio-temporels
+
+
+Compétences	◊ comprendre des modèles mathématiques de base en biologie et médecine
+◊ acquérir des compétences mathématiques (EDO,EDP, CM)
+◊ appliquer les notions mathématiques à l'étude de différents modèles
+
+
+Bibliographie	J. Murray. Mathematical biology. Springer, 2002.
+
+B. Perthame. Parabolic Equations in Biology. Springer, 2015.
+
+
+
+Contrôle des	Test écrit de deux heures et BE
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27
+
+ AF ELC C-2
+
+
+Circuits et Dispositifs en Micro-Ondes
+
+Microwave Circuits and Devices
+
+Responsable(s) : Arnaud BREARD
+
+| Cours : 14 h | TD : 4 h | TP : 4 h | Autonomie : 6 h | BE : 4 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+La connaissance des problèmes dans le domaine des hyperfréquences devient incontournable avec l'explosion des télécommunications et plus généralement le développement d'applications électroniques pour des fréquences de plus en plus élevées. L'objectif de ce cours est d'introduire les concepts de base utiles à l'analyse et à la conception des circuits et des dispositifs micro-ondes. Les notions abordées dans ce cours permettront notamment d'appréhender un système de télécommunications dans son ensemble depuis le circuit électronique jusqu'à la transmission des ondes.
+
+Application en lien avec le cours: télécommunication, RADAR, transmission d'énergie sans fil, ...
+
+Mots-clés : Radio-fréquences, micro-ondes, antennes, adaptation, paramètres S, guide d'onde, cavité résonante, filtres.
+
+
+
+Programme	1) Circuits en hyperfréquences
+- Lignes de transmission. Equation des télégraphistes. Ligne micro ruban. Guide d'ondes.
+- Adaptation d'impédance. Paramètres S.
+- Circuits passifs. Conception de filtres. Coupleurs directionnels.
+- Circuits actifs. Amplificateur radio fréquences.
+
+2) Dispositifs électromagnétiques en micro-ondes - Cavités résonnantes. Résonateurs diélectriques. - Antennes. Diagramme de rayonnement. Gain.
+- Réseau d'antennes
+- Bilan de puissance en télécommunications et en radar
+
+TP: étude complète d'un micro-onde : fonctionnement du magnétron, guide d'onde, cavité résonante, mesure d'émission à l'aide d'antenne dipôle, ...
+
+Compétences◊ Maîtriser les notions et méthodes d'adaptation d'impédances◊ Dimensionner une ligne micro-ruban◊ Dimensionner et concevoir un filtre◊ Utiliser les paramètres SObjectifs : Savoir utiliser un outil de simulation (ADS) circuit et de simulation électromagnétiqueTravail enautonomie2,5D micro-onde adaptée au circuit imprimé.Etudier et dimensionner à partir d'un cahier des charges des systèmes vus en cours ainsi quecertains systèmes évoqués mais non étudiés dans les détails.Méthodes : 1 BE d'introduction au logiciel ADS, les étudiants sont répartis en 6 groupes pour 3sujets différents (2 variantes du cahier des charges par sujet). Ils ont 6h pour le traiter.Un rapport et une restitution de groupe finalise l'activité.D. POZAR. microwave engineering. Addison-Wesley, 1990.BibliographieTest 60%Contrôle desconnaissancesTP 10%Projet autonomie en groupe (rapport + soutenance) 30%
+
+
+
+
+
+28
+
+ AF ELC C-3
+
+
+Design de l'interaction et prototypage rapide par fablab
+
+Interactive Design and FabLab Practices
+
+Responsable(s) : David NAVARRO, Sébastien POUSSIELGUE
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 18 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+L'objectif de cours est de permettre aux élèves-ingénieurs de se familiariser avec la notion de l' " open hardware
+" dans le domaine de l'électronique embarquée, de la méthodologie Design Thinking et de maitriser les outils de fabrication numérique d'un fablab (imprimante 3D, découpe laser, systèmes électroniques Arduino) et d'apprendre à créer rapidement des prototypes physiques dans une approche du Do It Yourself (DIY).
+
+Ce module permet de proposer aux élèves Centraliens les ressources du fablab. Ils peuvent ainsi se familiariser avec les machines et l'esprit d'innovation et d'entreprenariat lié à cet environnement.
+
+Mots-clés : Fablab, Design Thinking, Makers, DIY, DIWO, LBD, Arduino, Innovation ouverte
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+Ce module comprend une série de cours magistraux et de séances de travaux pratiques. Les séances seront développées autour des thématiques suivantes:
+- Fablab : définition, historique, outils
+- Méthodes d'innovation, design thinking
+- Conception de systèmes électroniques
+- Intro aux outils Fablab (impresssion 3D, découpe laser, fraiseuse ...)
+- Protoypage rapide : projets
+
+◊ Maîtriser l'Open Hardware, se familiariser avec les méthodes de prototypage rapide.
+◊ Savoir manipuler les outils de la troisième révolution industrielle
+◊ Maîtriser les méthodes de travail collaboratif expérimentiel
+◊ Connaître les avantages d'une démarche ouverte intégrant le Design Thinking
+
+Objectifs : Le travail en autonomie vise à développer l'appropriation des méthodes de conception et de réalisation d'objets connectés.
+
+Méthodes : Travail en groupe, développement d'un produit connecté en appui sur le fablab.
+
+
+Fabien Eychenne. Fab Lab : L'avant-garde de la nouvelle révolution industrielle. FYP EDITIONS, 28.
+
+Joshua Noble. Programming Interactivity: A Designer's Guide to Processing, Arduino, and OpenFramework. O'Reilly Edition, 2009.
+
+Tim Brown. L'Esprit design: Le design thinking change l'entreprise et la stratégie. Pearson Village, 2010.
+
+
+
+Contrôle desSavoir =10 % et Savoir-Faire = 90% obtenus respectivement par un rapport individuel et unconnaissancesrapport de groupe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29
+
+ AF ELC C-4
+
+
+Capteurs et traitement d'images
+
+Image Sensing and Processing
+
+Responsable(s) : Liming CHEN, David NAVARRO
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 8 h | BE : 8 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Ce cours a pour objectif d'introduire des concepts et techniques de base sur l'acquisition d'images et de la structure des capteurs classiques, de traitement d'images. Il en couvre les fondements et aborde les principes de la formation d'images, du traitement d'images, de l'extraction de caractéristiques et de la segmentation d'images, du suivi du mouvement. Le cours abordera les concepts comme la structure de capteur (CCD/CMOS), la structure d'images, l'analyse spatiale et fréquentielle d'images, des descripteurs d'image (forme, contour, etc.), la segmentation (point, contour, droite, etc.) et le suivi du mouvement dans les images. Les applications sont nombreuses, comme par exemple la médecine, contrôle qualité, la vision artificielle, l'imagerie satellite, etc.
+
+Mots-clés : formation d'images, filtrage spatial et fréquentiel d'images, détection du contour, segmentation d'images (point, droite, etc.), descripteurs d'image (forme, contour, etc.), suivi du mouvement
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+
+• La formation d'images (caméras, radiométrie, couleurs)
+• Phototransduction, structure de capteurs
+• Structure d'images, quantification, bruit
+• L'analyse spatiale (Manipulation de l'histogramme, le gradient et le laplacien)
+• L'analyse fréquentielle
+• La morphologie
+• La segmentation d'images (détection de points, de contour
+• Représentation et description (forme, texture, signature, etc.)
+• Analyse et suivi du mouvement (filtre Kalman)
+
+◊ A l'issue de cette UE l'élève doit être capable de comprendre le processus de la formation d'images numériques
+
+◊ mettre en oeuvre des techniques fondamentales pour améliorer et traiter les images
+
+Objectifs : L'objectif pédagogique visé est d'approfondir et mettre en pratique des concepts et techniques abordés en cours
+
+Méthodes : pratique d'exercices sur Matlab et résolution de problèmes concrets
+
+
+Rafael C.Gonzalez, Richard E.Woods. Digital Image Processing. Pearson Prentice Hall, 2008.
+
+Richard Szeliski. Computer vision: Algorithms and applications. Springer, 2010.
+
+David A. Forsyth, Jean Ponce. Computer vision : a modern approach. Prentice Hall, 2007.
+
+
+
+Contrôle des Le contrôle des connaissances prend en compte pour 2/3 les comptes rendus des deux BEs et connaissances pour un tiers pour le contrôle de connaissance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30
+
+ AF ELC C-5
+
+
+Analyser et observer la matière
+
+Observation and Analysis of Materials
+
+Responsable(s) : Fabrice DASSENOY, Magali PHANER
+
+| Cours : 22 h | TD : 8 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Les importants progrès de la science de la matière sont intimement liés au développement de méthodes permettant de caractériser un solide à l'échelle microscopique. La plupart des techniques d'analyse sont basées sur l'interaction de particules-sondes (photon, électron, ion) avec la matière.
+
+On alternera un enseignement de base portant sur les concepts physiques sur lesquels reposent les principales techniques d'analyse et d'observation des matériaux et une description du principe et des applications de certaines techniques couramment utilisées (spectroscopie de photoélectron XPS, diffraction X, microscopie électronique et à champ proche (STM, AFM)).
+
+L'objectif final est de permettre au futur ingénieur de savoir choisir la ou les techniques appropriées à sa problématique industrielle.
+
+Mots-clés : Interaction rayonnement/matière, techniques de caractérisation des matériaux, XPS, RBS, XRD, IR, Microscopie électronique
+
+
+Programme	- Introduction : Classification des différents processus d'interactions
+- Interaction photon-matière
+- Niveaux d'énergie et Spectroscopie IR
+- Technique de diffraction X
+- Techniques XPS et IR
+- Interaction ion /matière
+- Techniques RBS et SIMS
+- Interaction électron/matière
+- Techniques de microscopies électroniques (TEM/MEB)
+- Techniques de spectroscopies électroniques (EDX/EELS)
+- Microscopies champ proche tunnel et AFM
+- Visite des installations des laboratoires LTDS + INL (2h) et définition de la problématique à traiter en autonomie.
+
+- Travail en autonomie puis restitution/présentation des résultats
+
+
+Compétences	◊ Connaitre les principes de base des principales techniques de caractérisation des matériaux
+◊ Connaitre les informations accessibles par ces différentes techniques
+◊ Savoir choisir une technique d'analyse en fonction de la problématique industrielle
+
+
+
+Travail en autonomie
+
+
+
+
+
+
+Bibliographie
+
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : L'objectif du travail en autonomie est de résoudre une problématique complexe basée sur la caractérisation des matériaux.
+
+Méthodes : Les élèves devront interpréter des résultats issus de différentes techniques de carac-térisation afin de pouvoir, en les combinant, déterminer la composition chimique ainsi que la structure d'un matériau inconnu.
+
+
+M. Ammou. Microcaractérisation des solides. CRAM CNRS, 1989.
+
+D. Brune. Surface Characterization. Wiley-VCH, 1997.
+
+R. W. Cahn. Materials Science and Technology. VCH Weinheim, 1994.
+
+
+Test de 2 heures portant sur cours et travaux dirigés (avec documents) + notes sur la restitution du travail en autonomie
+
+
+31
+
+ AF ELC C-6
+
+
+Mécanique des sols
+
+Fundamental Soil Mechanics
+
+Responsable(s) : Eric VINCENS
+
+| Cours : 14 h | TD : 14 h | TP : 0 h | Autonomie : 4 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Ce module a pour objectif de poser les bases essentielles de la Mécanique Théorique des Sols indispensable au géotechnicien pour comprendre et prédire le comportement d'un matériau polyphasique (air, eau, solide) complexe : le sol. Il fait le lien avec la Mécanique des Solides (UE MSS), dont il montre une application concrète. Il est notamment destiné aux futurs élèves de l'option Génie Civil et Environnement.
+
+Mots-clés : sable, argile, hydraulique, cisaillement, consolidation, analyse limite, soutènement
+
+
+
+Programme	1 - Caractéristiques physiques et classification des sols.
+2 - Hydraulique des sols
+3 - Consolidation des sols fins
+3.1 - Essai oedométrique
+3.2 - Tassements de consolidation
+4 - Résistance des sols au cisaillement
+4.1 - Essais de cisaillement
+4.2 - Chemins de contrainte
+
+5 - Equilibres limites - poussée et butée des terres
+
+
+Compétences	◊ savoir calculer les propriétés physiques et mécaniques des sols
+◊ savoir calculer les tassements des sols dus à la présence d'un ouvrage sur le site
+◊ savoir calculer des débits hydrauliques et sous-pressions sous les ouvrages
+◊ savoir calculer un champ de contraintes dans un sol
+
+
+Bibliographie	G. Olivari. Polycopié de Mécanique des sols I. SDEC.
+
+
+
+Contrôle des QCMs de 10min en début de séance en contrôle continu connaissances test avec partie "avec documents et autre "sans document"
+
+note : 0.67*test final +0.33*QCMs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32
+
+ AF ELC C-7
+
+
+Simulation multiphysique en conception mécanique
+
+Multiphysics Simulation in Mechanical Design
+
+Responsable(s) : Sébastien BESSET, Louis JEZEQUEL
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 6 h | BE : 12 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+L'objectif de l'enseignement est de présenter les formulations et les méthodes de
+discrétisation capables de simuler des problèmes couplés. Dans ce but, les formulations intégrales et variationnelles, adaptées aux milieux fluides et solides, seront analysées et mises en complémentarité. Des mises en œuvre numériques sur des exemples concrets seront effectuées dans la cadre de 3 BE. Le couplage fluide-structure, avec et sans écoulement, sera particulièrement étudié ainsi que le couplage électromagnétique et électro-statique dans le cas des milieux solides et fluides (piézo-électiques, ferro-fluides, magnéto-strictifs).
+
+Mots-clés : multiphysique, discrétisation, couplage, formulation intégrale
+
+
+
+Programme	1/ Discrétisation des problèmes
+Cas des milieux sans écoulement : Formulations intégrales ; Formulations variationnelles.
+Cas des fluides en écoulement : Volumes finis, Formulations variationnelles.
+2/ Couplage fluide-structure
+Vibro-acoustique des structures couplées à un fluide compressible et non compressible.
+Calcul du comportement des structures soumises à un écoulement fluide.
+3/ Couplage thermo-mécanique
+Formulation des problèmes thermo-mécaniques
+Calcul des comportements stationnaires et transitoires. Application au système de freinage.
+4/ Couplage électro--mécanique
+Calcul du comportement dynamique des structures possédant des matériaux piézo-électriques.
+Calcul du comportement des solides et des fluides soumis à des champs électromagnétiques.
+
+
+Compétences	◊ Comprendre la complexité d'un problème multiphysique
+◊ Savoir formuler un couplage entre deux physiques
+◊ Connaître les outils adaptés à la résolution d'un problème multiphysique
+◊ Savoir analyser et critiquer les résultats de la résolution
+
+
+Bibliographie	F. Brezzi & M. Fortin. Mixed and hybrid finite element methods.
+
+C.A. Bredia, S. Kim, T.A. Osswald & H. Power. Boundary elements XVII.
+
+Klauss J. Bathe. Finite element procedures in engineering analysis.
+
+
+Contrôle des	1 examen + 3 BE
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33
+
+ AF ELC C-8
+
+
+Philosophie des sciences et techniques
+
+Philosophy of Sciences and Technologies
+
+Responsable(s) : Vincent Beaubois
+
+| Cours : 28 h | TD : 0 h | TP : 0 h | Autonomie : 4 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Ce cours a pour objectif de saisir l'enjeu à la fois social et philosophique de l'influence des technologies et du savoir scientifique sur notre expérience du monde. Les différentes séances de ce cours permettent de s'approprier plusieurs concepts fondamentaux qui structurent la pensée philosophique des sciences et des techniques. Ces concepts nous serviront de lanternes pour éclairer certaines problématiques contemporaines (comme le big data, l'IA, la relation nature-technique, l'innovation, etc.). Nous montrerons comment cet environnement technique et scientifique participe à la construction de nos manières d'agir et de percevoir.
+
+Mots-clés : Sciences, Techniques, Histoire, Epistémologie, Culture matérielle
+
+
+
+Programme	Le cours s'appuie notamment sur des études de cas.
+
+
+Compétences	◊ Comprendre l'épistémologie
+◊ Comprendre les critères de rationalité, de vérité et d'objectivité inventés par les sciences et les techniques modernes
+
+◊ Connaître l'histoire des techniques
+◊ Comprendre comment la technique transforme notre rapport au monde
+
+
+Bibliographie	Guchet, Xavier. Les sens de l'évolution technique. Leo Scheer, 2005.
+
+Barberousse A., Kistler M., Ludwig P.. La philosophie des sciences au XXe siècle. Editeur2, 2000.
+
+Séris, Jean-Pierre. La technique. PUF, 2013.
+
+
+
+Contrôle des Note de synthèse : A partir d'un dossier de textes et de questions, proposer une synthèse des connaissances enjeux épistémologiques.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34
+
+ AF ELC C-9
+
+
+Finance d'entreprise
+
+Corporate Finance
+
+Responsable(s) : Sylvie MIRA-BONNARDEL
+
+| Cours : 16 h | TD : 16 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Apprendre à établir rapidement un diagnostic financier à partir des documents comptables et financiers d'une entreprise Apprendre à concevoir un plan de financement
+
+Apprendre à établir une évaluation d'entreprise Mots-clés : Analyse financière, Plan de financement, Évaluation d'entreprise
+
+
+
+Programme
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+Des documents comptables aux documents financiers
+Les approches de la rentabilité
+Le plan de financement
+Le diagnostic financier
+
+L'évaluation d'entreprise
+
+◊ Savoir établir d'un diagnostic financier
+◊ Savoir évaluer le besoin de financement d'une entreprise
+◊ Savoir établir un plan de financement d'une activité
+◊ Savoir évaluer une entreprise dans une problématique de fusion acquisition
+
+Objectifs : Travail sur étude de cas en vue d'acquérir les méthodes Prise de décisions financières sur business game
+
+Méthodes : Travail en binôme
+
+
+Marion A.. Analyse financière Concepts et méthodes. Dunod, 2015.
+
+Legros G.. L'évaluation des entreprises Méthodes et études de cas,. Dunod, 2015.
+
+Pierre Vernimmen P., Quiry P., Le Fur Y.. Finance d'entreprise. Dalloz, 2016.
+
+
+
+Contrôle des	Étude de cas
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35
+
+ AF ELC D-1
+
+
+Théorie des probabilités et introduction aux processus aléatoires
+
+Probability Theory and Introduction to Random Processes
+
+Responsable(s) : Elisabeth MIRONESCU, Christophette Blanchet
+
+| Cours : 32 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Le cours pourra être dispensé en anglais si besoin.
+Ce cours est le complément incontournable des cours de mathématiques du semestre 5 pour les élèves désirant s'orienter vers des formations à forte composante mathématique en France ou à l'étranger. On y approfondit de façon rigoureuse les notions de théorie de la mesure et d'analyse à la base de l'étude des équations aux dérivées partielles et de la théorie des probabilités. La théorie des probabilités est présentée dans son cadre axiomatique complet et le calcul des probabilités dans toute sa généralité. Les théorèmes majeurs sont vus dans leur cadre fondamental naturel. De nouvelles notions enrichissent la modélisation vue en S5 et éventuellement en S7 : espérance conditionnelle et martingales.
+
+Mots-clés : Théorie de la mesure et de l'intégration, fonction caractéristique, vecteurs gaussiens, espérance conditionnelle, temps d'arrêt, martingales en temps discret.
+
+
+Programme	Espaces probabilisé. Variables et vecteurs aléatoires.
+Calcul sur les moments de variables aléatoires.
+Suites aléatoires
+Conditionnement, martingales et temps d'arrêt
+
+
+Compétences	◊ modéliser des phénomènes aléatoire dépendant du temps (en discret)
+◊ manipuler les outils avancés du calcul des probabilités
+◊ s'approprier les notions nécessaire pour aborder le calcul stochastique (3A, M2)
+◊ comprendre les théorèmes importants de probabilités et statistique (loi 0-1 de Kolmogorov,
+TLC, Cochran, Radon-Nikodym)
+
+
+Bibliographie	Valérie Girardin et Nikolaos Limnios. Probabilités en vue des applications, tomes I et II,. Vuibert, 2008.
+
+William Feller. An Introduction to Probability Theory and Its Applications, 3rd edition. Willey, 1971.
+
+
+
+Contrôle des	Contrôle continu (cc) et test de 2H.
+
+connaissances	Note Savoir=Max (note test, 1/3*note moyenne cc+2/3* note Test)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36
+
+ AF ELC D-2
+
+
+Filtrage adaptatif application au contrôle actif de bruit
+
+Adaptive Filtering: Application to Active Noise Control
+
+Responsable(s) : Laurent BAKO, Marie-Annick GALLAND, Alberto BOSIO
+
+| Cours : 12 h | TD : 6 h | TP : 8 h | Autonomie : 6 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Depuis quelques années, le filtrage adaptatif a permis de développer de nombreuses applications (annulation d'échos en téléphonie, égalisation en télécommunication, amélioration des signaux en génie biologique et médical,...). Ce cours a pour objectif de montrer à travers des applications essentiellement dans le domaine de l'acoustique, les fondements, la mise en oeuvre et l'intérêt du filtrage adaptatif. L'originalité de cet enseignement est d'aborder de manière transversale les aspects fondamentaux et appliqués reliés en Traitement du signal, Electronique et Acoustique. Parmi les applications de techniques de filtrage adaptatif, on privilégiera plus spécifiquement dans ce cours l'étude des systèmes de contrôle actif du bruit.
+
+Mots-clés : Filtrage de Wiener, Algorithmes de filtrage adaptatifs (LMS, RLS, ...), Processeurs dédiés au traitement de signal (DSP), Acoustique, Contrôle actif de bruit
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+Introduction aux applications du filtrage adaptatif
+Filtrage déterministe de Wiener et Optimisation quadratique
+Filtrage adaptatif et Algorithme LMS
+Architecture des DSPs (Processeurs dédiés au Traitement du Signal)
+Mise en œuvre des DSPs
+Introduction à l'acoustique
+Contrôle passif de bruit
+Contrôle actif de bruit et applications
+
+◊ Définir les enjeux et le cadre conceptuel du filtrage adaptif
+◊ Appliquer les algorithmes de filtrage adaptatif
+◊ Expliquer l'architecture des processeurs dédiés au traitement de signal
+◊ Mettre en oeuvre les méthodes de filtrage adaptatif pour le contrôle actif de bruit
+
+Objectifs : Objectifs pédagogiques visés: effectuer le design complet d'un système de contrôle actif de bruit (diagnostic acoustique, choix de l'algorithme, simulation, performances, implémenta-tion sur DSP)
+
+Méthodes : Mini-projet par groupe de 5 étudiants suivi d'un exposé : le travail s'appuie sur des données issues de mesures, des programmes Matlab et Simulink à adapter ; il est demandé de proposer une solution argumentée et d'analyser les résultats
+
+
+Bibliographie	Simon Haykin. Adaptive Filter Theory. 5th Ed, Prentice Hall, 2013.
+
+Phil Lapsley, Jeff Bier, Amit Shoham, E.A. Lee. DSP Processor Fundamentals: Architectures and Features. Wiley-Press, 1997.
+
+
+Contrôle des Le contrôle de connaissance comprend une épreuve individuelle écrite de 1h et l'évaluation du connaissances travail en Travaux pratiques et Autonomie.
+
+
+
+
+
+
+
+
+
+37
+
+ AF ELC D-3
+
+
+Applications Web
+
+Webapps
+
+Responsable(s) : Daniel MULLER, René CHALON
+
+| Cours : 10 h | TD : 0 h | TP : 0 h | Autonomie : 14 h | BE : 8 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+De nombreux éditeurs développent des applications en technologie Web, qu'elles soient intégrées au Système d'Information ou autonomes proposées en mode SAAS. L'intérêt réside dans la facilité de déploiement et de maintenance par rapport à un client lourd, et la possibilité d'accès distant par rapport à une application dédiée.
+
+Dans un autre contexte, la multiplicité des plateformes mobiles rend extrêmement coûteux le développement de clients dédiés. Grâce à la maturation des standards liés à HTML5, le choix de la technologie Web (WebApp) représente une solution transversale à ce problème.
+
+Ce cours fait le point sur l'état actuel des standards du Web et leur implémentation, et présente node.js une technologie côté serveur, émergente et novatrice pour la réalisation d'applications Web.
+
+Mots-clés : Webapp, HTML5, Javascript, nodejs
+
+
+
+ProgrammeQu'est-ce que le Web 2.0 ?HTML5, CSS3 et APIs JavaScriptJavaScript, le langage - Frameworks côté clientIntroduction à NoSQLNode.js ou JavaScript côté serveur◊ Etre capable de développer une application Web simple en technologie nodejsCompétences◊ Avoir une vision transversale des technologies disponibles, et de leurs limites, pour ledéveloppement d'une WebappObjectifs : Savoir mener à bien un projet sous Node.js avec exploitation d'une API JavaScript HTML5.Travail enautonomieMéthodes : Projet en binômeStoyan Stefanov,. JavaScript Patterns - Build Better Applications with Coding and Design Patterns.BibliographieO'Reilly Media, 2010.Peter Gasston. The Modern Web : Multi-Device Web Development With HTML5, CSS3, andJavaScript. No Starch Press, 2013.Pedro Teixeira,. Professional Node.js - Building JavaScript-Based Scalable Software. Wiley / Wrox, 2012.Examen sous forme de QCM comptant pour 50% de la note, complété avec la note de BE/projetContrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38
+
+ AF ELC D-4
+
+
+Physico-chimie des surfaces
+
+Physics and Chemistry of Surfaces and Interfaces
+
+Responsable(s) : Denis MAZUYER, Juliette CAYER-BARRIOZ
+
+| Cours : 8 h | TD : 8 h | TP : 0 h | Autonomie : 0 h | BE : 16 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Ce cours aborde les notions fondamentales concernant les propriétés des surfaces et d'interfaces, liquides ou solides. À partir d'une introduction unifiée des forces intermoléculaires, on présente une description physique de l'état liquide et de systèmes complexes où la matière est dans un état très divisé tels que les agrégats moléculaires, les molécules en solutions ou les particules en suspension. Ils se caractérisent par la création des rapports surface/volume extrêmement élevés. Le contrôle des propriétés physico-chimiques de ces interfaces est nécessaire pour optimiser leurs procédés d'élaboration et leurs propriétés d'usage. Ces notions concernent le comportement d'objets comme les tissus vivants, les cosmétiques, les peintures et des procédés tels que l'enduction ou la détergence.
+
+Mots-clés : Energie de surface, forces intermoléculaires, surfaces, mouillage, colloïdes
+
+
+
+Programme	I. Forces intermoléculaires et forces de surfaces
+- Les forces de polarisation et de van der Waals
+- Forces de solvatation
+- Couche double électrique (DLVO)
+
+II. Interfaces solide/liquide
+- Énergie de surface et tension interfaciale : adhésion
+- Mouillage et capillarité
+- Films minces liquides
+
+III. Phénomènes d'adsorption et modification de surfaces
+- Systèmes moléculaires auto-assemblés et film de Langmuir
+- Polymères aux interfaces
+
+IV. Micelles, émulsions et mousses
+- Surfactants et systèmes micellaires
+- Stabilité colloïdale
+- Propriétés rhéologiques, structure moléculaires et interactions
+
+
+Compétences	◊ Maîtriser les notions d'adhésion et d'énergie de surface
+◊ Connaître les principales forces intermoléculaires, les lois de mouillage, de capillarité et d'adsorption
+
+◊ Etre capable de mettre en oeuvre une démarche de conception des milieux collo¨daux et d'analyse de leurs propriétés
+
+Travail enObjectifs : Approfondir et faire des liens entre les concepts abordés en cours et appréhender desautonomienouveaux savoirs non traités en coursMéthodes : Méthodes d'apprentissage par problème, étude de cas et exposésJ.N. Israelachvili. Intermolecular forces. Elsevier, 2011.BibliographieH.-J. Butt, K. Graf, M. Kappl. Physics and Chemistry of Interfaces. Wiley, 2006.J.-M. Di Meglio. Les états de la matière, de la molécule au matériau. Dunod, 2001.Notes de BE (50%) + examen final (50%)Contrôle desconnaissances
+
+
+
+39
+
+ AF ELC D-5
+
+
+Ecoulement diphasique et systèmes énergétiques
+
+Two-Phase Flow Related to Energy Production
+
+Responsable(s) : Mathieu CREYSSELS, Mikhael GOROKHOVSKI
+
+| Cours : 24 h | TD : 8 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Les écoulements diphasiques du type gaz-liquide, gaz-solide ou solide-liquide, se rencontrent dans un nombre considérable d'applications industrielles. Par exemple : (i) les réacteurs refroidis à eau et les systèmes bouillants dans lesquels des bulles se déplacent dans l'écoulement liquide ; les moteurs à combustion interne et les sécheurs pour lesquels la dynamique des gouttes joue un rôle essentiel ; (iii) les lits fluidisés et le transport de particules par un écoulement d'air ou de liquide. Ces écoulements sont aussi très présents de façon naturelle : nuages et pluies, éruptions volcaniques, geysers. Les objectifs du cours sont d'appréhender les processus physiques, d'introduire des modèles et de montrer des applications dans le domaine de la production d'énergie.
+
+Mots-clés : Ecoulements diphasiques, interface et les instabilités, changements de phase, formation, dynamique et combustion de sprays ; combustion du charbon et de biomasse
+
+
+Programme	Ce cours fournit les éléments essentiels nécessaires à la mise en œuvre d'écoulements diphasiques et les application dans le domaine de la production d'énergie.
+Les thèmes abordés seront :
+i) la formation et la dynamique d'une phase dispersée (atomisation, dispersion) et de l'interface gaz-liquide entre deux phases séparées,
+
+ii) la combustion en milieu dispersé (combustion de sprays, de charbon pulvérisé, de biomasse) ainsi que le fonctionnement des brûleurs industriels
+
+iii) les transferts thermiques et les changements de phase (ébullition, condensation, évaporation) ; les échangeurs thermiques et les réacteurs de refroidissement à l'eau.
+
+
+Compétences	◊ L'élève aura un aperçu de la richesse et de l'intérêt aussi bien fondamental que applicatif des écoulements diphasiques.
+◊ Comprendre les mécanismes qui contrôlent les écoulements diphasiques ; comprendre les différents régimes de ces écoulements.
+
+◊ Caractériser la formation, la dynamique et la combustion d'un spray. Caractériser un échangeur thermique avec le changement des phases.
+
+◊ Savoir prendre en main et commencer à utiliser des modèles d'écoulements diphasiques introduits dans les codes industriels.
+
+
+Bibliographie	Crowe C., Sommerfeld, Tsuji Y.. Multiphase flows with droplets and particles.. CRC Press, 1998.
+
+Whalley P.B.. Two-phase flow and heat transfer. Oxford University Press, 1996.
+
+3. S. Mostafa Ghiaasiaan. Two-Phase Flow, Boiling, and Condensation. Cambridge University Press, 2008.
+
+
+
+Contrôle des	Examen écrit de 2 heures.
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40
+
+ AF ELC D-6
+
+
+PLM - Maquette numérique
+
+PLM - Digital Mockup
+
+Responsable(s) : Paul CLOZEL, Didier LACOUR
+
+| Cours : 6 h | TD : 4 h | TP : 0 h | Autonomie : 4 h | BE : 18 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Connaissance du processus industriel de développement produits dans un contexte PLM (Product Lifecycle Management), depuis la maquette numérique, les applicatifs, la collaboration et la gestion de données, dans le Système d'Information de l'Entreprise.
+
+- fournir aux élèves les éléments nécessaires à l'analyse des pratiques industrielles dans le domaine du PLM, intégré au Système d'Information de l'Entreprise
+
+- préparer les élèves à la mise en oeuvre des outils et méthodes utilisés dans les bureaux d'études / production.
+- situer l'état de l'art dans le domaine de l'ingénierie intégrée et de la maquette numérique et les SGDT.
+
+Mots-clés : PLM (Product Lifecycle Management), CAO, SGDT, Systeme d'information, Catia, Maquette Numérique,
+
+
+
+Programme	Système d'Information global de l'Entreprise : Problématique et Architecture technique.
+Développement de produit dans un contexte PLM.
+
+Environnement PLM : projet, équipe projet, conteneurs, processus, workflow, cycle de vie Maquette avancée, knowledge, automatisation (macros)
+Mise en œuvre des concepts abordés en cours, sur 3 études de cas.
+- application verticale (intégration de la démarche de conception/production - exemple de pièces en tôle découpée pliée -, unicité d'information, cohérence de l'information)
+
+- automatisations de taches Catia par macros et programmation
+- connaissance des bases de l'outil Catia V5, V6 3D expérience: mini-projet concret par binôme: application sur des cas concrets utilisant les concepts, outils et méthodes d'applicatifs et PLM.
+
+
+Compétences	◊ connaitre comment la maquette numérique sert de base au processus industriel, et le PLM à sa gestion.
+◊ être capable, principalement avec la maquette numérique, de commencer à s'insérer dans le processus industriel d'une entreprise.
+
+◊ connaitre des bases d'outil CAO, avec Catia V5, V6 3D expérience, très présent dans le milieu industriel
+
+Travail enObjectifs : Connaissance des bases de l'outil Catia V5, V6 3D expérienceautonomieMéthodes : Mini-projet concret par binôme : application sur des cas concrets utilisant lesconcepts, outils et méthodes d'applicatifs et PLM.Denis Debaecker. Le projet PLM par l'expérience. Hermes 2013, ISBN-13: 978-2746245389, 2013.BibliographieDassault Aviation. l'entreprise numérique: http://www.dassaultaviation.com/fr/dassault-aviation/innovation/lentreprise-numerique. Dassault Aviation, 2015.Dassault Systems. www.3ds.com. Dassault Systems, 2016.Evaluation des livrables du mini-projet : production + rapport écritContrôle desconnaissances
+
+
+
+
+
+
+
+
+41
+
+ AF ELC D-7
+
+
+Communication interpersonnelle et pratiques professionnelles
+
+interpersonal communication and professional practices
+
+Responsable(s) : Jacqueline VACHERAND-REVEL
+
+| Cours : 32 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+La communication interpersonnelle, en présentiel ou à distance, occupe une place prééminente dans la vie sociale et dans la vie professionnelle des ingénieurs. Pour évoluer avec agilité et talent dans des contextes internationalisés de travail, dans des équipes pluri-métiers, en manager ou se comporter avec efficience dans les divers événements qui jalonnent la vie professionnelle, savoir bien communiquer constitue une activité à forte valeur ajoutée et un facteur de distinction.
+
+Ce module présente les principaux objets, les théories et méthodes de la communication interpersonnelle. Il permet d'analyser ses enjeux et de prendre conscience des risques de malentendus qui les sous-tendent dans l'exercice des métiers de l'ingénieur.
+
+Mots-clés : Communication interpersonnelle, langages de l'interaction, enjeux psycho-sociaux et culturels, communication de crise.
+
+
+Programme	Partie 1 : appréhender la communication : approches instrumentales et interactionnistes. Partie 2 : les langages et les enjeux psycho-sociaux de la communication interpersonnelle. Partie 3 : La communication dans les pratiques professionnelles (e.g. gestion de crises, présentation de soi en entretien, travail en équipe, négociation).
+
+
+Compétences	◊ Acquérir des outils conceptuels et méthodologiques pour analyser la communication.
+◊ Capacité à comprendre les enjeux psychosociaux de la communication et ses difficultés.
+◊ Capacité de comprendre les variations intraculturelles et interculturelles de la communication.
+◊ Développer des savoir-faire et savoir-être dans diverses situations professionnelles
+
+
+Bibliographie	Watzlawick. La réalité de la réalité : confusion, désinformation, communication. Seuil Points, 1978.
+
+Borxeix et Fraenkel. Langage et travail. Communication, Cognition, Action.. CNRS Éditions, 2001.
+
+Goffman. La mise en scène de la vie quotidienne (Tome 1 : présentation de soi et tome 2 :
+relations en public).. Editions de Minuit, 1973.
+
+
+Contrôle des	Examen sous la forme de questions de cours.
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42
+
+ AF ELC D-8
+
+
+Systèmes autonomes de production (SAP)
+
+Discrete Event Systems
+
+Responsable(s) : Emmanuel BOUTLEUX, Anton KORNIIENKO
+
+| Cours : 8 h | TD : 4 h | TP : 16 h | Autonomie : 4 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+De nombreux processus industriels fonctionnent en temps discret en suivant des séquences d'opérations. Les chaînes de fabrication ou d'assemblage, les unités de production flexibles sont autant de systèmes à événements discrets dont le fonctionnement est régi par des automatismes logiques.
+
+Dans ce contexte, il s'agit d'exploiter un cahier des charges afin d'aboutir à la synthèse de la partie commande du processus à automatiser. Aujourd'hui, l'automatisme industriel est essentiellement implanté au travers des automates programmables industriels.
+
+L'autre objectif consiste à s'approprier un outil de modélisation de systèmes à événements discrets appelé Réseaux de Petri, permettant de vérifier l'ensemble du système en boucle fermée par analyse de propriétés ou par simulation.
+
+Mots-clés : Automatique, automates programmables, modélisation comportementale, GRAFCET, évaluation de performances
+
+
+
+ProgrammeLes systèmes automatisés de production• Décomposition partie commande - partie opérative d'un système à automatiser ;• Exemples ;• Comparaison Automatique discrète/Automatique continue ;Synthèse de partie commande par API : le GRAFCET (langage de commande des API le plusrépandu)• Histoire du GRAFCET ;• Principe et applications ;• Particularités ;• Architecture d'un API : environnement, bus et réseaux..., accès à distance par TCP/IP ;Modélisation par Réseaux de Petri (RdP)• Principe des RdP• Briques de bases• Analyse du comportement dynamique◊ Modéliser le comportement d'un système séquentielCompétences◊ Utiliser un modèle pour évaluer et comparer des performances◊ Connaître un outil de programmation simple d'automate programmable◊ Comprendre les particularités de fonctionnement des automates programmablesObjectifs : Prendre en main une plate-forme de manipulation ou un logiciel de simulation de systèmesTravail enautonomiediscrets gratuitMéthodes : Etude de casGENDREAU D.. 7 facettes du GRAFCET, approches pratiques de la conception à l'exploitation,Bibliographiepratiques de la conception à l'exploitation. CEPADUES-Editions, 2000.MORENO, S/PEULOT. LE GRAFCET. Conception-Implantation. CASTEILLA - TECHNIPLUS, 17.DAVID, R/ALLA, A. Du GRAFCET aux réseaux de Petri. Hermès, 1992.La note finale sera obtenue de la manière suivante : 50% note examen final individuel + 50%Contrôle desconnaissancesnote moyenne des 4 TPs et de l'autonomie.
+
+
+43
+
+ AF ELC D-9
+
+
+Eoliennes
+
+Wind Turbines
+
+Responsable(s) : Pierre DUQUESNE, Eric VAGNON
+
+| Cours : 10 h | TD : 10 h | TP : 4 h | Autonomie : 6 h | BE : 2 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Dans un contexte de diversification de la production d'énergie, l'utilisation de l'énergie du vent est une alternative en plein développement. Les projets de nouvelles installations sont nombreux. Ils concernent de très grandes installations offshore jusqu'aux installations de faibles puissances en zone rurale voire urbaine ou dans des sites isolés du réseau. L'énergie éolienne est donc un enjeu industriel majeur et présente un potentiel d'emplois important.
+
+Ce cours vise à présenter les techniques mises en œuvre pour la production d'énergie électrique à partir de l'énergie du vent. Les notions abordées concernent la mécanique des fluides, l'électrotechnique et l'électronique de puissance. Les techniques présentées couvrent les installations de quelques kW comme celles de plusieurs MW.
+
+Mots-clés : Vent, Éoliennes, Mécanique des fluides, Génie électrique, Électronique de puissance
+
+
+
+Programme	Intervention (4h) d'un ingénieur du secteur sur la ressource, la situation et les tendances du marché.
+
+Potentiel de conversion de l'énergie du vent
+Aérodynamique des pales
+Interactions aérodynamiques : effets de site et d'installation
+Génie électrique des éoliennes
+Chaînes de conversions en site isolé, raccordé au réseau ou offshore
+Génératrice synchrone et électronique de puissance associée
+
+Recherche du point de puissance maximale (Maximum Power Point Tracking)
+
+TP de 4 heures
+Machine synchrone à vitesse variable et électronique de puissance pour la connexion au réseau ou (au choix)
+
+Mécanique des fluides
+
+
+Compétences	◊ Décrire les constituants des éoliennes et leur rôle
+◊ Expliquer les principes physiques entrant en jeu lors de la conversion de l'énergie cinétique du vent en énergie mécanique puis en énergie électrique
+
+BibliographieBin Wu et al.. Power conversion and control of wind energy systems. Wiley, 2011.Olimpo Anaya-Lara. Wind energy generation -- Modeling and control. Wiley, 2009.Note finale =Contrôle desconnaissances0.5*Note de test final (test individuel écrit)+0.5*Note de présentation sur les travaux pratiques
+
+
+
+
+
+
+
+
+
+
+44
+
+ AF ELC E-1
+
+
+Algorithme et raisonnement
+
+Algorithms and Reasoning
+
+Responsable(s) : Alexandre SAIDI, Emmanuel DELLANDREA
+
+| Cours : 6 h | TD : 0 h | TP : 0 h | Autonomie : 10 h | BE : 16 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+L'objectif de l'Intelligence Artificielle (IA) est de donner aux machines une certaine intelligence : la capacité de "raisonner"
+
+= déduire et induire. La réalisation de cet objectif passe par la manipulation de connaissances : la représentation et l'application d'informations relatives au problème à résoudre. Ce cours présente les techniques et les outils de base employés en raisonnement et en résolution de problèmes dans différents domaines d'IA. L'étude et l'implantation de ces techniques et outils font appel aux concepts avancés, notamment les graphes et les objets. Quelques notions de base en logique seront présentées afin de faciliter l'utilisation du langage Prolog. Des exemples d'utilisation industrielle de systèmes intelligents - experts seront présentés.
+
+Mots-clés : Intelligence Artificielle, Systèmes de raisonnement, Programmation Logique avec Contraintes (CLP).
+
+
+
+Programme1- Outils et Techniques de Représentation de Connaissances :2- Techniques de Manipulation de Connaissances3- Outils et Langages4- Systèmes à base de règles5- Logique et Contraintes : modélisation de problèmes complexes6- Introduction : Tableau de bord, systèmes à base d'agents, Apprentissage, etc.◊ Introduction au paradigme d'Intelligence Artificielle, raisonnement logique.CompétencesObjectifs : Compléter les travaux demandés en BEs.Travail enautonomieMéthodes : La même qu'en BERussell, S. et Norvig, P. Artificial Intelligence: A Modern Approach. Prentice Hall, 2003.BibliographieFrédéric Benhamou and Alain Colmerauer. Constraint Logic Programming. MIT Press, 2008.David L., Mackworth Alan K.. Artificial Intelligence: Foundations of Computational. Cambridge U.Press, 2010.BEs et test écritContrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+45
+
+ AF ELC E-2
+
+
+Collaborer et manager à l'ère du numérique
+
+Collaborate and Manage in the Era of Digital Technology
+
+Responsable(s) : Jacqueline VACHERAND-REVEL, Nicolas HOURCADE
+
+| Cours : 32 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+A travers l'étude d'un thème particulier (la collaboration et le management à l'ère du numérique), ce module permet aux élèves de s'initier à une nouvelle discipline (le droit) et d'approfondir les méthodes et les modes de raisonnement des sciences humaines et sociales appréhendés dans les modules de base en psychologie et en sociologie. Les enseignements permettent aux élèves de former et de développer leur culture et leur esprit critique dans la perspective de penser et de construire les innovations de demain et d'agir aujourd'hui, de manière éclairée, au sein des entreprises, lesquelles forment désormais des écosystèmes mouvants.
+
+Mots-clés : Droit, psychologie sociale et sociologie du travail et des organisations, collaboration, innovations managériales, travail à distance, technologies numériques.
+
+
+Programme	L'AF est composée de 2 parties indépendantes articulées autour d'une même thématique.
+Partie 1 (Jean-François Paulin, juriste). Les cours de droit du travail proposent une initiations aux enjeux juridiques afin d'acquérir des connaissances sur les règles qui organisent les nouveaux rapports individuels du travail et les relations professionnelles dans l'entreprise.
+
+Partie 2 (Jacqueline Vacherand-Revel, psychologue, et Nicolas Hourcade, sociologue). Les cours de psychologie et de sociologie du travail et des organisations abordent les nouveaux enjeux du travail et les nouvelles modalités de la collaboration au sein de collectifs de travail dispersés et de leur management avec et via des technologies numériques (télétravail, travail en réseau, en équipe multi-localisée de projet...).
+
+
+Compétences	◊ Acquérir des connaissances juridiques en droit du travail.
+◊ Approfondir les connaissances en psychologie et sociologie du travail.
+◊ Comprendre les enjeux des transformations actuelles du travail et des entreprises.
+◊ Appréhender les formes de collaboration professionnelle induites par les technologies numériques.
+
+
+Bibliographie	Vacherand-Revel et al.(dir). Nouvelles pratiques de travail : innovations technologiques, changements organisationnels. L'Harmattan, 2014.
+
+Jutand (dir). La métamorphose numérique : vers une société de la connaissance et de la coopération. Manifestô Alternatives, 2013.
+
+Clot. Le Travail à coeur. La Découverte, 2010.
+
+
+Contrôle des	Examen sous la forme de questions de cours
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+46
+
+ AF ELC E-4
+
+
+Ingéniérie des Procédés Industriels
+
+Industrial Process Engineering
+
+Responsable(s) : Jean Pierre CLOAREC, Eric BLANCO
+
+| Cours : 20 h | TD : 0 h | TP : 0 h | Autonomie : 8 h | BE : 4 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Le but de ce cours est de sensibiliser les élèves-ingénieurs généralistes au génie des procédés et aux enjeux des grands secteurs de la Chimie Industrielle. 30 à 40 % des ingénieurs ECL ont une activité professionnelle se rattachant à ce domaine.
+
+Entre sa conception et sa commercialisation, un produit chimique va subir des transformations. Le cours propose un panorama de ce domaine d'activité et une "radioscopie" de la genèse d'un produit. Pour cela une synthèse de connaissance est proposée, orientée vers l'Ingénierie des Procédés. Il tentera de répondre à la question : Comment mettre en oeuvre industriellement un produit ?
+
+Mots-clés : Génie Chimique, Génie des procédés, Transformation de matière, conduite de process
+
+
+
+Programme	1 - Panorama de la Chimie Industrielle :
+> Les grands secteurs d'activités
+   > Les enjeux géopolitiques et stratégiques liés aux matières premières et à l'énergie, 2 - Synoptique de "l'histoire " d'un produit : Les opérations unitaires.
+
+3 - Le génie des procédés : la règle des 3 T : Transport, Transfert, Transformation 4 - Le coeur de la transformation - le réacteur
+
+5 - Comment récupérer les produits : outils de la séparation 6 - Environnement et sécurité
+
+7 - Commande des procédés :
+> Schémas P&ID,
+> Outils de Gestion d'une unité
+> Exploitation de Modèle : du bilan à l'exploitation,
+
+
+Compétences	◊ Connaître les enjeux du secteur de la chimie
+◊ Choisir un process de transformation
+◊ Lire et Construire un schéma d'instrumention
+◊ Modéliser et gerer des séquences de fonctionnement
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : Analyser un procédé industriel et concevoir une partie de l'installation de transformation.
+
+Méthodes : Étude d'un sujet unique avec en groupe (4 à 5 élèves), Compte rendu écrit et correction croisée.
+
+R. Perrin et J P. Scaiarff. Chimie industrielle 1 et 2 (2ème édition). Dunod, 2002.
+
+J.P. Corriou. Commande des procédés (3ème éditon). Tec &Doc Lavoisier, 2012.
+
+
+
+Test 2 heures, exercices et étude de cas.
+
+
+
+
+
+
+
+
+
+
+
+47
+
+ AF ELC E-5
+
+
+Savoir choisir un matériau
+
+Selection of materials
+
+Responsable(s) : Vincent FRIDRICI
+
+| Cours : 14 h | TD : 2 h | TP : 0 h | Autonomie : 4 h | BE : 4 h | Projet : 8 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Les objectifs de cette AF sont de fournir aux étudiants des apports méthodologiques sur le choix des matériaux. Cela passe par une bonne connaissance des propriétés des matériaux (quelques rappels de tronc commun sont effectués) et par la mise en place de critères de sélection, appliqués sur une base de données de matériaux. Le logiciel CES EduPack de choix de matériaux sera présenté et utilisé.
+
+Le cours sera complété par des exposés d'intervenants du monde industriel sur le choix des matériaux en lien avec le design, l'analyse de cycle de vie et l'impact environnemental des produits et matériaux. Un travail en autonomie en groupe sera réalisé sur un sujet choisi par les étudiants.
+
+Mots-clés : matériaux, sélection, méthodologie de choix, logiciel CES EduPack
+
+
+
+Programme	- méthodologie de sélection de matériaux
+- critères de choix et logiciel de sélection de matériaux CES
+- analyses synthétiques des grandes familles de matériaux et de leurs propriétés
+- analyse de cycle de vie et impact environnemental
+- développement de cas concrets industriels choisis dans des domaines d'activité mettant en œuvre un éventail assez large de matériaux : métaux et alliages, polymères et composites, céramiques
+
+- des séances sont également consacrées à la restitution des travaux réalisés par les étudiants en autonomie sur des sujets en rapport avec les matériaux et leur place dans le monde actuel
+
+Compétences◊ savoir choisir un matériau : établissement et analyse du cahier des charges, élaboration decritères, recherche de matériaux et analyse critique des résultats◊ utiliser et approfondir les connaissances acquises en tronc commun◊ collecter et analyser de l'information avec logique et méthode◊ savoir restituer à l'oral et à l'écrit un travail réalisé en autonomie et en groupeObjectifs : - mettre en œuvre une démarche de choix de matériau pour une application donnéeTravail enautonomie- approfondir l'étude des propriétés des matériauxMéthodes : Travail en trinôme : étude bibliographique, analyse d'un cahier des charges, utilisationdu logiciel CES EduPack, ...Remise d'un rapport et exposé oral
+
+Bibliographie	M. Ashby. Choix des matériaux en conception mécanique. Dunod, 2012.
+
+M. Colombié. Matériaux métalliques. Dunod, 2000.
+
+M. Ashby. Matériaux et environnement : choix éco-responsable en conception. Dunod, 2011.
+
+
+Contrôle des	restitution orale + rapport écrit sur le travail de groupe (55%)
+
+connaissances	test écrit individuel sans documents de 1 h (30%)
+participation active au BE (15%)
+
+
+
+
+
+
+
+
+
+48
+
+ AF ELC E-6
+
+
+Du micro au macro en mécanique
+
+From Microscale to Macroscale in Mechanics
+
+Responsable(s) : Alexandre DANESCU, Julian SCOTT
+
+| Cours : 12 h | TD : 12 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Les lois physiques macroscopiques représentent une "simplification" très utile sur le plan pratique, dont les bases physique profondes se trouvent dans la nature discrète de la matière et des lois d'interaction qui la gouverne. L'objectif du cours est double : d'une part, on présente les techniques de passage entre les modèles discrètes et continu de la matière à travers un changement d'échelle. Ce processus permet d'obtenir une partie les caractéristiques physiques (constitutives) des matériaux solides et/ou fluides à partir de la description discrète. D'autre part, les mêmes méthodes de changement d'échelle permettent également l'obtention des modèles continus "équivalents" pour l'étude des milieux "structurés" (matériaux stratifiés, matériaux perforés).
+
+Mots-clés : Milieux continus hétérogènes, Elasticité avec microstructure, Homogénéisation, Equation de Boltzmann, Théorème H, Equilibre Thermodynamique, Théorie de Chapman-Enskog
+
+
+Programme	1. Bases physiques de l'élasticité (le cas monodimensionnel)
+2. Bases physique de l'élasticité (le cas multidimensionnel)
+3. Diffusion en milieux hétérogènes
+4. Homogénéisation en élasticité
+5. Description statistique d'un gaz
+6. Conséquences de l'équation de Boltzmann
+
+
+Compétences	◊ comprendre les bases physiques des théories continus macroscopiques
+◊ construire des "modéles equivalents" pour des milieux structurés
+
+
+Bibliographie	N.W. Ashcroft, W.D. Mermin. Physique des solides. Brooks Cole, 1976.
+
+L.B. Loeb. Kinetic Theory of Gases. Dover, 2004.
+
+S. Chapman, T.G. Cowling. The mathematical theory of non-uniform gases. Cambridge University Press, 1995.
+
+
+Contrôle des	2/3 - Examen écrit (2h, avec documents) + 1/3 Note BE
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+49
+
+ AF ELC E-7
+
+
+Propulseurs aéronautiques
+
+Aircraft Turbojets
+
+Responsable(s) : Xavier OTTAVY, Isabelle TREBINJAC
+
+| Cours : 10 h | TD : 4 h | TP : 4 h | Autonomie : 10 h | BE : 4 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Ce cours a plusieurs objectifs :
+- apporter les notions complémentaires d'aéroénergétique dans le cadre des écoulements compressibles en systèmes ouverts, essentielles pour la compréhension et l'étude des performances d'un propulseur aéronautique
+
+- inventorier et classifier les différentes formes de propulseurs (turboréacteur, turbosoufflante, turbopropulseur...), en fonction de leur domaine d'application (domaine de vol, type d'avion...)
+
+- apprendre à calculer les performances pour un point de fonctionnement donné du domaine de vol, et savoir dimensionner simplement un propulseur, avec un objectif de performances nominales. Du point de vue disciplinaire, ce cours est principalement centré sur les aspects aéroénergétiques
+
+Mots-clés : aéroénergétique, écoulements compressibles, turboréacteur, turbofan, turbopropulseur, poussée, performances
+
+
+Programme	- Aérothermodynamique des écoulements compressibles quasi-unidimensionnels stationnaires (quantification et effet des échanges de travail, des échanges de chaleur et des frottements de nature visqueuse)
+
+- Compléments d'aérothermodynamique des systèmes ouverts (bilans d'énergie, travail utile, variables d'arrêt...).
+
+- Caractérisation des éléments compresseurs et turbines (énergies échangées, rendements, courbes caractéristiques de performance, tenue mécanique, comportement vibratoire, matériaux).
+- Caractérisation aéro-mécanique des autres composants (chambres, échangeurs, tuyères...).
+- Analyse des performances des propulseurs (assemblages, critères de performance, étude paramétrique, optimisation).
+
+- Procédures et outils de dimensionnement d'un moteur
+
+
+Compétences	◊ Comprendre le fonctionnement des composants d'un turboréacteur (compresseur, turbine, chambre de combustion, tuyère,...)
+◊ Comprendre et analyser le cycle thermodynamique d'un turboréacteur
+◊ Savoir calculer les performances d'un turboréacteur (poussée, consommation, rendement, ...)
+◊ Connaitre les enjeux scientifiques intervenant dans la conception des turboréacteurs du futur.
+
+Travail enObjectifs : Calculer les performances d'un turbofan pour 2 points de fonctionnement (décollage etautonomiecroisière)Méthodes : Calcul des performances d'un turbofan en séances de BE (50% en autonomie), aidéd'un TP sur l'étude d'un mini-turboréacteur.Examen écrit (QCM portant sur la compréhension du cours et résolution d'un problème), rapportContrôle desconnaissancesde BE et rapport de synthèse du TP.
+
+
+
+
+
+
+
+
+
+
+
+
+50
+
+ AF ELC E-9
+
+
+Mondialisation et transculturalités
+
+Globalization and Transculturalities
+
+Responsable(s) : Cécile Lacoin, Vincent Beaubois, Laure Flandrin, Marie Goyon, Nicolas Hour-cade
+
+| Cours : 28 h | TD : 0 h | TP : 0 h | Autonomie : 4 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+La mondialisation bouleverse notre époque. Nous travaillons avec des collaborateurs d'autres cultures ; les entreprises multiplient leurs échanges, elles se délocalisent et se relocalisent ; les films, séries et spectacles sportifs rencontrent un public mondial. Sous l'apparente uniformisation qu'apporte la mondialisation, s'affirment des différences locales, qui continuent à ancrer les processus économiques et sociaux dans des terrains culturels. Ainsi, la mondialisation se caractérise par un processus de "glocalisation". En analysant non pas la mondialisation mais les mondialisations (ce phénomène n'est pas nouveau et il est multiple) à travers plusieurs thèmes (économie, nature, culture, langages, corps...), ce module forme les étudiants au dialogue transculturel.
+
+Mots-clés : Mondialisation, glocalisation, transculturalité, économie, travail, nature, corps, culture, modernité, langages
+
+
+
+Programme	Le cours présente des concepts et des méthodes pour analyser les phénomènes de mondialisation actuels en les mettant en perspective. A partir de là, il étudie des thématiques spécifiques, afin de comprendre les enjeux culturels qui les sous-tendent : les différentes mondialisations au cours de l'histoire ; la diversité des capitalismes et des rapports au travail ; les transformations des corps et des échanges entre individus ; les conceptions variables de la nature ; les industries culturelles (séries, sports) ; les langages... Une visite au musée des Beaux-arts de Lyon est organisée autour du thème de la modernité. Les séances, animées par plusieurs enseignants en SHS et en langues de l'ECL, favorisent l'interactivité et l'échange avec les étudiants et entre étudiants.
+
+
+Compétences	◊ Comprendre les phénomènes de mondialisation en cours et leurs enjeux.
+◊ Développer l'esprit critique des étudiants et la prise de recul par rapport à leur propre culture.
+◊ Favoriser la compréhension des différences entre cultures et de leurs interactions.
+◊ Développer la capacité d'interagir avec des personnes d'autres cultures.
+
+Travail enObjectifs : Le travail en autonomie est réalisé en groupes d'environ 3 élèves. En lien avec laautonomievisite au musée des Beaux-Arts, chaque groupe choisit un thème et/ou des oeuvres et réalise unexposé puis un rapport.Méthodes : Les étudiants assistent à une visite commentée du Musée des Beaux-Arts de Lyon. Autourd'une thématique, ils choisissent des oeuvres de cultures différentes qu'ils mettent en perspective.Appadurai, Arjun. Condition de l'homme global. Payot, 2013.BibliographieLegendre, Pierre. Tour du monde des concepts. Fayard, 2013.Sauquet Bernard, Vielajus Martin. L'intelligence interculturelle. Charles Leopold Mayer, 2014.Examen final (50 %). Autonomie (50 %).Contrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+51
+
+ AF ELC F-1
+
+
+Finance de marché
+
+Financial Markets
+
+Responsable(s) : Christian de PERETTI
+
+| Cours : 16 h | TD : 12 h | TP : 0 h | Autonomie : 4 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+L'objectif de ce cours est de fournir un aperçu sur la structure des marchés financiers et sur les différents produits existant. Il donnera quelques principes essentielles en économie financière ainsi que quelques principes d'évaluation et de gestion de ces produits. Des applications sur Excel seront effectuées. Ce module permettra également de faciliter le suivi de certaines options d'IM en 3e année et du Master co-habilité avec l'ISFA.
+
+Mots-clés : Marchés financiers, obligations, actions, produits dérivés, pricing, gestion de portefeuilles, risque.
+
+
+
+ProgrammePartie I : Introduction a la finance de marchéChap. 1 : La Valeur Du TempsChap. 2 : Le Marché MonétaireChap. 3 : Les ObligationsChap. 4 : Les ActionsChap. 5 : Les Produits DérivésChap. 6 : Un peu d'éthiquePartie II : gestion de portefeuilles actionsChap 1 : Les rendements des titresChap 2 : Théorie de la décisionChap 3 : Le modèle moyenne-variance de MarkowitzChap 4 : Le modèle à index de Fama et FrenchPartie III : gestion de produits dérivés- Principe d'évaluation- Portefeuille de réplication- Stratégies d'arbitrage◊ Evaluer le prix d'un actif financierCompétences◊ gérer un portefeuille◊ utiliser des produits dérivésObjectifs : TP avec Excel sur le traitement de données financières de bourse :Travail enautonomie- modélisation des séries de rendement,- gestion de portefeuille.Méthodes : Statistiques descriptives sur les séries des rendements d'actions en bourse pour enrévéler les propriétés statistiques.Utiliser leurs propriétés statistiques pour faire de l'optimisation moyenne-variance de portefeuilles.Edwin J. Elton, Martin J. Gruber, Stephen J. Brown. Modern Portfolio Theory and InvestmentBibliographieAnalysis. Wiley, 0.J.C. Hull. Options, Futures, and Other Derivatives. Prentice-Hall.M.W. Baxter and A.J.O. Rennie. Financial Calculus. Cambridge University Press, 1996.Examen de 2 heures, 100%.Contrôle desconnaissances
+
+
+52
+
+ AF ELC F-2
+
+
+Systèmes mécatroniques intelligents
+
+Intelligent Mechatronic Systems
+
+Responsable(s) : Mohamed ICHCHOU, Manuel COLLET, Anton KORNIIENKO, Cédric MAR-CHAND
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 4 h | BE : 8 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Ces dernières années ont été marquées par le remplacement de systèmes mécaniques par des systèmes mécatroniques
+
+: des systèmes " intelligents " imbriquant étroitement des technologies mécaniques, électroniques, automatiques et informatiques temps réel.
+
+Si traditionnellement les systèmes mécatroniques sont des systèmes de très haute technologie comme les véhicules aéronautiques et spatiaux, ils ont pris une place importante dans des produits manufacturiers grands publics. La conception des systèmes mécatroniques procède d'une démarche pluridisciplinaire à l'interaction entre la Mécanique et l'EEA.
+
+L'objectif de ce cours est de comprendre cette démarche et les éléments importants des différentes disciplines impliquées, illustration étant contrôle actif de vibrations.
+
+Mots-clés : Mécatronique, Contrôle actif, vibrations, commande fréquentielle.
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+1. Introduction à la Mécatronique (2h)
+2. Systèmes mécaniques (4h)
+3. Commande des systèmes mécaniques flexibles (4h)
+4. Systèmes électroniques embarqués pour la mécatronique (4h)
+5. Amortissement actif des structures (2h)
+6. Mise en œuvre pratique (2 BE de 4h + TP 4h)
+
+◊ Savoir identifier les différents sous-ensembles d'un système mécatronique.
+◊ Connaitre les principes et méthodes mis en oeuvre dans le dimensionnement des sous-systèmes
+
+◊ Etre capable d'analyser les contraintes techniques croisées entre les différents sous systèmes: performances/dimensionnement
+
+◊ Etre capable de donner les principaux éléments du cahier des charges d'un système mécatronique
+
+Objectifs : Développer un esprit critique et analyser un article scientifique sur un sujet concernant les systèmes mécatroniques intelligents.
+
+Méthodes : Un rapport par binôme sur 1-3 pages comportant une analyse critique de l'article est rendu avant le test final.
+
+
+Bibliographie	Robert H. Bishop. Mechatronics: an introduction. Taylor and Francis, 2005.
+
+A. Preumont. Active control of structures. J. Wiley & Sons, 2008.
+
+Rolf Iserman. Mechatronic Systems: Fundamentals. Springer, 2005.
+
+
+Contrôle des Le contrôle de connaissance comprend l'évaluation du travail en Autonomie (synthèse d'articles), connaissances d'un test, des BE et TP.
+
+
+
+
+
+
+
+
+
+
+53
+
+ AF ELC F-3
+
+
+Matériaux pour les composants des réseaux d'énergie
+
+Insulating Materials for Electrical Engineering
+
+Responsable(s) : Abderrahmane BEROUAL, Naoufel HADDOUR
+
+| Cours : 14 h | TD : 10 h | TP : 8 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Le développement électro-énergétique est conditionné par la maîtrise des grands problèmes techniques résultant de la nécessité de produire et de transmettre des quantités d'énergie électriques de plus en plus importantes vers les centres de consommation pouvant se trouver à des milliers de kilomètres. Le principal moyen d'augmenter la puissance
+à transporter et de diminuer les pertes, c'est d'augmenter la tension de transmission. Cette augmentation de la tension dépend des systèmes d'isolation des composants utilisés et de leur tenue aux différentes contraintes notamment
+électriques. L'objectif de ce cours est de donner les bases nécessaires à la compréhension de la rupture diélectrique des structures isolantes et de leur intégration dans les composants des réseaux d'énergie électrique.
+
+Mots-clés : Matériaux du génie électrique ; isolation électrique ; matériaux composites ; nanomatériaux ; claquage diélectrique ; composants des réseaux d'énergie ; transformateur ; condensateurs ; câbles ; isolateurs ; traversées ; connecteurs.
+
+
+ProgrammeIntroduction1.Permittivité et pertes diélectriquesPolarisation ; Permittivité complexe ; Schémas équivalents et Pertes Diélectriques2.Rigidité diélectrique des gazEffet couronne ; Décharge dans les faibles et grands intervalles; Gaz électronégatifs ; Vide3.Rigidité diélectriques des liquides - idées récentes sur les mécanismes de ruptureConduction et EHD ; Pré-claquage ; Claquage4. Rigidité diélectriques des solidesCaractéristiques physico-chimiques - classes ; Phénomènes d'arborescences (fracture), Claquage,Approche statistique.5.Les matériaux composites - nanomatériauxPermittivité effective ; Percolation ; Nanomatériaux ; Rigidité diélectrique6.Mécanismes de vieillissement des isolants - diagnostic7. Structures isolantes dans les composants du réseau électrique
+
+Compétences	◊ Acquérir les connaissances de base nécessaires à la compréhension des phénomènes physiques conduisant à la rupture diélectrique des matériaux
+◊ Disposer d'outils pour la conception et le dimensionnement des structures isolantes pour des composants et systèmes haute tension
+
+◊ Acquérir des compétences pour établir un diagnostic sur les systèmes et appareillage haute tension
+
+Travail enObjectifs : Effectuer le bon choix des matériaux et systèmes d'isolation pour une application donnéeautonomieMéthodes : Travaux pratiques: Caractérisation diélectrique - pertes diélectriques ; Effet couronneet Rigidité diélectrique ; Contournement d'isolateurs ; Barrières isolantes.BE: Nano- matériauxP. Robert. Matériaux de l'Electrotechnique, Volume II, Traité d'Electricité, d'Electronique etBibliographied'Electrotechnique de l'EPFL, Lausanne. Dunod, 2007.R. Coelho et B. Aladenize. Les diélectriques, Traité des nouvelles Technologies, série Matériaux.Hermes, 1993.M. Aguet et M. Ianoz. Haute Tension, Volume XXII, Traité d'Electricité, d'Electronique etd'Electrotechnique. Dunod, 1987.Contrôle desExamen final, micro-tests, TP/BEconnaissances54
+
+ AF ELC F-4
+
+
+Acoustique musicale
+
+Musical Acoustics
+
+Responsable(s) : Sébastien OLLIVIER, Michel ROGER
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Introduction à l'acoustique musicale et à ses applications (facture, musique, audio-numérique). Nous étudierons les caractéristiques physiques des sons musicaux et les aspects perceptifs associés. Les instruments de musique sont optimisés pour générer des sons à des fréquences précisément contrôlées. Leur étude physique et leur modélisation permettra de mettre en évidence les mécanismes mis en œuvre dans les sources acoustiques, et de développer des modèles de synthèse sonore. Nous discuterons des résonateurs, et des auto-oscillations des instruments à vent et à corde frottées. Nous introduirons les analogies électro-acoustiques et les appliquerons à la modélisation de dispositifs électroacoustiques (microphones, haut-parleurs, enceintes).
+
+Quota : 24 élèves maximum
+
+Mots-clés : acoustique musicale, auto-oscillations, acoustique non linéaire, synthèse par modèle physique, électro-acoustique, traitement du signal
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+Introduction à l'acoustique musicale.
+Caractéristiques des sons musicaux (aspects du signal, aspects physiques et perceptifs) Classification du point de vue fonctionnel des instruments de musique
+
+Instruments fonctionnant en oscillations libres (percussions, piano, cordes pincées, ...) Instruments à vent (résonateurs, cuivres, anches, flute,...), à cordes frottées (violon, etc), et auto-oscillations (stabilité, bifurcations, ...).
+
+Notions d'électroacoustique appliquées à la musique (résonateurs, microphones, haut-parleurs) Notions sur l'audio-numérique, la synthèse, et le traitement des signaux musicaux
+
+◊ Connaître les notions de base générales en acoustique musicale
+◊ Analyser des signaux sonores musicaux
+◊ Utiliser les analogies électroacoustiques et la modélisation de systèmes élémentaires
+◊ Comprendre les différents mécanismes de production du son
+
+Objectifs : Etude d'un problème en lien avec une problématique musicale ou de design sonore (mesure, analyse, modélisation, synthèse, ou tests perceptifs). Les sujets d'étude pourront être définis en collaboration avec des étudiants du CNSMD de Lyon.
+
+Méthodes : Bibliographie, modélisation, simulations, expériences, ou tests perceptifs selon le sujet. Rapport de synthèse et présentation orale.
+
+
+Bibliographie	A. Chaigne et J. Kergomard. Acoustique des instruments de musique. Belin, 2008.
+
+N.H. Fletcher and T. Rossing. The physics of musical instruments. Springer, 2008.
+
+M. Castallengo. Ecoute musicale et acoustique. Eyrolles, 2015.
+
+
+Contrôle des	Examen écrit. Rapport de synthèse + oral.
+
+connaissances
+
+
+
+
+
+
+
+
+
+55
+
+ AF ELC F-5
+
+
+Ordre, chaos, fractales
+
+Order within Chaos
+
+Responsable(s) : Christophe BAILLY, Didier DRAGNA, Christophe BOGEY
+
+| Cours : 22 h | TD : 0 h | TP : 0 h | Autonomie : 10 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Le concept de chaos déterministe a profondément modifié la façon d'aborder de nombreux problèmes, en particulier depuis les travaux de Lorenz. Le cours présente les idées physiques et les principales notions théoriques utilisées pour décrire le comportement de ces systèmes chaotiques (non linéaires et à faible nombre de degrés de liberté " efficaces "). Une bonne partie des exemples présentés en introduction sont à connotation mécanique, mais le champ d'application concerne tous les domaines de la physique et même au-delà (biologie, médecine ou économie), comme le montrera le cours et les exemples pour réaliser le mini-projet.
+
+Mots-clés : Physique non linéaire, Systèmes dynamiques, Fractales, Stabilité, Bifurcations, Dimensions fractales (non entières).
+
+
+
+ProgrammeDe l'ordre au chaos : exemples et méthodes de description (temporelle et fréquentielle, espacedes phases, sections de Poincaré).Systèmes dynamiques. Applications à temps discret ; cartes itérées. Perte de stabilité dessolutions, bifurcations, cycles limites, exposants de Lyapunov).Transition vers le chaos et notion d'attracteur étrange.Objets fractals ; dimensions non entières. Exemples et applications.Chaos dans les systèmes dissipatifs. Sensibilité aux conditions initiales. Outils de caractérisation(dimensions fractales, exposants de Lyapunov). Exemples (Hénon, Rössler, Lorenz ...).Notions sur le chaos dans les systèmes hamiltoniens (mécanique céleste) - Notions sur le contrôledu chaos.◊ Compréhension des concepts fondamentaux des systèmes non linéairesCompétences◊ Appropriation de ces concepts par simulations numériques simples◊ Compréhension du domaine d'application et de ses limitesObjectifs : Maîtriser les concepts et outils des systèmes chaotiques et de la description fractale.Travail enautonomieMéthodes : Etudes analytiques (un peu) et numériques (essentiellement) de systèmes nonlinéaires et chaotiques décrits par un nombre limité d'EDO. Caractérisation des attracteurs chao-tiques, dimension fractales, exposants de Lyapunov.Bergé P., Pomeau Y., Vidal Ch.. L'ordre dans le chaos. Hermann, 1984.BibliographieAlligood K., Sauer T., Yorke J.. Chaos: An introduction to dynamical systems. Springer, 1996.Manneville P.. Instabilités, chaos et turbulence. Editions de l'Ecole Polytechnique, 2004.Examen écrit (1h 20%); Réalisations par binôme d'études numériques à choisir dans une listeContrôle desconnaissances(40%); Exposé oral (mini-projet par groupes 40%).
+
+
+
+
+
+
+
+
+
+
+
+
+
+56
+
+ AF ELC F-6
+
+
+Antennes, signal et processeurs (Fermé en 2019-2020)
+
+Antenna, Signals and Processors
+
+Responsable(s) : Arnaud BREARD, Julien HUILLERY, Sébastien LE BEUX
+
+| Cours : 16 h | TD : 0 h | TP : 10 h | Autonomie : 4 h | BE : 2 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Nous vivons dans un monde baigné par les ondes électromagnétiques dans lequel les systèmes sans fil se développent de plus en plus. Le premier objectif de cet enseignement est de donner un point de vue circulaire sur les différents constituants et champs disciplinaires impliqués dans les systèmes électromagnétiques sans fil et d'en exposer trois en particulier : les antennes, les signaux et les processeurs. Dans ce but, deux systèmes servent de cadre applicatif aux éléments du cours : les systèmes Radar et les systèmes de Télécoms. Si dans le principe ces deux systèmes utilisent bien des antennes et des processeurs qui permettent de propager et traiter des signaux, nous verrons qu'ils présentent une diversité de problématiques qui seront exposées dans ce cours.
+
+Mots-clés : Antenne, Diagramme de rayonnement, Directivité, Polarisation, Adaptation, Largeur de bande, Traitement du signal, Télécommunications, Modulations numériques, Imagerie radar, Détection/Estimation, Processeurs, Électronique embarquée.
+
+
+
+Programme	I - Antennes :
+a) Concepts de base : diagramme de rayonnement, directivité, gain, polarisation, adaptation et largeur de bande, paramètres S, bilan de liaison, efficacité
+
+b) Dimensionnement d'antenne : antennes en téléphonie mobile, antenne base, wifi, réseau d'antennes
+
+II - Signal :
+a) Imagerie radar : modélisation, récepteur optimal, détection, estimation
+b) Transmission de l'information : codage, modulations numériques, égalisation de canal III - Processeurs :
+
+a) Architecture et dimensionnement : flux et traitement pour les différentes générations de réseaux de télécommunication
+
+b) Enjeux : taille et énergie pour les processeurs embarqués, vers le tout numérique.
+
+6 TP de 2h sur les télécommunications et l'imagerie radar permettent de mettre en application les notions vues en cours.
+
+
+Compétences	◊ Dimensionner une antenne en fonction d'un cahier des charges
+◊ Concevoir un schéma de modulation numérique pour la transmission d'information
+◊ Programmer une carte Arduino pour effectuer un traitement radar
+◊ Utiliser un appareil de mesures HF, un analyseur de réseau, un oscilloscope
+
+
+
+Travail en autonomie
+
+
+
+
+
+Bibliographie
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : Étude d'un article scientifique en anglais centré sur une des disciplines du cours et sur une des applications Radar ou Télécom.
+
+Méthodes : Chaque groupe, de 3 ou 4 élèves selon l'effectif, étudie une publication différente. Un résumé en français retraçant les enjeux et la démarche de l'article est demandé.
+
+
+Constantine A. Balanis. Antenna theory: analysis and design. Wiley, 2005.
+
+François Le Chevalier. Principes de Traitement des Signaux Radar et Sonar. Masson, 1989.
+
+
+Comptes rendus de TP (par binôme) Résumé écrit de l'article (par groupe de 3-4) Test final écrit (individuel) Savoir : 50%, Savoir-faire : 50%
+
+
+57
+
+ AF ELC F-7
+
+
+Entreprendre et innover
+
+Entrepreneurship and Innovation
+
+Responsable(s) : Sylvie MIRA-BONNARDEL, Patrick SERRAFERO
+
+| Cours : 32 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Entreprendre et innover font désormais partie des compétences métier critiques - créatrices de valeur - de l'ingénieur moderne, que ce soit :
+- en contexte interne à l'entreprise établie, sous la forme d'intrapreneuriat et de création d'activité nouvelle,
+- en contexte externe à l'entreprise établie, sous la forme d'entrepreneuriat et de création d'une start-up.
+
+Ce module électif de formation vise à familiariser l'élève-ingénieur avec un ensemble de notions, de concepts, de raisonnements et de comportements entrepreneuriaux lui permettant de comprendre et de pratiquer la création virtuelle d'une activité/entreprise innovante.
+
+Mots-clés : Entrepreneuriat, Intrapreneuriat, Innovation, Création de Valeur, SUSI : Start-Up / Système Innovant.
+
+
+
+Programme	Cours magistraux sur l'entrepreneuriat et la management de l'innovation TD sur la formalisation du métier d'une nouvelle activité,
+TD sur la formalisation des processus métier critiques et innovants,
+Interventions d'experts externes en entrepreneuriat et innovation,
+Revue de Livraison finale d'un projet de start-up.
+
+
+Compétences	◊ Concevoir un nouveau Business Model
+◊ Formaliser le métier d'une nouvelle activité/entreprise
+◊ Inventer une offre de valeur innovante
+◊ Formaliser les processus métier critiques et innovants nécessaires à la création de valeur
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : Réaliser l'exercice "Bring your own SUSI - Start-up / Système Innovant" en équipe.
+
+Méthodes : Rédaction du modèle d'affaire et de connaissance métier de votre SUSI.
+Pratique des méthodes et concepts appropriés présentés en cours.
+
+
+Osterwalder A., Pigneur Y.. Business Model nouvelle génération : un guide pour visionnaires, révolutionnaires et challengers. Pearson, 2011.
+
+Blanco S., Le Loarne-Lemaire S.. Management de l'Innovation. Pearson, 2012.
+
+Kalousis G., Léger- Jarniou C.. Construire son Business Plan. Dunod, 2014.
+
+
+Soutenance du "Business Model SUSI"
+Dossier entrepreneurial sur la Boite de Connaissance SUSIpédia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+58
+
+ AF ELC F-8
+
+
+Design optimal et mécanique des fluides numérique
+
+Optimal Design and Computational Fluid Dynamics
+
+Responsable(s) : Christophe CORRE, Stéphane AUBERT
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 16 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+L'AF est dédiée à la présentation et à la mise en œuvre d'un éventail de techniques numériques actuellement utilisées par l'ingénieur pour la conception optimale de dispositifs fluidiques (optimisation de forme, choix optimal de paramètres de conception géométriques ou non). Le cours présente deux points originaux principaux :
+
+- les techniques présentées sont systématiquement reliées aux outils de simulation fluide à la disposition de l'ingénieur en distinguant les outils ouverts (modifiables par l'ingénieur) et fermés (codes commerciaux).
+
+- la présentation est structurée en retenant comme fil conducteur la quantité d'informations à la disposition de l'ingénieur pour résoudre le problème de conception optimale.
+
+Mots-clés : optimisation à base de gradient, approche adjointe, recherche directe, optimisation multi-objectifs idéale, algorithmes génétiques, métaheuristiques, modèles substituts, optimisation robuste
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+Optimisation utilisant le gradient en CFD. Estimation par différences finies et approche adjointe. Extension à des problèmes multi-objectifs. BE#1 & #2 : résolution de problèmes modèles puis complexes.
+
+Optimisation sans gradient. De la recherche directe aux métaheuristiques. Optimisation multi-objectifs idéale. BE#3, #4 &#5 : résolution de problèmes modèles puis complexes (échangeur de chaleur, parc éolien) ; démarrage du projet.
+
+Construction de modèles substituts pour des objectifs à coût élevé. BE#6, #7 : résolution d'un problème d'optimisation de forme ou de maximisation de puissance.
+
+Concept d'optimisation robuste. Quantification et propagation d'incertitudes (Chaos Polynomial).
+BE #8 : optimisation robuste d'un problème précédemment traité en BE.
+
+◊ Posséder une vision d'ensemble de problèmes-clefs actuels de conception optimale en aéronautique et en énergétique
+
+◊ Savoir sélectionner et mettre en œuvre une démarche d'optimisation adaptée au problème d'ingénierie à résoudre
+
+◊ Savoir utiliser un modèle substitut pour limiter le coût d'une optimisation
+◊ Savoir prendre en compte les incertitudes présentes sur certains paramètres de conception
+
+Objectifs : Développer la capacité de mise en œuvre des techniques d'optimisation présentées et d'analyse critique des résultats obtenus pour un problème d'optimisation ouvert.
+
+Méthodes : Réalisation en autonomie (par binôme) du projet d'optimisation. Utilisation des outils (Matlab, codes spécifiques) mis à disposition sur les postes de travail des salles informatiques.
+
+
+
+Bibliographie	K. Deb. Multi-objective optimization using evolutionary algorithms. John Wiley & Sons, 2008.
+
+A. Forrester, A. Sobester. Engineering Design via Surrogate Modelling : A Practical Guide. Wiley, 2008.
+
+P. Siarry. Métaheuristiques. Eyrolles, 2014.
+
+
+Contrôle des	Note finale = 50% note de savoir, 50% note de savoir faire.
+
+connaissances	Note de savoir = note d'examen (2h, sans documents).
+Note de savoir-faire = note de projet
+
+
+
+59
+
+ AF ELC F-9
+
+
+Matériaux polymères propriétés physiques et innovations
+
+Polymer Materials: Physical Properties and Innovation
+
+Responsable(s) : Elise CONTRAIRES, Michelle SALVIA, Frédéric DUBREUIL
+
+| Cours : 12 h | TD : 12 h | TP : 4 h | Autonomie : 4 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+ATTENTION : ce cours a lieu en anglais
+Matériaux fonctionnels, de construction ou pour le design, les matériaux polymères présentent aussi la possibilité pour certains d'être recyclés. La compréhension de leurs propriétés physiques fait l'objet de beaucoup de recherche et les méthodes de synthèse et mise en forme permettent d'obtenir des matériaux innovants et prometteurs : sensibilité à la lumière, au pH, à la température. De plus, on maîtrise de mieux en mieux leur recyclabilité.
+
+Les propriétés physico-chimiques et mécaniques (fracture des gels, frottement des caoutchouc..) sont abordées dans ce cours, qui présente aussi des cas concrets d'innovation dans ce domaine. Un accent sera mis sur le cycle de vie des matériaux, de la mise en œuvre au tri puis au recyclage.
+
+Mots-clés : thermoplastiques, thermodurcissables, élastomères, polysaccharides, protéines, surfaces, synthèse
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+Présentation générale des polymères,
+Synthèse des polymères, Caractérisation et propriétés de la chaîne polymère, Retour sur les grandes classes de polymères (thermoplastiques, thermodurcissables, élastomères) Propriétés physiques des polymères,
+La température de transition vitreuse et autres températures caractéristiques, Ecoulement et
+rhéologie des polymères,
+Mise en forme et recyclage,
+Matériaux polymères naturels et grands domaines d'applications, Bois et fibres naturelles, amidon, Protéines
+
+Innovations récentes dans les polymères
+
+◊ Etablir des corrélations entre la physico-chimie des polymères et leurs propriétés macroscopiques
+
+◊ Connaître les propriétés mécaniques des polymères
+◊ Savoir sélectionner une méthode d'analyse de polymère
+◊ Savoir proposer pour une applicaiton donnée le polymère, son traitement et sa mise en oeuvre
+
+Objectifs : Analyse d'un exemple d'innovation : fonctionnalisation, technique d'analyse ou de mise en œuvre d'un polymère
+
+Méthodes : Etude de documents (publications scientifiques, documentation technique...) Restitution devant le groupe
+
+
+Bibliographie	Jean-Louis Halary, Francoise Lauprêtre, Lucien Mon. De la macromolécule au matériau polymère :
+Synthèse et propriétés des chaînes Broché. Belin, 2006.
+
+Jean-Louis Halary, Francoise Lauprêtre, Lucien Mon. Mécanique des matériaux polymères. Belin, 2008.
+
+
+Jo Perez. Matériaux non cristallins et science du désordre. PPUR, 2001.
+
+
+Contrôle des Un examen écrit de 2h connaissances Un compte-rendu de TP
+
+Une restitution de l'autonomie
+
+
+
+
+
+
+60
+
+ AF ELC D-10
+
+
+Ecologie et Environnement
+
+Ecology and Environment
+
+Responsable(s) : Jean-Pierre CLOAREC
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 16 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+-Présenter, avec une vision systémique, les phénomènes fondamentaux gouvernant les écosystèmes naturels, en s'appuyant sur les sciences de l'ingénieur (ex : physicochimie, thermodynamique, dynamique des systèmes).
+
+-Donner des outils et des méthodes pour appréhender les liens entre environnement et activités humaines, notamment les activités industrielles
+
+-Mobiliser les connaissances du tronc commun sur des études de cas environnementales complexes, et faire preuve d'esprit critique pour analyser des situations réelles.
+
+-Rechercher en autonomie des informations sur un cas environnemental concret, et les analyser de manière critique Quota : 48 élèves maximum
+
+Mots-clés : Environnement, écologie, développement durable, pollution, écosystèmes, industrie, traitements d'effluents, sciences de l'ingénieur, empreinte carbone, recherche bibliographique,
+
+
+ProgrammeCours magistraux :-Notions de biosphère et d'écosystèmes. Sources et circulation des polluants dans la biosphère.-Impacts des activités humaines. Cas des pluies acides, eutrophication.-Calcul d'empreinte environnementale-Traitements chimiques et microbiologiques d'effluents liquides usés-Influence des cultures nationales sur la perception des questions environnementales : le cas del'AllemagneActivités pratiques :-Projet d'élève: étude d'une controverse environnementale (cf ci-dessous "travail en autonomie").-tous les 2 ans : un voyage à Freiburg (Allemagne) dans l'éco-quartier Vauban est envisagé, enalternance avec une visite d'une station d'épuration de Lyon (traitement bactérien des effluents).
+
+Compétences	◊ Comprendre et formuler un problème environnemental (hypothèses, ordres de grandeur, etc...)
+◊ Associer les logiques économiques / responsabilité sociétale et écoresponsabilité
+◊ Appréhender toutes les dimensions scientifiques, techniques, sociétales d'une situation environnementale concrète
+
+◊ Identifier les interactions entre éléments d'une situation environnementale et développer une approche systémique pour l'appréhender
+
+
+
+Travail en autonomie
+
+
+
+
+
+
+Bibliographie
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : Appréhender une situation environnementale complexe, rechercher des informations, faire preuve d'esprit critique, débattre.
+
+Méthodes : Etude d'une controverse environnementale. Travail en groupe. Recherche documen-taire approfondie, analyse de documents ; le livrable de chaque projet est un débat contradictoire entre élèves de chaque groupe de projet, devant le reste de la classe.
+
+
+Ramade. Eléments d'Ecologie : Ecologie fondamentale. Dunod, 2005.
+
+Ramade. Elements d'Ecologie : Ecologie appliquée.. Dunod, 2005.
+
+Meunier. Aide-mémoire de thermodynamique de l'Ingénieur : Energétique - Environnement. Dunod, 2004.
+
+
+Contrôle continu : micro-tests individuels hebdomadaires
+Examen final : examen individuel écrit sans documents, 2h.
+
+
+61
+
+ AF ELC D-11
+
+
+Introduction aux vibrations aléatoires
+
+Introduction to Random Vibration
+
+Responsable(s) : Alain LE BOT, Julien HUILLERY, Joël PERRET-LIAUDET
+
+| Cours : 12 h | TD : 8 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+De nombreux problèmes d'ingénierie mécanique concernent la réponse vibratoire de structures mécaniques soumises à des forces aléatoires.
+
+Citons le cas de structures élancées soumises au vent, des plates formes offshores soumises à la houle, de véhicules excités par la route, de bâtiments sollicités par un séisme, du bruit de frottement induit par la rugosité, de fuselages d'avions excités par une couche limite turbulente, etc.
+
+L'objectif de ce cours est d'apporter à l'élève des éléments de vibrations aléatoires. Nous introduirons les notions de signal aléatoire et leurs propriétés spectrales et fournirons des méthodes d'estimation de la réponse probabiliste de systèmes soumis à des forces aléatoires.
+
+De nombreux exemples concrets illustreront les concepts et résultats abordés. Mots-clés : Vibrations, systèmes linéaires, processus stochastiques, estimation spectrale
+
+
+Programme	Cours Introduction aux vibrations aléatoires
+Chapitre 1 Processus stochastiques
+- Généralités sur les probabilités
+- Variable aléatoire
+- Vecteur aléatoire
+- Processus stochastique
+- Analyse spectrale
+- Continuité,dérivation,intégration
+Chapitre 2 Vibrations en petites déformations
+1. Oscillateur à 1 degré de liberté
+2. Systèmes à n degrés de liberté
+3. Solides déformables
+Chapitre 3 Réponse spectrale des systèmes linéaires
+- Présentation du problème
+- Moyenne, corrélation et spectre de la réponse
+- Corrélation et spectre entre excitation et réponse Chapitre 4 Probabilité de seuil et maximum
+- Densité de probabilité de la réponse
+- Dépassement de seuil
+- Occurence des maxima
+
+
+
+Compétences
+
+
+
+
+
+
+Bibliographie
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+◊ Savoir calculer et interpréter les densités spectrales de signaux aléatoires
+◊ Savoir calculer les fonctions de réponse en fréquences des systèmes mécaniques simples
+◊ Savoir estimer les quantités spectrales des réponses des systèmes linéaires excités par des signaux aléatoires
+
+
+Le Bot A. Introduction aux vibrations aléatoires. Dunod, 2019.
+
+Le Bot A. Foundation of statistical energy analysis in vibroacoustics. Oxford University Press, 2015.
+
+G. Fleury. Analyse spectrale - Méthodes non-paramétriques et paramétriques. Ellipses, 2001.
+
+
+La note finale de l'AF sera basée sur :
+- les rapports de TP (30%)
+- la restitution du bureau d'étude (20%)
+- un test individuel final (50%)
+
+
+62
+
+ AF ELC D-12
+
+
+Space physics and solar-terrestrial coupling
+
+Space physics and solar-terrestrial coupling
+
+Responsable(s) : R. Marino, C. Corre
+
+| Cours : 26 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 6 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+L'ingénierie aérospatiale développe des technologies pour l'atmosphère et l'espace. La conception de véhicules, de systèmes de lancement et de charges utiles doit s'appuyer sur une compréhension profonde de ces environnements opérationnels. Le but principal du cours est de fournir une description détaillée de la physique de l'espace interplanétaire et des couches les plus hautes de l'atmosphère terrestre, ainsi que de décrire le couplage entre activité solaire et dynamique terrestre. Le milieu interplanétaire et les hautes couches de l'atmosphère sont dans un état plasma et présentent un caractère fortement turbulent. Théorie et modélisation des plasmas spatiaux et de la turbulence anisotrope seront étudiées; technologies et outils pour étudier ces environnements seront aussi introduits.
+
+Mots-clés : plasmas spatiaux; turbulence liée au vent solaire; stratosphère, mésosphère and ionosphère; couplage Soleil-Terre; météorologie spatiale; missions spatiales et atmosphériques; modélisation numérique.
+
+
+Programme	- Soleil et héliosphère : introduction à la physique spatiale.
+- Premières explorations spatiales, conception de mission, observations in-situ et à distance.
+- Plasmas spatiaux : principaux modèles de description du plasma, turbulence magnétohydrodynamique.
+
+- Notions d'analyse statistique de données et de simulations numériques.
+- Vent solaire : propriétés physiques et turbulence.
+- Instruments de mesure (plasmas), mesures depuis vaisseaux et paramètres orbitaux, revue d'articles.
+
+- Couplage Soleil-Terre : environnement terrestre, dynamique de la stratosphère, mésosphère, interaction entre ondes et turbulence dans les écoulements géophysiques.
+
+- Éléments de base sur les modèles héliosphériques et les modèles de climat, la météo spatiale et les observations par ballons.
+
+
+Compétences	◊ Acquérir une bonne connaissance de la physique des plasmas spatiaux et de la turbulence dans le milieu interplanétaire
+◊ Comprendre la dynamique de l'atmosphère intermédiaire et supérieure et le couplage avec l'activité solaire et le vent solaire
+
+◊ Acquérir des compétences en matière d'outils et de technologies de la recherche spatiale et atmosphérique (missions spatiales, ballons, modèles numériques...)
+
+◊ Etre capable d'identifier les points-clés et les résultats principaux d'un article de recherche et savoir comment mener une recherche bibliographique efficace
+
+
+
+Travail en autonomie
+
+
+
+
+
+Bibliographie
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : Etude d'articles scientifiques consacrés à l'un des sujets du cours ou développement de courts projets scientifiques.
+
+Méthodes : Articles/projets seront étudiés/réalisés par monômes ou par groupes d'étudiants et un rapport final sera produit.
+
+
+M.G. Kivelson, C.T. Russell. Introduction to Space Physics. Cambridge University Press, 1995.
+
+M. Moldwin. An Introduction to Space Weather. Cambridge University Press, 2008.
+
+
+Note finale = 70% note de savoir, 30% note de savoir-faire
+Note de savoir = note d'examen (2h)
+
+Note de savoir-faire = note de projet
+
+
+
+63
+
+ AF ELC E-10
+
+
+Surfaces, friction, vibrations
+
+Surfaces, Friction, Vibrations
+
+Responsable(s) : Joël PERRET-LIAUDET, Denis MAZUYER
+
+| Cours : 12 h | TD : 12 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Dans de nombreux systèmes mécaniques et mécanismes, la dynamique des contacts est souvent prépondérant pour garantir l'intégrité, l'efficacité énergétique et le respect environnemental. Concevoir ces systèmes reste complexe du fait des couplages entre réponse dynamique du système et comportement tribologique local à l'échelle des surfaces. L'objectif de ce cours est d'apporter un éclairage pluridisciplinaire à ces problématiques. On fournira notamment des éléments de compréhension des principaux phénomènes mis en jeu (description des contacts lubrifiés, secs, en sollicitations normale, tangentielle, lois de frottements). Les problèmes vibroacoustiques qui en résultent seront mis en perspective : vibroimpact, crissement, comportement dynamique global induit par les interactions locales.
+
+Mots-clés : contact, mécanismes, tribologie, dynamique des systèmes, conception avancée
+
+
+
+Programme	La formation s'articule autour de plusieurs thèmes sous la forme de cours/TD :
+• Aspect cinématique des systèmes d'entrainement par contact
+• Tolérance, dispersion et morphologie de surfaces
+• Théorie du contact, sec et lubrifié
+• Dynamique du contact normal
+• Instabilités de frottement
+
+La formation est complétée de deux BE qui permettra de lier et de mettre en application les concepts vus en cours. Cette activité de 8h encadrée concernera d'une part l'étude de paliers hydrodynamiques et d'autre part l'étude du crissement dans le contexte d'essuie glace.
+
+
+Compétences	◊ Conception avancée
+◊ Etude des performances de mécanismes
+◊ Introduction à la dynamique des contacts
+◊ Introduction à la lubrification
+
+
+Bibliographie	Johnson K.L.. Contact mechanics. Cambridge University Press. Editeur1, 2001.
+
+
+
+Contrôle des	Test final (50%) - note de savoir
+
+connaissances	BE (50%) - note de savoir faire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+64
+
+ AF ELC F-10
+
+
+Des déchets et des hommes
+
+Humans and their Waste
+
+Responsable(s) : Thomas LEROSIER
+
+| Cours : 32 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Identifier l'importance d'une approche historique et socioculturelle des déchets.
+Penser les sociétés humaines à partir de ce qu'elles rejettent, à partir de leurs marges et de leurs décharges.
+Étudier l'impact des modes de production et de consommation sur la création et le traitement des déchets.
+Aborder les enjeux socioéconomiques du traitement des déchets en France et en Europe aujourd'hui.
+Interroger l'ambivalence anthropologique du statut du déchet (rebut ou ressource ?).
+Prendre la mesure de l'importance de la valorisation des déchets tout en développant une réflexion critique sur le développement durable.
+
+Mots-clés : Déchets, Environnement, Développement Durable, Société, Surproduction, Gaspillage, histoire, etc.
+
+
+
+Programme	Le cours abordera les thèmes suivants (à titre indicatif)
+- Perspectives anthropologiques et historiques
+- L'invention des déchets urbains au XIXe siècle
+- Géographie et économie des déchets au XXe siècle
+- Ordures et pollutions dans la ville contemporaine
+- Les déchets nucléaires : controverse, expertise, citoyenneté
+- La spécificité des déchets contemporains (plastiques, déchets électroniques)
+
+
+Compétences	◊ Lire de façon critique des articles de presse et des articles universitaires de sciences humaines et sociales, en français et en anglais
+◊ Identifier les enjeux sociaux, environnementaux, économiques et politiques sur la gestion des déchets
+
+
+Bibliographie	Serge Latouche. Bon pour la casse, L'obsolescence Programmée. Les liens qui libèrent, 2015.
+
+Yannick Barthe. Le pouvoir d'indécision. La mise en politique des déchets nucléaires. Ed.
+Economica, 2005.
+
+
+
+Contrôle des	Contrôle écrit des connaissances et exposés oraux
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+65
+
+ AF ELC F-11
+
+
+Méthode des éléments finis, de la théorie à la mise en oeuvre
+
+Finite Element Method, from the theory to the implementation
+
+Responsable(s) : Abdelmalek ZINE
+
+| Cours : 24 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | Langue du cours :|
+
+
+Objectifs de la formation
+
+
+Dans le domaine de l'ingénierie, il existe plusieurs techniques d'approximation permettant de résoudre les équations différentielles ou aux dérivées partielles régissant les phénomènes étudiés.
+
+La plus largement répandue est la Méthode des Éléments Finis. Cette méthode permet, en effet, de traiter tout type de géométrie, tout type de problème au limites issu de l'électromagnétisme, de l'acoustique, de la mécanique des fluides, du solide de la biologie et même de la finance !
+
+Elle possède une approche mathématique rigoureuse, basée sur les méthodes variationnelles. Cette base mathématique permet de prévoir la précision de l'approximation et de l'améliorer via les estimations d'erreur.
+
+Mots-clés : Problèmes aux limites, formulations variationnelles, approximation numérique, méthode des éléments finis, estimation d'erreur.
+
+
+Programme	Problème variationnel, cadre abstrait
+Problèmes aux limites elliptiques
+Méthode des éléments finis, approximation des problèmes aux limites
+Applications à quelques problèmes d'ingénierie
+Estimations a priori et a posteriori de l'erreur
+Méthode des éléments finis pour les problèmes paraboliques Méthode des éléments finis pour les problèmes hyperboliques
+
+
+Compétences	◊ être capable d'écrire et d'analyser une formulation variationnelle d'un problème aux limites,
+◊ être capable d'en étudier l'approximation par la méthode des éléments finis,
+◊ être capable d'écrire un programme Matlab permettant de résoudre le problème approché.
+
+
+Bibliographie	A. Ern et J. L. Guermo. Eléments finis : théorie, applications, mise en oeuvre. Collection Mathématiques et applications, Springer, 2002.
+
+J. Rappaz et M. Picasso. so Introduction à l'analyse numérique. Presses polytechniques et universitaire romandes, 1999.
+
+A. Quarteroni and A. Valli. Numerical Approximation of Partial Differential Equations. Springer, 2008.
+
+
+Contrôle des	Un test écrit de 2 heures et Comptes rendus de BE
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36 av. Guy de Collongue
+
+69134 Écully cedex
+
+T + 33 (0)4 72 18 60 00
+
+www.ec-lyon.fr
+
+SIRET 196 901 870 000 10 - APE 8542Z
+
+
+67

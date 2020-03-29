@@ -1,0 +1,77 @@
+
+ AF MOS 2.4
+
+
+Macro Energie
+
+Macro Energy
+
+Responsable(s) : Jean-Pierre CLOAREC
+
+| Cours : 28 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le modèle de développement des sociétés actuelles est basé sur une consommation d'énergie qui n'est pas soutenable à long terme.
+
+Ce cours vise donc à permettre à un ingénieur généraliste d'acquérir une vision globale du système énergétique qui est indispensable aussi bien à la compréhension du contexte actuel que des défis auxquels les générations futures devront faire face.
+
+Il apporte les connaissances fondamentales sur les aspects techniques, économiques et géopolitiques des filières énergétiques et des postes de consommation.
+
+Mots-clés : Energies primaires, secondaire et finale, bilan énergétique, filières énergétiques; énergie-climat; énergie-développement; géopolitique de l'énergie; échelles internationale, nationale, locale.
+
+
+
+Programme	Introduction: Energies primaires, secondaires et finales; les vecteurs d'énergie ; Les grands
+chiffres de l'énergie: production , consommation et réserves
+Filière charbon.
+Filière pétrole/gaz.
+
+Les villes intelligentes: Illustration des problématiques économiques, technologiques, sociales d'un concept visant à réduire la demande énergétique et intégrant plusieurs technologies. Gestion des systèmes énergétiques: illustration des différents niveaux de décision.
+
+Le programme peut évoluer en fonction de la disponibilité des intervenants du monde de l'entreprise.
+
+
+Compétences	◊ connaitre les principaux ordre de grandeur de l'énergie au niveau mondial et savoir les manipuler
+
+◊ comprendre et analyser un bilan au niveau d'un pays
+◊ connaitre les caractéristiques techniques et geopolitiques des principales filières énergétiques
+◊ comprendre les aspects systémiques de la consommation énergétique
+
+Options /
+Obligatoire pour l'option Energie
+Masters
+
+
+Jean FAVENNEC. Géopolitique de l'énergie. Technip, 2007.
+Bibliographie
+
+
+Cédric LESTRANGE et al. Géopolitique du pétrole. Technip, 2005.
+
+Samuele  FURFARI. Enjeux géopolitiques - vol. 1et 2. Technip, 2007.
+
+savoir: test de 2 heures (70%)
+Contrôle des
+
+connaissances
+Savoir faire: études bibliographiques (30%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

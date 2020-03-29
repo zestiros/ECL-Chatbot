@@ -1,0 +1,93 @@
+
+ AF ELC D-10
+
+
+Ecologie et Environnement
+
+Ecology and Environment
+
+Responsable(s) : Jean-Pierre CLOAREC
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 16 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+-Présenter, avec une vision systémique, les phénomènes fondamentaux gouvernant les écosystèmes naturels, en s'appuyant sur les sciences de l'ingénieur (ex : physicochimie, thermodynamique, dynamique des systèmes).
+
+-Donner des outils et des méthodes pour appréhender les liens entre environnement et activités humaines, notamment les activités industrielles
+
+-Mobiliser les connaissances du tronc commun sur des études de cas environnementales complexes, et faire preuve d'esprit critique pour analyser des situations réelles.
+
+-Rechercher en autonomie des informations sur un cas environnemental concret, et les analyser de manière critique Quota : 48 élèves maximum
+
+Mots-clés : Environnement, écologie, développement durable, pollution, écosystèmes, industrie, traitements d'effluents, sciences de l'ingénieur, empreinte carbone, recherche bibliographique,
+
+
+Programme
+Cours magistraux :
+
+-Notions de biosphère et d'écosystèmes. Sources et circulation des polluants dans la biosphère.
+
+-Impacts des activités humaines. Cas des pluies acides, eutrophication.
+
+-Calcul d'empreinte environnementale
+
+-Traitements chimiques et microbiologiques d'effluents liquides usés
+
+-Influence des cultures nationales sur la perception des questions environnementales : le cas de
+
+l'Allemagne
+
+Activités pratiques :
+
+-Projet d'élève: étude d'une controverse environnementale (cf ci-dessous "travail en autonomie").
+
+-tous les 2 ans : un voyage à Freiburg (Allemagne) dans l'éco-quartier Vauban est envisagé, en
+
+alternance avec une visite d'une station d'épuration de Lyon (traitement bactérien des effluents).
+
+
+Compétences	◊ Comprendre et formuler un problème environnemental (hypothèses, ordres de grandeur, etc...)
+◊ Associer les logiques économiques / responsabilité sociétale et écoresponsabilité
+◊ Appréhender toutes les dimensions scientifiques, techniques, sociétales d'une situation environnementale concrète
+
+◊ Identifier les interactions entre éléments d'une situation environnementale et développer une approche systémique pour l'appréhender
+
+
+
+Travail en autonomie
+
+
+
+
+
+
+Bibliographie
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : Appréhender une situation environnementale complexe, rechercher des informations, faire preuve d'esprit critique, débattre.
+
+Méthodes : Etude d'une controverse environnementale. Travail en groupe. Recherche documen-taire approfondie, analyse de documents ; le livrable de chaque projet est un débat contradictoire entre élèves de chaque groupe de projet, devant le reste de la classe.
+
+
+Ramade. Eléments d'Ecologie : Ecologie fondamentale. Dunod, 2005.
+
+Ramade. Elements d'Ecologie : Ecologie appliquée.. Dunod, 2005.
+
+Meunier. Aide-mémoire de thermodynamique de l'Ingénieur : Energétique - Environnement. Dunod, 2004.
+
+
+Contrôle continu : micro-tests individuels hebdomadaires
+Examen final : examen individuel écrit sans documents, 2h.

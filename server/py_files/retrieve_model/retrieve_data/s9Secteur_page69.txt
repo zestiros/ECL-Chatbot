@@ -1,0 +1,68 @@
+
+ AF INFO 3.4
+
+
+Apprentissage automatique
+
+Machine Learning
+
+Responsable(s) : Liming Chen, Emmanuel Dellandrea
+
+| Cours : 10 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 10 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Le Machine Learning (ou Apprentissage automatique) est une branche de l’intelligence artificielle, et concerne l’étude et l’élaboration d’algorithmes permettant à un ordinateur, à l’image d’êtres humains, d’apprendre à partir de données pour ensuite pouvoir réaliser des prédictions. De tels algorithmes reposent généralement sur des modèles qui durant une phase d’apprentissage apprennent à partir des données des règles, des corrélations, pour pouvoir les appliquer à des nouvelles données pour réaliser des prédictions. Ce domaine est actuellement en plein essor, notamment à l’ère du Big Data, mais aussi en robotique, finance, jeux vidéo, sécurité, vision par ordinateur. L’objectif de cette AF est de présenter les principaux modèles de et de les mettre en œuvre sur des cas d’étude concrets.
+
+Mots-clés : Machine Learning, Apprentissage Automatique, Réseaux de neurones, Apprentissage profond
+
+
+
+Programme	Principes généraux et évaluation de modèles de Machine Learning
+Modèles probabilistes
+Modèles à Noyaux
+Modèles à base d’arbres
+
+Réseaux de neurones et apprentissage profond
+
+
+Compétences	◊ Connaître les principes des méthodes d’Apprentissage Automatique
+◊ Savoir mettre en œuvre une méthode d’Apprentissage Automatique adaptée à un problème donné
+
+◊ Savoir interpréter les résultats de l’évaluation d’une méthode d’Apprentissage Automatique pour optimiser le modèle
+
+◊ 
+
+
+
+Bibliographie	C. M. Bishop. Pattern Recognition and Machine Learning. Springer, 2006.
+
+K. P. Murphy. Machine Learning : A Probabilistic Perspective. MIT Pres, 2012.
+
+Goodfellow, Y. Bengio, and A. Courville,. Deep Learning. MIT Pres, 2016.
+
+
+
+Contrôle des	Test final et note de BE
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

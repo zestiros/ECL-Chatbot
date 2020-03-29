@@ -1,0 +1,68 @@
+
+ AF ECS tc 1
+
+
+Énergie Électrique
+
+Electrical Energy
+
+Responsable(s) : VOLLAIRE Christian, BREARD Arnaud
+
+| Cours : 12 h | TD : 14 h | TP : 4 h | Autonomie : 0 h | BE : 2 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L’analyse des systèmes électrotechniques permet la compréhension du fonctionnement des matériels électriques utilisés pour la production, le transport et l'utilisation moderne et rationnelle du vecteur énergie électrique. Une attention particulière est portée sur les enjeux liés à ces technologies en terme de développement industriel et économique des pays ainsi qu'aux enjeux liés au développement durable.
+
+Mots-clés : Électrotechnique, Énergie Électrique, systèmes de traitement de l’énergie électrique (production, transport et transformation).
+
+
+Programme	Réseau de Kirchhoff
+Systèmes triphasés
+Électromagnétisme
+Induction - application au transformateur -
+
+Conversion statique de l’énergie électrique
+
+
+Compétences	◊ Être capable de manipuler les ordres de grandeurs du domaine.
+◊ Être capable d’analyser le fonctionnement d’un système de traitement de l’énergie électrique (actionneur, convertisseur …)
+
+◊ Savoir appréhender les aspects énergétiques dans les systèmes de puissance.
+◊ Appréhender les inetractions avec les autres domaines des sciences pour l'ingénieur
+
+
+
+Bibliographie	Poloujadoff Michel. réseaux triphasés, circuits magnétiques, transformateurs, redresseurs, lignes.
+Dunod, 1969.
+
+Léger Valérie. Conversion d'énergie, électrotechnique, électronique de puissance. Ellipses, 2009.
+
+Théodore Wildi et Gilbert Sybille. Électrotechnique, 4e édition. Québec, Presse de l'Université Laval / De Boeck, 2005.
+
+
+Contrôle des Examen écrit final, un microtest, note de TP/BE connaissances Calcul = 0.9 (0.9 Examen+0.1 µtest) + 0.1 note de TP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

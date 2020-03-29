@@ -1,0 +1,82 @@
+
+UE GM
+
+Gé n i e Mé c a n i q u e
+
+Mechanical Engineering
+
+Direction : HOUX Bertrand
+
+90hTD, 6ECTS
+
+
+Présentation
+
+L'Unité d’Enseignement Génie Mécanique recouvre un ensemble de connaissances et de savoir-faire pour la conception, la fabrication et l’analyse des performances d'un système mécanique. C'est un élément fondamental dans la formation d'un ingénieur généraliste. La diversité des branches industrielles concernées va bien au-delà des industries mécaniques
+: la plupart des objets et des produits ont une base matérielle solide. Leurs performances et leur durée de vie tiennent pour une grande part à la qualité de cette base matérielle.
+
+
+
+Semestre
+
+S6 ou S7
+
+
+Département
+
+Département MSGMGC
+
+
+Équipes d’enseignement
+
+Mécanique des solides, Technologie,Vibrations
+
+
+Programme
+
+GM tc 1 : Technologie /Mécanique Générale et Analytique/Résistance des Matériaux
+GM tc 2 : Activités pratiques de Génie Mécanique
+GM tc 3 : Modélisation et Conception
+
+ou GM tc 4 : Conception de Mécanismes
+
+
+Compétences visées par l’UE
+
+◊ Savoir analyser l'architecture d’un système mécanique et sa description géométrique à partir des dessins techniques
+
+◊ Savoir concevoir un système mécanique
+◊ Savoir définir la géométrie tolérancée d'une pièce mécanique et mettre en oeuvre des moyens de fabrication qui respectent les conditions de bon fonctionnement
+
+◊ Être capable d'analyser le comportement dynamique d'un système de solides rigides
+◊ Savoir dimensionner une pièce élancée soumise à un chargement statique
+
+Pré-requis
+
+Notion de solide rigide, torseur cinématique, torseur des efforts Principe fondamental de la dynamique
+
+Évaluation
+
+Moyenne pondérée : GM tc1 50%, GM tc2 30%, GM tc3/GM tc4 : 20%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

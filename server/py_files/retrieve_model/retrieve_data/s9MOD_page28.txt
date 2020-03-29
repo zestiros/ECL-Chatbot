@@ -1,0 +1,97 @@
+
+ AF MOD 4.5
+
+
+Analyse des assemblages : géométrie et architecture
+
+Mechanical assembly: architecture and geometry analyses
+
+Responsable(s) : Bertrand HOUX, Didier LACOUR
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Présenter les méthodes et outils d'analyse de la qualité géométrique des assemblages.
+La maîtrise de l'architecture et de la géométrie des assemblages est un objectif industriel majeur. La qualité géométrique des pièces, l'architecture des assemblages peuvent avoir des répercussions directes sur la capacité d'assemblage du produit, mais aussi sur les prestations qu'il doit assurer.
+
+Ce cours présente les méthodes modernes de simulation des assemblages en intégrant les défauts géométriques de leurs composants. Il identifie ainsi les concepts théoriques sur lesquelles ces méthodes se basent, afin de comprendre leurs domaines d'application et leurs limites.
+
+Mots-clés : assemblage, architecture, spécifications géometriques, normes ISO GPS, tolerancement, métrologie, analyse d'influences, simulation assemblage, statistique
+
+
+
+
+Programme
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Masters
+
+affiliés
+
+
+Bibliographie
+
+
+
+
+Quantification des spécifications et analyse de leurs influences sur l'assemblage (sensibilités) par
+torseurs de petits déplacements.
+Approches statistiques, Monte-Carlo.
+Méthodes de spécifications géométriques, matrice GPS (Geometrical Product Specification).
+
+Algorithmes utilisés en métrologie tridimensionnelle (méthodes numériques d'association).
+
+◊ connaitre les méthodes et outils d'analyse de la qualité géométrique des assemblages.
+◊ écrire et interpréter des spécifications géomètriques normalisées.
+◊ analyser les influences et contributions sur un modèle concret.
+◊ établir et mettre en oeuvre une stratégie de controle tridimensionnelle.
+
+Aéronautique et Espace
+
+
+Anselmetti B.. Tolérancement - Volumes 1 a 4. Hermès - Lavoisier, 2010.
+
+Charpentier F.. Mémento de spécification géométrique des produits - Les normes ISO-GPS. AFNOR, 2015.
+
+Bourdet P. & Mathieu L.. Tolérancement et métrologie dimensionnelle. Cetim, 1999.
+
+
+
+Contrôle des	Note finale = 0,6 x Note d'examen écrit de 2 heures (savoir) + 0,4 x Note de BE (savoir faire)
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

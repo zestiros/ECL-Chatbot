@@ -1,0 +1,73 @@
+
+ AF TV 3.3
+
+
+Dynamique des véhicules
+
+Vehicule Dynamics
+
+Responsable(s) : Olivier BAREILLE, Benjamin CHOUVION
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+La dynamique véhicule est une des composantes de la formation aux technologies des véhicules.
+La composante ferroviaire est abordée au même titre que celle des véhicules routiers.
+
+La liaison au sol est présentée sous différents modèles de comportement qui intègrent les éléments de contact et ceux d’architecture de châssis afin d’optimiser la stabilité sous différents profils de mission.
+
+Mots-clés : Dynamique, Véhicule, Stabilité, Comportement
+
+
+
+Programme	Cours de dynamique ferroviaire + TD sur modèle numérique intégrant le contact roue-rail. Cours de dynamique véhicule automobile + BE de mise en application sur modèle réduit et modèle complet de véhicule.
+
+
+Compétences	◊ Capacité à converger vers une solution acceptable (suivi hypothèses, ordres de grandeur …)
+◊
+◊
+◊
+
+
+
+Contrôle des
+savoir-faire 100 %
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

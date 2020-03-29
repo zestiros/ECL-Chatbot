@@ -1,0 +1,73 @@
+
+Option BIN
+
+Bi o -In g é n i e r i e e t Nan o t e c h n o l o g i e s
+
+Bio-engineering and nanotechnology
+
+Responsables : Laurenceau Emmanuelle, Vilquin Bertrand 130h
+
+
+
+Présentation
+
+Cette option a pour objectif de donner une formation pluridisciplinaire chimie-biologie-physique aux élèves-ingénieurs leur permettant d'appréhender les applications récentes et futures des hautes technologies aux domaines de la bio-ingénierie (ou ingénierie pour le vivant) et des nanotechnologies.
+
+Les compétences d'ingénieur généraliste acquises au cours des deux premières années seront complétées par des connaissances fondamentales en micro- et opto-électronique, en photonique, en nanosciences et en biologie. Les interactions entre ces différentes disciplines seront illustrées au travers de différents exemples : microcapteurs, matériaux fonctionnels, systèmes sur puces, imagerie médicale, biomatériaux, Big data,…
+
+Les élèves-ingénieurs issus de cette formation seront des interlocuteurs privilégiés pour mener des projets à l'interface de ces différentes disciplines.
+
+
+Départements/laboratoires
+
+STMS, EEA INL, LTDS, Ampère, LMFA
+
+
+Programme
+
+BIN3.1 – Cycle de conférences (BIO3.5)
+
+BIN3.2 - Projet d'option (BIO3.6)
+1 filière au choix :
+Filière Bio-Ingénierie (BIO)
+Filière Nanotechnologies (NANO)
+
+
+Compétences visées
+
+◊ comprendre les défis liés à la santé et aux nanotechnologies
+◊ acquérir des connaissances en biologie et nanotechnologie
+◊ comprendre les enjeux de la miniaturisation
+◊ appliquer les connaissances à la résolution de problèmes pluridisciplinaires
+◊ mettre en oeuvre des projets pluridisciplinaires
+
+Débouchés
+
+Recherche et Développement, Qualité, Production, Conseil.
+Secteurs d’activité: microélectronique et technologies de l’information, énergie, imagerie médicale, industrie pharma-ceutique et cosmétique, agro-alimentaire et l’environnement.
+
+Pré-requis
+
+2 MOS obligatoires au choix parmi :
+MOS 1.5 « Couches minces et surfaces fonctionnalisées »
+MOS 6.1 « Ingénierie tissulaire et biomatériaux»
+MOS 6.3 « Microcapteur, microsystème, microfluidique »
+
+MOD : dépend de la filière choisie, certains MOD sont en équivalence de cours de Master
+
+Évaluation
+
+BIN3.1 : 20%, BIN3.2 : 30%, Filière d’option : 50%
+
+Site web de l’option
+
+
+Informations complémentaires
+
+Masters Recherche co-accrédités :
+Energie Electrique, Electronique, Automatique (3EA)
+Ingénierie de la Santé (IdS)
+Matériaux
+
+NanoScale Engineering (NSE)
+

@@ -1,0 +1,74 @@
+
+ AF ELC D-12
+
+
+Space physics and solar-terrestrial coupling
+
+Space physics and solar-terrestrial coupling
+
+Responsable(s) : R. Marino, C. Corre
+
+| Cours : 26 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 6 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'ingénierie aérospatiale développe des technologies pour l'atmosphère et l'espace. La conception de véhicules, de systèmes de lancement et de charges utiles doit s'appuyer sur une compréhension profonde de ces environnements opérationnels. Le but principal du cours est de fournir une description détaillée de la physique de l'espace interplanétaire et des couches les plus hautes de l'atmosphère terrestre, ainsi que de décrire le couplage entre activité solaire et dynamique terrestre. Le milieu interplanétaire et les hautes couches de l'atmosphère sont dans un état plasma et présentent un caractère fortement turbulent. Théorie et modélisation des plasmas spatiaux et de la turbulence anisotrope seront étudiées; technologies et outils pour étudier ces environnements seront aussi introduits.
+
+Mots-clés : plasmas spatiaux; turbulence liée au vent solaire; stratosphère, mésosphère and ionosphère; couplage Soleil-Terre; météorologie spatiale; missions spatiales et atmosphériques; modélisation numérique.
+
+
+Programme	- Soleil et héliosphère : introduction à la physique spatiale.
+- Premières explorations spatiales, conception de mission, observations in-situ et à distance.
+- Plasmas spatiaux : principaux modèles de description du plasma, turbulence magnétohydrodynamique.
+
+- Notions d'analyse statistique de données et de simulations numériques.
+- Vent solaire : propriétés physiques et turbulence.
+- Instruments de mesure (plasmas), mesures depuis vaisseaux et paramètres orbitaux, revue d'articles.
+
+- Couplage Soleil-Terre : environnement terrestre, dynamique de la stratosphère, mésosphère, interaction entre ondes et turbulence dans les écoulements géophysiques.
+
+- Éléments de base sur les modèles héliosphériques et les modèles de climat, la météo spatiale et les observations par ballons.
+
+
+Compétences	◊ Acquérir une bonne connaissance de la physique des plasmas spatiaux et de la turbulence dans le milieu interplanétaire
+◊ Comprendre la dynamique de l'atmosphère intermédiaire et supérieure et le couplage avec l'activité solaire et le vent solaire
+
+◊ Acquérir des compétences en matière d'outils et de technologies de la recherche spatiale et atmosphérique (missions spatiales, ballons, modèles numériques...)
+
+◊ Etre capable d'identifier les points-clés et les résultats principaux d'un article de recherche et savoir comment mener une recherche bibliographique efficace
+
+
+
+Travail en autonomie
+
+
+
+
+
+Bibliographie
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : Etude d'articles scientifiques consacrés à l'un des sujets du cours ou développement de courts projets scientifiques.
+
+Méthodes : Articles/projets seront étudiés/réalisés par monômes ou par groupes d'étudiants et un rapport final sera produit.
+
+
+M.G. Kivelson, C.T. Russell. Introduction to Space Physics. Cambridge University Press, 1995.
+
+M. Moldwin. An Introduction to Space Weather. Cambridge University Press, 2008.
+
+
+Note finale = 70% note de savoir, 30% note de savoir-faire
+Note de savoir = note d'examen (2h)
+
+Note de savoir-faire = note de projet

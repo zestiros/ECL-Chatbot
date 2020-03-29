@@ -1,0 +1,77 @@
+
+ AF MSS tc 3
+
+
+Maquettage Numérique
+
+Digital Mock-Up
+
+Responsable(s) : Didier Lacour
+
+| Cours : 2 h | TD : 0 h | TP : 0 h | Autonomie : 4 h | BE : 14 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Cette action de formation a pour ambition de permettre aux élèves ingénieurs d’appréhender les différents aspects du maquettage numérique (modélisation volumique et surfacique, intégration avec la simulation (cinématique, calcul, fabrication, etc.), nécessaires notamment aux autres actions de formations des deux Unités d'Enseignements Génie Mécanique et Mécanique des Solides et des Structures.
+
+Mots-clés : Maquette virtuelle, Modélisation numérique, Simulation, Calculs éléments finis, PLM, Surfaces Bézier, Modélisation courbes et surfaces
+
+
+Programme	Modélisation mathématique des surfaces à pôles
+Prise en main du logiciel Catia V5 (Modélisation volumique)
+Modélisation surfacique avec Catia V5
+Mini-projet : mise en œuvre des outils de modélisation, de simulation et de calcul sur un problème
+
+concret de conception ou d’optimisation d’un système technique.
+
+
+Compétences	◊ Être capable de modéliser une solution technique à l’aide d’outils informatiques
+◊ Savoir manipuler les outils actuels de modélisation et simulation
+◊ Etre capable d’appréhender toutes les dimensions scientifiques et techniques d'un projet
+◊ Connaitre les outils logiciels de maquettage numérique utilisés par les industriels
+
+Travail en
+Objectifs : Développer et approfondir le sujet du mini-projet
+autonomie
+Méthodes : Séances en salle de CAO avec assistance des enseignants
+
+Pierre Bezier. L'utilisation des courbes et surfaces en CAO. Hermes Sciences Publicat, 1988.
+Bibliographie
+
+
+Jean-Claude Fiorot. Courbes Et Surfaces Rationnelles - Applications A La Cao. Dunod, 1989.
+
+Dassault Systemes. Manuel utilisation Catia V5. Dassault Systemes, 2014.
+
+Le rapport final du mini-projet donne lieu à une note, qui constitue la note de l'AF.
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

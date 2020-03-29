@@ -1,0 +1,66 @@
+
+ AF IM 3.4
+
+
+Data Mining et Big Data
+
+Data Mining and Big Data
+
+Responsable(s) : Céline HELBERT, Alexandre SAIDI
+
+| Cours : 12 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+il s’agit de présenter des méthodes pour l’analyse de données en grande dimension. La quantité de données générées ces dernières années par les entreprises, les tweets, mails, achats, navigations internet … est en croissance exponentielle. Ces données peuvent être de nature variée (numérique, qualitative, etc.) et plus ou moins complexes (textuelles, spatiales, temporelles etc.). Cette AF permet aux élèves d'explorer quelques outils mathématiques, statistiques et informatiques, adaptés à la gestion de ces données pour en extraire de la connaissance.
+
+Mots-clés : Data Mining, Text Mining, machine learning, régression, data science.
+
+
+
+Programme	Partie 1 (2h de cours, 2h de BE) : Algèbre en grande dimension (SVD, matrice de Google) Partie 2 (7h de cours, 7h BE): Construction de modèles prédictifs (régression linéaire pénalisée, PCR, PLS, modèles additifs, CART, forêts aléatoires, classification non supervisée)
+
+Partie 3 (3h cours, 4h BE): Text Mining
+
+
+Compétences	◊ Construction de modèles prédictifs avec un grand nombre de variables d’entrées
+◊ Extraction de connaissance à partir de contenus « texte »
+◊ 
+◊ 
+
+
+
+Bibliographie	Charu C. Aggarwal & al.. Mining Text Data. Springer, 2012.
+
+Trevor Hastie, Robert Tibshirani, Jerome Friedman. The Elements of Statistical Learning : Data Mining, Inference and Prediction. Springer, 2011.
+
+
+
+
+Contrôle des	BE notés
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

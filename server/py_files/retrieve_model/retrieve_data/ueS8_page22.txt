@@ -1,0 +1,97 @@
+
+ AF ELC B-6
+
+
+Hydrologie et Gestion des Ressources en Eau
+
+Hydrology and Water Resources
+
+Responsable(s) : Richard PERKINS
+
+| Cours : 18 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 14 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'eau est une ressource naturelle essentielle à la vie, et bien qu'elle recouvre 71% de la surface de la terre, il n'y a qu'une petite partie de cette eau qui est directement utilisable. Pire, cette fraction est distribuée de manière très inhomogène sur la surface de la terre, et la croissance sans arrêt de la demande pour l'eau rende sa gestion de plus en plus critique. L'ingénieur a un rôle central dans la maitrise et gestion des ressources en eau. Les objectifs de ce cours sont :
+
+- d'introduire et d'expliquer le cycle hydrologique et son influence sur la qualité et la quantité d'eau disponible ;
+- d'étudier l'interaction entre l'eau et l'environnement ;
+- de présenter les différentes techniques pour la gestion des ressources en eau.
+
+Mots-clés : Hydrologie, Atmosphère, Ressources en Eau, Traitement de l'Eau, Modélisation
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+1. Introduction
+Les ressources en eau, les premiers systèmes d'approvisionnement et traitement
+
+2. Le cycle hydrologique
+Atmosphère : humidité, précipitation, évapotranspiration
+Eau dans les sols : structure des roches et sols, écoulement en milieu poreux
+Eaux de surface : lacs, rivières, zones humides
+
+3. Approvisionnement en eau Qualité de l'eau Traitement de l'eau Distribution de l'eau
+
+4. Les aspects politiques et économiques
+Lois d'allocation, gestion et utilisation, aspects économiques, conflits
+
+◊ L'étudiant devrait connaître les processus principaux dans le cycle hydrologique, et les interactions entre eux
+
+◊ L'étudiant devrait comprendre comment modéliser des processus complexes
+◊ L'étudiant devrait être capable d'utiliser un modèle simple pour expliquer des données réelles
+
+Objectifs : Les étudiants travailleront sur un modèle simple 1-D du cycle hydrologique, afin de comprendre les interactions entre les différents processus
+
+Méthodes : Les étudiants utiliseront un modèle existant ; ils pourront comparer les résultats du modèle avec des données réelles.
+
+
+
+Bibliographie	Brutsaert , W.. Hydrology: an introduction. Cambridge University Press, 2005.
+
+Shaw, E.M.. Hydrology in practice. Taylor & Francis, 1994.
+
+Pennington, K.L. & Cech, T.V.. Introduction to Water Resources and Environmental Issues.
+Cambridge University Press, 2010.
+
+Contrôle des
+Rapport sur le travail de modélisation.
+connaissances
+Examen final

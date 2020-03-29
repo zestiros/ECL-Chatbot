@@ -1,0 +1,92 @@
+
+ AF MTH a 4-EG
+
+
+Statistiques et économétrie
+
+Mathematical Statistics and Econometrics
+
+Responsable(s) : Christian de Peretti
+
+| Cours : 32 h | TD : 4 h | TP : 0 h | Autonomie : 12 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif de ce cours est de donner les connaissances de base en statistique et en économétrie, c'est à dire les outils mathématiques utilisés pour modéliser et mesurer les comportements des variables en science (biologie, médecine, logistique ...) en en sciences sociales (économie, finance, sociologie, science politique...).
+
+Ces outils permettent par exemple de détecter les corrélations entre les différentes variables économiques ou financières.
+
+Ils permettent également de répondre empiriquement aux questions que les économiste et financiers se posent.
+
+Mots-clés : Statistique, économétrie, biostatistique, modélisation, estimateur, test
+
+
+
+Programme
+Concepts fondamentaux de la statistique
+
+(Modèle, concepts, estimateurs, tests)
+
+Modèles gaussiens
+
+(n-échantillon, modèle linéaire gaussien)
+
+Modèle d'analyse de la variance
+
+Modèle de régression linéaire
+
+Tests non paramétriques
+
+Biostatistique
+
+◊ Statistique, économétrie, applications diverses, en finance, et en médecine.
+Compétences
+
+
+Objectifs : Préparation de TD : exercices de statistique,
+Travail en
+
+autonomie
+Préparation de TP : application avec Excel ® sur données réelles.
+
+Méthodes : Planches de TD et de TP, fichiers de données, ordinateur personnel (je peux réserver
+
+une salle informatique si les élèves en font la demande, et selon disponibilité).
+
+Christian Gourieroux, Alain Monfort. Statistics and Econometric Models. Cambridge University
+Bibliographie
+
+
+Press, 1995.
+
+Russell Davidson and James G. MacKinnon. Econometric Theory and Methods. Oxford University Press
+
+(New York), 2003.
+
+Examen écrit final
+Contrôle des
+
+connaissances
+Selon temps disponible, examen écrit intermédiaire
+
+Bonus TD/TP (TD/TP préparés en autonomie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

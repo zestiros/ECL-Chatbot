@@ -1,0 +1,87 @@
+
+ AF MOS 5.1
+
+
+Géotechnique
+
+Advanced Foundation Engineering
+
+Responsable(s) : Eric Vincens
+
+| Cours : 0 h | TD : 28 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours présente le dimensionnement des fondations des ouvrages ainsi que les techniques de confortement des sols en phase travaux ou phase définitive. Il s’appuie sur des connaissances de mécanique des sols qui auront dû être acquises issues du MOD2.6
+
+Mots-clés : fondations superficielles, murs de soutènement, renforcement des sols, fondations profondes
+
+
+
+Programme
+Fondations superficielles
+
+Fondations profondes
+
+Soutien et confortement des sols
+
+◊ savoir analyser les contraintes-données d'un projet géotechnique
+Compétences
+
+
+◊ dimensionner un système géotechnique (fondation, confortement)
+
+◊ savoir choisir une solution technologique
+
+conseillé pour l'option Génie Civil et Environnement et en particulier très fortement pour la filière
+Options /
+
+Masters
+Ouvrages
+
+Master génie civil
+
+G. Filliat. La pratique des sols et fondations. EDITIONS DU MONITEUR, 1981.
+Bibliographie
+
+
+P. Mestat. De la rhéologie des sols à la modélisation des ouvrages géotechniques. LCPC, 2000.
+
+un test avec partie sans documents et partie avec documents (coef 2/3)
+Contrôle des
+
+connaissances
+compte-rendus de BE (coef 1/3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

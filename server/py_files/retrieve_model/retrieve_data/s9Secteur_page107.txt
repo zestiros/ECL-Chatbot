@@ -1,0 +1,71 @@
+
+ AF MOS 2.1
+
+
+Algorithmes pour la décision en entreprise
+
+Decision support algorithms
+
+Responsable(s) : Joël Perret-Liaudet, Philippe Michel
+
+| Cours : 14 h | TD : 4 h | TP : 0 h | Autonomie : 0 h | BE : 10 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+La confrontation à des problèmes complexes amène à un questionnement approfondi sur les méthodologies de modélisation et de résolution.
+
+Modélisation, via la théorie des jeux, et applications au marchandage, à la biologie, à la politique et autres activités où les acteurs ont des choix rationnels à faire avec une connaissance partielle ou complète des données du jeu.
+
+Résolution, via des méthodes heuristiques (recuit simulé, méthode Tabou, colonies de fourmis), en se focalisant sur une démarche permettant de choisir une ligne de conduite efficace pour atteindre un but dans un environnement complexe. L'objectif étant d'apporter une bonne compréhension des principales méthodes heuristiques et de leur portée.
+
+Mots-clés : méthodes heuristiques, théories de jeux
+
+
+
+Programme	Problèmes complexes
+Introduction générale aux heuristiques
+Quelques heuristiques : Recuit simulé, Algorithmes évolutionnaires, Essaims particulaires
+Applications à l'optimisation difficile
+Introduction générale à la théorie des jeux
+Notion d'équilibre et applications
+
+Applications
+
+
+Compétences	◊ modélisation
+◊ résolution
+◊ optimisation non standard
+
+
+Bibliographie	Colin F. Camerer. Behavioral Game Theory: Experiments in Strategic Interaction. The Roundtable Series in Behavioral Economics, 2003.
+
+J. Dréo, A. Pétrowski, P. Siarry, E. Taillard. Métaheuristiques pour l'optimisation difficile. Eyrolles, 2003.
+
+
+
+Contrôle des	Examen 2h / BEs
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

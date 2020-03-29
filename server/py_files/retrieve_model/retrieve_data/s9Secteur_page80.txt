@@ -1,0 +1,82 @@
+
+ AF IM 3.5
+
+
+Projet MIR
+
+Project MIR
+
+Responsable(s) : Elisabeth MIRONESCU, Christophette Blanchet
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 50 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+L’objectif du projet est d'allier sur un sujet de mathématiques appliquées : modélisation, analyse mathématique et mise en place d'algorithmes de résolution.
+
+Mots-clés : Introduire, analyser et simuler un modèle mathématique.
+
+
+
+Programme
+
+
+◊ Mettre au point et critiquer un modèle mathématique décrivant un phénomène complexe
+Compétences
+
+
+◊ Analyser un modèle mathématique, déterministe ou aléatoire
+
+◊ Mettre en œuvre une simulation sur machine à l'aide d'un logiciel adapté
+
+◊
+
+Objectifs : Rédiger un rapport technique. Exposer en termes simples les résultats.
+Travail en
+
+autonomie
+Méthodes : Travail en groupe. Lecture d'articles scientifiques.
+
+Rapport et soutenance de projet
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

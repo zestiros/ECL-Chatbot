@@ -1,0 +1,86 @@
+
+ AF FLE tc 2
+
+
+Méthodes expérimentales et numériques
+
+Numerical and experimental methods
+
+Responsable(s) : DRAGNA Didier, CORRE Christophe
+
+| Cours : 0 h | TD : 0 h | TP : 8 h | Autonomie : 2 h | BE : 6 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Cette AF présente les méthodes expérimentales et numériques en mécanique des fluides, et la démarche à adopter pour leur mise en œuvre pratique.
+
+Mots-clés : Protocole expérimental, Techniques de mesure, Simulation numérique, Comparaison modèle/mesure, Incertitudes
+
+
+Programme
+TP sur la mesure de vitesse dans un jet
+
+TP sur Bernoulli ou Traitement de l’air
+
+BE sur le logiciel de simulation numérique Fluent
+
+◊ Savoir mettre en œuvre des méthodes expérimentales et numériques en mécanique des fluides
+Compétences
+
+
+et énergétique
+
+◊ Savoir définir un protocole expérimental pour caractériser un phénomène
+
+◊ Savoir mettre en forme des résultats de simulations ou d'expériences
+
+◊ Savoir comparer un modèle et des mesures
+
+Objectifs : Prise en main d’un logiciel de simulation numérique en mécanique des fluides +
+Travail en
+
+autonomie
+Exploitation des résultats
+
+Méthodes : 2 x 2h de BE
+
+Note de savoir-faire basée sur 2 rapports de TP et sur la participation en séance
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

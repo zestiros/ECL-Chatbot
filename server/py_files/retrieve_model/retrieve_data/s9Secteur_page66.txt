@@ -1,0 +1,127 @@
+
+Option INFO
+
+In f o r mat i q u e
+
+Computer Science
+
+Responsables : Mohsen ADABILIAN, Daniel MULLER 130h
+
+
+
+Présentation
+
+L'informatique est de plus en plus ubiquitaire et transparente. Les systèmes informatiques sont partout : dans les entreprises bien sûr (systèmes d'information, informatique industrielle), mais aussi dans la vie courante (mobilité, loisirs, vie sociale), voire dans les objets les plus banals (voiture, objets connectés). L'Option Informatique répond aux défis posés par l'évolution rapide des solutions et usages du numérique en proposant des enseignements ciblés sur les éléments clés du domaine pour former des ingénieurs généralistes, capables de spécifier, concevoir et encadrer des projets innovants dans le contexte de systèmes de plus en plus complexes. Les domaines d’applications sont nombreux, incluant le secteur Informatique et du numérique bien sûr, mais aussi les secteurs qui en dépendent : aéronautique, automobile, banque et assurance, (bio)médical, énergie, grande distribution, loisirs, médias, production.
+
+Chaque étudiant a la possibilité de construire un parcours à la carte, adapté à son projet professionnel, en choisissant des actions de formation proposées par l’option au sein de l’UE Secteur et des MOD qui traitent de différents thèmes de l’informatique : est rendu obligatoire de choisir un MOD dans la liste des MOD informatiques, le MOS 4.4, de choisir 4 MSO parmi les 7 proposés, ainsi que le MSO projet. L’option a identifié quelques parcours pertinents en termes de débouchés professionnels en indiquant pour chacun un choix de cours cohérents associé.
+
+
+Départements/laboratoires
+
+MI, EEA, LIRIS
+
+
+
+Programme
+
+INFO3.1 Techno info du BigData
+INFO3.2 Les SI par la pratique
+INFO3.3 Internet des objs
+INFO3.4 Apprentissage auto.
+INFO3.5 Vision par ordin
+INFO3.6 Calcul, modélisation géo pour l'infographie INFO3.7 Sys Temps réel, embarqué, mobile INFO3.8 Projet
+
+
+Compétences visées
+
+◊ Etre capables de spécifier, concevoir et encadrer des projets innovants dans le numérique, dans le contexte de systèmes de plus en plus complexes .
+
+◊ Maitriser les éléments clés du domaine,
+◊ Maîtriser le processus projet informatique.
+◊ Permettre aux élèves ingénieurs le désirant de s'orienter vers une thèse en Informatique.
+
+◊
+
+Débouchés
+
+Les familles de métiers en relation avec le numérique sont nombreuses et variées ( conception et gestion de projet, programmation et développement, production et gestion de données, interfaces et création numérique, infrastruc-tures, communication et réseaux, e-commerce, e-learning),
+
+ainsi que les secteurs qui en dépendent. Au moment de la soutenance de TFE, 80% des étudiants de l’option infor-matique sont définitivement embauchés dans les secteurs du numérique, ou comptent poursuivre leurs études.
+
+Pré-requis
+
+Les élèves souhaitant suivre le cursus de l'Option Informatique doivent avoir suivi les deux premières années à l'École Centrale de Lyon, ou tout autre cursus équivalent.
+
+Évaluation
+
+
+Site web de l’option
+
+
+Informations complémentaires
+
+
+Pour des informations sur les parcours suggérés, les étudiants sont priés de consulter la fiche proposée sur le site de 65
+
+ AF INFO 3.1
+
+
+Technologies informatiques du Big Data
+
+Big-data Technologies
+
+Responsable(s) : Stéphane Derrode, Emmanuel Dellandréa
+
+| Cours : 10 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 10 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+L’explosion quantitative des données numériques est à l’origine de nouveaux ordres de grandeur qui impactent la capture, le stockage, l'analyse et la visualisation de ces données. Les perspectives du traitement des big data sont encore en partie insoupçonnées ; analyse prospective (climatique, commercial, sociopolitique), gestion des risques (assuranciel, industriel, naturel) ou encore médical (génomique, épidémiologie) et sécurité (lutte contre la criminalité). Un écosystème économique se crée autours du phénomène, qui implique les plus gros acteurs du secteur IT, les industrielles, et des quantités de nouvelles start-ups. Ce module vise à fournir des compétences dans les technologies informatiques actuelles qui permettent de gérer ces grands volumes, de les interroger et de les exploite
+
+Mots-clés : Big Data, NoSQL, Hadoop, MapReduce, Spark, Storm, Mahout, MongoDB, Cassandra
+
+
+
+Programme	Le programme s’appuie sur les acquis du MOS « Défis Informatiques du Big Data ». Base de données avancées : NoSQL, New SQL (MongoDB, Cassandra)
+Hadoop framework : Installation, management, production
+Hadoop ecosystem (Map-Reduce, Hive, Storm)
+Data analytics (Mahout, Data Science Studio)
+BE sur l’installation d’Hadoop sur un cluster de machines
+BE sur un outil d’analyse de grandes bases de données
+
+
+Compétences	◊ D’installer et de configurer un système de gestion de grosses masses de données, avec stockage et processeurs répartis.
+◊ De mettre en œuvre et configurer différents outils de monitoring et d’analyse permettant l’exploitation en production de ces données.
+
+◊ De concevoir des solutions et de développer des algorithmes pour exploiter ces données à partir de frameworks existants.
+
+◊ 
+
+
+
+Bibliographie	Philippe Lacomme. Bases de données NoSQL et big data : Concevoir des bases de données pour le
+Big Data : cours et travaux pratiques. Ellipses, 2014.
+
+Lemberger Pirmin. Big data et machine learning, Manuel du data scientist. Dunod, 2015.
+
+Srinath Perera. Hadoop MapReduce cookbook : recipes for analyzing large and complex datasets with Hadoop MapReduce. PACKT Books, 2013.
+
+
+
+Contrôle des	Test final et note de BE
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+

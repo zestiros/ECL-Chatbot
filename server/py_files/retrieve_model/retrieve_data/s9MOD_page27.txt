@@ -1,0 +1,74 @@
+
+ AF MOD 4.4
+
+
+Recherche opérationnelle
+
+Opertations Research
+
+Responsable(s) : Abdelmalek ZINE, Alexandre SAIDI
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif de ce cours est de donner aux élèves les méthodes et outils leur permettant à la fois de savoir poser mathématiquement un problème d'optimisation combinatoire à variables continues ou discrètes et de savoir identifier les outils adéquats pour sa résolution (algorithmes d'optimisation).
+Ce cours sera illustré par de nombreux cas concrets issus de l'ingénierie.
+Ainsi, notre but est de faire découvrir aux futurs ingénieurs l'attitude d'esprit qu'ils doivent adopter devant tout problème réel, donc complexe.
+
+Mots-clés : Recherche opérationnelle, optimisation combinatoire, optimisation continue, optimisation discrète, aide à la décision, résolution de contraintes, théorie des graphes, complexité, problèmes NP-difficiles, algorithmes
+
+
+
+Programme	Partie I : présentation de la recherche opérationnelle.
+Les problèmes d'Optimisation et de Recherche Opérationnelle Savoir poser un problème, le formaliser Théorie de la complexité, classes de complexité
+
+Partie II : Résolution de problèmes à variable continues (A. Zine) Optimisation sans contraintes et algorithmes Optimisation avec contraintes et algorithmes Programmation linéaire et algorithme du simplexe
+
+Partie III : Résolution de problèmes à variables discrètes (A. Saidi)
+Algorithmes polynomiaux, d'approximation
+Algorithmes de graphes (plus court chemin et flots maximums), Programmation Dynamique
+Heuristiques et méta-heuristiques
+
+Programmation par contraintes
+
+
+Compétences	◊ Modéliser mathématiquement des problèmes d'optimisation
+◊ Créer des algorithmes et résoudre numériquement des problèmes d'optimisation
+◊ Maîtriser la complexité combinatoire des problèmes d'optimisation
+◊ Choisir un algorithme de résolution approprié, Savoir spécifier une solution ("Programmation
+Mathématique")
+
+Activités /
+Modélisation et résolution de problèmes d'optimisation par systèmes linéaires et par systèmes de
+Autonomie
+satisfaction de contraintes (BEs). Prise en compte de la complexité des problèmes combinatoires.
+
+Master GI
+Masters
+
+affiliés
+Toutes les options sont concernées par ce cours
+
+Ch-E. Bichot et P. Siarry. Partitionnement de graphe. Hermes, 2010.
+Bibliographie
+
+
+P. Venkataraman. Applied Optimization with Matlab. Wiley, 2009.
+
+A. Billionnet. Optimisation discrète : De la modélisation à la résolution par des logiciels de
+
+programmation mathématique. Dunod, 2006.
+
+Examen écrit de 2 heures et comptes rendus des BE
+Contrôle des
+
+connaissances
+
+
+

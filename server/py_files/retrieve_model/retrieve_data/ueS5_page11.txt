@@ -1,0 +1,75 @@
+
+ AF MTH tc 3
+
+
+Probabilités et Statistiques
+
+Probability and Statistics
+
+Responsable(s) : Christophette Blanchet, Yohann De Castro
+
+| Cours : 14 h | TD : 14 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Cette AF est consacrée à la modélisation en contexte incertain à l'aide variables aléatoires réelles à densité. Les lois usuelles mono et multidimensionnelles sont introduites. Des méthodes de calcul des probabilités et d'approximation basées sur les théorèmes de convergence sont étudiées. La méthode de Monte Carlo est mise en oeuvre sur un cas pratique.
+
+La deuxième partie du cours en consacré à l'estimation statistique : ponctuelle et par intervalle. Les principaux tests statistiques sont introduits et appliqués au contexte de la régression linéaire. Une part importante de l'AF est consacrée à l'utilisation de Matlab.
+
+Mots-clés : Lois de probabilité, variables aléatoires à densité, moments, vecteurs gaussiens, simulations aléatoires, estimateurs, biais, risque, tests d'hypothèses paramétriques (moyenne et variance), test d' ajustement de loi, régression linéaire
+
+
+
+Programme	1) Variables aléatoires
+2) Moments de variables aléatoires réelles .
+3) Vecteurs aléatoires
+4) Suites de variables aléatoires - Résultats asymptotiques-Simulation et méthode de Monte-Carlo.
+
+5) Estimation ponctuelle
+6) Estimation par intervalle de confiance
+7) Tests Statistiques
+8) Régression linéaire
+
+
+Compétences	◊ Etre capable de mener des calculs de probabilités à l'aide de l'outil informatique
+◊ Etre capable de simuler des variables aléatoires sous MATLAB
+◊ Etre capable d'estimer les paramètres d'une loi à partir de données
+◊ Savoir mettre en oeuvre les techniques de régression sous Matlab et savoir interpréter les sorties
+
+Travail en
+Objectifs : Prise en main des outils de simulation aléatoire et de représentation graphique sous
+autonomie
+MATLAB
+
+Méthodes : Sur la plateforme pédagogie: QCM de dénombrement, cours et exercices sur les
+
+variables aléatoires discrètes, exercices corrigés de simulation de loi sous MATLAB, tests des
+
+années précédentes.
+
+Gilbert Saporta. Probabilités, analyse des données et statistique. Technip, 2011.
+Bibliographie
+
+
+Jean-Pierre Lecoutre. Statistique et probabilités, coll. Eco Sup. Dunod, 2012.
+
+Mario Lefebvre. Probabilités, statistiques et applications. Presse Internationales Polytechnique, 2011.
+
+note de savoir-faire par examen terminal
+Contrôle des
+
+connaissances
+note de savoir par examen terminal
+
+
+
+
+
+
+
+

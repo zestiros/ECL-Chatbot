@@ -1,0 +1,87 @@
+
+ AF MOS 4.1
+
+
+Génie de l'Océan et du Littoral
+
+Coastal and Ocean Engineering
+
+Responsable(s) : Richard Perkins, Julian Scott
+
+| Cours : 18 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 6 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L’objectif de ce cours est de fournir une compréhension physique des différents aspects de l’océan. La première partie du cours est consacrée à la dynamique de la houle, et la deuxième partie traite de son interaction avec une structure ou le littoral.
+
+Mots-clés : Onde de surface, Houle, Océan, Littoral, Interaction fluid-structure, Transport solide, vibrations
+
+
+
+Programme
+1. Introduction
+
+Les propriétés physico-chimiques de l'océan - les marées
+
+2. Les ondes de surface de faible amplitude
+
+Formulation générale, l’équation de dispersion, la cinématique des particules fluides - Énergie,
+
+réflexion, ‘shoaling’, réfraction et diffraction - Interaction houle-courant - Transport de masse, flux
+
+de quantité de mouvement…
+
+3. Interaction vent-houle
+
+Génération de la houle par le vent - The short-crested sea - La représentation spectrale de la houle
+
+4. Impact de la houle
+
+Interaction houle-structure (e.g. cylindre) – application aux plateformes pétrolières - Interaction
+
+houle-lit (frottement, transport solide ) - Protection du littoral (murs de protection, brise lames,
+
+môles…)
+
+
+Compétences	◊ Être capable d'identifier les différents régimes des ondes de surface.
+◊ Savoir calculer les propriétés d’une onde de gravité en eau peu profonde.
+◊ Estimer l’évolution des propriétés d’une d’onde lors de son passage d’une eau profonde à une eau peu profonde.
+
+◊ Formuler la réponse d’une structure à une excitation oscillatoire créée par une onde de surface.
+
+Options /
+Génie Civil et Environnement, Énergie
+Masters
+Master : Mécanique (conseillé), SOAC (conseillé)
+
+DEAN, R.G. & DALRYMPLE, R.A. Water wave mechanics for engineers and scientists.. Prentice
+Bibliographie
+
+
+Hall, 1991.
+
+POND, S. & PICKARD, G.L. Introductory dynamical oceanography. Pergamon Press, 1983.
+
+NIELSEN, P. Coastal bottom boundary layers and sediment transport. World Scientific Publishing, 1992.
+
+Examen final + Compte rendu de TP + Compte rendu des BE
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+

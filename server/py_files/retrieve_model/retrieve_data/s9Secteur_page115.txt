@@ -1,0 +1,74 @@
+
+ AF MOS 3.4
+
+
+Modélisation et gestion du trafic
+
+Traffic Flow Theory and Management
+
+Responsable(s) : Ludovic Leclercq
+
+| Cours : 0 h | TD : 28 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours présente tout d'abord les enjeux liés à la gestion du trafic et des déplacements en milieu urbain (multi-modalité, transport intelligent, nouvelles technologies de communication, véhicules autonomes....). Puis, les concepts
+
+élémentaires de la théorie du trafic routier et familiarise les étudiants avec quelques méthodes simples de calcul. Un aperçu est également donné des modèles continus d'écoulement et des outils numériques de simulation du trafic existants et des méthodes de régulation. Les concepts de l'affectation du trafic sur les réseaux sont également abordés.
+
+Mots-clés : Systèmes de trafic, congestion, réseaux multimodaux, dynamique du trafic, chute de capacité
+
+
+
+Programme	1a/ Présentation générale de l'exploitation des réseaux routiers et des principes de gestion du trafic.
+1b/ La mesure et les outils d'analyse des données de trafic
+
+2/ BE1: données de trafic - Analyse détaillée d'une période de congestion 3a/ Principes généraux de la modélisation du trafic
+
+3b/ Les courbes de véhicules cumulés comme outil simple de modélisation de l'écoulement sur un axe autoroutier
+
+4/ Théorie hydrodynamique de l'écoulement : approches Eulérienne et Lagrangienne 5/ Affectation statique du trafic et notions d'équilibre
+
+6/ BE2: cas opérationnel - La régulation de la vallée de la Tarentaise 7/ Affectation dynamique du trafic et modèles de files d'attente
+
+
+Compétences	◊ énoncer les principes de bases de la gestion du trafic
+◊ utiliser les courbes de véhicules cumulés pour identifier différents phénomènes de trafic (congestion...), prévoir l'évolution de ceux-ci (temps de parcours...)
+
+◊ identifier les principaux états de trafic à partir de données expérimentales et savoir quels modèles sont les plus adaptés pour les représenter
+
+◊ Caractériser les impacts du caractère stochastique du trafic sur les retards et la capacité
+
+
+Bibliographie	Treiber, Keisting. Traffic Flow Dynamics: Data, Models and Simulation. Springer, 2013.
+
+Daganzo. Fundamentals of Transportation and Traffic Operations. Pergamon Press, 1997.
+
+Elefteriadou. An Introduction to Traffic Flow Theory. Springer, 2014.
+
+Contrôle des
+L'évaluation des étudiants est réalisée dans le cadre des rendus des BE et par l'intermédiaire d'un
+connaissances
+examen final.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

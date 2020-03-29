@@ -1,0 +1,79 @@
+
+ AF ADE 3.1
+
+
+Simulation de décisions opérationnelles
+
+Process simulation
+
+Responsable(s) : Emmanuel Boutleux
+
+| Cours : 23 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 31 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+L’objectif principal est de modéliser des flux d’information au sein d’une organisation (système de production, plate-forme logistique, administration, réseau de communication, …). Qu’il s’agisse de concevoir ou bien d’analyser une organisation, la phase d’évaluation est une étape incontournable. En effet, avant d’effectuer des investissements souvent lourds, il est impératif de s’assurer que les solutions envisagées répondent aux objectifs.
+
+Ce cours forme à la fois sur les principes et sur les outils d’analyse mathématique et les outils de simulation pour la spécification, la modélisation et l’évaluation des flux d’informations.
+
+Ce cours fera l’objet d’applications pratiques de la modélisation par réseaux de Petri, et logiciels de simulation événementielle notamment Witness
+
+Mots-clés : Analyse de flux, simulation opérationnelle
+
+
+
+Programme
+Présentation des concepts et méthodes
+
+Mise en application numérique sur réseaux de Petri et logiciel Witness
+
+◊ Savoir utiliser des outils de modélisation comportementale
+Compétences
+
+
+◊ Savoir analyser un modèle de flux pour le valider
+
+◊ Etre capable d’exploiter les résultats de simulation
+
+◊
+
+Objectifs : Apprendre à mettre en œuvre une simulation
+Travail en
+
+autonomie
+Méthodes : Simulation sur PC
+
+
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,84 @@
+
+ AF AE 3.31
+
+
+Projet spécifique : Acoustique et Vibrations
+
+Elective project: Acoustics and Vibrations
+
+Responsable(s) : Christophe Bailly, Sébastien Besset
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 72 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Le projet a pour objet d'évaluer les nuisances vibratoires et acoustiques liées à l’avion, en distinguant les nuisances produites par l’aéronef aux abords des aéroports, c’est-à-dire le bruit externe, et les nuisances subies par l’aéronef en termes de bruit interne ou de tenue mécanique.
+
+Un des objectifs de ce projet est d'obtenir un dimensionnement intégrant plusieurs contraintes liées à l'environnement et / ou à la sécurité, sans négliger pour autant la performance et la robustesse de l'aéronef.
+
+Mots-clés :
+
+
+
+Programme
+Les études proposées, qui seront définies en accord avec la sensibilité des élèves, feront appel à
+
+une forte interdisciplinarité afin de bien mettre en lumière l’origine des nuisances, et d’examiner
+
+des solutions de dimensionnement réalistes. On mentionne ci-dessous quelques sujets de projet
+
+qui ont été réalisés ces dernières années :
+
+Études d’impact au voisinage des aéroports pour le décollage et l’atterrissage.
+
+Optimisation du trafic et des trajectoires pour réduire la trace au sol des nuisances sonores.
+
+Estimation des niveaux de bruit et de vibrations induits par l’écoulement en vol de croisière pour
+
+le bruit interne.
+
+Localisation de sources acoustiques surfaciques à partir de la connaissance du bruit dans
+
+l’habitacle.
+
+◊
+Compétences
+
+
+◊
+
+◊
+
+◊
+
+Participation, compte-rendu écrit et soutenance
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

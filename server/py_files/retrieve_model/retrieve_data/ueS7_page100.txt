@@ -1,0 +1,86 @@
+
+ AF STI a 1-FH
+
+
+Architectures Embarquées et Informatique Industrielle
+
+Embedded systems architectures
+
+Responsable(s) : David Navarro, Cédric Marchand
+
+| Cours : 16 h | TD : 10 h | TP : 8 h | Autonomie : 14 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif de ce cours est de décrire les types de systèmes les plus courants dans les domaines de l'électronique embarquée et d'informatique industrielle (calculateurs).
+
+Les cours et TD permettront l'étude de calculateurs légers modernes, l'accent sera porté sur les architectures internes et la programmation de ces systèmes. Les travaux pratiques s'appuieront sur des applications concrètes dans les domaines de l'automobile et la domotique.
+
+Mots-clés : Architecture, microcontrôleur, électronique embarquée, informatique industrielle
+
+
+
+Programme
+Introduction sur l'électronique analogique, numérique et mixte (alimentations, oscillateurs,
+
+monostable, astable, conception de cartes ...)
+
+Architecture des composants configurables : CPLD, FPGA
+
+Architecture des microcontrôleurs (1)
+
+Architecture des microcontrôleurs (2)
+
+Architecture et programmation des microcontrôleurs (3) et des DSP (processeurs spécialisés)
+
+Architecture des processeurs, des mémoires et leur gestion
+
+Architecture matérielle et logicielle des réseaux de capteurs sans fil
+
+◊ Appréhender l'architecture et le fonctionnement interne des processeurs embarqués dédiés
+Compétences
+
+
+◊ Maîtrises les outils de programmation (émulation, debug) des microcontrôleurs
+
+Objectifs : Préparation théorique des séances de TP. Rédaction des rapports finaux
+Travail en
+
+autonomie
+Méthodes : Simulations électriques et exercices (préparation des séances de TP)
+
+Christian Tavernier. Microcontrôleurs PIC - Description et mise en œuvre. Dunod, 2012.
+Bibliographie
+
+
+Savoir: 70% (Contrôle écrit)
+Contrôle des
+
+connaissances
+Savoir faire : 30% (note TP x 0,8 + note autonomie x 0,2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

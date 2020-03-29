@@ -1,0 +1,73 @@
+
+ AF MTH a 1-FH
+
+
+Processus aléatoires pour l'ingénieur
+
+Probability theory and introduction to random processes
+
+Responsable(s) : Elisabeth Mironescu
+
+| Cours : 14 h | TD : 14 h | TP : 8 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours est un complément du cours de théorie des probabilités, orienté vers la modélisation des phénomènes aléatoires dépendants du temps. Son but est de présenter quelques applications, qui se veulent "pratiques", de la théorie des probabilités aux métiers de l'ingénieur. Les choix des outils théoriques et des applications pourront être remis en cause d'année en année, en fonction des besoins des enseignants des autres UE ou des étudiants. Le cours est construit autour d'applications du type : le filtrage des signaux, les files d'attente, la mécanique des solides. Chacune de ces applications est rattachée à un aspect théorique des processus aléatoires qui est d'abord présenté. Suivent ensuite une application pratique sur machine en Matlab.
+
+Mots-clés : Processus aléatoires, Chaines de Markov, Processus Gaussiens, File d'attente.
+
+
+
+Programme	Compléments de Probabilités, Espérance Conditionnelle, Filtre de Kalman Chaînes de Markov.
+Processus stochastiques en temps continu : Aspect spectral. Bruit Blanc. Processus Gaussien.
+
+Processus de Poisson et Files d'attente
+
+
+Compétences	◊ Être capable de proposer pour un phénomène aléatoire dépendant du temps un modèle adapté
+◊ Maîtriser les notions de probabilités et réaliser les calculs nécessaires sur les modèles étudiés.
+◊ Être capable de mettre en œuvre une simulation numérique du modèle permettant un calcul de certaines quantités ou une étude du comportement au cours du temps
+
+Travail en
+Objectifs : 1) Appropriation et mise en pratique du cours. 2) Apprendre à modéliser des phéno-
+autonomie
+mènes aléatoires.
+
+Méthodes : Préparation des TD/BE en autonomie.
+
+Nicolas Bouleau. Processus stochastiques et applications.. Collection Méthode, éditions Hermann, 2000.
+Bibliographie
+
+
+Bassel Solaiman. Processus stochastiques pour l'ingénieur.. Collection technique et scientifique des
+
+télécommu, 2006.
+
+Savoir-Faire : Moyenne des BE notés
+Contrôle des
+
+connaissances
+Savoir : Examen écrit de 2h.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

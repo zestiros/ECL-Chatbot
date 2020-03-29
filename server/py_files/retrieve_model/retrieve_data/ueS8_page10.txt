@@ -1,0 +1,88 @@
+
+ AF ELC A-5
+
+
+Optique et Photonique pour l'Ingénieur
+
+Optics and Photonics for Engineers
+
+Responsable(s) : Emmanuel DROUARD, Ségolène CALLARD
+
+| Cours : 14 h | TD : 6 h | TP : 4 h | Autonomie : 4 h | BE : 4 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'essor récent des méthodes optiques dans divers domaines s'explique par les avantages intrinsèques de ces méthodes (grandes résolutions spatiale et temporelle, mesure ponctuelle ou globale, méthode sans contact...) et par les progrès récents réalisés en photonique. Les applications couvrent un large champ de domaines industriels et de recherche : l'automobile, l'aéronautique, la santé, l'environnement...
+
+Ce cours a pour objectif de donner les éléments nécessaires à la compréhension des technologies optiques les plus utilisées.
+
+Mots-clés : Méthodes télémétriques, interférométriques, technologies infrarouges, traitement optique des matériaux...
+
+
+
+Programme
+Introduction : grands domaines de l'optique
+
+Cohérence spatio-temporelle, applications à la métrologie
+
+Notions de photométrie
+
+Phénomènes de bruit dans les détecteurs
+
+Applications à la mesure (principes) : télémétrie, vélocimétrie, interférométrie
+
+Applications des lasers au traitement des matériaux
+
+TD: Holographie, télémétrie, capteur interférométrique, application des lasers au traitement des
+
+matériaux
+
+4 TP d'1h: holographie, vibrométrie, spéctrométrie FTIR, anémométrie laser
+
+◊ Savoir choisir et mettre en œuvre le formalisme optique pertinent (géométrique, ondulatoire,
+Compétences
+
+
+électromagnétique, photométrique...) approprié.
+
+◊ Etre capable d'identifier les différents composants d'une chaîne de mesure optique
+
+◊ Savoir choisir une méthode de mesure ou de traitement optique
+
+◊ Identifier les causes du bruit dans un détecteur optique
+
+Objectifs : Appréhender de façon approfondie une technologie optique particulière
+Travail en
+
+autonomie
+Méthodes : Problem based learning : brainstorming (2h), préparation d'exposé et séance de restitution.
+
+Bahaa E. A. Saleh, Malvin Carl Teich. Fundamental of Photonics. Wiley, 2007.
+Bibliographie
+
+
+R. Farcy. Applications des lasers. Masson, 1993.
+
+D. Schuöcker. Engineering Lasers and Their Applications, Handbook of the Eurolaser Academy,
+
+Volume 1 & 2. Springer, 1998.
+
+60 % Test écrit de 2 heures sans document (Savoir)
+Contrôle des
+
+connaissances
+40 % Note d'exposé (divisée en 50 % méthodologie et 50% Savoir Faire)
+
+
+
+
+
+
+
+
+

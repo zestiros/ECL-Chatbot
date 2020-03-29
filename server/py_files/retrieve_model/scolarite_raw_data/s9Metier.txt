@@ -1,0 +1,2846 @@
+﻿PROGRAMME DES ENSEIGNEMENTS
+
+
+PARCOURS ÉLECTIF S9
+
+UE Métiers
+
+Modules spécifiques métiers 2019-2020
+
+Modules ouverts métiers 2019-2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+Sommaire
+
+MSM - Modules spécifiques métiers 2019-20205Ingénieur Consultant13Devenir Consultant16Gestion de projet, techniques financières et techniques de communication15Les Fondamentaux14Ingénieur Éco-Conception et Innovation6Bureaux d'Etudes11Conception et choix technologiques9Conférences12Outils modernes de conception8Procédés de conception avancée7Projet ICo10Ingénieur en Excellence Organisationnelle (Lean Supply Chain)17Base du Management des Opérations18Basiques de la SC : Prévisions, MRP, Achats, SI20Lean Management19Logistique physique21Participation23Projet Intégratif22Ingénieur Management des risques industriels et environnementaux24Evaluation et quantification des Risques26Gestion, prévention et mitigation des risques27Les Impact sur l'homme, l'environnement et la santé25Projet IMR28Ingénieur Recherche Innovation et Développement29Créativité, ergonomie, design, innovation, compétitivité31Gestion du Projet de recherche et Interdisciplinarité30Structures de Recherche Nationales et Internationales - Philosophie, Sciences et Société32Ingénieur Startup & Business Developer33Business model35Design Thinking34Marchés et Réseau d'acteurs36
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+MOM - Modules ouverts métiers 2019-202037Droit de l'entreprise42Intelligence économique et propriété industrielle41Management de la qualité39Management de l'entreprise industrielle40Management des ressources humaines et des organisations43Risques Naturels44Systèmes d'ingénierie38
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+Le semestre 9 à l'École Centrale de Lyon
+
+Au S9, les élèves suivent :
+
+◊ l'UE métier (septembre-novembre)
+
+◊ l'UE secteur (janvier-mars)
+
+◊ l'UE Module " ouvert " (octobre-décembre)
+
+◊ l'UE langue.
+
+
+
+L'UE métier
+
+Le module spécifique métier (92h +30h projet)
+
+Les élèves choisissent un métier de l'ingénieur parmi les six suivants :
+
+◊ ICO - Ingénieur Eco-Conception et Innovation
+
+◊ ICS - Ingénieur Consultant
+
+◊ IEO - Ingénieur en Excellence Organisationnelle (lean supply chain)
+
+◊ IMR - Ingénieur Management des risques industriels et environnementaux
+
+◊ IRD - Ingénieur Recherche Innovation et Développement
+
+◊ ISBD - Ingénieur Startup et Business Developer
+
+La note du module spécifique métier est calculée à partir des moyennes pondérées des actions de formation suivies dans chaque module.
+
+Les MOM (28h)
+
+En dehors de cette spécialisation, les élèves choisissent deux actions de formations parmi sept modules ouverts métiers (MOM) :
+
+
+Créneau 1Vendredi 8h-10hMOM 1.1Systèmes d'ingénierieMOM 2.1Management de l'entreprise industrielleMOM 3.1Droit de l'entrepriseCréneau 2Vendredi 10h15-12h15MOM 1.2Management de la qualitéMOM 2.2Intelligence économique et protection de l'informationMOM 3.2Management des ressources humaines et des organisationsMOM 4.2Risques Naturels et Technologiques
+La note du module ouvert métier est égale à la moyenne des deux notes de MOM.
+
+Evaluation de l'UE métier
+
+La note d'UE est la somme pondérée du module spécifique métier (80%) et du module ouvert métier (20%). L'UE est validée si la moyenne de l'UE est supérieure à 10 et si la note de chaque action de formation au sein de chaque module est supérieure à 10.
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+Enseignements semestre 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MSM - Modules spécifiques métiers 2019-2020
+
+
+Métier Ico
+
+In g é nie u r Éc o -Co n c e p tio n e t In n o v a tio n
+
+Eco-Design and Innovation
+
+Responsable : Olivier Dessombz 122h
+
+
+Présentation
+
+La conception des produits matériels correspond à la mise en synergie de trois domaines scientifiques complémentaires :
+
+- les sciences de l'organisation associées à des concepts et à la mise en œuvre d'une démarche systémique,
+- les sciences de l'ingénieur associées à des modèles décrivant le comportement de la matière dans un large champ disciplinaire,
+
+- les sciences mathématiques associées à des outils d'analyse et d'optimisation.
+
+Ces trois domaines scientifiques sont enseignés dans les Écoles d'Ingénieurs Généralistes comme l'ECL et l'objectif pédagogique du métier est de présenter aux élèves leur articulation et leur mise en œuvre dans un contexte industriel. En accord avec l'évolution du métier de conception, le lien produit-process sera présenté dans le cadre de deux filières intégrant les trois génies couvrant l'ensemble des produits matériels : Génie Civil, Génie Mécanique et Génie Electrique. Les enjeux sociétaux majeurs sont abordés, à savoir, l'écologie en introduisant les notions de recyclabilité et d'énergie grise, et de l'innovation en présentant les stratégies capables d'assurer le succès de nouveaux produits.
+
+Département
+
+MSGMGC/LTDS
+
+Programme
+
+ICo msm 3.1 - Procédés de conception avancée
+ICo msm 3.2 - Outils modernes de conception
+ICo msm 3.3 - Conception et choix technologiques
+ICo msm 3.4 - Projet ICo
+ICo msm 3.5 - Bureaux d'Etudes
+ICo msm 3.6 - Conférences
+
+Compétences visées
+
+◊ Connaissance des systèmes d'ingénierie et prise en compte des moyens modernes de maquettage numérique et de co-conception.
+
+◊ Capacité d'intégrer des contraintes écologiques dans la conception de produits innovants.
+◊ Approche multiphysiques des produits.
+◊ Initiation au design industriel.
+◊ Appliquer des méthodes de créativité en phase d'avant-projet.
+
+Débouchés
+
+Le métier conception porte sur une très large gamme d'activités dans les bureaux d'études. Par ailleurs, les concepts mis en avant dans les enseignements sont essentiels pour introduire l'innovation dans les projets, maîtriser la qualité des produits et leur recyclabilité en fin de vie. Le secteur industriel concerné est très vaste englobant le Génie Civil, le transport, la production d'énergie et la santé.
+
+Évaluation
+
+Chaque msm donne lieu à une note.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+ AF ICo 3.1
+
+
+Procédés de conception avancée
+
+Advanced design processes
+
+Responsable(s) : Louis JEZEQUEL, Frédéric GILLOT
+
+| Cours : 20 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Fournir aux futurs concepteurs un panels des méthodes industriel d'optimisation de forme pour des pièces mécaniques sous critères dynamiques. Sensibilisation aux enjeux de développement durable et à la démarche d'écoconception. La pose du contexte a pour mission de ré-ancrer l'élève ingénieur dans un la réalité sociétale. Partir des exemples pour intégrer les notions et les mettre en pratique. Au travers d'exercices de créativité, apprendre à développer la capacité de projection vers des scénarios futurs.
+
+Mots-clés : Optimisation, Meta-Heuristiques, Meta-modèles, Incertitudes, Iso-geometrie ; Eco-conception, économie circulaire, impacts environnementaux et sociaux, analyse multicritères, objectif de développement durable (ODD), déve-loppement durable, RSO
+
+
+
+Programme	Approches robustes d'optimisation de forme de pièces mécaniques.
+De la planète aux produits :
+- Approche du développement durable, de la responsabilité sociétale des organisations.
+- Limites des ressources.
+- Services éco systémiques, biomimétisme.
+- Enjeu du développement durable, de la responsabilité sociétale des organisations, dimension environnementale, sociale, sociétale.
+
+- Les enjeux de l'éco-conception dans votre stratégie design.
+- Développement durable, impacts environnementaux, éco-conception, cycle de vie...
+- Définir l'unité fonctionnelle base de toute Analyse de Cycle de Vie (ACV).
+- Méthodologie d'éco-conception et mise en œuvre d'un projet industriel.
+
+
+Compétences	◊ Connaître les approches industrielles d'optimisation de forme pour des pièces mécaniques sous critères dynamiques.
+◊ Etre capable d'intégrer des critères environnementaux et sociaux dans la démarche de conception.
+
+◊ Compréhension des enjeux sociaux, environnementaux, planétaires et locaux.
+◊ Créer de nouveaux paradigmes, innover, s'interroger sur l'existant.
+
+Travail enObjectifs : À la suite du cours comprendre un article récent exposant une avancée dans lesautonomieméthodes présentées. Mettre en œuvre le contenu.Méthodes : Par groupe lire, analyser, synthétiser un article récent exposant une avancée dans lesméthodes présentées en cours. Outils de créativité : méthodes d'éloignement, de rapprochement,de projection... Recherche et analyse de documents.Jan Sokolowski. Introduction to Shape Optimization Shape Sensitivity Analysis. Editeur1, 1992.BibliographieFuad Luke. Eco-design handbook Alastair. Thames & Hudson, 2005.Vanessa Batut, Fred Causse. Design responsable. La Martinière Styles, 2010.Évaluation de la synthèse de l'article.Contrôle desconnaissances
+
+
+
+
+
+
+7
+
+ AF ICo 3.2
+
+
+Outils modernes de conception
+
+Modern design tools
+
+Responsable(s) : Louis JEZEQUEL, Olivier DESSOMBZ
+
+| Cours : 12 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Montrer à quoi sert la simulation numérique et pourquoi est-elle de plus en plus importante. Supprimer le réflexe : il suffit de laisser faire l'outil. Comment vérifier un modèle et valider un résultat. On aborde tous les problèmes physiques qui peuvent se poser : ils sont décrits par 5 équations essentielles dont il faut (pour certaines) raviver le souvenir.
+
+Mots-clés : Éléments finis, réalité virtuelle et augmentée, simulation numérique.
+
+
+
+Programme1.INTRODUCTIONContexte du Bureau d'étude, Problèmes à résoudre, Qu'est ce qu'un modèle. Point de vueacadémique, Point de vue industriel. Quelques méthodes de résolution. Importance des élémentsfinis. Le besoin de simulation multiphysiques2.HISTORIQUELa simulation numérique à travers les ages. Simulation numérique et essais réels3.LES CODES4. LA FORMATION5.LES ACTEURS6.NOTIONS & PROBLÈMESÉtude de quelques problèmes pathologiques. Exemples : raffinement, calcul de contraintes enmécanique...7. LES APPLICATIONSQuelques vidéos de simulation multiphysiques posant chacune des questions : pourquoi, comment?8.LES CHALLENGESQue doit-on attendre (pour faire mieux) dans l'avenir ?9.CONCLUSIONS◊ Faire des ingénieurs capables d'analyser le comportement physique des structures et desCompétencesprocédés de fabrication.◊ transformer la connaissance scolaire en connaissance utile pour l'industriel.Objectifs : Étude bibliographique.Travail enautonomieMéthodes : Au cours de l'exposé, il y a un certain nombre de questions, permettant de connaitrece qu'ils savent et permettant de faire passer des messages clés.Jean-Louis Batoz, Gouri Dhatt. Modélisation des structures par éléments finis - volume 1 - solidesBibliographieélastiques. HERMES, 1990.Jean-Louis Batoz, Gouri Dhatt. Modélisation des structures par éléments finis - volume 2 - poutreset plaques. HERMES, 1990.Jean-Louis Batoz, Gouri Dhatt. Modélisation des structures par éléments finis - volume 3 - coques.HERMES, 1990.Une dizaine de questions dont la moitié est sous forme QCMContrôle desconnaissances
+
+
+
+
+8
+
+ AF ICo 3.3
+
+
+Conception et choix technologiques
+
+Design and technology choices
+
+Responsable(s) : Louis JEZEQUEL, Manuel COLLET
+
+| Cours : 26 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Ce cours traite de la mise en œuvre et de l'expertise des méthodes numériques et expérimentales appliquées à l'implémentation et à l'optimisation des stratégies de contrôle pour la stabilisation et l'isolation des systèmes dynamiques et la réalisation de micro-robots. une série d'applications à la micro-robotique permet d'introduire les particularités du contrôle dans le micro monde où il est nécessaire de changer de paradigme dans la prise en compte des efforts et contraintes appliquées. L'apprentissage des concepts fondamentaux abordés est facilité par la mise à disposition d'un document écrit, complet permettant de rentrer dans les détails techniques des stratégies abordées.
+
+Mots-clés : Dynamique des structures, contrôle des vibrations, Isolation vibratoire, structures smart, piezoélectriques, alliage à mémoire de forme, MEMS.
+
+
+
+Programme	Introduction
+Les outils de l'automatique classique
+Actionneurs-capteurs pour le contrôle des structures
+Stratégies classiques colocalisées
+Stratégies d'isolation
+Application à la micro-robotique
+
+
+Compétences	◊ Modélisation de systèmes couplés multiphysiques.
+◊ Mise au point d'une formulation adéquate pour l'analyse et l'optimisation du problème de contrôle.
+
+◊ Contrôle du système discrétisé : LQG, DVF, IFF, Isolation Active.
+◊ Prise en compte des contraintes liées au micro monde et conception de MEMS.
+
+Travail enObjectifs : Permettre à l'étudiant d'appréhender la modélisation, l'optimisation et l'expertise de laautonomiedynamique d'un système mécatronique.Méthodes : Cours général : élément d'automatique, transducteurs, stabilisation active, isolationactive... Exercices d'applications et de design. Lecture de documents de cours et évaluation via unQCM.André PREUMONT. Vibration Control of Active Structures: An Introduction. Springer InternationalBibliographiePublishing, 2018.Philippe de Larminat. Automatique appliquée. HERMES SCIENCE PUBLICATIONS, 1996.H.J. Zimmermann. Fuzzy set theory and its applications. Springer International Publishing, 2010.Contrôle QCMContrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+9
+
+ AF ICo 3.4
+
+
+Projet ICo
+
+First Design of Innovative Products
+
+Responsable(s) : Louis JEZEQUEL
+
+| Cours : 0 h | TD : 8 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Imaginer des produits innovants à l'aide d'un processus de "Design thinking" et vérifier leur faisabilité dans une phase de pré-conception. Jeter les bases d'un "business model" avec une vision entrepreneuriale.
+
+Mots-clés : Innovation, design, entrepreneuriat
+
+
+
+Programme	- Séance de créativité pour la définition de produits innovants
+- Analyse de la concurrence
+- Analyse fonctionnelle
+- Pré-conception
+- Construction d'un business model
+
+
+Contrôle des	Soutenance de projets
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+
+ AF ICo 3.5
+
+
+Bureaux d'Etudes
+
+
+Responsable(s) : Olivier DESSOMBZ
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 28 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+BE CONTROLE DYNAMIQUE DES BATIMENTS : optimisation d'un système anti-vibratoire pour bâtiments
+
+Mots-clés : Coordonnées généralisées, représentation d'État, modélisation, simulation ; incertitudes - conception - cahier des charges - optimisations - aléatoire - stochastique - intervalles
+
+
+
+Compétences	◊ Connaître les grandes méthodes de prise en comptes des incertitudes dans les systèmes mécaniques
+◊ Optimiser un système TMD (tuned mass damper)
+
+
+Contrôle des	Notation du compte-rendu de BE
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+
+ AF ICo 3.6
+
+
+Conférences
+
+
+Responsable(s) : Olivier Dessombz
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Présenter par des acteurs du monde industriel l'application des méthodes et des concepts enseignés à des cas concrets. Mots-clés : éco-conception, architecture, voitures électriques
+
+
+Programme	- Eco-conception et simulation numérique
+- Conception de voitures électriques
+- Architecture et ingénierie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+
+Métier ICs
+
+In g é nie u r Co n s u l t a n t
+
+Consulting
+
+Responsable : Laure Flandrin
+
+122h
+
+
+Présentation
+
+Le métier d'ingénieur consultant est un métier complet et varié pour une formation professionnalisante avec pour objectifs de :
+
+Se doter de la boîte à outils du consultant (outils théoriques, méthodologiques et techniques, compétences comportementales),
+Être armé pour mener avec succès une mission en tant que consultant junior.
+Échanger avec des professionnels du Conseil (différents types de cabinets, différents degrés de séniorité).
+
+Équilibre partie théorique et pratique - Variété des applications pratiques et mises en situation - Travail et évaluation systématique en équipe - Projets en équipe - Formation
+
+Département
+
+CLES
+
+Programme
+
+ICS msm 3.01: Les Fondamentaux
+ICS msm 3.02: Gestion de projet, techniques financières et techniques de communication
+
+ICS msm 3.03: Devenir Consultant
+
+Compétences visées
+
+◊ Elaborer une offre de conseil adaptée aux besoins du client
+◊ Définir et conduire un projet d'accompagnement d'un client
+◊ Organiser un projet événementiel complexe
+◊ Elaborer un business Case
+
+Débouchés
+
+Consultant en organisation et management, consultant en SSII, consultant en stratégie, auditeur, consultant en bureau d'études, ingénieur financier, auditeur interne, chef de projet ERP, ...
+
+Évaluation
+
+ICs 3.01 : 25%, ICs 3.02 : 35%, ICs 3.03 : 40%,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13
+
+ AF ICs 3.01
+
+
+Les Fondamentaux
+
+The fundamentals
+
+Responsable(s) : Laure Flandrin
+
+| Cours : 4 h | TD : 19 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Qu'est-ce que le Métier de Consultant ?
+
+Mots-clés :
+
+
+
+ProgrammeLe métier de l'auditLa vie d'un projetLes systèmes et le pilotage de l'entrepriseLa vie d'un projetLes systèmes décisionnels et le pilotage de l'entreprise◊ Appréhender le besoin du client du conseilCompétencescontrôle continuContrôle desconnaissances30% savoir, 30% savoir faire, 40% méthodologie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14
+
+ AF ICs 3.02
+
+
+Gestion de projet, techniques financières et techniques de communication
+
+Consulting Project Management
+
+Responsable(s) : Laure Flandrin
+
+| Cours : 6 h | TD : 27 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Diagnostics et méthodes de résolution de problèmes
+Gestion de projet/gestion de programme
+Balanced scorecared
+Business Case
+Conduite de changement
+Conduite de réunion
+Techniques de créativité
+Construction de messages dans les présentations écrites
+Définition et présentation de recommandations
+Outils de communication
+
+Mots-clés :
+
+
+
+Programme	Diagnostics et méthodes de résolution de problèmes
+Gestion de projet/gestion de programme
+Balanced scorecared
+Business Case
+Conduite de changement
+Conduite de réunion
+Techniques de créativité
+Construction de messages dans les présentations écrites
+Définition et présentation de recommandations
+Outils de communication
+
+
+Compétences	◊ Conduire une réunion dans une mission de conseil
+◊ Ellaborer un business case
+◊ Gérer un projet de conseil
+◊ Diagnostiquer un situation et résoudre un problème client
+
+
+
+Contrôle descontrole continuconnaissances10% savoir, 50% savoir faire, 40% méthodologie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+
+ AF ICs 3.03
+
+
+Devenir Consultant
+
+Become a Consultant.
+
+Responsable(s) : Laure Flandrin
+
+| Cours : 22 h | TD : 12 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Permettre aux étudiants d'échanger avec des professionnels et leur offrir des enseignements vivants et pragmatiques
+
+Permettre aux étudiants d'avoir un aperçu des différents domaines d'application du métier du conseil
+Comment devenir consultant ?
+
+Mises en situation Conseil
+
+Mots-clés :
+
+
+
+ProgrammePulp consultantGestion des risques et des crisesSavoir se présenterSéminaire ConsultantIntroduction à la Supply Chain
+
+Compétences	◊ Gérer des risques et des crises
+◊ Organiser un événement complexe
+◊ Savoir se présenter
+
+Contrôle desContrôle continuconnaissances40% savoir, 30% savoir faire, 30% méthodologie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
+
+Métier IEO
+
+In g é nie u r e n Ex c e l l e n c e Or g a nis a tio n n e l l e (Le a n Su p p l y Ch ain )
+
+Organizational Excellence and Lean Supply Chain
+
+Responsable : Pierre Bourgeoisat 122h
+
+
+Présentation
+
+Former des ingénieurs aptes à organiser, améliorer et piloter des systèmes de production ou de Supply Chain, en visant la performance et la satisfaction des clients par la maîtrise de la qualité, des coûts et des délais. L'objectif de cette formation est de développer les capacités de l'élève à :
+- Comprendre les enjeux stratégiques de la Supply Chain et des organisations
+- Comprendre les flux physiques, les flux d'informations, ainsi que les flux financiers
+- analyser, comprendre et réorganiser un processus de production ou de supply chain
+- acquérir les techniques de management de la Supply Chain et de la qualité en production.
+- se familiariser avec les Système d'information (APS, ERP, WMS, ...)
+- accompagner des actions d'amélioration et de progrès continu dans tous types d'activités de production de valeur et de fonctions supports
+
+- Aider les équipes opérationnelles à monter en compétences
+
+Département
+
+CLES
+
+Programme
+
+IEO msm 3.1	Base du Management des Opérations
+IEO msm 3.2	Lean Management
+IEO msm 3.3	Basiques de la SC : Prévisions, MRP, Achats, SI
+IEO msm 3.4	Logistique physique
+IEO msm 3.5	Projet Intégratif
+IEO msm 3.6	Participation
+
+Compétences visées
+
+◊ Organiser et mettre en oeuvre un processus de Supply Chain et de production
+◊ Garantir l'efficacité (réponse client) et l'efficience (performance de l'entreprise) d'un processus ou d'une orga-nisation
+
+◊ Gérer et motiver une équipe de collaborateurs afin de rendre l'organisation performante et apprenante
+◊ Piloter l'Amélioration Continue d'un processus ou d'une organisation
+
+Débouchés
+
+Responsable Amélioration Continue, Supply Chain Manager, Ingénieur ou Responsable Méthodes, Responsable Production, Ingénieur ou Responsable Qualité, Ingénieur R/D, chef de projet logistique, responsable des approvisionnements, responsable des achats, responsable planification et ordonnancement, chef de projet, consultant Logistique ou Organisation et Management
+
+Évaluation
+
+EO 3.1 : 15%, IEO 3.2 : 25%, IEO 3.3 : 25%, IEO 3.4 : 10%,IEO 3.5 : 15%, IEO 3.6 : 10%,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17
+
+ AF IEO msm 3.1
+
+
+Base du Management des Opérations
+
+Base du Management des Opérations
+
+Responsable(s) : J.P. Piacentino
+
+| Cours : 20 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 10 h | Projet : 0 h | langue du cours	|
+
+
+Objectifs de la formation
+
+
+Comprendre et maîtriser les concepts de gestion des opérations, de production.
+Achats fournisseurs, Production, Gestion des stocks, ventes.
+
+Mots-clés : Fabrication, Production, stocks,
+
+
+
+Programme	Gestion des opérations
+Management de l'innovation en Production
+
+Gestion des stocks
+
+
+Compétences	◊ Comprendre et gérer une activité de production de biens ou de services.
+◊ Comprendre la nécessité de l'implication des équipes dans l'amélioration des processus de production.
+
+◊ Comprendre la nécessité de l'implication du management dans la motivation des équipes de terrain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18
+
+ AF IEO msm 3.2
+
+
+Lean Management
+
+Lean Management
+
+Responsable(s) : J.P. Piacentino
+
+| Cours : 12 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours	|
+
+
+Objectifs de la formation
+
+
+Comprendre et appliquer les principes du Lean Management Maîtriser la résolution de problèmes
+Améliorer un processus de production, de Supply Chain
+Pérenniser les améliorations
+
+Mots-clés : Excellence Opérationnelle, Lean, Amélioration continue, Variabilité, rigidité, gaspillages, Valeur Ajoutée, Motivation, PDCA, Résolution de problème, performance
+
+
+
+Programme	Simulation Production
+Observation
+Résolution de problèmes
+Chantier d'amélioration
+Mesure de la performance
+Pérennisation
+
+
+Compétences	◊ Piloter un chantier d'amélioration
+◊ Impliquer une équipe dans l'amélioration continue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19
+
+ AF IEO msm 3.3
+
+
+Basiques de la SC : Prévisions, MRP, Achats, SI
+
+Basiques de la SC : Prévisions, MRP, Achats, SI
+
+Responsable(s) : J.P. Piacentino
+
+| Cours : 12 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 16 h | Projet : 0 h | langue du cours	|
+
+
+Objectifs de la formation
+
+
+Maîtriser les concepts de base de la Supply Chain : prévision, planification MRP, achats, Production, Lean Management,
+
+Système d'information Type ERP, SAP, Gestion des stocks
+Comprendre le rôle de la fonction Achats dans la SC
+
+Mots-clés : Supply Chain, prévision, planification MRP, achats, Production, Logistique, transport, processus, Client, Four-nisseurs, Lean, ERP, SAP, PIC, PDP, CBN, Stocks, achats approvisionnement,
+
+
+
+Programme	Introduction
+Prévisions de vente - Planification (PIC, PDP, CBN)
+Achats - Systèmes d'Information
+Initiation à SAP
+
+Panorama de la Grande distribution
+
+
+Compétences	◊ Manager les processus transverses d'une supply chain
+◊ Gérer chaque fonction de la supply chain (Achats,prévisions, planification, production, logistique, transport, ERP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+
+ AF IEO msm 3.4
+
+
+Logistique physique
+
+Logistique physique
+
+Responsable(s) : J.P. Piacentino
+
+| Cours : 5 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 5 h | Projet : 0 h | langue du cours	|
+
+
+Objectifs de la formation
+
+
+Comprendre les flux logistiques physiques de la supply chain du fournisseur du fournisseur au client du client Mots-clés : flux, logistique, transport, traçabilité, normalisation, entrepôt,
+
+
+Programme	Distribution physique versus commerciale / Manutention, type d'entrepôts et modes de gestion Schéma logistique, Traçabilité, normalisation logistique
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21
+
+ AF IEO msm 3.5
+
+
+Projet Intégratif
+
+Projet Intégratif
+
+Responsable(s) : J.P. Piacentino
+
+| Cours : 30 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours	|
+
+
+Objectifs de la formation
+
+
+Mettre en pratique les concepts théoriques du métier
+
+Mots-clés :
+
+
+
+Programme	Etudes de cas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22
+
+ AF IEO msm 3.6
+
+
+Participation
+
+Participation
+
+Responsable(s) : J.P. Piacentino
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours	|
+
+
+Objectifs de la formation
+
+
+Devenir acteur du métier
+
+Mots-clés :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23
+
+Métier IMR
+
+In g é nie u r Ma n a g eme n t d e s ris q u e s in d u s t rie l s e t e n vir o n n eme n t a u x
+
+Technological and Environmental Risks Management
+
+Responsable : Pietro SALIZZONI 122h
+
+
+Présentation
+
+Le Risque est omniprésent dans le métier de l'ingénieur, et la capacité d'analyser et maîtriser le risque est une compétence essentielle pour l'ingénieur. Les objectifs de cette Unité d'Enseignement sont de fournir aux futurs ingénieurs les connaissances nécessaires pour identifier les risques potentiels - naturels ou technologiques - auxquels ils sont exposés, et de les former aux outils nécessaires pour leur gestion, dans un contexte économique, juridique et sociétal. Dans cette formation, sont ciblés en particulier les risques liés à l'environnement - l'impact de l'environnement sur l'activité humaine, et l'impact de l'activité humaine sur l'environnement. Est exclue, donc de la formation, toute considération des risques financiers, et de l'ingénierie financière, sauf pour le rôle joué par les compagnies d'assurance dans la gestion des risques.
+
+L'ensemble des modules du métier font partie du Master Risques et Environnement (RisE) commun à l'Ecole Centrale de Lyon, la Faculté des Sciences Economique et Gestion de l'Université Lyon 2 et l'Institut de Droit de l'Environnement de l'Université Lyon 3. L'enseignement sera assuré par les enseignants-chercheurs des trois établissements, et les différents modules seront suivis également par des étudiants des deux autres établissements, inscrits en Master RisE.
+
+Département
+
+MFAE/LMFA
+
+Programme
+
+MOM : Risques Naturels et Technologiques
+Msm 3.1 Les Impact sur l'homme, l'environnement et la santé
+Msm 3.2 Evaluation et quantification des risques
+Msm 3.3 Gestion, prévention et mitigation des risques
+
+Projet : cancer et environnement
+
+Compétences visées
+
+◊ Identifier les phénomènes à l'origine des risques naturels et technologiques majeurs
+◊ Utiliser des outils de modélisation pour évaluer l'impact sur l'homme et sur l'environnent
+◊ Construire des modèles pour quantifier les incertitudes associées à leur occurrence
+◊ Proposer des outils économiques pour en quantifier les conséquences et préciser le cadre législatif pour les prévenir et les mitiger
+
+◊ Travailler et communiquer dans un contexte pluridisciplinaire.
+
+Débouchés
+
+Le métier fournira aux élèves des connaissances et des compétences nécessaires et utiles pour une activité professionnelle dans beaucoup de secteurs industriels (génie des procédés, génie civil, transports ...) ainsi que dans l'aménagement du territoire et la gestion territoriale.
+
+MOM imposé
+
+MOM 4.2 Risques Naturels et Technologiques
+
+
+Évaluation
+
+IMR 3.1 : 15%, IMR 3.2 : 30%, IMR 3.3 : 30%, IMR 3.4 : 25%
+
+
+
+
+
+
+
+
+
+
+
+24
+
+ AF IMR 3.1
+
+
+Les Impact sur l'homme, l'environnement et la santé
+
+
+Responsable(s) : Pietro SALIZZONI, Lionel SOULHAC, Béatrice FERVERS
+
+| Cours : 24 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Présenter les phénomènes à l'origine des risques naturels et technologiques majeurs. Introduire aux différents approches de modélisation pour l'évaluation des impacts environnementaux.
+
+Mots-clés :
+
+
+
+Programme	Pollution : phénoménologie et impacts (8h)
+1. Pollution de l'air
+2. Pollution des sols et des eaux
+3. Ondes acoustiques et radiations Impact sur l'homme: épidémiologie (8h)
+
+1. Expositions environnementales et risque de cancer
+2. Risques connus et risques perçus
+3. Facteurs de risque de cancer
+4. Facteurs environnementaux et risque de cancer
+5. Variations géographiques de la mortalité des cancers
+6. les études de cohorte
+
+Introduction to Human Health and Ecological Risk Assessment (6h CM + 4h BE)
+1. What is and why and when to use risk assessment for contaminated site remediation
+2. Human health risk assessment
+3. Ecological risk assessment
+4. How to use risk assessment to design remediation or risk management plans
+5. Case study
+
+
+Compétences	◊ Identifier les niveau de risques auquel est exposée une population ou une activité productive.
+◊ Maîtriser des outils de modélisation pour évaluer l'impact sur l'homme et sur l'environnent.
+
+
+Contrôle des	50% savoir faire, 50% métodologie
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25
+
+ AF IMR 3.2
+
+
+Evaluation et quantification des Risques
+
+
+Responsable(s) : Pietro SALIZZONI, Philippe POLOMÉ
+
+| Cours : 26 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 16 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Construire des modèles pour quantifier les risques et les incertitudes associées à leur occurrence. Proposer des outils économiques pour quantifier les conséquences des danger associé à des activité humaines ou de phénomènes naturels.
+
+Mots-clés :
+
+
+
+Programme	Modélisation des risques (4h CM + 12h BE)
+1. Risques, prédictibilité et chaos
+2. Probabilité, probabilité conditionnelle
+3. Théorème de Bayes
+4. Théorie statistique
+5. Génération de variable aléatoires
+6. Modélisation stochastique
+
+Economie des Risques (14h CM)
+1. Bien-être & Efficience
+* Efficience économique & marché
+* Théorèmes du bien-être : pourquoi il faut laisser faire les marchés
+* Théorème du second rang : pourquoi l'état doit intervenir
+2. Externalité
+Les outils à disposition de l'économie environnementale
+Normes, Taxes, Marchés de droit
+Arrangements locaux
+
+3. Biens publics Provision optimale
+
+Manipulation
+
+Risque et gouvernance de l'entreprise (3h CM)
+
+
+Compétences	◊ Maîtriser la modélisation des variables aléatoires
+◊ Apprendre à concevoir l'architecture d'un modèle stochastique
+◊ Aptitude à s'exprimer et comprendre un langage économique précis
+◊ Capacité à intégrer les valeurs non-marchandes de l'environnement dans une analyse coût-bénéfice
+
+
+
+
+Contrôle des	50% savoir, 25% savoir faire, 25% métodologie
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26
+
+ AF IMR 3.3
+
+
+Gestion, prévention et mitigation des risques
+
+
+Responsable(s) : M. MICHALLET, F. MARTINEZ
+
+| Cours : 26 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Préciser le cadre législatif pour prévenir les risques et les mitiger.
+Analyser les processus psychologiques qui accompagnent les prises de decisions
+
+Mots-clés :
+
+
+
+Programme	Droit et normes (17h)
+1. Les sources de la réglementation environnementale (en France)
+2. Les sources de la réglementation environnementale (au-delà de la France)
+3. Les principes et les acteurs du droit de l'environnement
+4. Les installations classées pour la protection de l'environnement (ICPE)
+5. Le droit de l'eau
+6. Le droit de l'air
+7. Le droit des déchets
+8. L'évaluation environnementale
+9. Le droit de la biodiversité
+
+Psychologie, Sociologie, Perception et communication (15h)
+1. Théorie des perspectives (Prospect Theory, Daniel Kahneman et Amos Tversky)
+2. Risque et processus décisionnel.
+3. Les chausses-trappes de la décision
+
+
+Compétences	◊ Comprendre la hiérarchie des normes et leur articulation
+◊ Connaître les grands principes et les réglementations principales du droit de l'environnement
+
+◊ Lier la réglementation environnementale aux situations concrètes vécues en entreprise
+
+
+Contrôle des	50% savoir, 25% savoir faire, 25% métodologie
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27
+
+ AF IMR 3.4
+
+
+Projet IMR
+
+
+Responsable(s) : Béatrice FERVERS
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 50 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Aborder la gestion d'un projet de recherche visant à la détermination des impacts de la pollution environnementale sur la santé de l'homme. Comprendre les techniques de communication et vulgarisations des résultats des études épidémiologiques.
+
+Mots-clés :
+
+
+
+Programme	Le travail en autonomie sera encadré par des intervenants du Centre Léon Bérard de Lyon autour du thème cancer et environnement. Ce travail sera caractérisé par une approche pluridisciplinaire, incluant des aspects juridiques, économiques et techniques.
+Exemples de sujets proposés les années précédentes :
+1. Pesticides domestiques et leucémie chez l'enfant
+2. Exposition professionnelle chez les peintres et cancer du poumon
+3. Exposition professionnelle à l'amiante et cancer de l'ovaire
+4. Exposition au perchloréthylène et cancer de la vessie
+5. Exposition aux particules en air extérieur et cancer du poumon
+6. Exposition au trafic et cancer du poumon
+
+
+
+
+Contrôle des	50% savoir faire, 50% métodologie
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28
+
+Métier IRD
+
+In g é nie u r Re c h e r c h e In n o v a tio n e t Dé v e l o p p eme n t
+
+Research and Development
+
+Responsable : Michel ROGER
+
+122h
+
+
+Présentation
+
+L'objectif de cette formation est de fournir aux étudiants les bases du métier d'Ingénieur en Recherche, Innovation et Développement, en conjugaison avec les grands enjeux actuels (ressources en eau et en énergies, gestion des flux d'information, pays émergents...). Les étudiants seront initiés à la conduite de projets de recherche par le biais d'études de cas, ainsi qu'aux techniques de créativité, avec une sensibilisation au contexte de la recherche actuelle et de ses structures (nationales et internationales), et avec une interrogation responsable sur les notions de progrès et d'innovation.
+
+La partie spécifique s'appuie sur trois modules regroupant plusieurs cours (Innovation et compétitivité de l'entreprise, Gestion du projet de recherche, Créativité, Philosophie) et des conférences.Les étudiants sont aussi mis en situation de construire une réponse à un appel d'offre de projet de recherche financé par la CE.
+
+Les modules IRD 3.1 et IRD 3.2 sont essentiels pour la spécificité du métier R&D, mais un étudiant inscrit en Master recherche peut remplacer le module spécifique IRD 3.3 par un module de Master non déjà compris dans le reste de sa scolarité à l'ECL.
+
+Département
+
+MFAE/LMFA
+
+Programme
+
+IRD 3.1 Gestion du projet de recherche
+IRD 3.2 Innovation et Créativité
+
+IRD 3.3 Cycle de conférences et Philosophie (peut être remplacé par un cours de master).
+
+Compétences visées
+
+◊ Formuler un problème de R&D/ innovation
+◊ Etre capable d'être créatif dans la recherche d'une solution en R&D
+◊ Mettre en oeuvre une dynamique de recherche et son financement dans le contexte actuel.
+◊ Etre capable de mener une réflexion sur la portée sociétale de sa recherche.
+
+Débouchés
+
+Recherche et développement dans des PME ou des grands groupes industriels, Recherche académique (Enseignant-chercheur), centres de recherche publique : CNRS, INRETS, INSERM...
+
+MOM imposé
+
+MOM imposé 2.2 : Intelligence économique et protection de l'information
+
+Évaluation
+
+IRD 3.1 40%, IRD 3.2 30%, IRD 3.3 / cours de master : 30%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29
+
+ AF IRD 3.1
+
+
+Gestion du Projet de recherche et Interdisciplinarité
+
+Research-Project Management
+
+Responsable(s) : Mathieu CREYSSELS
+
+| Cours : 10 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 21 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+L'objectif de ce cours est de former les étudiants à la gestion du projet de recherche et à ses spécificités (Go/ No Go). Après quelques cours spécifiques, cela se fait par une mise en situation réelle sur une étude de cas qui justifie un besoin d'innovation (évaluation d'une modification/rupture technologique,...), dans un contexte souvent pluridisciplinaire, à la fois au niveau du sujet mais aussi des méthodes. Les étudiants doivent apporter des réponses quantifiées au problème posé.
+
+Mots-clés : Innovation, transversalité
+
+
+
+ProgrammeCours sur la gestion de projet et les spécificités des projets R&DSéances de BE : Étude de cas longue par groupe de 5/6 élèvesMini-colloque : présentation des études de cas.◊ Etre capable de conduire un projet de R&D.Compétences◊ Savoir mettre oeuvre les méthodes d'innovation/créativité.◊ Savoir quantifier une réponse (gain technique, coût de mise en oeuvre,...)◊ Etre capable de défendre un projet d'innovation.Objectifs : Étude de cas : projet de R&DTravail enautonomieMéthodes : Séances de BE encadrées coordonnées avec un travail personnel.Restitution écrite et orale des études de cas (70%), microtest sur le cours (1h,30%)Contrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30
+
+ AF IRD 3.2
+
+
+Créativité, ergonomie, design, innovation, compétitivité
+
+Innovative Design and Creativity
+
+Responsable(s) : Damien CONSTANT, Michel ROGER
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 11 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Partant de la notion de valeurs dans l'entreprise, et du positionnement de l'entreprise dans le contexte socio-économique, la nécessité d'innovation en entreprise est expliquée ; le positionnement de la Recherche et Développement dans le cadre d'une stratégie d'innovation est souligné. L'accent est mis sur le financement de l'innovation. Les étudiants seront sensibilisés aux processus de créativité et mis en situation de prendre conscience des blocages psychologiques sous-jacents. Des techniques de créativité seront abordées, et en particulier une initiation à TRIZ. Quelques notions de design industriel sont aussi abordées avec comme objectif de fournir aux étudiants les moyens de comprendre la problématique du design d'un objet technique.
+
+Mots-clés : méthode TRIZ, design, innovation
+
+
+
+Programme	Partie 1 :
+1. L'entreprise et la valeur, le concept d 'Innovation et les moyens de la développer.
+2. La politique et les moyens pour innover
+3. Un processus méthodique pour parvenir à une recherche ciblée
+
+Partie 2 :
+1. Différentes approches de la créativité. Méthode de résolution de problème (méthode TRIZ) : concepts et outils.
+
+2. Design industriel : Problématique, champs d'intervention et outils.
+3. Théories de la conception (C&K)
+
+Compétences◊ Modéliser un problème au sein d'un système technique : Idéalités, contradictions techniques.◊ Proposer des solutions innovantes en se basant sur des principes de TRIZ.◊ Analyser une proposition de design.◊ Etablir un business plan à partir d'une étude de cas.Objectifs : Etude de casTravail enautonomieMéthodes : Travail par groupe de 3 élèves, restitution orale (anglais encouragé).Altshuller G. Et soudain apparut l'inventeur : les idées de TRIZ. Seredinski (Avraam), 2016.BibliographieÉtude de cas sur la partie compétitivité.Contrôle desconnaissancesExamen écrit sur la partie Créativité-Design.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
+
+ AF IRD 3.3
+
+
+Structures de Recherche Nationales et Internationales - Philosophie, Sciences et Société
+
+Philosophy, Sciences and Society
+
+Responsable(s) : Laure FLANDRIN, Michel ROGER
+
+| Cours : 6 h | TD : 6 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Aujourd'hui l'Innovation, la Recherche et le Développement constituent les injonctions des métiers de l'ingénierie. Les théories de l'innovation décrivent les conditions de l'innovation et caractérisent des types d'innovation par incrémentation ou rupture. Mais pourquoi faut-il innover? L'histoire longue de la Modernité montre comment s'est construite notre justification de l'innovation à partir d'une théorie du progrès, puis du développement. Elle souligne particulièrement le rôle ambigu des sciences et des techniques, mais aussi des scientifiques et des ingénieurs, dans cette course à l'innovation.
+
+Ce cours offre aussi un cycle de conférences de culture générale pour l'ingénieur R&D.
+
+Mots-clés : Innovation, Développement, Valeur, Développement Durable, Environnement, Principe de Précaution, Mon-dialisation, Ingénieur, Sciences, Techniques, Technosciences
+
+
+
+Programme	3 cours magistraux sur les grands thèmes : Innovation et Progrès, Sciences et techniques, Développement
+3 TD sous forme de controverse sur le principe de précaution, sur la gestation pour autrui, sur la mondialisation
+
+2 conférences 1°sur les outils économiques de la décision publique, 2° sur le développement durable.
+
+Un cycle de conférences sur les moyens de financements de la recherche et les grands enjeux en matière de ressources d'énergie.
+
+
+Compétences	◊ Développer un esprit critique sur l'éthique du métier d'ingénieur R&D,
+◊ Appréhender l'historique et anthropologique des enjeux de l'innovation,
+◊ Etre capable de débattre sur les controverses sociotechniques
+◊ Etre capable d'identifier les grandes structures de recherches nationales et européennes.
+
+
+
+Bibliographie	Bourg. Du risque à la menace. Penser la catastrophe. PUF, 2013.
+
+Callon, Lacousme, Barthe. Agir dans un monde incertain. Seuil, 2001.
+
+Feenberg. Questioning technology. Routledge, 1999.
+
+
+
+Contrôle des Note de synthèse à partir d'un dossier sur une thématique actuelle de l'innovation, Compte rendu connaissances sur le cycle de conférences.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32
+
+Métier ISBD
+
+In g é nie u r St a r t u p & Bu sin e s s De v e l o p e r
+
+Startup and Business Developer
+
+Responsable : Sylvie Mira Bonnardel 122h
+
+
+Présentation
+
+Le métier ingénieur Startup & Busines Developer s'adresse à tous les élèves souhaitent créer de la valeur par le développement de nouvelles activités, que ce soit dans la logique entrepreneuriale de création d'une startup ou dans la logique intrapreneuriale de développement d'une activité dans une entreprise. Le programme s'appuie sur les méthodologies design thinking, pilotage de projets innovants et lean startup.
+
+Le programme est structuré autour de 2 axes différenciés : la démarche entrepreneuriale et le business development avec des cours spécifiques à chacun.
+
+Département
+
+CLES
+
+Programme
+
+Design Thinking : 20 h
+Business model : 18 h
+Marchés et Réseau d'acteurs : 18 h
+Reporting financier : 18 h
+Négociation et communication : 18 h
+Projet de création d'activité (PCA) : 30 h
+
+Compétences visées
+
+◊ Savoir imaginer des projets innovant, en rupture, combinant les possibles technologiques à la réalité écono-mique et sociale
+
+◊ Savoir piloter un projet innovant en intégrant le reporting financier
+◊ Savoir mobiliser et conduire des équipes
+◊ Savoir négocier avec ses clients et pitcher devant ses investisseurs
+◊ Savoir trouver et interpréter les données pertinentes pour consolider le projet
+
+Débouchés
+
+Entrepreneurs, Ingénieur d'affaires, Responsable Business Unit, Responsable Innovation, Responsable Clients Grands Comptes, Chef de produits, Chef de projet, Consultant Stratégie, Marketing ou Management de l'Innovation
+
+MOM imposé
+
+aucun
+
+Évaluation
+
+Business Plan du PCA et pitch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33
+
+ AF ISBD 3.1
+
+
+Design Thinking
+
+Design Thinking
+
+Responsable(s) : Sébastien POUSSIELGUE
+
+| Cours : 3 h | TD : 17 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Le design thinking considère l'innovation et son management avec une approche globale, multidisciplinaire faisant le pont entre la pensée analytique et la pensée intuitive. La méthodologie design thinking met en œuvre un processus de créativité impliquant des retours de l'utilisateur et des usages. . Les élèves apprendront à situer un problème dans un contexte global (économique, technique, sociologique...). et à transformer une idée en activité.
+
+Mots-clés : Créativité, design thinking. codesign, usages
+
+
+
+ProgrammeDesign ou design thinking : discipline, métiers et historique.Comment faire émerger de nouvelles idéesAnalyser la pertinence des idées dans un contexte multi facteurs (technologie, economie, société,...)Comment transformer les idées en activités◊ Envisager un problème de manière globale.Compétences◊ Travailler de manière créative et transversale.◊ Elargir el champ des possbles.Objectifs : Présenter des idées en ruptureTravail enautonomieMéthodes : Travail en groupe sur une résolution de problème.Tim Brown. L'Esprit design: Comment le design thinking change l'entreprise et la stratégie. PearsonBibliographieEducation, 2014.Martin Roger. Design of Business: Why Design Thinking is the Next Competitive Advantage.Harvard Business School Press, 2009.Bill Buxton. Sketching User Experiences: Getting the Design Right and the Right Design.. MorganKaufmann Publisher, 2007.Projet de création d'activitéContrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34
+
+ AF ISBD 3.2
+
+
+Business model
+
+Business model
+
+Responsable(s) : Sylvie MIRA BONNARDEL
+
+| Cours : 3 h | TD : 17 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Définir comment transformer une idée en création de valeur.
+Savoir expliciter quelle offre va apporter à un segment de clients déterminé une valeur pour laquelle ils seront prêts à payer.
+
+Savoir organiser les processus et les partenaires permettant de produire l'offre Analyser comment les flux de revenus peuvent équilibrer les flux de dépenses.
+
+Mots-clés : business model canvas
+
+
+
+ProgrammeDéfinition du business modelComment utiliser le business model canvas pour innoverComment utiliser le business model canvas pour la démarche entrepreneuriale◊ Savoir définir une proposition de valeur adaptée à un segment de marchéCompétences◊ Savoir construire les process de relation clients◊ Etablir les projections de revenus and balance with costs◊ Oraniser les process de supply chain globauxObjectifs : Construire le modèle économique de l'activitéTravail enautonomieMéthodes : Travail en groupeAlexander Osteralder. Business Model nouvelle génération : Un guide pour visionnaires,Bibliographierévolutionnaires et challengers. Pearson, 2011.Alexander Osteralder. Value Proposition Design: How to Create Products and Services CustomersWant. Wiley, 2014.Philippe Silberzahn. Effectuation : Les principes de l'entrepreneuriat pour tous. Pearson, 2014.Projet de création d'activitéContrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35
+
+ AF ISBD 3.3
+
+
+Marchés et Réseau d'acteurs
+
+Markets and stakeholders
+
+Responsable(s) : Marie GOYON
+
+| Cours : 3 h | TD : 17 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Identifier les acteurs de l'écosystème et leurs interactions
+Comprendre la dynamique et la structure des marchés
+Repérer et comprendre les variables d'action de l'environnement
+Décrypter les stratégies des acteurs
+
+Identifier les comportements appropriés pour la réussite du projet de création
+
+Mots-clés : Marketing, avantage concurrentiel, parties prenantes
+
+
+
+ProgrammeRéseau d'acteurs : identifier les acteurs de l'écosystème et leurs interactions, construire un réseauet l'utiliser.Comprendre son marché : clients, concurrents, avantage concurrentiel et stratégie marketingConduire une création d'activité : vision stratégique, leadership et management de projet.◊ Etude de marchéCompétences◊ Stratégie marketing◊ Capacité à mobiliser les variables d'action de l'écosystèmeObjectifs : Cartographier un ecosystèmeTravail enautonomieMéthodes : Travail en groupeDalle JM, Curien N, Callon M, Cohendet P.. Réseau et coordination. Economia, 1999.BibliographieRachel Vanier. Ecosystème. Intervalles, 2017.Dossier Projet de creation d'activitéContrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36
+
+Enseignements semestre 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOM - Modules ouverts métiers 2019-2020
+
+
+ AF MOM 1.1
+
+
+Systèmes d'ingénierie
+
+Engineering Systems
+
+Responsable(s) : Patrick SERRAFERO
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours   |
+
+
+Objectifs de la formation
+
+
+Le management de la conception des produits matériels complexes - souvent mécatroniques - nécessite la mise en œuvre de procédures spécifiques basées sur une vision systémique. Ces procédures utilisent des outils modernes de simulation, de communication et d'aide à la décision et répondent à plusieurs impératifs (robustesse, délai, coût) que doit respecter le couple Produit/Process. Le cours présente les concepts de base et les principaux outils d'analyse utilisés via des exemples concrets (automobile, ferroviaire, aéronautique, génie civil, biens d'équipement...). Bien que centré sur la phase de conception, il introduit les liens entre les autres phases du projet: stratégie, marketing et commercialisation, production et maintenance, gestion des ressources humaines et management.
+
+Mots-clés : Système mécatronique complexe, spécification, conception, optimisation, innovation, retour d'expérience, maquette numérique, CAO, FAO, PLM, KLM, risques, coûts, évaluation, démarche qualité, Ingénierie Système.
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+Travail en autonomie
+
+
+
+Avec l'aide de plusieurs exemples issus du monde industriel, l'enseignement mettra en avant la
+vision produit et les procédés de conception.
+Vision produit/process :
+Analyse client - Analyse fonctionnelle - Définition des architectures - Configurations - Systèmes d'information produit - Organisation des modèles - Retour d'expérience et qualité - Congruence. Processus de conception :
+
+Vision du produit et cycle en V - Ingénieries concurrentes - Capitalisation des règles "métier" - Évaluation des coûts et analyse de risque - Prise en compte du process de fabrication - Eco-conception.
+
+◊ Comprendre l'évolution des systèmes techniques du 21ème siècle vers la congruence
+◊ Distinguer les structures fonctionnelles et organiques d'un système mécatronique innovant
+◊ Concevoir un système mécatronique innovant selon la démarche du cycle en V
+
+Objectifs : Rédiger une monographie système en binôme ou en trinôme.
+Méthodes : Appliquer les concepts de la méthodologie d'Ingénierie Système à la rédaction de la monographie système.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38
+
+ AF MOM 1.2
+
+
+Management de la qualité
+
+Quality Management
+
+Responsable(s) : Pierre Bourgeoisat
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours   |
+
+
+Objectifs de la formation
+
+
+Comprendre les enjeux de la qualité dans l'entreprise.
+Intégrer la démarche de qualité et/ou de progrès continu dans le cursus professionnel.
+
+Acquérir les bases des méthodes et des outils utilisés dans le domaine de la qualité, pour en faciliter : leur choix, leur appropriation ou le développement de leur utilisation.
+
+Mots-clés : Gestion, qualité, quality, management, assurance qualité, processus, système qualité, politique qualité, audit, résolution de problèmes, Amélioration Continue, MSP, SPC, maitrise, statistique, 5S
+
+
+
+Programme	Historique, Concepts et vocabulaire. La qualité en Entreprise Management et Coûts de la qualité et coûts de la Non Qualité
+Les normes ISO 9000 et 14000 - Organismes certificateurs et accréditeurs
+Déploiement d'une démarche Qualité dans la stratégie d'une entreprise
+Audit Qualité Interne et externe.
+Amélioration de la qualité, Résolution de problèmes, introduction au Lean Management Les indicateurs de performance
+Outils standard (5S, 5 pourquoi, Brainstorming, etc.)
+Outils spécifiques (AMDEC, Plan d'expérience, etc.)
+Outils statistiques MSP (SPC)
+Exemple d'outils spécifique : Analyse de la valeur
+
+
+Compétences	◊ Améliorer tout type de processus.
+◊ Intégrer la démarche qualité au quotidien.
+◊ Comprendre les enjeux de la Qualité en entreprise.
+
+
+Bibliographie	M. Pillet & D. Duret. Qualité en production. Editions d'Organisation, 1997.
+
+Jean-Marie Gogue. Management de la qualité. 2001.
+
+Bernard Froma. Du manuel qualité au manuel de management : l'outil stratégique. 2007.
+
+
+Contrôle desQCMconnaissances100% savoir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+39
+
+ AF MOM 2.1
+
+
+Management de l'entreprise industrielle
+
+Industrial Enterprises management
+
+Responsable(s) : Pierre BOURGEOISAT
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours   |
+
+
+Objectifs de la formation
+
+
+Découvrir les modèles d'entreprises industrielles et leur évolution
+Comprendre les organisations industrielles, leurs enjeux et leurs aspects : opérationnels, managériaux et humains.
+
+Découvrir la gestion de production : la chaîne de valeur, les fonctions supports associées.
+
+Mots-clés : Industrie, productions, management des opérations, management, qualité, organisation, chaîne de valeur, valeur ajoutée, fonctions supports, ERP, planification, prévisions, MRP, supply chain, stocks, flux poussés, flux tirés, système d'information.
+
+
+
+Programme	Organisations et structures
+Management de l'entreprise
+Supply Chain :
+- Achats (enjeux et organisation)
+- Prévisions (demande, marché)
+- Planification (MRP, articles, besoins)
+- Gestion de stocks (Utilité et limites)
+- Gestion des ateliers (nécessité et enjeux de productivité)
+Documents de l'entreprise (gammes, nomenclature, qualité, procédures, etc.)
+Qualité et amélioration des processus
+
+
+Compétences	◊ Comprendre les organisations industrielles dans lesquelles l'élève travaillera.
+◊ Identifier le rôle de chaque fonction de l'entreprise.
+◊ Se situer dans la chaîne de valeur de l'entreprise.
+
+
+Bibliographie	Alain Courtois, Maurice Pillet, Chantal Martin Bon. Gestion de production. Eyrolles.
+
+Georges Javel. Organisation et Gestion de la production. Dunod.
+
+rançois Blondel. Gestion de la production.
+
+
+Contrôle desQCMconnaissances100 % savoir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40
+
+ AF MOM 2.2
+
+
+Intelligence économique et propriété industrielle
+
+Business intelligence and industrial property
+
+Responsable(s) : Sylvie MIRA BONNARDEL
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours   |
+
+
+Objectifs de la formation
+
+
+Sensibiliser les ingénieurs à la nécessité pour les entreprises de collecter, traiter, diffuser les informations pertinentes par différentes formes de veille économique, à la prise en compte stratégique de protections des connaissances et des savoir faire. Comprendre les mécanismes de la propriété industrielle (brevet, marques, modèles et droits d'auteur)
+
+Mots-clés : Système d'information, veille, brevet, marques, modèles, droit du logiciel
+
+
+
+ProgrammeLa Propriété industrielleL' l'intelligence économiqueLa sécurité des systèmes d'informationDroit du logiciel◊ Savoir comment déposer un brevet, une marque, un modèle.Compétences◊ Comprendre les enjeux de la protection des informations et des SI.◊ Pouvoir identifier les informations stratégiques, les recueillir, les traiter.Objectifs : Travail sur études de cas pour mettre en œuvre analyse et décision de protection des savoirs.Travail enautonomieMéthodes : Travail en groupe sur études de casLorho T. Profession caméléon - De la DGSE à l'intelligence économique. FAYARD, 2015.BibliographieHarbulot C. Manuel d'intelligence économique. PUF, 2015.Pollaud-Dulian F. La propriété industrielle - Propriété intellectuelle. ECONOMICA, 2010.Etude de casContrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+41
+
+ AF MOM 3.1
+
+
+Droit de l'entreprise
+
+Business Law
+
+Responsable(s) : Sophie DEL PUPPO, Sylvie MIRA BONNARDEL
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours   |
+
+
+Objectifs de la formation
+
+
+Cet enseignement doit fournir aux futurs ingénieurs les notions fondamentales de l'environnement juridique de l'entreprise et de son fonctionnement.
+
+Mots-clés : Droit social, droit des contrats
+
+
+
+ProgrammeDroit des affairesDroit fiscalDroit social
+
+Compétences	◊ Comprendre l'environnement juridique de l'entreprise : institutions et organisation judiciaires.
+◊ Comprendre notions fondamentales du droit des contrats et de la responsabilité contractuelle.
+◊ Etre en mesure de reperer les points juridiques sensibles d'un contrat.
+
+Travail enObjectifs : Être en mesure de comprendre les enjeux juridiques d'une situation et identifier lesautonomiedécisions pertinentes.Méthodes : Étude de cas pratiques en groupeBraud A. L'essentiel du droit commercial et des affaires. GALINEAU, 2014.BibliographieGrandguillot D. Droit social. GALINEAU, 2014.Papin R. La création d'entreprise : Création, reprise, développement. DUNOD, 2015.Etude de casContrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42
+
+ AF MOM 3.2
+
+
+Management des ressources humaines et des organisations
+
+
+Responsable(s) : Philippe THIMONIER
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours   |
+
+
+Objectifs de la formation
+
+
+Comprendre les principaux enjeux de la gestion des ressources humaines au sein des organisations
+Connaître les principaux processus de la gestion des ressources humaines
+
+Appréhender les compétences de base du management d'une équipe
+
+Mots-clés : Management, Motivation, Performance ; Recrutement,Formation,Évaluation,Mobilité, GPEC, Rémunération, Dialogue social, Changement, Risques psycho-sociaux ; Écouter, Communiquer, Déléguer, Gérer un conflit, Rendre compte
+
+
+
+Programme	Le management des ressources humaines : principe de responsabilité partagée La dimension stratégique
+La dimension pilotage : les grands processus de la gestion des ressources humaines
+La dimension hiérarchique : compétences de base pour manager une équipe
+Deux cas particuliers :
+L'accompagnement au changement
+Le risque psycho-social
+
+
+Compétences	◊ Comprendre l'importance de la dimension humaine dans la réussite d'un projet
+◊ Connaître les différents processus de gestion des ressources humaines et être capable d'analyser leur impact sur la motivation et la performance
+
+◊ Mettre en oeuvre les compétences de base d'un responsable d'équipe : écouter, communiquer, déléguer, rendre compte, évaluer ...
+
+◊ Repérer les principaux risques psycho-sociaux
+
+
+Bibliographie	Groupement d'auteurs sous la direction de C.H. BES. RH au quotidien. Dunod, 2015.
+
+Eline NICOLAS. Gestion des ressources humaines. Dunod, 2014.
+
+
+
+Contrôle des	Examen (QCM + étude de cas) + participation au cours (10%)
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43
+
+ AF MOM 4.2
+
+
+Risques Naturels
+
+Environmental Hazards
+
+Responsable(s) : Richard PERKINS, Pietro SALIZZONI
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours   |
+
+
+Objectifs de la formation
+
+
+Entre 1994 et 2013 les catastrophes naturelles telles que les inondations, les sécheresses, les cyclones, les tsunamis, les séismes et les éruptions volcaniques ont emporté plus que 600 000 vies, ont touché plus que 3 milliards de personnes et ont coûté plus que $2 billions en pertes économiques. Des évènements naturels sont souvent à l'origine des accidents industriels comme, par exemple, le tsunami qui a provoqué l'accident de la centrale nucléaire à Fukushima. Et le changement climatique risque d'augmenter la fréquence et l'intensité des évènements extrêmes
+
+L'objectif de ce cours est donc de présenter les risques naturels et les techniques de prévention, de prévision et de protection pour chaque type de risque.
+
+Mots-clés : Risques naturels, hazard, aléas, catastrophe, prévention, sécurité, tectonique, séisme, volcan, tsunami, glissement de terrain, lahar, avalanche, crue, barrage, cyclone
+
+
+
+ProgrammeDéfinition du risqueLes types d'aléa, leur distribution dans le monde, leurs conséquences - les notions de fréquence,d'intensité et de vulnérabilitéLes risques naturelsLes risques tectoniques (volcans, séismes, glissements de terrain, avalanches...)Les risques météorologiques et hydrologiques (crues, inondations, orages, tsunamis,effondrement barrage...)Les risques technologiques et les différentes approches utilisées pour la modélisation du risquesont abordées dans les Modules Spécifiques du Métier Ingénieur Management des RisquesIndustriels et Environnementaux.Ce cours est un module du Master Risque et Environnement.
+
+Compétences	◊ Identifier les différents dangers naturels auxquels un site est exposé.
+◊ Connaître les ordres de grandeur associées aux différents évènements.
+◊ Appréhender les éléments principaux de la législation française sur les risques naturels et technologiques.
+
+◊ Définir les différents composants d'un Plan de Prévention des Risques (Naturels, Technologiques...)
+
+
+Bibliographie	SMITH, K. & PETLEY, D.N. Environmental Hazards: Assessing Risk and Reducing Disaster.
+Routledge, 2009.
+
+CHILES, J.R. Inviting Disaster: Lessons from the Edge of Technology. Harper, 2002.
+
+BEDFORD, T & COOKE, R. Probabilistic Risk Analysis: Foundations and Methods. Cambridge Univ.
+Press, 2001.
+
+
+Contrôle des	Savoir (70%): QCM sur chaque cours Savoir-faire (30%): Etude bibliographique
+
+connaissances
+
+
+
+
+
+
+
+
+
+44
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36 av. Guy de Collongue
+
+69134 Écully cedex
+
+T + 33 (0)4 72 18 60 00
+
+www.ec-lyon.fr
+
+Membre deSIRET 196 901 870 000 10 - APE 8542Z
+
+45

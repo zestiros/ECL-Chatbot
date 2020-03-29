@@ -1,0 +1,68 @@
+
+ AF ELC D-1
+
+
+Théorie des probabilités et introduction aux processus aléatoires
+
+Probability Theory and Introduction to Random Processes
+
+Responsable(s) : Elisabeth MIRONESCU, Christophette Blanchet
+
+| Cours : 32 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le cours pourra être dispensé en anglais si besoin.
+Ce cours est le complément incontournable des cours de mathématiques du semestre 5 pour les élèves désirant s'orienter vers des formations à forte composante mathématique en France ou à l'étranger. On y approfondit de façon rigoureuse les notions de théorie de la mesure et d'analyse à la base de l'étude des équations aux dérivées partielles et de la théorie des probabilités. La théorie des probabilités est présentée dans son cadre axiomatique complet et le calcul des probabilités dans toute sa généralité. Les théorèmes majeurs sont vus dans leur cadre fondamental naturel. De nouvelles notions enrichissent la modélisation vue en S5 et éventuellement en S7 : espérance conditionnelle et martingales.
+
+Mots-clés : Théorie de la mesure et de l'intégration, fonction caractéristique, vecteurs gaussiens, espérance conditionnelle, temps d'arrêt, martingales en temps discret.
+
+
+Programme	Espaces probabilisé. Variables et vecteurs aléatoires.
+Calcul sur les moments de variables aléatoires.
+Suites aléatoires
+Conditionnement, martingales et temps d'arrêt
+
+
+Compétences	◊ modéliser des phénomènes aléatoire dépendant du temps (en discret)
+◊ manipuler les outils avancés du calcul des probabilités
+◊ s'approprier les notions nécessaire pour aborder le calcul stochastique (3A, M2)
+◊ comprendre les théorèmes importants de probabilités et statistique (loi 0-1 de Kolmogorov,
+TLC, Cochran, Radon-Nikodym)
+
+
+Bibliographie	Valérie Girardin et Nikolaos Limnios. Probabilités en vue des applications, tomes I et II,. Vuibert, 2008.
+
+William Feller. An Introduction to Probability Theory and Its Applications, 3rd edition. Willey, 1971.
+
+
+
+Contrôle des	Contrôle continu (cc) et test de 2H.
+
+connaissances	Note Savoir=Max (note test, 1/3*note moyenne cc+2/3* note Test)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

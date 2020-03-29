@@ -1,0 +1,90 @@
+
+ AF ELC A-11
+
+
+Programmation des interfaces graphiques en C++
+
+Gui Programming in C++
+
+Responsable(s) : Stéphane DERRODE, Emmanuel DELLANDREA
+
+| Cours : 6 h | TD : 4 h | TP : 14 h | Autonomie : 8 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif est d'apporter aux étudiants des compétences avancées en programmation orientée objet (POO), par le biais de la programmation des interfaces graphiques. Ce contexte permettra
+- d'aborder de nouveaux concepts, comme la programmation évènementielle ou les patrons de conception ;
+- d'approfondir les notions d'héritage, de polymorphisme, de classe abstraite ou de gestion des exceptions;
+- d'introduire des méthodes et outils de " bonnes pratiques " de développement, comme la programmation par test, la gestion de version des codes ou la documentation des sources.
+
+L'enseignement se ferra pour l'essentiel sous forme de tutoriaux permettant à l'élève d'accumuler progressivement, par la pratique, les savoirs et savoir faire de la programmation des interfaces graphiques.
+
+Mots-clés : Programmation orientée objet, Interfaces graphiques, Design Pattern (patron de conception), Programmation par tests, C++, QT.
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+- Cours #1 (2h) : Les spécificités de la programmation en C
+- Cours #2 (2h) : C++ avancé et programmation évènementielle.
+- Cours #3 (2h) : Interface graphique avec QT.
+
+- TD #1 (2h) : Présentation en séance des design pattern par binômes (#1)
+- TD #2 (2h) : Présentation en séance des design pattern par binômes (#2)
+
+- TP #1 (4h) : QtDesigner.
+- TP #2 (4h) : Patrons de conception.
+- TP #3 (2h) : Git et Doxygen.
+- TP #4 (4h) : Gestion des exceptions et programmation par tests.
+
+◊ Créer un programme reposant sur une interface graphique (avec QT)
+◊ Identifier et implémenter le patron de conception adéquat lorsqu'il se présente
+◊ Concevoir des programmes propres, robustes et documentés
+◊ Travailler en groupe sur le même projet, grace à une plateforme collaborative type Github
+
+Objectifs : Le travail en autonomie consistera à réaliser, par binôme, une interface graphique pour un mini-jeu (morpion, 2048, ...)
+
+Méthodes : Chaque binôme travaillera sur une plateforme de développement collaborative (type Github), permettant le partage de sources.
+
+
+Bibliographie	Courtois, Jonathan. Créer des applications avec QT 5 - Les essentiels. D-Booker Editions, 2013.
+
+Erich Gamma, Richard Helm, Ralph Johnson, John M.. Design Patterns: Elements of Reusable Object-Oriented Software. http://www.uml.org.cn/c%2B%2B/pdf/DesignPatterns.p, 1997.
+
+
+Contrôle des Note de mini-projet en autonomie par binôme (savoir-faire) = 50% connaissances Examen classique (savoir) = 50%
+
+
+
+

@@ -1,0 +1,72 @@
+
+ AF GM tc 1
+
+
+Technologie - Mécanique Générale et Analytique - Résistance des Matériaux
+
+Technology - Mechanics - Strength of Materials
+
+Responsable(s) : Damien Constant, Hélène Magoariec, Joël Perret Liaudet, Emmanuel Rigaud
+
+| Cours : 18 h | TD : 22 h | TP : 0 h | Autonomie : 6 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce module a pour objectif d'aborder la conception, le dimensionnement et la réalisation d'un système mécanique, ainsi que l'étude de son fonctionnement.
+
+La 1ère partie permet de comprendre l'architecture d'un système mécanique à partir de la description des liaisons entre les pièces, de définir la géométrie tolérancée des surfaces fonctionnelles, et de présenter les moyens de les réaliser. La 2ème partie permet d'établir les équations du mouvement d'un système de solides, à partir d'une approche newtonienne ou d'une approche lagrangienne basée sur le principe des puissances virtuelles.
+
+La 3ème partie permet de dimensionner les structures déformables élancées en contraintes et en déplacements, à partir des efforts intérieurs induits par le chargement et les réactions aux liaisons.
+
+Mots-clés : Efforts et liaisons, Cotation fonctionnelle, Mécanique analytique, Principe des puissances virtuelles, Équa-tions de Lagrange,Théorie des Poutres, Dimensionnement en contraintes et déplacements
+
+
+Programme	Technologie Mécanique
+- Efforts et liaisons dans les systèmes mécaniques
+- Spécifications fonctionnelles et définition de produit
+- Obtention de pièces par usinage par outils coupants Mécanique générale et analytique des systèmes de corps rigides
+- Description du mouvement, principe fondamental, principe des puissances virtuelles (PPV), hypothèses du modèle
+
+- PPV pour un solide unique, définition des différents torseurs, théorème de l'énergie cinétique
+- PPV pour un système de solides, schématisation des liaisons, équations de Lagrange
+- Limites du modèle
+Résistance Des Matériaux
+- Définition, schématisation d'une poutre et hypothèses du modèle; efforts intérieurs
+- Dimensionnement élastique
+- Loi de comportement : levée d'hyperstaticité et calcul de déplacements
+- Limites du modèle
+
+
+Compétences	◊ Savoir analyser l'architecture d'un système mécanique et sa description géométrique à partir des dessins techniques
+◊ Savoir concevoir un système mécanique, définir sa cotation et mettre en oeuvre des moyens de fabrication qui respectent les conditions de bon fonctionnement
+
+◊ Être capable d'analyser le comportement dynamique d'un système de solides rigides
+◊ Savoir dimensionner une pièce élancée soumise à un chargement statique
+
+Travail en
+Objectifs : Comprendre et assimiler le cours
+autonomie
+Méthodes : Exercices complémentaires aux TDs disponibles en ligne, à résoudre en auto-évaluation.
+
+Exercices corrigés disponibles sur serveur pédagogique.
+
+Trotignon JP. Précis de construction mécanique Tomes 1 et 2. Nathan, 2007.
+Bibliographie
+
+
+Brousse P.. Mécanique analytique. Vuibert, Paris, 1981.
+
+Timoshenko S.P.. Résistance des matériaux, Tomes 1 et 2. Dunod, Paris, 1990.
+
+Examen écrit individuel (4h)
+Contrôle des
+
+connaissances
+
+
+

@@ -1,0 +1,96 @@
+
+ AF GM a 2-EG
+
+
+Ingénierie Mécanique
+
+Mechanical Engineering
+
+Responsable(s) : Jean-Jacques Sinou, Olivier Dessombz
+
+| Cours : 4 h | TD : 4 h | TP : 0 h | Autonomie : 16 h | BE : 24 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Étudier le dimensionnement de systèmes et structures mécaniques présents dans divers domaines d'application (génie civil, aéronautique, automobile,...) en liant les aspects technologique, statique et dynamique.
+
+Mots-clés : Dimensionnement, méthodologie et modélisation.
+
+
+
+Programme
+Cours / TD :
+
+Introduction à la problématique du dimensionnement
+
+Dimensionnement statique
+
+Dimensionnement dynamique
+
+Etudes de Synthèse :
+
+Deux études (2 x 11h BE) permettent de montrer les liens existants entre les différents aspects
+
+du dimensionnement d'un système ou d'une structure mécanique.
+
+Exemples de thèmes abordés durant les études de synthèses :
+
+dimensionnement d'un pont
+
+contrainte mécanique dans un assemblage d'une structure aéronautique
+
+dimensionnement d'une pince de levage
+
+dimensionnement d'un embrayage automobile
+
+◊ Connaître les bases du dimensionnement des structures mécaniques et les mettre en œuvre
+Compétences
+
+
+lors de BE s'appuyant sur des problèmes concrets.
+
+◊ Travailler en groupe et savoir restituer lors des séances de BE
+
+◊ Savoir coupler les connaissances acquises dans plusieurs domaines de la mécanique
+
+◊ Savoir analyser et mettre en forme une problèmatique mécanique pour proposer un
+
+dimensionnement et en faire une synthèse
+
+Objectifs : Travail sur les BE, mise en forme des résultats et rédaction.
+Travail en
+
+autonomie
+Méthodes : Etude des systèmes proposés en BE, préparation des exposés d'évaluation
+
+Georges Spinnler. Conception des machines, tomes 1, 2 and 3. Presses polytechniques et
+Bibliographie
+
+
+universitaires romandes, 1997.
+
+Daniel Gay and Jacques Gambelin. Dimensionnement des structures, une introduction. Hermès
+
+science publications, 1999.
+
+Claude Chèze. Dimensionnement des structures. Ellipses, 2012.
+
+Savoir : 0.8*test + 0.1*note BE1 + 0,1 * note BE2
+Contrôle des
+
+connaissances
+Savoir Faire : moyenne notes BE
+
+
+
+
+
+
+
+
+

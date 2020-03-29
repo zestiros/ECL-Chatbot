@@ -1,0 +1,99 @@
+
+ AF MOS 6.1
+
+
+Ingénierie tissulaire et biomatériaux
+
+Tissue engineering and biomaterials
+
+Responsable(s) : Emmanuelle Laurenceau, Vincent Fridrici
+
+| Cours : 24 h | TD : 0 h | TP : 0 h | Autonomie : 4 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L’objectif de ce cours est d’aborder les problèmes de réparation et de remplacement des tissus biologiques, ainsi que de donner les bases et principes de l’ingénierie tissulaire au travers de différents exemples (orthopédie, vasculaire, dentaire, cutané)
+
+Mots-clés : Interactions matériaux-vivant, biomatériaux, reconstruction tissulaire, prothèses
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Options /
+
+Masters
+
+
+Bibliographie
+
+
+
+
+Cellules et matrice extracellulaire
+Biocompatibilité et biomatériaux
+Biomatériaux en odontologie
+Ingénierie tissulaire de l’os et comportement mécanique
+Prothèses vasculaires, orthopédiques…
+Ingénierie tissulaire de la peau et tribologie
+
+DIspositifs médicaux
+
+◊ Connaître les bases du fonctionnement cellulaire
+◊ Expliquer les principes de l’ingénierie tissulaire
+◊ Sélectionner un biomatériau pour une application donnée
+◊ Evaluer une publication scientifique
+
+Option Bio-ingénierie et nanotechnologie
+Module conseillé pour le Master IDS
+
+B.D. Ratner et al. Biomaterials science : an introduction to materials in medicine. Elsevier Academic Press, 3rd edition, 2013.
+
+R. Lanza et al. Principles of tissue engineering. Elsevier Press, 4th edition, 2013.
+
+
+
+Contrôle des	Examen final écrit
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

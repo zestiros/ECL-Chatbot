@@ -1,0 +1,97 @@
+
+ AF MOD 8.2
+
+
+Processus Stochastiques : modèles et méthodes numériques
+
+Stochastic Processes
+
+Responsable(s) : Christophette BLANCHET, Elisabeth MIRONESCU
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours est un complément du cours de théorie des probabilités, orienté vers la modélisation des phénomènes aléatoires
+
+dépendant du temps. Son but est de présenter d'une part les outils théoriques de la modélisation par processus de
+Markov et d'autre part les algorithmes classiques de simulation de ces processus. Il est plus particulièrement destiné aux
+
+élèves des options et masters d'Ingénierie Mathématiques, de Sciences Actuarielle et Financière et Ingénierie du Risque.
+
+Pré-requis : il est recommandé d'avoir suivi le cours S8 " Théorie des probabilités et introduction aux processus
+stochastiques ", ou tout cours
+
+équivalent.
+
+Mots-clés : Mouvement Brownien, Martingales, Calcul d'Itô, Simulation, Méthodes de Monte Carlo par Chaînes de Markov
+
+
+
+Programme	0.	Rappels de théorie des probabilités (en autonomie)
+1. Généralité sur les processus, mouvement brownien
+2. Martingales
+3. Intégrale stochastique
+4. Equations différentielles stochastiques
+5. Approximation et simulation de diffusion
+6. (BE) Méthodes de Monte Carlo par Chaînes de Markov pour la simulation
+7. (master IM et GRAF) Diffusions et équations aux dérivées partielles
+
+
+Compétences	◊ Savoir modéliser un phénomène à l'aide de processus de Markov
+◊ Savoir appliquer le calcul différentiel d'Itô
+◊ Savoir simuler et/ou discrétiser une diffusion
+◊ Savoir implémenter une méthode du recuit simulé ou de l'algorithme de Gibbs
+
+
+
+Activités /
+
+Autonomie
+
+
+Masters
+
+affiliés
+
+
+
+Bibliographie
+
+
+
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+Préparation des BE
+
+
+Option MD-MIR (conseillé pour une formation avancée en math appli).
+Master Econométrie et Statistiques Parcours GRAF (Obligatoire)
+
+Master Mathématiques Appliquées, Statistique, Parcours Math en Actions (Obligatoire)
+
+Francis Comets et Thierry Meyre. Calcul stochastique et modèles de diffusions.. Série Mathématiques pour le Master/SMAI, Dunod, 2006.
+
+Nicole El Karoui et Emmanuel Gobet. :Les outils stochastiques des marchés financiers. Editions de l'Ecole Polytechnique 2011., 2011.
+
+
+Bernard Bercu et Djalil Chafaï. Modélisation stochastique et simulation.. Série Mathématiques pour le Master/SMAI, Dunod, 2007.
+
+
+Tous : Test de deux heures. Master Math en action et GRAF : Test de 1h supplémentaire
+
+
+
+

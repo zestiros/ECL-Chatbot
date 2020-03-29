@@ -1,0 +1,72 @@
+
+Filière BIO
+
+Bi o -i n g é n i e r i e
+
+Bio-engineering
+
+Responsables : Emmanuelle Laurenceau
+
+
+
+Présentation
+
+La bio-ingénierie concerne les technologies permettant de développer des outils de diagnostic et des traitements plus performants, de modéliser et simuler les processus biologiques et l’évolution du vivant, de concevoir de nouveaux matériaux et dispositifs miniaturisés et communicants pour développer une médecine personnalisée. Elle s’appuie sur les concepts et outils avancés de la physique, de l’optique, de la chimie et du génie chimique, du génie électrique, de la mécanique et du génie mécanique. L'objectif de cette filière est de permettre à des ingénieurs généralistes d’acquérir à la fois les connaissances techniques et scientifiques leur permettant de gérer des projets transversaux et de transfert de technologie. Alliant les sciences pour l’ingénieur et les sciences du vivant, cette filière propose des formations de haut niveau en interactions fortes avec les attentes industrielles et sociétales dans les domaines de la santé et du vivant.
+
+
+
+Départements/laboratoires
+
+STMS, MFAE, MI / INL, LTDS, Ampère, LMFA, ICJ
+
+
+Programme
+
+BIO3.1 – Imageries médicales
+BIO3.2 – Interactions matériau-vivant
+BIO3.3 – Bioproduction
+BIO3.4 – Bio-informatique, bio-statistique et modélisation
+
+
+Compétences visées
+
+◊ Comprendre les défis et enjeux liés à la santé
+◊ Acquérir des connaissances en biologie et nanobiotechnologie
+◊ Appliquer les connaissances à la résolution de problèmes pluridisciplinaires
+◊ Mettre en oeuvre des projets pluridisciplinaires
+
+◊
+
+Débouchés
+
+
+Pré-requis
+
+MOD imposé : MOD5.1 « Physiologie humaine et biotechnologie »
+MOS imposé : MOS 6.1 « Ingénierie tissulaire et biomatériaux »
+
+Évaluation
+
+BIO3.1 : 25% ; BIO3.2 : 25% ; BIO3.3 : 25% ; BIO3.4 : 25%
+
+Site web de l’option
+
+
+Informations complémentaires
+
+MOD fortement recommandés : MOD 6.5 - Propagation des ondes élastiques ; MOD 4.3 - Comportement des matériaux
+
+; MOD 7.2 - Matière molle : nanosystèmes et interfaces biologiques ; MOD 6.6 - Dynamique des systèmes biologiques humains
+
+
+MOS recommandés : MOS 6.3 - Microsystèmes, microcapteurs, microflui
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,71 @@
+
+ AF PCM a 1-FH
+
+
+Mécanique quantique et applications
+
+Quantum mechanics and applications
+
+Responsable(s) : Ségolène Callard, José Pénuélas
+
+| Cours : 18 h | TD : 18 h | TP : 0 h | Autonomie : 12 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+La mécanique quantique est une des théories physiques la plus prédictive et des plus étendues qu'on connaisse. Elle permet de décrire les atomes et les constituants de la matière, mais elle est aussi nécessaire pour comprendre les assemblages de molécules, la nature de la lumière et la structure des solides. La mécanique quantique, une science fondamentale, est aussi à l'origine de grandes applications qui fondent notre société moderne : la plupart des produits de hautes technologies sont directement issus de concepts quantiques (ordinateur, laser, GPS, IRM...). L'objectif de ce cours est de proposer une introduction à la mécanique quantique et à ses principes généraux en utilisant notamment le formalisme de Dirac.
+
+Mots-clés : Équation de Schrödinger, état quantique, postulats de la mécanique quantique, superposition, formalisme de Dirac, Hamiltonien, espace de Hilbert, spin, fermions, bosons, particules identiques
+
+
+Programme	Retour sur la dualité onde/ corpuscule - Construction de la théorie quantique La mesure/ Évolution dans le temps des systèmes
+Les postulats de la mécanique quantique
+Les systèmes à deux états
+Le moment cinétique
+Le spin 1/2
+RMN
+Les particules identiques
+Les fermions, les bosons
+
+
+Compétences	◊ Être capable d'appréhender le domaine d'application de la mécanique quantique et la limite quantique/classique.
+◊ Savoir appliquer les postulats de la théorie quantique
+◊ Être capable d'utiliser le formalisme de Dirac pour décrire un problème de mécanique quantique
+
+◊ Être capable de décrire l'état d'un système de plusieurs particules avec spin.
+
+Travail en
+Objectifs : Comprendre et assimiler le cours
+autonomie
+Méthodes : Séances de questions réponses, Corrections d'annales de test en séance, Exercices à
+
+traiter
+
+J-L Basdevant, J. Dalibard. Mécanique Quantique. Ed. de l'Ecole Polytechnique, 2002.
+Bibliographie
+
+
+C. Cohen-Tannoudji. Mécanique quantique I. Hermann, 1973.
+
+C. Cohen-Tannoudji. Mécanique quantique II. Hermann, 1973.
+
+Note de l'examen final 2h (avec documents)
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,93 @@
+
+ AF ELC E-1
+
+
+Algorithme et raisonnement
+
+Algorithms and Reasoning
+
+Responsable(s) : Alexandre SAIDI, Emmanuel DELLANDREA
+
+| Cours : 6 h | TD : 0 h | TP : 0 h | Autonomie : 10 h | BE : 16 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif de l'Intelligence Artificielle (IA) est de donner aux machines une certaine intelligence : la capacité de "raisonner"
+
+= déduire et induire. La réalisation de cet objectif passe par la manipulation de connaissances : la représentation et l'application d'informations relatives au problème à résoudre. Ce cours présente les techniques et les outils de base employés en raisonnement et en résolution de problèmes dans différents domaines d'IA. L'étude et l'implantation de ces techniques et outils font appel aux concepts avancés, notamment les graphes et les objets. Quelques notions de base en logique seront présentées afin de faciliter l'utilisation du langage Prolog. Des exemples d'utilisation industrielle de systèmes intelligents - experts seront présentés.
+
+Mots-clés : Intelligence Artificielle, Systèmes de raisonnement, Programmation Logique avec Contraintes (CLP).
+
+
+
+Programme
+1
+- Outils et Techniques de Représentation de Connaissances :
+
+2
+- Techniques de Manipulation de Connaissances
+
+3
+- Outils et Langages
+
+4
+- Systèmes à base de règles
+
+5- Logique et Contraintes : modélisation de problèmes complexes
+
+6
+- Introduction : Tableau de bord, systèmes à base d'agents, Apprentissage, etc.
+
+◊ Introduction au paradigme d'Intelligence Artificielle, raisonnement logique.
+Compétences
+
+
+Objectifs : Compléter les travaux demandés en BEs.
+Travail en
+
+autonomie
+Méthodes : La même qu'en BE
+
+Russell, S. et Norvig, P. Artificial Intelligence: A Modern Approach. Prentice Hall, 2003.
+Bibliographie
+
+
+Frédéric Benhamou and Alain Colmerauer. Constraint Logic Programming. MIT Press, 2008.
+
+David L., Mackworth Alan K.. Artificial Intelligence: Foundations of Computational. Cambridge U.
+
+
+Press, 2010.
+
+BEs et test écrit
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

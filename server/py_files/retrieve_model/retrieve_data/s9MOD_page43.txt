@@ -1,0 +1,74 @@
+
+ AF MOD 7.2
+
+
+Extraction de Connaissances
+
+Machine Learning and Data Mining
+
+Responsable(s) : Alexandre SAIDI
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'extraction de Connaissances (EC, dite "fouille de données" ou "Machine Learning") est un domaine de Reconnaissance de Formes et de l'apprentissage automatique. Il connaît une expansion fulgurante et les entreprises prennent conscience de la sous-exploitation des données qu'elles collectent et archivent.
+
+Un ex. de connaissances extraites est la règle : "Quand j'ai les propriétés A et B souvent satisfaites dans mes données alors j'observe aussi la propriété C". De telles règles peuvent être utilisées en marketing, en gestion d'alarmes, en épidémiologie, etc.
+
+Il s'agit d'un domaine d'aide à la décision et de la prédiction posant des problèmes techniques difficiles. Ce cours dans lequel les Statistique jouent un rôle central traite divers domaines d'application d'EC (BD, texte, Web,...)
+
+Mots-clés : Reconnaissance de Formes, Big Data, Data Mining, Prédiction et décision, Classification, Apprentissage automatique (et artificiel, Machine Learning).
+
+
+
+Programme	- La problématique scientifique de l'apprentissage artificiel (Machine Learning)
+- Formalisation et fondements Algorithmiques / Statistiques
+- Quelques applications typiques
+- Apprentissage supervisé, Non-(et semi-) supervisé,
+- Classification, régression, association (Introduction à la fouille de textes)
+- Arbres de décision / de régression
+- Méthodes statistiques (Bayes, SVM, Méthodes à base de noyaux)
+- Méthodes et indicateurs d'évaluation statistiques
+- Méthodes de Classification (Clustering)
+- Règles de classification / d'association
+- Méthodes importantes de pré et post-traitement des données
+- Exploitation des Connaissances extraites
+
+
+Compétences	◊ Familiariser les élèves avec les enjeux et techniques d'extraction de connaissances et leurs domaines d'application
+◊ Apprendre l'étendu des techniques allant d'une simple règle aux réseaux de neurones convolutionnels profonds (DCNN) et passant par les méta-méthodes "Ensemble"
+◊ Utiliser les algorithmes et les outils Informatique et statistiques d'apprentissage automatique
+◊ Souligner les problèmes d'optimisation de ces outils, le compromis Biais-Variance, etc.
+
+Activités /
+3 BES
+Autonomie
+
+
+Master Informatique
+Masters
+
+affiliés
+
+
+U.M. Fayyad & al.. From Data Mining to Knowledge Discovery in Databases. 1996.
+Bibliographie
+
+
+Stan Matwin & al.. Challenges in Computational Statistics and Data Mining. Jan Mielniczuk, 2016.
+
+I.H. Witten, E. Frank. Data Mining - practical ML Tools & Techniques. 2005.
+
+25% BEs, 75% test écrit (qui comporte également des questions sur les BEs)
+Contrôle des
+
+connaissances
+
+
+

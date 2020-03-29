@@ -1,0 +1,98 @@
+
+ AF PCM a 4-EG
+
+
+Physique des semiconducteurs
+
+Semiconductor solid-state physics
+
+Responsable(s) : Christelle Monat
+
+| Cours : 10 h | TD : 16 h | TP : 0 h | Autonomie : 22 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Après avoir présenté les mécanismes physiques dans les semiconducteurs et les propriétés électroniques et optiques qui en découlent, l'AF décrira différentes applications de ces matériaux en microélectronique et optoélectronique
+
+Mots-clés : Semiconducteurs, diélectriques, composants, microélectronique, optoélectronique
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+
+Bibliographie
+
+
+
+
+1/ Propriétés cristallines et élaboration des matériaux semiconducteurs 2/ Structure de bandes des semiconducteurs
+3/ Conduction électrique d'un matériau semiconducteur
+4/ Phénomènes de transport de charges dans les semiconducteurs 5/ Jonction PN et applications
+
+6/ Jonction métal/ semiconducteur et structure Metal/Isolant/Semiconducteur 7/ Composants optoélectroniques pour la détection de lumière 8/ Composants optoélectroniques pour l'émission de lumière
+
+◊ Savoir expliquer l'origine des propriétés physiques des matériaux semiconducteurs et des diélectriques
+
+◊ Etre capable de manipuler les concepts décrivant les propriétés physiques des matériaux semiconducteurs et des diélectriques
+
+◊ Etre capable de décrire les principes physiques liés au transport électrique et à l'intéraction électron/photon dans les semiconducteurs
+
+◊ Savoir expliquer le fonctionnement des grandes familles de composants semiconducteurs (transistors, photodiode, cellule solaire, diode laser)
+
+Objectifs : Travail en groupe pour approfondir un domaine particulier ou émergent en lien avec la physique des semiconducteurs et ses applications en microélectronique/ optoélectronique Méthodes : Des sujets de synthèse seront proposés à des petits groupes (sujets possibles : cellule photovoltaïque, spintronique, transistor à un photon, LED bleues, graphène et matériaux 2D etc.). Restitution du travail effectué = soutenance orale
+
+Henry Mathieu. Physique des semiconducteurs et des composants électroniques. 5ème édition, Dunod, 2009.
+
+Emmanuel ROSENCHER. Optoélectronique. Masson, 1998.
+
+
+
+Contrôle des	Test écrit : 80% de la note finale.
+
+connaissances	Restitution orale : 20% de la note finale.
+
+
+
+
+
+
+
+
+
+
+
+

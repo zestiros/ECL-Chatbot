@@ -1,0 +1,75 @@
+
+ AF ELC B-4
+
+
+Ingénierie Nucléaire
+
+Nuclear Engineering
+
+Responsable(s) : Yves ROBACH, Ségolène CALLARD
+
+| Cours : 18 h | TD : 10 h | TP : 0 h | Autonomie : 4 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'ingénierie nucléaire recouvre actuellement un large domaine scientifique et économique, qui s'enrichit des relations multiples avec d'autres disciplines. Son champ d'applications s'étend de la production d'énergie (réacteurs de fission et fusion) à l'analyse ou au traitement de matériaux, à l'utilisation de radioéléments (traceurs radioactifs) en médecine, biologie ou géologie jusqu'aux applications médicales en radiothérapie et imagerie. L'objectif du cours est de fournir les bases physiques de l'ingénierie nucléaire et d'illustrer un certain nombre des applications précédemment citées. Les cours seront suivis de 2 conférences (Réacteurs nucléaires de future génération, Radioprotection) présentés par des spécialistes et des professionnels du domaine.
+
+Mots-clés : Noyaux, désintégrations nucléaires, radioactivité, modèle de la goutte liquide, modèle en couche, fusion, fission.
+
+
+
+Programme	1. Structure du noyau, bilans énergétiques en physique nucléaire, notion de section efficace d'interaction. Stabilité nucléaire et modèles nucléaires.
+2. Instabilités nucléaires : les différents types de radioactivité, notions de base en radioprotection.
+3. Réactions nucléaires et application.
+4. Fission nucléaire, notions de base de neutronique, principe de fonctionnement d'un réacteur nucléaire.
+
+5. Fusion nucléaire
+6. Applications du nucléaire en chimie, biologie, médecine. Traceurs radioactifs et applications, imagerie médicale.
+
+Compétences
+◊ Savoir Identifier les champs d'application de la physique nucléaire.
+
+◊ Evaluer les ordres de grandeurs dans les processus nucléaires
+
+◊ Savoir équilibrer une réaction nucléaire et calculer son bilan de masse
+
+◊ Savoir distinguer et décrire les principaux types de désintégrations des noyaux
+
+Objectifs : Lors des TD, les élèves doivent résoudre des problèmes en utilisant les concepts pré-
+Travail en
+
+autonomie
+sentés en cours.
+
+Méthodes : Ce travail s'effectue en binôme et donne lieu, à la fin de chaque séance, à un compte-
+
+rendu écrit qui est évalué.
+
+W.E. Meyerhof. Elements de physique nucléaire. Editions Dunod., 1970.
+Bibliographie
+
+
+Daniel Blanc. Noyaux, particules, réacteurs nucléaires. Masson, 1987.
+
+P. Bonche. Le nucléaire expliqué par les physiciens. EDP Sciences, 2002.
+
+Examen écrit (2h, 60%)
+Contrôle des
+
+connaissances
+Compte-rendus des activités de TD (40%)
+
+
+
+
+
+
+
+
+
+

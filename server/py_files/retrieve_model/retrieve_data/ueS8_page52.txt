@@ -1,0 +1,97 @@
+
+ AF ELC F-1
+
+
+Finance de marché
+
+Financial Markets
+
+Responsable(s) : Christian de PERETTI
+
+| Cours : 16 h | TD : 12 h | TP : 0 h | Autonomie : 4 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif de ce cours est de fournir un aperçu sur la structure des marchés financiers et sur les différents produits existant. Il donnera quelques principes essentielles en économie financière ainsi que quelques principes d'évaluation et de gestion de ces produits. Des applications sur Excel seront effectuées. Ce module permettra également de faciliter le suivi de certaines options d'IM en 3e année et du Master co-habilité avec l'ISFA.
+
+Mots-clés : Marchés financiers, obligations, actions, produits dérivés, pricing, gestion de portefeuilles, risque.
+
+
+
+Programme
+Partie I : Introduction a la finance de marché
+
+Chap. 1 : La Valeur Du Temps
+
+Chap. 2 : Le Marché Monétaire
+
+Chap. 3 : Les Obligations
+
+Chap. 4 : Les Actions
+
+Chap. 5 : Les Produits Dérivés
+
+Chap. 6 : Un peu d'éthique
+
+Partie II : gestion de portefeuilles actions
+
+Chap 1 : Les rendements des titres
+
+Chap 2 : Théorie de la décision
+
+Chap 3 : Le modèle moyenne-variance de Markowitz
+
+Chap 4 : Le modèle à index de Fama et French
+
+Partie III : gestion de produits dérivés
+
+- Principe d'évaluation
+
+- Portefeuille de réplication
+
+- Stratégies d'arbitrage
+
+◊ Evaluer le prix d'un actif financier
+Compétences
+
+
+◊ gérer un portefeuille
+
+◊ utiliser des produits dérivés
+
+Objectifs : TP avec Excel sur le traitement de données financières de bourse :
+Travail en
+
+autonomie
+- modélisation des séries de rendement,
+
+- gestion de portefeuille.
+
+Méthodes : Statistiques descriptives sur les séries des rendements d'actions en bourse pour en
+
+révéler les propriétés statistiques.
+
+Utiliser leurs propriétés statistiques pour faire de l'optimisation moyenne-variance de portefeuilles.
+
+Edwin J. Elton, Martin J. Gruber, Stephen J. Brown. Modern Portfolio Theory and Investment
+Bibliographie
+
+
+Analysis. Wiley, 0.
+
+J.C. Hull. Options, Futures, and Other Derivatives. Prentice-Hall.
+
+M.W. Baxter and A.J.O. Rennie. Financial Calculus. Cambridge University Press, 1996.
+
+Examen de 2 heures, 100%.
+Contrôle des
+
+connaissances
+
+
+

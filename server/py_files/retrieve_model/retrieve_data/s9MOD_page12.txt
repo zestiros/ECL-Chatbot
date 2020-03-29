@@ -1,0 +1,89 @@
+
+ AF MOD 1.6
+
+
+Acoustique Environnementale
+
+Environmental Acoustics
+
+Responsable(s) : Marie-Annick Galland, Didier Dragna
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Noise is considered by the population as one of the main and most important nuisances. Taking into account acoustic constraints is therefore of primary importance in many fields, for example in building engineering or evaluation of transportation systems. This course presents basic notions in acoustics particularly suited to engineers working in related sectors. More specifically will be developed acoustics of rooms and industrial or public environments, outdoor sound propagation in an urban environment, as well as the various techniques used to control (usually reduce) sound levels: passive techniques (noise barriers, use of absorbing materials) or active ones (anti-noise). Subjective aspects will also be introduced with notions on sound perception, sound quality and annoyance.
+
+Mots-clés : Acoustics, room acoustics, noise control, outdoor propagation, sound perception
+
+
+
+Programme
+I- Basic equations and models in acoustics
+
+II- Sound perception: from deciBel scales to nuisances
+
+III- Room acoustics: modal theory and energetic approach (Sabine theory, ray tracing,
+
+reverberation time and quality indices)
+
+IV- Noise reduction and control: airborne sound insulation (single and double- leaf partitions),
+
+barriers, absorbing materials, active control
+
+V- Outdoor propagation: effects of ground, buildings, meteorological conditions, ... ; sound maps
+
+◊ Develop a coherent approach for diagnosing a problem in environmental acoustics
+Compétences
+
+
+◊ Build a simplified model
+
+◊ Propose a technical solution and evaluate the margin of error.
+
+Practical work:
+Activités /
+
+Autonomie
+- Room acoustics: measurement of reverberation time and sound quality indices in the cinema
+
+room of ECL; numerical simulation with CATT-Acoustic software.
+
+- Outdoor propagation: Sound map design and analysis; numerical simulation with SoundPlan
+
+software
+
+- Case study in noise control
+
+This set of lectures is one of the teaching units of the Master of Sciences in Acoustics (M2; see
+Masters
+
+affiliés
+http://master-acoustics.ec-lyon.fr/).
+
+It can also be taken as a teaching unit of the Masters in Aerospace Engineering, Mechanics or
+
+Civil Engineering,
+
+
+Bibliographie	A. Pierce. Acoustics, Introduction to its physical principles and applications. Mc Graw -Hill, 1981.
+
+H. Kuttruff. Room acoustics. Spon Press, 2000.
+
+
+D.Bies, C.Hansen. Engineering noise control. Spon Press, 2009.
+
+
+
+Contrôle des	Written Exam (50%); Practical work (50%)
+
+connaissances
+
+
+
+

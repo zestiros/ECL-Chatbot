@@ -1,0 +1,88 @@
+
+ AF IM 3.2
+
+
+Introduction aux mathématiques financières
+
+Introduction to financial mathematics
+
+Responsable(s) : Elisabeth Mironescu
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Ce cours a pour but de présenter quelques problèmes de mathématiques financières, en particulier l'évaluation de produits dérivés (options de différents types). La première partie sera consacrée aux modèles discrets . La seconde partie sera consacré au modèle de Black-Scholes et à certaines extensions faisant appel aux notions de mouvements browniens, de l'intégrale stochastique de Itô et des équations différentielles stochastiques qui sont des notions abordées dans le Module Ouvert de processus stochastique du premier semestre et supposées acquises. Enfin, la résolution numérique des problèmes abordés sera faite lors de deux TP sur machine.
+
+Ce cours nécessite d’avoir suivi le MOD de processus Stochastiques
+
+Mots-clés : Mathématiques financières, Modèle de Black-Scholes, options, calcul stochastique, évaluation d'option.
+
+
+
+
+Programme
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+Bibliographie
+
+
+
+Modèles en temps discret
+Compléments de calcul stochastique
+
+Modèle de Black-Scholes et extensions
+
+◊ Connaitre la notion de marché non arbitré et complet
+◊ Connaitre les modèles classiques de mathématiques financières
+◊ Savoir utiliser les outils de calcul stochastique pour construire un modèle d'actif
+◊ Savoir implémenter dans ce contexte les méthodes type Monte-Carlo ou de discrétisations.
+
+Objectifs : Préparation théorique des BE faits sur Machine avec programmation en matlab
+Méthodes : Sujets de préparation distribués à l'avance.
+
+Lamberton, D. et Lapeyre B.. Introduction au calcul stochastique appliqué à la finance. Ellipses, 1997.
+
+N. El Karoui et E. Gobet. Les outils stochastiques des marchés financiers. Les editions de l'Ecole Polytechnique, 2011.
+
+Lamberton, D. et Lapeyre B.. Introductionto stochastic Calculus applied to finance. Chapman and Hall 2nd Edition, 2008.
+
+
+
+Contrôle des
+2 BE sur machine notés
+connaissances
+1 examen final
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

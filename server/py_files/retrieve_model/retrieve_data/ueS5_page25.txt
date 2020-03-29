@@ -1,0 +1,85 @@
+
+ AF STI tc 1
+
+
+Systèmes électroniques
+
+Electronic systems
+
+Responsable(s) : Ian O'Connor
+
+| Cours : 14 h | TD : 14 h | TP : 6 h | Autonomie : 2 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'évolution des systèmes électroniques est liée à la loi de Moore selon laquelle la complexité des circuits intégrés double tous les dix-huit mois. Afin de pouvoir appréhender la complexité des systèmes actuels et comprendre leur évolution, il est nécessaire de connaître les bases de la technologie électronique.
+
+Le cours "Systèmes électroniques" a donc pour objectif d'apporter à l'élève ingénieur les bases scientifiques et technologiques nécessaires à la compréhension des fonctionnements des systèmes électroniques et de leur évolution ainsi qu'à la conception de systèmes complexes composés de circuits de traitement de l'information sous forme analogique et numérique.
+
+Mots-clés : Jonction PN, transistor CMOS, circuits analogiques, circuits numériques, processeurs
+
+
+
+Programme
+Introduction à l'électronique
+
+Transistor MOS
+
+Modélisation haute fréquence, présentation de l'amplificateur CMOS
+
+Étude détaillée de l'inverseur MOS
+
+Circuits numériques, logique combinatoire. Algèbre de Boole et des tables de Karnaugh
+
+Circuits numériques, logique séquentielle
+
+Architecture microprocesseur
+
+◊ Être capable d'appréhender l'étendue du domaine de l'électronique : du dispositif au processeur
+Compétences
+
+
+◊ Être capable de décrire l'évolution des systèmes microélectroniques
+
+◊ Savoir identifier les méthodes et techniques de conception de circuits
+
+Objectifs : Approfondir les sujets abordés en TD
+Travail en
+
+autonomie
+Méthodes : Effectuer des simulations électriques avec un simulateur de référence (PSPICE) pour
+
+analyser le fonctionnement des dispositifs et des circuits
+
+La note théorique dite de savoir est celle du test final de 2h (sans document).
+Contrôle des
+
+connaissances
+Note de Savoir : 90% note d’AF
+
+Note de Savoir-faire : 10% note d'AF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

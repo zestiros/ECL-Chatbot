@@ -1,0 +1,73 @@
+
+ AF ELC F-6
+
+
+Antennes, signal et processeurs (Fermé en 2019-2020)
+
+Antenna, Signals and Processors
+
+Responsable(s) : Arnaud BREARD, Julien HUILLERY, Sébastien LE BEUX
+
+| Cours : 16 h | TD : 0 h | TP : 10 h | Autonomie : 4 h | BE : 2 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Nous vivons dans un monde baigné par les ondes électromagnétiques dans lequel les systèmes sans fil se développent de plus en plus. Le premier objectif de cet enseignement est de donner un point de vue circulaire sur les différents constituants et champs disciplinaires impliqués dans les systèmes électromagnétiques sans fil et d'en exposer trois en particulier : les antennes, les signaux et les processeurs. Dans ce but, deux systèmes servent de cadre applicatif aux éléments du cours : les systèmes Radar et les systèmes de Télécoms. Si dans le principe ces deux systèmes utilisent bien des antennes et des processeurs qui permettent de propager et traiter des signaux, nous verrons qu'ils présentent une diversité de problématiques qui seront exposées dans ce cours.
+
+Mots-clés : Antenne, Diagramme de rayonnement, Directivité, Polarisation, Adaptation, Largeur de bande, Traitement du signal, Télécommunications, Modulations numériques, Imagerie radar, Détection/Estimation, Processeurs, Électronique embarquée.
+
+
+
+Programme	I - Antennes :
+a) Concepts de base : diagramme de rayonnement, directivité, gain, polarisation, adaptation et largeur de bande, paramètres S, bilan de liaison, efficacité
+
+b) Dimensionnement d'antenne : antennes en téléphonie mobile, antenne base, wifi, réseau d'antennes
+
+II - Signal :
+a) Imagerie radar : modélisation, récepteur optimal, détection, estimation
+b) Transmission de l'information : codage, modulations numériques, égalisation de canal III - Processeurs :
+
+a) Architecture et dimensionnement : flux et traitement pour les différentes générations de réseaux de télécommunication
+
+b) Enjeux : taille et énergie pour les processeurs embarqués, vers le tout numérique.
+
+6 TP de 2h sur les télécommunications et l'imagerie radar permettent de mettre en application les notions vues en cours.
+
+
+Compétences	◊ Dimensionner une antenne en fonction d'un cahier des charges
+◊ Concevoir un schéma de modulation numérique pour la transmission d'information
+◊ Programmer une carte Arduino pour effectuer un traitement radar
+◊ Utiliser un appareil de mesures HF, un analyseur de réseau, un oscilloscope
+
+
+
+Travail en autonomie
+
+
+
+
+
+Bibliographie
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : Étude d'un article scientifique en anglais centré sur une des disciplines du cours et sur une des applications Radar ou Télécom.
+
+Méthodes : Chaque groupe, de 3 ou 4 élèves selon l'effectif, étudie une publication différente. Un résumé en français retraçant les enjeux et la démarche de l'article est demandé.
+
+
+Constantine A. Balanis. Antenna theory: analysis and design. Wiley, 2005.
+
+François Le Chevalier. Principes de Traitement des Signaux Radar et Sonar. Masson, 1989.
+
+
+Comptes rendus de TP (par binôme) Résumé écrit de l'article (par groupe de 3-4) Test final écrit (individuel) Savoir : 50%, Savoir-faire : 50%

@@ -1,0 +1,82 @@
+
+ AF INFO 3.7
+
+
+Système temps réel, embarqué et mobile
+
+Real Time, Embedded and Mobile System
+
+Responsable(s) : Alexandre Saidi, Fabien Delpiano
+
+| Cours : 10 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 10 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Il s'agit de sensibiliser les élèves aux notions de la programmation concurrente (Processus, Threads) en utilisant les outils permettant leur mise en œuvre. Également des notions sur les systèmes temps réel et embarqués sont abordées. Quelques schémas et exemples importants (Producteur / Consommateur, Lecteur / Rédacteur, 5-phi, barbier, …) permettront d'illustrer le propos. Finalement, en relation avec un professionnel du domaine, ce cours présentera les spécificités du développement d'applications pour mobiles (iOS, Android, ...), en termes de technologies et de gestion de projets.
+
+Mots-clés : Programmation concurrente, Informatique temps réel, Informatique embarqué, Informatique mobile
+
+
+
+Programme
+Notions sur la programmation concurrente
+
+Threads et processus
+
+Mécanismes d'exclusion mutuelle, barrières, sémaphores, TAS, RDV, …
+
+Schémas  concurrents : Producteur / Consommateur, Lecteur / Rédacteur, etc.
+
+Exigences des systèmes et noyaux temps réels.
+
+Informatique embarquée et robotique.
+
+Informatique mobile
+
+◊
+Compétences
+
+
+◊
+
+◊
+
+◊
+
+M. Yaynal. Concurrent Programming: Algorithms, Principles, and Foundations. Springer-Verlag,
+Bibliographie
+
+
+2013.
+
+A. Burns & A. Wellings. Concurrent and Real-Time Programming in ADA. Cambridge U. Press,
+
+2007.
+
+X. Fan. Real-Time Embedded Systems. Newnes, 2015.
+
+Test final et note de BE
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

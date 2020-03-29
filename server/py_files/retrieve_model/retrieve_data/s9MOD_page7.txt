@@ -1,0 +1,72 @@
+
+ AF MOD 1.1
+
+
+Simulation numérique des écoulements
+
+Numerical methods for computational fluid dynamics
+
+Responsable(s) : Fabien GODEFERD, Christophe CORRE
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours  |
+
+
+Objectifs de la formation
+
+
+L'objectif du cours est de donner les éléments de base sur les méthodes numériques de simulation en mécanique des fluides et leurs spécificités, et de fournir une première expérience pratique de programmation et d'utilisation de ces méthodes. Le cours devrait permettre aux étudiants de disposer d'un aperçu pour aborder le développement de codes de calcul ou exploiter les grands codes actuels déjà en place dans les grands organismes et entreprises, dans les secteurs tels que l'aéronautique, la propulsion, les transports, l'énergie, etc. Le cours contient notamment les bases indispensables à l'approfondissement des méthodes numériques dans les spécialisations de filière qui pourront être choisies par la suite.
+
+Mots-clés : Simulation numérique, classification des équations, caractéristiques, méthodes spectrales, différences finies, volumes finis, éléments finis
+
+
+
+Programme	L'accent est d'abord mis sur la classification des problèmes aux limites (systèmes d'équations aux dérivées partielles de type hyperbolique, parabolique ou elliptique). Le cours présente ensuite les diverses classes de méthodes numériques de résolution :
+- méthodes des caractéristiques,
+- différences finies,
+- volumes finis,
+- éléments finis,
+- méthodes spectrales,
+
+et leurs spécificités comparées pour chacune des applications industrielles ou de recherche.
+
+
+Compétences	◊ Connaître les principes des méthodes de simulation les plus utilisées en mécanique des fluides
+◊ Etablir les équations discrétisées et créer l'algorithme de résolution associé
+◊ Implémenter la méthode numérique dans un langage de programmation et s'assurer de la pertinence physique des résultats obtenus par le calcul
+
+◊ Appréhender les principes de fonctionnement d'un code existant de type commercial ou académique
+
+Activités /
+Bureaux d'étude : 3 x 4 heures
+Autonomie
+Ces BE abordent l'approche de façon pragmatique et exhaustive certaines des méthodes
+
+numériques vues d'un point de vue théorique en cours, illustrées au travers d'un cas-test de
+
+géométrie simple.
+
+Master Acoustique - Master Aéronautique et Espace - Master Mécanique, Énergétique
+Masters
+
+affiliés
+
+
+Charles Hirsch. Numerical Computation of Internal and External Flows. ISBN: 978-0-7506-6594-0, 2007.
+Bibliographie
+
+
+Clive A.J. Fletcher. Computational Techniques for Fluid Dynamics Vols. 1 & 2. ISBN-13: 978-
+
+3540530589, 1997.
+
+John P. Boyd. Chebyshev and Fourier Spectral Methods. ISBN-13: 978-0486411835, 2000.
+
+Comptes rendus écrit pour chacun des trois BE : 3 x 20% de la note finale
+Contrôle des
+
+connaissances
+Examen écrit de 2 heures (+1 heure pour le master Recherche) : 40%
+
+
+
+

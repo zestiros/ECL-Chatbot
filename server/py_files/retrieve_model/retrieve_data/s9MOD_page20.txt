@@ -1,0 +1,73 @@
+
+ AF MOD 3.3
+
+
+Systèmes embarqués sécurisés
+
+Secure embedded systems
+
+Responsable(s) : Cedric Marchand, David Navarro
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les systèmes électroniques embarqués sont partout aujourd'hui que ce soit dans nos poches, maisons ou voitures mais aussi dans l'industrie, l'aéronautique ou le spatial. De plus en plus de ces systèmes sont utilisés dans des applications où les données manipulées sont sensibles et nécessitent d'être protégées. L'avènement des objets connectés qui sont de plus en plus nombreux ont éveillé un intérêt particulier pour les problématiques de sécurité auprès du grand public. Au travers de ce cours, nous aborderons les principes de base de la sécurité ainsi que leur intégration dans les systèmes embarqués. Les attaques classiques ainsi que certaines contre-mesures seront présentées. Enfin, des domaines spécifiques tels que la contrefaçon ou la sécurité dans les systèmes RFID seront abordé.
+
+Mots-clés : Systèmes embarqués, sécurité, cryptographie
+
+
+
+Programme	Définition des notions de systèmes embarqués, de sécurité. Vue d'ensemble des enjeux et des risques.
+Introduction aux systèmes embarqués, microcontrôleur et FPGA.
+Introduction à la cryptographie
+Attaques et contre-mesures sur les systèmes d'information et sur les systèmes embarqués Composants et primitives de sécurité pour l'électronique.
+Domaine spécifique de la sécurité : la lutte contre la contrefaçon des produits électroniques
+Domaine d'application : La sécurité dans les systèmes RFID
+
+
+Compétences	◊ Appréhender les enjeux de la sécurité dans le domaine des systèmes embarqués
+◊ Identifier les faiblesses et les attaques possibles sur un système
+◊ Connaître les mécanismes de base de la sécurité
+◊ Proposer des solutions combinant plusieurs briques de bases permettant d'améliorer la sécurité d'un système
+
+Activités /
+BE : Programmation logicielle d'un système embarqué
+Autonomie
+TP1 : Programmation d'un algorithme de chiffrement standard (AES) sur cible embarquée STM32
+
+TP2 : Attaque de l'algorithme de chiffrement grâce aux canaux auxiliaire (Challenge)
+
+Master EEEA, parcours "systèmes embarqués"
+Masters
+
+affiliés
+
+
+Hans Delfs, Helmut Knebl. Introduction to Cryptography. Springer, 2002.
+Bibliographie
+
+
+Mohammad Tehranipoor, Cliff Wang. Introduction to Hardware Security and Trust. Springer, 2011.
+
+Lilian Bossuet, Lionel Torres. Foundations of Hardware IP Protection. Springer, 2017.
+
+70% savoir, 30% savoir-faire
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+

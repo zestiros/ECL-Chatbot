@@ -1,0 +1,64 @@
+
+ AF INFO 3.2
+
+
+Les systèmes d'information par la pratique
+
+Information systems in practice
+
+Responsable(s) : Charles-Edmond Bichot, Daniel Muller
+
+| Cours : 10 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 10 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Sur le marché de l'emploi, les métiers liés aux systèmes d'information (SI ou IT) font l'objet d'une pénurie de talents. Posséder ces compétences technologiques spécifiques est un casse-tête pour les entreprises du monde entier. Ces dernières cherchent des ingénieurs capables à la fois d'appréhender la complexité du fonctionnement des entreprises au niveau métier, organisationnel et social, et possédant des compétences techniques pointues. Cette action de formation vise à présenter avec une approche pratique les systèmes d'information présents en entreprise.
+
+Mots-clés : SI/IT (système d'information), ERP, PGI (progiciel de gestion intégré), SSI (sécurité), gouvernance, processus, architecture SI/IT
+
+
+
+Programme	Cette action de formation vient compléter le MOD de Systèmes d'information en entreprise.
+- aspects sécuritaires des systèmes d'information (6h) : les différents types de sécurité, les principales protections, la gestion de crise, etc.
+
+-les ERP (progiciels de gestion intégrés) et leur fonctionnement (6h).
+Les ERP étant des outils complexes, une mise en pratique en 8 heures de bureaux d'études permettra de se familiariser avec eux.
+
+
+Compétences	◊ Analyser le fonctionnement d'un ERP (progiciel de gestion intégré)
+◊ Savoir utiliser et faire évoluer un ERP
+◊ Connaître les principes de base de la sécurité des systèmes d'information
+◊ 
+
+
+
+Bibliographie	J-L Tomas, Y. Gal. ERP et conduite des changements. Dunod, 2011.
+
+J-L Deixonne. Piloter un projet ERP. Dunod, 2011.
+
+F. Pinckaers, G. Gardinier. OpenERP pour une gestion d'entreprise efficace et intégrée. Eyrolles, 2008.
+
+
+
+Contrôle des Le contrôle des connaissances prendra en compte pour moitié la note des bureaux d'études et connaissances pour moitié la note du contrôle final sous forme de QCM.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

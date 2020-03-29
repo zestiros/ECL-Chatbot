@@ -1,0 +1,80 @@
+
+UE ECS
+
+En e r g i e é l e c t r i q u e e t Com ma n d e d e s Sy s t ème s
+
+Electrical Energy and systems control
+
+Direction : Christian Vollaire
+
+90hTD, 6ECTS
+
+
+Présentation
+
+L'UE ECS regroupe des enseignements relatifs au contrôle des systèmes et à l'utilisation moderne de l'énergie électrique. La richesse de ces domaines réside dans la diversité des applications rencontrées (traction électrique, énergies renouvelables, distribution, éclairage, communication...) et dans l'actualisation permanente des connaissances et savoir-faire. Dans beaucoup de domaines (transport, énergie ...) la principale valeur ajoutée des dispositifs modernes réside dans les systèmes de contrôle et de conversion de l'énergie électrique afin d'améliorer les performances et l'efficacité énergétique des systèmes. Tout ceci fait de ces enseignements une brique incontournable dans les connaissances de bases d'un ingénieur généraliste.
+
+Semestre
+Programme
+S5 ou S6
+ECS tc 0
+: Autonomie
+
+ECS tc 1
+: Cours d’énergie électrique
+Département
+
+
+
+ECS tc 2
+: Cours d‘automatique des procédés linéaires
+département EEA
+
+
+
+ECS tc 3
+: Régulation et entrainement électrique
+
+
+Équipes d’enseignement
+
+Electrotechnique, Automatique et
+Traitement du Signal
+
+Compétences visées par l’UE
+
+◊ Savoir utiliser les technologies récentes des domaines de l'énergie électrique et du contrôle des systèmes.
+◊ Être capable d'appliquer les concepts de bases en automatique et en électrotechnique.
+◊ Savoir mettre en oeuvre les outils de conception et d'analyse des systèmes complexes.
+◊ Être capable de concevoir des lois de commande simples pour des procédés linéaires.
+◊ Être capable de manipuler les ordres de grandeur et le vocabulaire spécifique dans le domaine de l'énergie
+
+électrique.
+
+Évaluation
+
+Moyenne pondérée : ECS tc0 : 15 %, ECS tc1 : 40 %, ECS tc2 : 40 %, ECS tc3 : 5%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

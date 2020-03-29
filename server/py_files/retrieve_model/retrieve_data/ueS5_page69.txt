@@ -1,0 +1,87 @@
+
+ AF IDM a 1-FH
+
+
+Endommagement et ruine des matériaux
+
+Damage and Ruin of Materials
+
+Responsable(s) : Vincent Fridrici, Bruno Berthel
+
+| Cours : 18 h | TD : 18 h | TP : 0 h | Autonomie : 12 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+La sécurité des structures, la nouvelle approche liée aux cindyniques (science des risques) et les concepts d’économie circulaire (prenant en compte le développement durable) maintiennent au plus haut niveau les exigences liées à la durabilité des structures. La prise en compte des fonctions essentielles de la structure doit donc intervenir dès les premières étapes de la conception. L’ingénieur doit être capable de prendre du recul afin de faire des choix appropriés de matériaux, en se basant sur les sollicitations qui lui seront soumises.
+
+Les objectifs de ce module sont donc de donner aux étudiants, dans la continuité des modules de tronc commun de l’UE IDM (et en partie des UE GM et MSS), des connaissances approfondies sur l’endommagement des matériaux dans les structures mécaniques.
+
+Mots-clés : Endommagement des matériaux, mécanique de la rupture, fatigue, corrosion, tribologie.
+
+
+
+Programme
+Les grandes étapes de la vie d’une structure (2 heures)
+
+Déformation plastique et endommagement (2 heures)
+
+Mécanique de la rupture (4 heures)
+
+Endommagement par fatigue (6 heures)
+
+Eléments d’expertise des ruptures (2 heures)
+
+Tribologie et usure des contacts (4 heures)
+
+Corrosion (4 heures)
+
+Eléments de contrôle non destructif (2 heures)
+
+• Conférences industrielles (nucléaire, transport …) (4 heures)
+
+• Point au début et à mi-parcours sur le travail en autonomie (2 heures)
+
+◊ Comprendre des enjeux industriels majeurs liés au risque de ruine des structures,
+Compétences
+
+
+◊ Appréhender les différents mécanismes d'endommagement des matériaux,
+
+◊ Formaliser des outils prédictifs et mise en place de solutions palliatives.
+
+Objectifs : Ce travail vise à comprendre les différents types d'endommagements et à en
+Travail en
+
+autonomie
+appréhender les enjeux dans un secteur industriel précis ou pour un matériau donné.
+
+Méthodes : Etude bibliographique en binômes et si possible l'application des concepts vus en
+
+cours. Ce travail est accompagné d'une présentation du choix du sujet au début et d'un bilan à
+
+mi-parcours auprès d'un enseignant de l'UE.
+
+JP. BAILON, JM DORLOT. Des Matériaux. Presses internationales Polytechnique, 2000.
+Bibliographie
+
+
+C. BATHIAS, J.-P. BAILON. La fatigue des matériaux et des structures. Hermès - Lavoisier, 1997.
+
+J.-M. GEORGES. Frottement, usure et lubrification. Eyrolles, 2000.
+
+1 test écrit de 2 heures sans documents (savoir - 50%)
+Contrôle des
+
+connaissances
+1 exposé oral par binôme du travail effectué en autonomie (savoir-faire - 50%)
+
+
+
+
+
+

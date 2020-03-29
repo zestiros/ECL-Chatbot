@@ -1,0 +1,77 @@
+
+ AF MOS 7.5
+
+
+Energie et impact sur l'environnement
+
+Energy and environmental impact
+
+Responsable(s) : Jean-Pierre Cloarec
+
+| Cours : 12 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 20 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le secteur de l’énergie a une influence importante sur l’environnement, tant lors de la production de l’énergie, que pour son stockage, son transport et son utilisation. Le cours « Energie et impact sur l’environnement » a pour vocation de fournir aux futurs ingénieurs une culture de base et des exemples d'outils et de méthodes en matière environnementale, en lien avec les métiers du secteur énergétique et d’autres secteurs industriels majeurs (ex : transport).
+
+En fin de l'action de formation, les élèves devront en mesure de :
+-analyser un procédé de production d'énergie, du point de vue thermodynamique
+
+-diagnostiquer les améliorations possibles dans une installation industrielle de production d'énergie ; - analyser en termes environnementaux des documents scientifiques
+
+Mots-clés : dynamique des écosystèmes ; organisation des écosystèmes ; cycle du carbone ; changement climatique & filières énergétiques ; thermodynamique ; analyse exergétique ; polluants persistants ;
+
+
+
+Programme	1-Dynamique des systèmes écologiques
+Approche systémique.
+Organisation physique des écosystèmes.
+Transfert de matière et d'énergie à l'échelle locale, régionale, globale
+
+Changement climatique.
+
+2-Impact environnemental de filières énergétiques
+Stratégies de mitigation
+Etude horizontale de l'impact de filières industrielles
+Polluants organiques persistants: de la combustion aux impacts environnementaux
+
+3-Evolution des filières énergétiques
+Méthodes d'amélioration : analyse de cycle de vie, écoconception
+
+Evolutions technologiques : l'enjeu de la capture et du stockage de CO2. Evolution des architectures de centrales énergétiques.
+
+
+Compétences	◊ Comprendre et formuler un problème environnemental (hypothèses, ordres de grandeur, etc…)
+◊ Prendre en compte l'incertitude générée par la complexité d'une situation associant énergie et environnement
+
+◊ Associer les logiques économiques / responsabilité sociétale et écoresponsabilité
+◊ Approfondir rapidement un domaine reliant environnement et énergie
+
+Options /
+Conseillé pour l'option Energie
+Masters
+
+
+Joseph Martin, Pierre Wauters. Eléments de Thermodynamique Technique. Presses Universitaires de
+Bibliographie
+
+
+Louvain, 2014.
+
+François Ramade. Eléments d'Ecologie : Ecologie Appliquée. Dunod, 2003.
+
+François Ramade. Eléments d'Ecologie : Ecologie Fondamentale. Dunod, 2005.
+
+BE : 50% (savoir-faire)
+Contrôle des
+
+connaissances
+Examen individuel 2h: 50% (savoir)
+
+
+

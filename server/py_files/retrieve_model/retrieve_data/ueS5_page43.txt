@@ -1,0 +1,71 @@
+
+UE IDM
+
+In g é n i e r i e De s Ma t é r i a u x
+
+Material Engineering
+
+Direction : BERTHEL Bruno
+
+90hTD, 6ECTS
+
+
+Présentation
+
+Dans les processus de conception et de fabrication de pièces industrielles et de systèmes, l'ingénieur est amené à utiliser les matériaux à bon escient, voire même à leur donner des fonctionnalités nouvelles. Cette approche constitue le fondement de la démarche conception et de l'innovation. Elle met en œuvre un ensemble de connaissances du domaine des sciences pour l'ingénieur ; c'est ce que nous appelons l'ingénierie des matériaux. L'enseignement Ingénierie des Matériaux (IDM) proposé dans cette UE a pour objectif d'initier l'étudiant à la Science des matériaux en lui permettant d'aborder les problèmes posés aux différentes échelles, au regard du comportement du matériau et en prenant en compte tout son cycle de vie, depuis son élaboration jusqu'à son recyclage en passant par sa mise en forme, ses traitements spécifiques d'optimisation, et son endommagement. L'accent est mis sur les matériaux de structure et leur comportement, mais les propriétés électriques, thermiques et magnétiques sont aussi abordées. Ainsi, en organisant la pédagogie autour de l'acquisition d'un ensemble de connaissances, de savoir-faire et de méthodologies spécifiques, l'étudiant acquerra les compétences qui lui permettront de résoudre des problèmes industriels tout en ayant une mise en perspective des problématiques scientifiques sous-jacentes.
+
+
+
+
+Semestre
+
+S6 ou S7
+
+
+Département
+
+Département STMS
+
+
+Équipes d’enseignement
+
+Matériaux-Mécanique-Physique, Matériaux-Tribologie-Surface
+
+
+
+Programme
+
+IDM tc 1 : De la Matière aux Matériaux : Structure et Propriétés
+IDM tc 2 : Travaux Pratiques en Science et Génie des Matériaux et des Sur-faces
+
+
+Compétences visées par l’UE
+
+◊ Connaître les grandes familles de matériaux solides avec leur spécificité.
+◊ Connaître les procédés d’élaboration et de mise en œuvre des matériaux.
+◊ Connaître les lois de comportement mécaniques (élasticité, plasticité, rupture) des matériaux ainsi que leurs propriétés physiques.
+
+◊ Être capable d'expliquer les relations entre les procédés, les structures et propriétés mécaniques.
+◊ Savoir choisir un matériau pour une application donnée (identification des grandeurs physiques pertinentes / contexte économique).
+
+Pré-requis
+
+Cristallographie (réseaux, mailles, indices de Miller)
+Thermodynamique (1er et 2ème principe)
+
+Évaluation
+
+Moyenne pondérée : IDM tc1 : 70 %, IDM tc2 : 30 %
+
+
+
+
+
+
+
+
+
+
+
+
+

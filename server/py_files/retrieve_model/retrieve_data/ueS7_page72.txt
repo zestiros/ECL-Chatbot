@@ -1,0 +1,72 @@
+
+ AF GM a 1-FH
+
+
+Systèmes mécaniques polyarticulés
+
+Multibody mechanical systems
+
+Responsable(s) : Emmanuel Rigaud, Bertrand Houx
+
+| Cours : 12 h | TD : 12 h | TP : 12 h | Autonomie : 12 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les systèmes mécaniques polyarticulés représentent un large spectre d'applications pratiques depuis les systèmes ouverts, catégorie à laquelle se rattachent les robots industriels, jusqu'aux systèmes fermés omniprésents dans de nombreux mécanismes (bielle-manivelle, suspension automobile, essuie vitre, caténaire...).
+
+Le cours et les TDs présentent et mettent en oeuvre les méthodes générales de description, de modélisation et d'analyse, puis les outils de conception, de dimensionnement et de synthèse de ces systèmes.
+
+Les activités de Bureaux d'Etudes permettent de simuler intégralement et de visualiser le comportement d'un robot industriel et d'un système d'essuie-vitre automobile.
+
+Mots-clés : Robot ; Mécanismes ; Modèles géométriques, modèles cinématiques, modèles dynamiques
+
+
+
+Programme	Architecture générale d'un système mécanique articulé et éléments de construction (actionneurs, organes de transmission, capteurs).
+Modélisation de la structure mécanique articulée
+
+Chaînes cinématiques ouvertes : le cas de la robotique (Modèles géométriques, cinématiques et dynamiques)
+Chaînes cinématiques fermées : le cas des mécanismes
+BE Robot + BE Essuie-vitre de véhicule automobile
+
+A partir d'un cahier des charges imposé, il s'agit d'analyser les performances d'un système dont l'architecture est imposé ou de dimensionner le système mécanique sur une application simple mettant en évidence la problématique de la synthèse (recherche de solutions sous contraintes).
+
+
+Compétences	◊ Connaître les éléments technologiques et les règles de construction des systèmes mécaniques polyarticulés
+◊ Maîtriser les méthodes de modélisation géométriques et cinématiques des systèmes mécaniques polyarticulés
+
+◊ Modèle dynamique : appliquer les approches énergétiques pour calculer les efforts nécessaires
+à la mise en action des systèmes mécaniques polyarticulés
+◊ Mettre en œuvre les outils permettant la simulation intégrale et la visualisation du comportement des systèmes mécaniques polyarticulés
+
+Travail en
+Objectifs : Mettre en œuvre les outils de la simulation intégrale et la visualisation du comporte-
+autonomie
+ment des systèmes mécaniques polyarticulés
+
+Méthodes : Une fois les outils présentés et les modèles construits, l'autonomie (encadrée) permet
+
+d'évaluer les performances des systèmes mécaniques modélisés et de faire une synthèse de ces
+
+performances sous la forme de compte-rendu illustré.
+
+KHALIL W., DOMBRE E.. Modélisation, identification et commande des robots. Hermès, 1999.
+Bibliographie
+
+
+COIFFET P.. La robotique : principe et applications. Hermès, 1986.
+
+Savoir = test écrit individuel (50% note finale)
+Contrôle des
+
+connaissances
+Savoir-Faire = comptes-rendus écrits des deux Bureaux d'Etudes (25% + 25% note finale)
+
+
+
+

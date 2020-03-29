@@ -1,0 +1,104 @@
+
+Modules spécifiques options
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Les options (2019-2020)
+
+
+
+
+Option AE
+
+Aé r o nau t i q u e
+
+Aeronautical engineering
+
+Responsables : Jérôme Boudet, Olivier Dessombz 130h
+
+
+
+Présentation
+
+L'option aéronautique donne aux élèves des savoirs et savoir-faire utiles à la conception d'un aéronef. L'aéronautique est un secteur qui fait appel à une grande variété de disciplines. Dans le cadre de l'option, les élèves définissent leur propre parcours parmi les disciplines: aérodynamique, acoustique, automatique, matériaux, et mécanique des structures. La formation est conçue autour de projets. L'élève ingénieur est amené à mettre en œuvre un savoir académique intégrant des aspects tant transversaux que spécifiques. A partir de la conception simplifiée d'un avion d'affaires (projet commun), les différents projets spécifiques focalisent sur un élément (turboréacteur, voilure, fuselage…) ou sur une problématique (acoustique, matériaux, commandes...) afin d'évoluer par exemple vers un avion moins consommateur, moins polluant, ou moins bruyant.
+
+
+
+Départements/laboratoires
+
+LMFA, LTDS, Ampère
+
+
+
+Programme
+
+AE 3.1: cycle de conférences
+AE 3.2: projet de pré-dimensionnement d'un avion d'affaires
+
+Un projet spécifique, à choisir parmi quatre:
+AE 3.31: Acoustique et Vibrations
+AE 3.32: Automatique
+AE 3.33: Matériaux et Structures
+
+AE 3.34: Propulsion
+
+
+Compétences visées
+
+◊ Formuler un problème d'ingénierie dans le secteur de l'aéronautique
+◊ Modéliser un système complexe.
+◊ Analyser un problème pluridisciplinaire.
+◊ Mobiliser des savoirs et savoir-faire pour la conception détaillée d'un système.
+◊ 
+
+Débouchés
+
+Groupe SAFRAN (Safran Aircraft Engines, Safran Helicopter Engines, Safran Nacelles, ...), groupe Airbus (Airbus, Air-bus Helicopters), Dassault Aviation, ONERA, CNES Toulouse, Hexcel composites…
+
+Pré-requis
+
+Tronc commun de l'ECL, ou équivalent.
+Pour le projet Propulsion (AE 3.34): un MOS à choisir entre 1.1 et 3.5, et un MOS à choisir entre 5.4 et 7.1.
+
+Évaluation
+
+AE 3.1 : 15%, AE 3.2 : 25%, AE 3.3 (1,2 ou 3) : 60%
+
+Site web de l’option
+
+
+Informations complémentaires
+
+
+
+
+
+
+
+
+
+
+

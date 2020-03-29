@@ -1,0 +1,81 @@
+
+ AF IDM tc 1
+
+
+De la Matière aux Matériaux : Structure et Propriétés
+
+From Matter to Materials: Structure and Properties
+
+Responsable(s) : Bruno Berthel
+
+| Cours : 8 h | TD : 32 h | TP : 0 h | Autonomie : 10 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce module présente un ensemble de connaissances de base sur les matériaux utilisés actuellement (alliages métalliques, céramiques, polymères, composites), sur leurs structures et leurs propriétés et les moyens de caractériser celles-ci. En particulier, l’approche utilisée permettra de montrer le lien entre les propriétés (mécaniques et physiques) et la structure de la matière étudiée à l’échelle pertinente en fonction de la propriété visée (du nano au macroscopique pour les propriétés physiques et mécaniques).
+
+Mots-clés : Comportement mécanique des matériaux (élasticité, plasticité, rupture, fatigue, fluage), cristallographie, traitement thermique, alliages métalliques, verres, polymères, composites, physique du solide, conductivité électrique.
+
+
+Programme	Introduction générale sur l’ingénierie des matériaux
+§ 1 : Matériaux : propriétés mécaniques, structure
+§ 2 : Les familles de matériaux : élaboration, adaptation des propriétés
+§ 3: Propriétés physiques des matériaux
+
+
+Compétences	◊ Connaître les grandes familles de matériaux solides et leur spécificité
+◊ Connaître les procédés d’élaboration et de mise en œuvre des matériaux
+◊ Être capable d'utiliser les lois de comportement mécaniques (élasticité, plasticité, rupture) des matériaux
+
+◊ Connaître les propriétés physiques des matériaux
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : Acquisition et restitution orale de connaissances, mise en situation et résolution de problème.
+
+Méthodes : Travail personnel et travail en groupe.
+
+J.-P. Baïlon et J.-M. Dorlot. Des matériaux. Presses internationales polytechnique Montréal, 2002.
+
+M. Ashby et D. Jones. Matériaux (Tomes 1 et 2). Edition Dunod, 2008.
+
+C. Kittel. Physique de l'état solide. Edition Dunod, 2007.
+
+
+Test 2 heures avec documents Micro-tests sans documents et présentations orales en TD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

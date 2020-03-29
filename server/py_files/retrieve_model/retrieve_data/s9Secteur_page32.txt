@@ -1,0 +1,67 @@
+
+ AF BIO 3.2
+
+
+Interactions matériau-vivant
+
+Living-material interactions
+
+Responsable(s) : Emmanuelle Laurenceau, Vincent Fridrici
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+A travers cette AF, les aspects fondamentaux liés aux phénomènes biologiques, physico-chimiques et mécaniques impliqués lors du contact entre une surface et un milieu biologique seront traités. Le lien avec la bio-ingénierie des interfaces et son application sera abordé sous diverses formes : analyses d’articles, réalisation de dispositifs, bureau d’étude
+
+Mots-clés :
+
+
+
+Programme	Cours (3h) :
+- Physico-chimie des interfaces
+- Biomécanique des interfaces
+
+BE (4h) : Tribo-mécanique du tissu vivant
+
+TP (6h) : Réalisation d’un biocapteur à glucose
+
+TD (2h) : Restitution de l’analyse d’articles scientifiques
+
+
+Compétences	◊ Comprendre les enjeux biomécaniques du vieillissement et de la médecine prothétique
+◊ Connaître quelques techniques de caractérisation des tissus vivants
+◊ Mise en place d’un protocole expérimental
+◊ Rédiger un rapport technique complet, correctement référencé
+
+
+
+
+Contrôle des 35% savoir (rapport écrit du BE), 35% savoir-faire (compte-rendu d’atelier), 30% méthodologie connaissances (Présentation orale)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

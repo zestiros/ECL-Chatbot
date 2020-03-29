@@ -1,0 +1,97 @@
+
+ AF MOS 4.3
+
+
+Informatique d'entreprise
+
+Managing business information systems
+
+Responsable(s) : Daniel Muller, Mohsen Ardabilian
+
+| Cours : 0 h | TD : 28 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+A travers une série de conférences animées par des professionnels, ce cours vise à apporter une meilleure connaissance des systèmes, applications, méthodes, et métiers de l'informatique en entreprise, dont les réalités sont souvent très différentes et beaucoup plus riches que la vision que peuvent en avoir les étudiants.
+
+Mots-clés : Informatique d'entreprise, systèmes d'information, métiers de l'informatique
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+Options /
+
+Masters
+
+
+
+Contrôle des connaissances
+
+
+
+Voici quelques conférences ayant eu lieu les années précédentes :
+
+"e-payment services", Cédric Lamarzelle, Atos Worldline "Architecture orientée services", Matthieu Girardin, CGI
+
+"Informatique et libertés", Correspondant informatiques et libertés, Centrale Lyon "Virtualisation HPC et Big Data", Jean-Daniel Bonnetot, OVH,
+
+"Les métiers de l'Open-Source", Valentin Clavreul, Smile "Outsourcing Applicatif", Philippe Ihuel, Sopra Group "Le SI des opérations", Xavier Leblanc, L'Oréal
+
+En fonction de la disponibilité des entreprises et des intervenants, d'autres sujets pourront être abordés, comme : Intelligence économique et sécurité des SI, Cloud Computing, Applications mobiles, ERP, CRM, CMS, etc.
+
+◊ Appréhender la complexité et la diversité de l'informatique en entreprise
+◊ Avoir une idée des divers métiers de l'informatique en entreprise
+
+Informatique
+
+
+
+QCM portant sur l'ensemble des conférences, basé sur des questions remises par chacun des intervenants
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

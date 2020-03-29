@@ -1,0 +1,79 @@
+
+ AF ELC C-5
+
+
+Analyser et observer la matière
+
+Observation and Analysis of Materials
+
+Responsable(s) : Fabrice DASSENOY, Magali PHANER
+
+| Cours : 22 h | TD : 8 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les importants progrès de la science de la matière sont intimement liés au développement de méthodes permettant de caractériser un solide à l'échelle microscopique. La plupart des techniques d'analyse sont basées sur l'interaction de particules-sondes (photon, électron, ion) avec la matière.
+
+On alternera un enseignement de base portant sur les concepts physiques sur lesquels reposent les principales techniques d'analyse et d'observation des matériaux et une description du principe et des applications de certaines techniques couramment utilisées (spectroscopie de photoélectron XPS, diffraction X, microscopie électronique et à champ proche (STM, AFM)).
+
+L'objectif final est de permettre au futur ingénieur de savoir choisir la ou les techniques appropriées à sa problématique industrielle.
+
+Mots-clés : Interaction rayonnement/matière, techniques de caractérisation des matériaux, XPS, RBS, XRD, IR, Microscopie électronique
+
+
+Programme	- Introduction : Classification des différents processus d'interactions
+- Interaction photon-matière
+- Niveaux d'énergie et Spectroscopie IR
+- Technique de diffraction X
+- Techniques XPS et IR
+- Interaction ion /matière
+- Techniques RBS et SIMS
+- Interaction électron/matière
+- Techniques de microscopies électroniques (TEM/MEB)
+- Techniques de spectroscopies électroniques (EDX/EELS)
+- Microscopies champ proche tunnel et AFM
+- Visite des installations des laboratoires LTDS + INL (2h) et définition de la problématique à traiter en autonomie.
+
+- Travail en autonomie puis restitution/présentation des résultats
+
+
+Compétences	◊ Connaitre les principes de base des principales techniques de caractérisation des matériaux
+◊ Connaitre les informations accessibles par ces différentes techniques
+◊ Savoir choisir une technique d'analyse en fonction de la problématique industrielle
+
+
+
+Travail en autonomie
+
+
+
+
+
+
+Bibliographie
+
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : L'objectif du travail en autonomie est de résoudre une problématique complexe basée sur la caractérisation des matériaux.
+
+Méthodes : Les élèves devront interpréter des résultats issus de différentes techniques de carac-térisation afin de pouvoir, en les combinant, déterminer la composition chimique ainsi que la structure d'un matériau inconnu.
+
+
+M. Ammou. Microcaractérisation des solides. CRAM CNRS, 1989.
+
+D. Brune. Surface Characterization. Wiley-VCH, 1997.
+
+R. W. Cahn. Materials Science and Technology. VCH Weinheim, 1994.
+
+
+Test de 2 heures portant sur cours et travaux dirigés (avec documents) + notes sur la restitution du travail en autonomie

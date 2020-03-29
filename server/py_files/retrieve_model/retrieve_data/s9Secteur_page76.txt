@@ -1,0 +1,68 @@
+
+ AF IM 3.1
+
+
+Mathématiques en situation
+
+Mathematics in action
+
+Responsable(s) : Christophette Blanchet, Céline Helbert, Laurent Seppecher
+
+| Cours : 12 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Dans cette action de formation, les élèves vont tout à la fois approfondir leurs connaissances dans les techniques de mathématiques avancées, et enrichir leur expérience dans les applications des modèles mathématiques. Des conférences par des acteurs du monde industriel sont organisées, permettant aux élèves d'appréhender les différentes facettes du métier d'ingénieur mathématicien. Des mini-cours sur des domaines très recherchés en mathématiques appliquées sont proposés.
+
+Mots-clés : Applications des mathématiques. Simulation numérique et aléatoire.
+
+
+
+Programme	Méthodes statistiques pour l'exploration de grands codes de calcul industriels (plan d'expériences, krigeage, analyse de sensibilité, optimisation par processus gaussiens)
+Méthodes numériques pour la compression et les problèmes inverses en traitement d’images
+Techniques mathématiques : compléments
+Conférences sur le métier d'ingénieur mathématicien
+
+
+Compétences	◊ Mettre au point et critiquer un modèle mathématique décrivant un phénomène complexe
+◊ Analyser un modèle mathématique, déterministe ou aléatoire
+◊ Mettre en œuvre une simulation sur machine à l'aide d'un logiciel adapté
+◊ Connaître les différents métiers qui s'ouvrent à un ingénieur en lien avec les mathématiques
+
+
+
+
+Contrôle des	Rendus de BE
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

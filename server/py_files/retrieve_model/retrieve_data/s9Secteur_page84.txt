@@ -1,0 +1,76 @@
+
+ AF ADE 3.3
+
+
+Systèmes et outils d'aide à la décision
+
+Decision support systems
+
+Responsable(s) : Sylvie Mira Bonnardel
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Découvrir les systèmes d’information d’aide à la décision
+Comprendre leur positionnement dans le système d’information de l’entreprise
+Analyser leur contribution à la performance de l’entreprise
+Distinguer les différentes offres disponibles sur le marché
+
+Mots-clés : outils d'aide à la décision, système d’information, reporting, tableaux de bord
+
+
+
+Programme	Les systèmes d'information (SI)
+Business intelligence et SI décisionnels
+Tableaux de bord
+Data warehouse et data mining
+
+
+Compétences	◊ Connaître l’écosystème décisionnel et les facteurs clés de succès dans la réalisation d’un projet de BI (Business Intelligence)
+◊ Identifier des KPI (Key Performance Indicators) pour chacune des grandes fonctions de l’entreprise et déterminer des axes d’analyse pour l’aide à la décision
+
+◊ Prendre en main des solutions de BI (open source)
+◊ Savoir créer un état pour générer un rapport
+
+Travail en
+Objectifs : Mettre en forme des tableaux de bord
+autonomie
+Méthodes : Extraction et gestion de données
+
+Foucard JL.. La Boîte à outils du Pilote des Systèmes d'Information. Dunod, 2010.
+Bibliographie
+
+
+Laudon K. Management des systèmes d'information. Pearson, 2010.
+
+Selmer C.. Concevoir le tableau de bord. Dunod, 2011.
+
+Etude de cas
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

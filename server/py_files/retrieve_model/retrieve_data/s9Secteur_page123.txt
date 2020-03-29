@@ -1,0 +1,78 @@
+
+ AF MOS 5.3
+
+
+Problèmes en domaines non bornés : analyse mathématique et simulation numérique
+
+Physical problems in unbounded media : mathematical analysis and numerics
+
+Responsable(s) : Laurent Seppecher, Gregory Vial
+
+| Cours : 10 h | TD : 6 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le but de ce cours est de donner les bases mathématiques pour l'étude d'équations aux dérivées partielles posées dans des domains non bornés. On se concentre sur des problèmes modèles (équation de Laplace, de Helmholtz, des ondes) pour présenter le cadre mathématique et les principales méthodes numériques adaptées à ces problèmes.
+
+Mots-clés : Phénomènes de propagation. Équations aux dérivées partielles. Domaines non bornés.
+
+
+
+Programme	Chapitre 1. Généralités pour les problèmes stationnaires et harmoniques.
+
+Chapitre 2. Problèmes instationnaires
+
+Chapitre 3. Étude détaillée du problème de Helmholtz harmonique dans l'espace libre.
+
+
+Compétences	◊ Être capable d'identifier les conditions à imposer pour qu'un problème en domaine non borné soit bien posé
+◊ Être capable de mettre en place une méthode numérique pour un problème en domaine non borné
+
+◊ Savoir quantifier l'erreur commise par la méthode numérique.
+
+Options /
+option mathématiques et décision (filière MIR), masters Mathématiques appliquées, statistique.
+Masters
+Aéronautique et espace, Acoustique.
+
+J.-C. Nédelec. Acoustic and Electromagnetic Equations. Springer, 2001.
+Bibliographie
+
+
+D. Givoli. Numerical Methods for Problems in Infinite Domains. Elsevier, 1992.
+
+L. Lehmann. Wave Propagation in Infinite Domains. Springer, 2007.
+
+Un test écrit + notes de B.E.
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

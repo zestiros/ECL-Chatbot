@@ -1,0 +1,66 @@
+
+ AF NANO 3.4
+
+
+Nano-optiques
+
+Nano-optics
+
+Responsable(s) : Christelle Monat & Virginie Monnier
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Au travers de cette AF, les élèves-ingénieurs seront amenés à élaborer, en utilisant les nanotechnologies, des dispositifs optiques présentant des propriétés de diffraction/ réflexion particulières issues de leur structuration périodique à l’échelle de la longueur d’onde. Différents types de systèmes périodiques seront étudiés, élaborés aussi bien par voie physique
+à partir de couches minces (technologie salle blanche) que par voie chimique (à partir de dispersions colloïdales). Leurs propriétés structurales ainsi que leurs propriétés optiques seront simulées et caractérisées.
+
+Mots-clés :
+
+
+
+Programme	BE (2h) : structures périodiques, cristaux photoniques et opales synthétiques.
+TP1 (4h) : simulation de propriétés optiques de cristaux photoniques.
+TP2 (4h) : élaboration d’opales synthétiques par voie chimique.
+TP3 (4h) : fabrication en salle blanche de miroirs de Bragg.
+TP4 (3h) : caractérisation optique par réflectivité.
+TP5 (3h) : caractérisation structurale par microscopie électronique à balayage.
+
+
+Compétences	◊ Comprendre les enjeux et problématiques des cristaux photoniques et l’origine des propriétés des structures périodiques.
+◊ Connaître et utiliser quelques techniques de la salle blanche, de chimie colloïdale et de caractérisations structurales et optiques.
+
+◊ Savoir simuler les propriétés optiques de quelques structures photoniques.
+◊ Rédiger un rapport technique complet, correctement référencé
+
+
+
+
+Contrôle des 30% savoir (réponses aux questions théoriques), 30% savoir-être (implication et participation connaissances active), 40% méthodologie (rédaction d’un compte-rendu)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

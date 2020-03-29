@@ -1,0 +1,80 @@
+
+ AF MOD 4.3
+
+
+Combustion pour la propulsion
+
+Combustion
+
+Responsable(s) : Mikhael GOROKHOVSKI, Alexis GIAUQUE
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours a pour objectif d'appréhender les phénomènes de combustion dans les milieux gazeux. Les domaines d'application vont de la production d'énergie à l'étude des risques d'incendie. Un point particulier est la pollution par les gaz de combustion. Ce cours s'appuie sur des connaissances de base en thermodynamique classique et chimique, qui seront complétées par les éléments nécessaires de cinétique chimique. Il constitue aussi une extension aux milieux réactifs des notions de mécanique des fluides, support des équations locales de conservation. Très globalement, l'étude de la combustion peut être abordée à différents niveaux, le minimum étant l'aspect énergétique global, indispensable pour appréhender l'énergétique industrielle. Les autres aspects sont très synthétiques, et la théorie d
+
+Mots-clés : Combustion, Mécanique, Inflammation, Diffusion, Mélange, Sprays, Cinétique, Énergétique
+
+
+
+Programme	I - Thermodynamique chimique. Température adiabatique de flamme. Équilibres chimiques
+II - Taux de réaction chimique Mécanismes cinétiques de la combustion. Température d'inflammation et limites d'inflammabilité.
+
+III - Rappel des équations de conservation des systèmes réactifs : Diffusion, Énergie et Bilan dynamique dans le milieu fluide en mouvement.
+
+IV - Combustion en systèmes homogènes et explosions.
+V - Flammes de prémélange. Onde de détonation. Flammes laminaires
+VI - Flammes de diffusion. Modèles des flammes laminaires de diffusion. Flammes turbulentes et stabilisation de la combustion.
+
+VIII - Combustion des sprays. Combustion d'une goutte. Milieu diphasique.
+IX - Nouvelles tendances dans la combustion industrielle. Oxy-combustion, Combustion " verte ", Recirculation des gaz
+
+
+Compétences	◊ Savoir faire les bilans massiques et énergétiques des combustions pratiques
+◊ Savoir exprimer les termes de cinétiques dans les équations de bilan locales de mécanique des fluides, et des hypothèses simplificatrices.
+
+◊ Connaitre les particularité des flammes turbulentes, de diffusion et de prémélange.
+
+
+
+Masters
+
+affiliés
+
+
+Bibliographie
+
+
+
+
+
+Contrôle des connaissances
+
+
+Master MEGA Thermique et énergétique
+Options Energie, Transport et Trafic, Aéronautique.
+
+R. BORGHI et M. DESTRIAU. La combustion et les flammes. Editions Technip, 1995.
+
+K.K. KUO. Principles of Combustion. Wiley-Interscience Publication, 2005.
+
+I. GLASSMAN & RA. YETTER. Combustion. Elsevier, 2008.
+
+
+Examen de deux heures en fin de module (savoir)
+Compte-rendus de bureau d'études (savoir faire)
+
+Note globale = 50%Savoir = 50 % Savoir faire
+
+
+
+
+
+
+

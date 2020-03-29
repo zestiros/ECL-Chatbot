@@ -1,0 +1,91 @@
+
+ AF ELC A-2
+
+
+Les métamatériaux mécaniques
+
+Mechanical Metamaterial : Functionalized by design
+
+Responsable(s) : O. Bareille, M. Collet
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les métamateriaux sont des matériaux artificiels présentant une structuration interne plus petite que la longueur d'onde leur permettant d'adopter un comportement ondulatoire sans équivalent dans les matériaux à l'état naturel. Dans le cas de l'acoustique, ils donnent lieu à des applications très importantes dans des domaines de l'ingénierie aussi divers que l'isolation phonique, la vibroacoustique, la furtivité en acoustique sous-marine, la réalisation de transducteurs. Les technologies associées suscite d'ors et déjà l'intérêt de nombreux industriels. L'objectif principal de ce cours est de donner une formation d'ensemble aux étudiants de l'Ecole Centrale de Lyon sur la thématique des métamatériaux et la capacité qu'ils offrent pour répondre à des problèmes d'ingénierie.
+
+Mots-clés : Ondes, Vibrations, Acoustiques, Matériaux adaptatifs, optimisation, traitements des nuisances vibroacoustiques
+
+
+
+Programme
+1. Propagation des ondes: retour sur les bases
+
+2. Modelisation
+
+a) Méthode Analytiques et semi-analytique SAFE
+
+b) WFE : Wave Finite Elements
+
+c) Shift Cell Operator pour introduire des métamatériaux couplés multiphysiques
+
+d) L'approche d'expansion en ondes PWE
+
+3. Le Design de structures en utilisant les propriétés des bandes interdites de Bragg ou
+
+résonnantes :
+
+a) Diffusion d'énergie: Contrôle de la réflexion et de l'absorption
+
+b) La finitude : une limite à l'efficacité des bandes interdites
+
+c) Au délà des bandes interdites
+
+• La focalisation
+
+• La rupture de réciprocité et les diodes
+
+• L'invisibilité
+
+◊ Comprendre un phénomène de bandes interdites
+Compétences
+
+
+◊ Calculer les diagrammes de dispersion d'un métamatériaux
+
+◊ Optimiser le comportement d'une interface de métamatériaux
+
+◊ caractériser son comportement et apréhender les effets originaux observables
+
+Objectifs : L'objectif du travail en autonomie est de mettre en oeuvre sur un exemple concret un
+Travail en
+
+autonomie
+aspect du cours portant soit sur la modélisation, l'optimisation ou la réalisation et la caractérisa-
+
+tion de métamatériaux mécaniques
+
+Méthodes : La méthode utilisée repose sur la réalisation de mini-projets de 14h par groupes de 6
+
+élèves. Chaque groupe profitera de 8h d'encadrement sur l'appropriation et la méthodologie. Une
+
+restitution finale des résultats sera faite devant la classe.
+
+La note sera composée :
+Contrôle des
+
+connaissances
+1/3 par le résultat d'un QCM
+
+1/3 par l'évaluation du rapport de projet
+
+1/3 par la note de la restitution donnée par la classe
+
+
+
+

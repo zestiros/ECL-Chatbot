@@ -1,0 +1,81 @@
+
+ AF FLE a 3-EG
+
+
+Ecoulements supersoniques
+
+Supersonic Flows
+
+Responsable(s) : Isabelle Trébinjac
+
+| Cours : 16 h | TD : 16 h | TP : 2 h | Autonomie : 10 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours est consacré aux écoulements compressibles à haute vitesse et à l’étude de la propagation des ondes de pression, ondes de détente et ondes de choc. Il est un prolongement du cours de Fluides et Energie du tronc commun en proposant un approfondissement des connaissances en dynamique des gaz. Les applications traitées concernent essentiellement l'aérodynamique externe autour des engins à grande vitesse.
+
+Mots-clés : Ecoulements compressibles – Ecoulements supersoniques – Onde de choc – Onde de détente
+
+
+
+Programme	Introduction
+Equations de conservation
+Ecoulements quasi-unidimensionnels
+Ondes de choc normales
+Ecoulements bi-dimensionnels
+Ondes de choc obliques et ondes de détente
+Interactions et ondes instationnaires
+Ecoulements linéarisés
+
+
+Compétences	◊ Déterminer le comportement d’un fluide compressible soumis à des sollicitations thermiques ou mécaniques
+◊ Dimensionner une tuyère convergente-divergente sous différentes conditions aval
+◊ Calculer les structures d’écoulement se développant autour d’un obstacle immergé dans un écoulement supersonique
+
+◊ Réaliser une analyse comparée et critique de résultats expérimentaux, numériques et analytiques
+
+Travail en
+Objectifs : mettre en application les notions théoriques de cours
+autonomie
+confronter des résultats analytiques, numériques et expérimentaux
+
+Méthodes : Méthode 1 : dimensionner un statoreacteur et réaliser l’étude paramétrique des ses
+
+performances
+
+
+Méthode 2 : analyser et comparer les structures d’écoulement supersonique autour d’un profil en
+
+losange (essai réalisé dans une soufflerie supersonique)
+
+John D. Anderson. Modern compressible Flow. Mc Graw Hill, 2003.
+Bibliographie
+
+
+A. H. Shapiro. Compressible Fluid Flow
+T1. Ronald, 1953.
+
+A. H. Shapiro. Compressible Fluid Flow
+T2. Ronald, 1953.
+
+Note= 0.3* BE + 0.7* Examen
+
+Contrôle des
+
+
+connaissances
+BE = note de savoir-faire et l’examen la note de savoir
+
+
+Examen = test écrit de 2h sans document avec formulaires fournis
+
+
+
+
+
+

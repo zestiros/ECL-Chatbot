@@ -1,0 +1,73 @@
+
+ AF MOM 4.2
+
+
+Risques Naturels
+
+Environmental Hazards
+
+Responsable(s) : Richard PERKINS, Pietro SALIZZONI
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours   |
+
+
+Objectifs de la formation
+
+
+Entre 1994 et 2013 les catastrophes naturelles telles que les inondations, les sécheresses, les cyclones, les tsunamis, les séismes et les éruptions volcaniques ont emporté plus que 600 000 vies, ont touché plus que 3 milliards de personnes et ont coûté plus que $2 billions en pertes économiques. Des évènements naturels sont souvent à l'origine des accidents industriels comme, par exemple, le tsunami qui a provoqué l'accident de la centrale nucléaire à Fukushima. Et le changement climatique risque d'augmenter la fréquence et l'intensité des évènements extrêmes
+
+L'objectif de ce cours est donc de présenter les risques naturels et les techniques de prévention, de prévision et de protection pour chaque type de risque.
+
+Mots-clés : Risques naturels, hazard, aléas, catastrophe, prévention, sécurité, tectonique, séisme, volcan, tsunami, glissement de terrain, lahar, avalanche, crue, barrage, cyclone
+
+
+
+Programme
+Définition du risque
+
+Les types d'aléa, leur distribution dans le monde, leurs conséquences - les notions de fréquence,
+
+d'intensité et de vulnérabilité
+
+Les risques naturels
+
+Les risques tectoniques (volcans, séismes, glissements de terrain, avalanches...)
+
+Les risques météorologiques et hydrologiques (crues, inondations, orages, tsunamis,
+
+effondrement barrage...)
+
+Les risques technologiques et les différentes approches utilisées pour la modélisation du risque
+
+sont abordées dans les Modules Spécifiques du Métier Ingénieur Management des Risques
+
+Industriels et Environnementaux.
+
+Ce cours est un module du Master Risque et Environnement.
+
+
+Compétences	◊ Identifier les différents dangers naturels auxquels un site est exposé.
+◊ Connaître les ordres de grandeur associées aux différents évènements.
+◊ Appréhender les éléments principaux de la législation française sur les risques naturels et technologiques.
+
+◊ Définir les différents composants d'un Plan de Prévention des Risques (Naturels, Technologiques...)
+
+
+Bibliographie	SMITH, K. & PETLEY, D.N. Environmental Hazards: Assessing Risk and Reducing Disaster.
+Routledge, 2009.
+
+CHILES, J.R. Inviting Disaster: Lessons from the Edge of Technology. Harper, 2002.
+
+BEDFORD, T & COOKE, R. Probabilistic Risk Analysis: Foundations and Methods. Cambridge Univ.
+Press, 2001.
+
+
+Contrôle des	Savoir (70%): QCM sur chaque cours Savoir-faire (30%): Etude bibliographique
+
+connaissances
+
+
+
+
+
+

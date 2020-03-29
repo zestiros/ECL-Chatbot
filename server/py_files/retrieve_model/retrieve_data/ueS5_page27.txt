@@ -1,0 +1,60 @@
+
+ AF STI tc 3
+
+
+Conversion Analogique-Numérique pour les systèmes audio
+
+Analog to Digital Conversion
+
+Responsable(s) : Julien Huillery et Sébastien Le Beux
+
+| Cours : 0 h | TD : 0 h | TP : 6 h | Autonomie : 0 h | BE : 2 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+A travers l'étude de la conversion analogique-numérique, cette AF illustre la complémentarité de l'électronique et du traitement du signal pour la conception des systèmes de gestion de l'information. Le fonctionnement, la simulation puis la réalisation d'un convertisseur analogique-numérique "Sigma-Delta" seront étudiés. Ce convertisseur présente un excellent comportement vis-à-vis de l'erreur de quantification inhérente à la conversion analogique-numérique. Ces bonnes performances justifient son utilisation importante dans le domaine de l'audio pour des applications grand public telles que les lecteurs-enregistreurs de CD. Dans cette AF nous nous attachons à mettre en évidence le lien entre les aspects théoriques et techniques qui accompagne la conception d'un système électronique.
+
+Mots-clés : conversion analogique-numérique, systèmes électroniques, modulateur Sigma-Delta, signal numérique, quantification, rapport signal sur bruit, filtrage.
+
+
+Programme	Première séance (BE 2 h) : Conversion uniforme
+I - Présentation de la problématique de la conversion analogique/numérique.
+II - Principe et propriétés de la conversion analogique/numérique uniforme.
+Activité Pratique (1h) : Simulation et étude d'un convertisseur uniforme sous matlab
+
+Deuxième séance (BE 2 h) : Conversion Sigma-Delta
+III - Principe et propriétés du convertisseur Sigma-Delta.
+
+Activité Pratique (1h) : Simulation et étude d'un convertisseur Sigma-Delta sous matlab/simulink
+
+Troisième séance (TP 4 h) : Réalisation électronique d'un modulateur Sigma-Delta
+Conception du circuit électronique réalisation une modulation Sigma-Delta Observation et analyse des signaux dans l'espace des temps et des fréquences
+
+
+Compétences	◊ Savoir décrire le principe théorique du convertisseur Sigma-Delta
+◊ Être capable de conduire une simulation du système sous Matlab-Simulink
+◊ Être capable de concevoir un circuit électronique réalisant un modulateur Sigma-Delta
+◊ Être capable d'analyser des signaux dans l'espace des temps et des fréquences
+
+
+
+Bibliographie	Sangil Park. Principles of Sigma-Delta modulation for analog-to-digital converters. Rapport Technique Motorola APR8.
+
+Joshua Reiss. Understanding sigma–delta modulation: the solved and unsolved issues. Journal of the Audio Engineering Society, 2008.
+
+
+Contrôle des Un compte-rendu est à remettre à la fin de chacune des 3 séances. La note de l'AF (savoir-faire connaissances uniquement) correspond à la moyenne des 3 notes.
+
+
+
+
+
+
+
+
+

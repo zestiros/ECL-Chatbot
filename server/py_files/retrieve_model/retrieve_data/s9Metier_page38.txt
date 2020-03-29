@@ -1,0 +1,114 @@
+
+Enseignements semestre 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOM - Modules ouverts métiers 2019-2020
+
+
+ AF MOM 1.1
+
+
+Systèmes d'ingénierie
+
+Engineering Systems
+
+Responsable(s) : Patrick SERRAFERO
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours   |
+
+
+Objectifs de la formation
+
+
+Le management de la conception des produits matériels complexes - souvent mécatroniques - nécessite la mise en œuvre de procédures spécifiques basées sur une vision systémique. Ces procédures utilisent des outils modernes de simulation, de communication et d'aide à la décision et répondent à plusieurs impératifs (robustesse, délai, coût) que doit respecter le couple Produit/Process. Le cours présente les concepts de base et les principaux outils d'analyse utilisés via des exemples concrets (automobile, ferroviaire, aéronautique, génie civil, biens d'équipement...). Bien que centré sur la phase de conception, il introduit les liens entre les autres phases du projet: stratégie, marketing et commercialisation, production et maintenance, gestion des ressources humaines et management.
+
+Mots-clés : Système mécatronique complexe, spécification, conception, optimisation, innovation, retour d'expérience, maquette numérique, CAO, FAO, PLM, KLM, risques, coûts, évaluation, démarche qualité, Ingénierie Système.
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+Travail en autonomie
+
+
+
+Avec l'aide de plusieurs exemples issus du monde industriel, l'enseignement mettra en avant la
+vision produit et les procédés de conception.
+Vision produit/process :
+Analyse client - Analyse fonctionnelle - Définition des architectures - Configurations - Systèmes d'information produit - Organisation des modèles - Retour d'expérience et qualité - Congruence. Processus de conception :
+
+Vision du produit et cycle en V - Ingénieries concurrentes - Capitalisation des règles "métier" - Évaluation des coûts et analyse de risque - Prise en compte du process de fabrication - Eco-conception.
+
+◊ Comprendre l'évolution des systèmes techniques du 21ème siècle vers la congruence
+◊ Distinguer les structures fonctionnelles et organiques d'un système mécatronique innovant
+◊ Concevoir un système mécatronique innovant selon la démarche du cycle en V
+
+Objectifs : Rédiger une monographie système en binôme ou en trinôme.
+Méthodes : Appliquer les concepts de la méthodologie d'Ingénierie Système à la rédaction de la monographie système.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

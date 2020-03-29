@@ -1,0 +1,84 @@
+
+ AF INF a 2-FH
+
+
+Stratégies de Résolution de Problèmes
+
+Problem Solving Issues
+
+Responsable(s) : Alexandre Saidi
+
+| Cours : 8 h | TD : 0 h | TP : 28 h | Autonomie : 12 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Approfondir les connaissances des élèves en Analyse d’Algorithmes et en Méthodes de résolution performantes et Programmation.
+
+Etude d’algorithme et calcul de complexité, équation et relation caractéristique, question de la récursivité et de sa transformation, Algorithmes à essais successifs et retours arrières, Divers types et stratégies de parcours de graphes (en largeur, en profondeur, Best First, Hill Climbing, A et A*, …), Programmation Dynamique, Branch et Bound, … à travers des exemples réputés.
+
+Mots-clés : Algorithmes, Analyse, et Complexité, recherche dans les Graphes.
+
+
+
+Programme
+Analyse et calcul de complexité des algorithmes
+
+Résolution de l’équation caractéristique pour le calcul des complexités
+
+Exemples de calcul de Complexité
+
+Récursivité (CAML)  et sa transformation
+
+Introduction courte aux TDAs et les types de données remarquables
+
+Stratégies de résolution Algorithmique (vs. Mathématique)
+
+Parcours de graphes
+
+Stratégie Diviser et Régner
+
+• Programmation Dynamique
+
+• Algorithmes à essais successifs, Back Tracking
+
+• Branch and Bound
+
+• A,A*, …
+
+
+Compétences	◊ Appréhender les concepts fondamentaux et les principales structures , Etre Capable d'analyser les algorithmes,
+◊ Être capable de prendre en charge leur complexité
+◊ Appréhender les stratégies remarquable de recherche de solutions dans un espace d’états (graphes), Connaître et appliquer les algorithmes "remarquables".
+
+Travail en
+Objectifs : Mise en pratique du programme
+autonomie
+Méthodes : A travers deux projets simples puis un projet de taille importante.
+
+Aho, Hopcraft, Ullman. The Designe and Analysis of Computer Algorithms. Ad. Wesley, 1974.
+Bibliographie
+
+
+Gondran Minoux. Graphes et Algorithmes. Eyrolles, 1995.
+
+Neapolitan, Naimipour. Foundation of Algorithms. DC Health et Co., 1996.
+
+Savoir faire : 50% répartis en 10%+10%+30% (3 BEs)
+Contrôle des
+
+connaissances
+Savoir : 50% test écrit final.
+
+
+
+
+
+
+
+
+

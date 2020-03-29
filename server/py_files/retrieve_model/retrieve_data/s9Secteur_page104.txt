@@ -1,0 +1,86 @@
+
+ AF MOS 1.3
+
+
+Calculs Avancés en Dynamique des Véhicules
+
+Vehicle Design
+
+Responsable(s) : Olivier Bareille et Mohamed Ichchou
+
+| Cours : 0 h | TD : 28 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce module propose les concepts de base liés à la conception dynamique des véhicules. Les véhicules roulants seront principalement traités. Le module se base sur une analyse systémique permettant d'aborder les principales fonctions dynamiques des véhicules et leur conception. Ainsi, les notions de confort et de comportement dynamique seront exposées. Les différents niveaux de modélisation requis pour la conception sont également offerts. Les principaux organes des véhicules intervenants dans les fonctions précitées sont considérés. La modélisation des pneumatiques et du contact roue-rail, seront, étayés pour exemple. Le cours fournit également des notions sur les systèmes pilotés de suspension, de châssis permettant d'améliorer certaines fonctions dynamiques des véhicules roulants.
+
+Mots-clés : Dynamique des véhicules; approches systèmes; confort dynamique; comportement des véhicules; systèmes pilotés; outils de conceptions.
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+Options /
+
+Masters
+
+
+Bibliographie
+
+
+
+
+1 - Introduction Présentation générale des problèmes liés à la conception des véhicules - Les différentes synthèses. 2- Le véhicule roulant Principaux organes, Principales sources de nuisances, description fonctionnelle 3- Le contact Pneu chaussée Modélisation des pneumatiques, stabilité des véhicules, bruit 4- Le contact roue-rail Eléments de description, outils d'analyse 5- Confort Dynamique Effets des vibrations sur le corps humain, filtres de confort, domaine fréquentiel, indice de confort dynamique 6- Compromis confort-comportement dynamique Présentation et quantification, éléments de systèmes pilotés 7 - Approche systémique classique Présentation
+
+des méthodes de calcul très basses fréquences, approches multi-physiques. 8 - Eléments de Mécanique des Multi-Corps Mécanique multi-corps,
+
+◊ Confort Dynamique
+◊ Comportement dynamique
+◊ Suspensions pilotés
+
+Transports et Trafic; Aéronautique et Espace
+
+
+Giancarlo Genta. Motor Vehicle Dynamics, Modeling and Simulation,. Series on Advances in Mathematics for applied Scie, 1997.
+
+T. D. Gillespie. Fundamentals of vehicule dynamics. society of automotive engineers, Warrendale, 1992.
+
+
+
+Contrôle des Contrôle continu pendant les 3 séances de BE connaissances Analyse individuel d'un article scientifique récent.
+
+
+
+
+
+
+
+
+
+
+
+
+

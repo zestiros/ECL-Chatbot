@@ -1,0 +1,79 @@
+
+ AF AE 3.2
+
+
+Projet Avion
+
+Aircraft design project
+
+Responsable(s) : D. Constant, J.-F.-R. Aulagnier (Dassault Aviation), J. Boudet
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 38 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Ce projet vise à étudier le pré-dimensionnement d’un avion d’affaires, à partir d’un cahier des charges donné (nombre de passagers, rayon d’action, longueur de piste...). Il permet d’aborder l’avion dans sa globalité, au travers de modèles simplifiés, et initie à l’ingénierie de la conception basée sur des itérations multiples. Ce projet est en partenariat avec Dassault Aviation.
+
+Mots-clés : avion d'affaires, pré-dimensionnement
+
+
+
+Programme	Ce projet se compose de deux phases :
+Phase 1 : analyser et compléter un outil de pré-dimensionnement, puis l’utiliser pour concevoir un avion en réponse à un cahier des charges imposé.
+
+Phase 2 : approfondissement. Par exemple : réalisation d’une maquette d’aile et étude en soufflerie, amélioration des modèles de pré-dimensionnement, étude des sensibilités...
+
+
+Compétences	◊ Identifier l’influence de paramètres caractéristiques d’un avion sur ses performances
+◊ Elaborer et mettre en œuvre un processus de dimensionnement sur un problème pluridisciplinaire
+
+◊ Critiquer et proposer des modèles adaptés à une phase de pré-dimensionnement
+◊ 
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : Progresser dans le pré-dimensionnement de l'avion.
+Méthodes : Chaque groupe de quatre élèves exploite les documents fournis, les logiciels mis à disposition et les compétences de l’équipe d’encadrement.
+
+D.P. Raymer. Aircraft Design: A Conceptual Approach. AIAA, 2012.
+
+L. Jenkinson, J. Marchman. Aircraft Design Projects. Elsevier, 2003. J.D. Anderson. Aircraft Performance and Design. McGraw-Hill, 1999.
+
+
+Évaluation des rendus intermédiaires et finaux du projet qui peuvent prendre différentes formes :
+
+note de calcul, résultats de dimensionnement, exposé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

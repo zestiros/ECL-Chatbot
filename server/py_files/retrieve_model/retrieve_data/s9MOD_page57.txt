@@ -1,0 +1,86 @@
+
+ AF MOD 9.4
+
+
+Comportement des matériaux
+
+
+Responsable(s) : Thierry HOC, Vincent FRIDRICI, Laurent BLANC, Bruno BERTHEL
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les exigences de performance et de fiabilité ainsi que la nécessité d'une optimisation toujours meilleure des organes mécaniques et des procédés exigent une connaissance et une modélisation fine du comportement des matériaux sous diverses sollicitations mécaniques ou thermo-mécaniques. En parallèle, les outils de calculs modernes autorisent l'utilisation de lois de comportement sophistiquées que l'ingénieur doit savoir choisir, identifier et utiliser à bon escient. Ce cours vise à dégager la structure hiérarchique de ces modèles de comportement, leurs principes de base et principaux champs d'application. On attachera une importance particulière à leur identification et aux essais nécessaires ainsi qu'à la liaison entre les mécanismes microscopiques et leurs manifestations macroscopiques.
+
+Mots-clés :
+
+
+
+Programme
+Introduction à la rhéologie: modèles rhéologiques, cadre thermodynamique
+
+Visco-élasticité. Fonction de fluage et relaxation. Spectre, Sollicitations harmoniques
+
+Visco-plasticité. Fluages primaire et secondaire. Norton-Hoff et Bingham
+
+Plasticité : Comportement indépendant des vitesses. onction seuil et lois d'évolution
+
+Ecrouissage: Modèles standard généralisés, écrouissage isotrope et cinématique
+
+Rupture et Endommagement: rupture fragile, endommagement continu
+
+Fatigue multi-axiale
+
+Passage micro-macro: Moyennes et localisation. Voigt et Reuss
+
+Anisotropie: Elasticité, Plasticité, Rupture ou Thermo-mécanique
+
+Mécanique du contact
+
+1 TP : Essai de traction et analyse des résultats
+Activités /
+
+Autonomie
+1 BE : Construction et identification de modèles de comportement pour une application
+
+1 BE : Fatigue des matériaux: approche phénoménologique, amorçage et propagation des
+
+fissures, prise en compte de la fatigue dans le comportement des matériaux
+
+J. Lemaître, J.-L. Chaboche, A. Benallal, R. Desmo. Mécanique des matériaux solides. Ed. Dunod.
+Bibliographie
+
+
+D. François, A. Pineau, A. Zaoui.. Comportement mécanique des matériaux : volumes 1 et 2. Ed.
+
+Lavoisier.
+
+Test final de 2 heures (80%) + compte-rendu de TP (20%)
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

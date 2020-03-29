@@ -1,0 +1,97 @@
+
+ AF ELC C-3
+
+
+Design de l'interaction et prototypage rapide par fablab
+
+Interactive Design and FabLab Practices
+
+Responsable(s) : David NAVARRO, Sébastien POUSSIELGUE
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 18 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif de cours est de permettre aux élèves-ingénieurs de se familiariser avec la notion de l' " open hardware
+" dans le domaine de l'électronique embarquée, de la méthodologie Design Thinking et de maitriser les outils de fabrication numérique d'un fablab (imprimante 3D, découpe laser, systèmes électroniques Arduino) et d'apprendre à créer rapidement des prototypes physiques dans une approche du Do It Yourself (DIY).
+
+Ce module permet de proposer aux élèves Centraliens les ressources du fablab. Ils peuvent ainsi se familiariser avec les machines et l'esprit d'innovation et d'entreprenariat lié à cet environnement.
+
+Mots-clés : Fablab, Design Thinking, Makers, DIY, DIWO, LBD, Arduino, Innovation ouverte
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+Ce module comprend une série de cours magistraux et de séances de travaux pratiques. Les séances seront développées autour des thématiques suivantes:
+- Fablab : définition, historique, outils
+- Méthodes d'innovation, design thinking
+- Conception de systèmes électroniques
+- Intro aux outils Fablab (impresssion 3D, découpe laser, fraiseuse ...)
+- Protoypage rapide : projets
+
+◊ Maîtriser l'Open Hardware, se familiariser avec les méthodes de prototypage rapide.
+◊ Savoir manipuler les outils de la troisième révolution industrielle
+◊ Maîtriser les méthodes de travail collaboratif expérimentiel
+◊ Connaître les avantages d'une démarche ouverte intégrant le Design Thinking
+
+Objectifs : Le travail en autonomie vise à développer l'appropriation des méthodes de conception et de réalisation d'objets connectés.
+
+Méthodes : Travail en groupe, développement d'un produit connecté en appui sur le fablab.
+
+
+Fabien Eychenne. Fab Lab : L'avant-garde de la nouvelle révolution industrielle. FYP EDITIONS, 28.
+
+Joshua Noble. Programming Interactivity: A Designer's Guide to Processing, Arduino, and OpenFramework. O'Reilly Edition, 2009.
+
+Tim Brown. L'Esprit design: Le design thinking change l'entreprise et la stratégie. Pearson Village, 2010.
+
+
+
+Contrôle des
+Savoir =10 % et Savoir-Faire = 90% obtenus respectivement par un rapport individuel et un
+connaissances
+rapport de groupe
+
+
+
+
+
+
+
+
+
+
+
+
+
+

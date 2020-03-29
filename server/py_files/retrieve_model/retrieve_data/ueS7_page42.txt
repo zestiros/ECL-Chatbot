@@ -1,0 +1,76 @@
+
+UE PCM
+
+Ph y s i q ue Ch i m ie de l a Ma t i è re
+
+Physics and Chemistry of Matter
+
+Directeur : LAURENCEAU Emmanuelle 96hTD, 6 ECTS
+
+Présentation
+
+L'UE "Physique Chimie de la matière" offre une formation fondamentale de haut niveau dans les domaines de la physique et de la chimie. Les concepts abordés dans l'UE touchent à la connaissance de la matière, aux échelles " microscopiques
+" (de l'atome, de la molécule, ou encore du noyau). Les lois de la physique, à ces échelles, permettent d'expliquer les propriétés macroscopiques de la matière : propriétés optiques, comme les interactions avec les rayonnements électromagnétiques, ou chimiques.
+
+Ces concepts sont à la base de la plupart des technologies utilisées actuellement dans des domaines aussi variés que les techniques de l'information et des communications, la médecine, les matériaux fonctionnels, l'énergie. Les notions abordées dans cette UE sont indispensables pour comprendre ou participer au développement des technologies du futur (nanotechnologies, génie bio-médical, énergies renouvelables, " green technologies " ...).
+
+Semestre
+Programme
+S6, S7
+PCM tc 1
+: Physique
+
+PCM tc 2
+: Chimie
+Département
+
+
+
+PCM tc 3
+: Travaux pratiques
+STMS
+
+
+
+PCM tc 4
+: Synthèse
+
+
+Équipes d'enseignement
+
+Physique, Chimie
+
+Compétences visées par l'UE
+
+◊ Savoir relier les propriétés macroscopiques de la matière à leurs origines microscopiques.
+◊ Savoir identifier les interactions rayonnement/matière et intermoléculaires.
+◊ Être capable de donner les ordres de grandeurs des énergies mises en jeu lors ces interactions.
+◊ Savoir mobiliser ses connaissances pour résoudre un problème transdisciplinaire.
+◊ Être capable de mobiliser ses connaissances pour analyser les résultats d'une mesure.
+
+Pré-requis
+
+Électromagnétisme dans le vide (équation de Maxwell, vecteur de Poynting,..), Optique ondulatoire (Interférences, diffraction,...), Thermodynamique (1er et 2ème principes, potentiel chimique, cycle de Carnot), Chimie moléculaire (méthode VSEPR)
+
+Évaluation
+
+Moyenne pondérée : PCM tc1 : 43,3%, PCM tc2 : 21,7%, PCM tc3 : 30%, PCM tc4 : 5%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

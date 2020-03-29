@@ -1,0 +1,74 @@
+
+ AF ICo 3.3
+
+
+Conception et choix technologiques
+
+Design and technology choices
+
+Responsable(s) : Louis JEZEQUEL, Manuel COLLET
+
+| Cours : 26 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Ce cours traite de la mise en œuvre et de l'expertise des méthodes numériques et expérimentales appliquées à l'implémentation et à l'optimisation des stratégies de contrôle pour la stabilisation et l'isolation des systèmes dynamiques et la réalisation de micro-robots. une série d'applications à la micro-robotique permet d'introduire les particularités du contrôle dans le micro monde où il est nécessaire de changer de paradigme dans la prise en compte des efforts et contraintes appliquées. L'apprentissage des concepts fondamentaux abordés est facilité par la mise à disposition d'un document écrit, complet permettant de rentrer dans les détails techniques des stratégies abordées.
+
+Mots-clés : Dynamique des structures, contrôle des vibrations, Isolation vibratoire, structures smart, piezoélectriques, alliage à mémoire de forme, MEMS.
+
+
+
+Programme	Introduction
+Les outils de l'automatique classique
+Actionneurs-capteurs pour le contrôle des structures
+Stratégies classiques colocalisées
+Stratégies d'isolation
+Application à la micro-robotique
+
+
+Compétences	◊ Modélisation de systèmes couplés multiphysiques.
+◊ Mise au point d'une formulation adéquate pour l'analyse et l'optimisation du problème de contrôle.
+
+◊ Contrôle du système discrétisé : LQG, DVF, IFF, Isolation Active.
+◊ Prise en compte des contraintes liées au micro monde et conception de MEMS.
+
+Travail en
+Objectifs : Permettre à l'étudiant d'appréhender la modélisation, l'optimisation et l'expertise de la
+autonomie
+dynamique d'un système mécatronique.
+
+Méthodes : Cours général : élément d'automatique, transducteurs, stabilisation active, isolation
+
+active... Exercices d'applications et de design. Lecture de documents de cours et évaluation via un
+
+QCM.
+
+André PREUMONT. Vibration Control of Active Structures: An Introduction. Springer International
+Bibliographie
+
+
+Publishing, 2018.
+
+Philippe de Larminat. Automatique appliquée. HERMES SCIENCE PUBLICATIONS, 1996.
+
+H.J. Zimmermann. Fuzzy set theory and its applications. Springer International Publishing, 2010.
+
+Contrôle QCM
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+

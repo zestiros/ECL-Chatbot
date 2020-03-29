@@ -1,0 +1,66 @@
+
+Filière IM
+
+Mat h é mat i q u e s e t In g é n i e r i e d u Ri s q u e
+
+Applied mathematics, and risk engineering
+
+Responsables : Elisabeth Mironescu
+
+
+
+Présentation
+
+La filière Mathématiques et Ingénierie du Risque se concentre sur la modélisation et la simulation mathématiques, quels que soient les domaines d'application. La finalité de la formation est de permettre aux élèves ingénieurs d'avoir une vision large des techniques mathématiques utiles à la résolution de problèmes. Ainsi, les aspects déterministes (équations différentielles, aux dérivées partielles, optimisation) et les modèles stochastiques (processus discrets et continus, statistiques) sont tous deux étudiés, ainsi que les méthodes numériques associées. La possibilité d'approfondir au travers d'un double-cursus Master (en mathématiques appliquées, actuariat et finance, ou biostatistiques) permet aux élèves de se construire un parcours à la carte.
+
+Les domaines d'application sont nombreux : R&D dans les grands groupes industriels, gestion des risques assuranciels et financiers, data science, industrie pharmaceutique, recherche publique.
+
+
+
+Départements/laboratoires
+
+Département Mathématiques-Infor-matique, Institut Camille Jordan
+
+
+Programme
+
+MD fo IM3.1 - Mathématiques en situation MD fo IM3.5 - Projet
+2 modules au choix parmi :
+MD fo IM3.2 - Introduction aux mathématiques financières MD fo IM3.4 - Data Mining et Big Data MD fo IM3.3 - Problèmes inverses
+
+
+Compétences visées
+
+◊ Former des ingénieurs au fait des techniques mathématiques actuelles
+◊ Donner aux ingénieurs les outils en vue de la veille scientifique
+◊ Permettre aux élèves ingénieurs le désirant de s'orienter vers une thèse en mathématiques appliquées
+◊ 
+◊ 
+
+Débouchés
+
+Recherche et développement dans les secteurs nécessitant des compétences en modélisation déterministe et aléa-toire, analyse numérique, statistique.
+
+Pré-requis
+
+1 MOD parmi "Statistiques appliquées aux sciences de l’ingénieur" et "Méthodes numériques pour les EDP" (les 2 MOD sont conseillés).
+
+2 MOS parmi "Algorithmes pour la décision d’entreprise", "Séries temporelles" et "Problèmes en domaines non bornés : analyse mathématique et simulation numérique"
+
+Évaluation
+
+Moyenne équipondérée des 4 modules choisis.
+
+
+Site web de l’option
+
+http://option-md.ec-lyon.fr/MIR.php
+
+Informations complémentaires
+
+Parcours de master liés :
+Mathématiques en Action (MeA) du master Mathématiques appliquées, statistique
+
+Gestion des Risques en Assurance et en Finance (GRAF) du master Econométrie, Statistique Biostatistique Biomathématique Bioinformatique et Santé (B3S) du master Santé publique
+
+

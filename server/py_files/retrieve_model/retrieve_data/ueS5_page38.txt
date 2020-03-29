@@ -1,0 +1,78 @@
+
+ AF MSS tc 1
+
+
+Mécanique des Solides Déformables
+
+Elastic Solid Mechanics
+
+Responsable(s) : Jean-Jacques Sinou, Fabrice Thouverez, Olivier Bareille, Joël Perret-Liaudet
+
+| Cours : 16 h | TD : 14 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le premier objectif de l’enseignement est d’introduire la déformabilité des solides dans le contexte de la Mécanique des
+
+Milieux Continus. Les notions de déformations et de contraintes sont présentées puis explicitées en petites perturbations.
+
+Les équations de l’élastodynamique sont établies et les principaux théorèmes énergétiques sont présentés.
+Le deuxième objectif est de présenter les principaux outils de dimensionnement des structures mécaniques. Les modes de vibrations sont introduits et leurs propriétés sont utilisées pour calculer les réponses dynamiques d’une structure par synthèse modale.
+
+Des modèles discrets sont construits afin de déboucher sur des méthodes de calcul utilisées en conception dans les bureaux d’études (méthode des éléments finis).
+
+Mots-clés : Déformations, Contraintes, Solides Elastiques, Elastodynamique, Méthodes énergétiques, Modes continus, Synthèse modale, Méthode de Rayleigh-Ritz, Modes discrets, Méthode des éléments finis.
+
+
+Programme	Chapitre 1 : Cinématique des milieux continus
+Chapitre 2 : Contraintes et équilibre des milieux continus
+Chapitre 3 : Lois de comportement - élastodynamique
+Chapitre 4 : Formulation variationnelle des problèmes
+Chapitre 5 : Modèle structuraux – notions de modes continus
+Chapitre 6 : Analyse et synthèse modale
+Chapitre 7 : Méthode de Rayleigh Ritz – modes discrets
+Chapitre 8 : Méthode des éléments finis
+
+
+Compétences	◊ Maîtriser les notions de base de déformations et de contraintes pour le solide déformable
+◊ Savoir poser un problème d’élastostatique et le résoudre analytiquement pour des configurations simples, en vue d'un dimensionnement
+
+◊ Savoir mettre en oeuvre les outils de l’analyse et de la synthèse modale pour prévoir le comportement dynamique d’une structure simple
+
+◊ Maîtriser la méthode d’approximation de Rayleigh-Ritz et son positionnement vis-à-vis de la méthode des éléments finis
+
+Travail en
+Objectifs : Auto-apprentissage à l'aide des exercices facultatifs distribués en TD et de certains
+autonomie
+corrigés mis à disposition.
+
+Méthodes : Les élèves reçoivent deux documents d’une quarantaine de questions pour
+
+l’assimilation continue du cours. Les questions permettent à l’apprenant de valider les acquis.
+
+Deux micro-tests sont programmés sur la base de ces deux questionnaires.
+
+J. Salençon. Mécanique des milieux continus – tome 1. Ed. de l’Ecole Polytechnique, 2005.
+Bibliographie
+
+
+M. Géradin, D. Rixen. Théorie des Vibrations – Application à la Dynamique des Structures. Elsevier-
+
+Masson, 1999.
+
+G. Dhatt, G. Touzot, E. Lefrançois. Méthode des éléments finis. Lavoisier Hermès Science
+
+Publications, 2005.
+
+Micro-test (chap.1-4) de 20 min, Micro-test (chap. 5-8) de 20 min, Test écrit de 3h.
+Contrôle des
+
+connaissances
+Evaluation = 85% test écrit + 15% micro-tests
+
+

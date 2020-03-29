@@ -1,0 +1,66 @@
+
+ AF MOD 7.6
+
+
+Caractérisation des surfaces et des nanostructures
+
+Characterization of surfaces and nanostructures
+
+Responsable(s) : Fabrice DASSENOY, Maria-Isabel DE BARROS
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les nanotechnologies sont concernées par un état très divisé de la matière et un rôle exacerbé des surfaces par rapport au volume. La physicochimie et la chimie des surfaces exposées sont très importantes au regard des applications. Les premières couches atomiques présentes sur les solides sont particulièrement réactives dans de nombreux procédés.
+Ce cours propose l'étude des principales techniques de caractérisation des surfaces et des structures de faible dimensionnalité. Elle sera illustrée par des applications spécifiques dans le domaine des nanotechnologies et de la biologie.
+
+Mots-clés : Surfaces, Interfaces, Nanostructures, Analyses de surface, Microscopie, Spectroscopies électroniques
+
+
+
+Programme	I - Analyse chimique de la surface des solides.
+Les spectroscopies électroniques (photoélectron, Auger), spectroscopie ionique (ToF-SIMS)
+Informations sur les liaisons chimiques en surface.
+II- Analyse morphologique de la surface à l'échelle subnanométrique
+
+Les microscopies champ proche (microscopie à effet tunnel, microscopie à force atomique, microscopie champ proche optique) spectroscopie tunnel, mesure des forces d'interaction. Illustrations : (reconstruction de surfaces, molécule unique, cristaux photoniques...) III - Caractérisation des interfaces
+
+Microscopie électronique à transmission analytique, diffraction électronique, analyses par rayons X et pertes d'énergie des électrons transmis. Exemples concret d'applications (couches minces, colloïdes...)
+
+
+Compétences	◊ Savoir se référer aux bonnes techniques de caractérisation pour l'étude et l'analyse des surfaces et des nanostructures
+◊ Connaitre le principe de base des principales techniques de caractérisation des surfaces et des nanostructures
+
+
+Bibliographie	R. W. Cahn. Materials science and technology : a comprehensive treatment. VCH, 1994.
+
+
+
+Contrôle des	Test écrit de 2h.
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,91 @@
+
+ AF MOD 1.2
+
+
+Aérodynamique et Energétique des Turbomachines
+
+Fundamentals of turbomachines
+
+Responsable(s) : Alexis GIAUQUE, Isabelle TREBINJAC
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le cours a essentiellement pour but de familiariser l'étudiant avec le fonctionnement et le calcul de l'écoulement dans une turbomachine. A partir des notions d'aérodynamique et de thermodynamique appliquées aux turbomachines, on détaillera les principaux outils permettant de dessiner une turbomachine, et plus précisément de déterminer la géométrie d'un compresseur axial répondant à un objectif de performance précis.
+
+Le travail pratique sur un banc d'essais de compresseur basse-vitesse permet de mesurer et d'analyser sur un cas concret les différents phénomènes étudiés en cours.Les bureaux d'études ont pour but de réaliser la conception d'un compresseur axial pour un cahier des charges donné.
+
+Mots-clés : turbomachine, compresseur, turbine, aérodynamique, énergétique, compressible
+
+
+
+Programme
+Fonctions et domaine d'application des turbomachines
+
+Courbes caractéristiques et domaine d'utilisation (point nominal et plage de fonctionnement).
+
+Application des formes intégrales des équations de la mécanique des fluides aux turbomachines.
+
+Analyse aérothermodynamique mono-dimensionnelle : transformations réelles dans les
+
+turbomachines, quantification des pertes.
+
+Analyse bidimensionnelle dans le plan circonférentiel : triangles de vitesse, critères de charges en
+
+compresseurs, corrélations.
+
+Analyse bidimensionnelle dans le plan méridien : équation d'équilibre radial.
+
+Introduction aux phénomènes tridimensionnels et instationnaires.
+
+◊ comprendre le fonctionnement des turbomachines
+Compétences
+
+
+◊ savoir concevoir un compresseur axial
+
+◊ maitriser l'aérodynamique compressible
+
+◊ savoir analyser l'écoulement interne aux turbomachines
+
+Concevoir un compresseur axial compressible subsonique (complément des BE).
+Activités /
+
+Autonomie
+Ecrire le programme de conception aérodynamique du compresseur (matlab...)
+
+Master Aéronautique et Espace
+Masters
+
+affiliés
+
+
+N. A. Cumpsty. Compressor aerodynamics. Longman Scientific & Technical, 1989.
+Bibliographie
+
+
+David Japikse, N. C. Baines. Introduction to turbomachinery. Concepts ETI, 1997.
+
+Examen final, compte-rendu des BEs et compte-rendu du TP
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+

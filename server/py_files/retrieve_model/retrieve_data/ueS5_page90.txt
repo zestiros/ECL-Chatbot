@@ -1,0 +1,73 @@
+
+ AF STI a 4-EG
+
+
+Capteurs intelligents communicants : systèmes d'interface
+
+Smart Sensor Networks : interface systems
+
+Responsable(s) : Pedro Rojo Romeo, David Navarro
+
+| Cours : 16 h | TD : 10 h | TP : 8 h | Autonomie : 14 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif de ce cours est de décrire les différents systèmes composant une chaîne d'acquisition électronique (capteurs, circuits de traitement des signaux et données, actionneurs). Le cours s'appuie sur des applications modernes de systèmes de capteurs intelligents, communicants. L'accent est porté sur les problèmes d'intégration des systèmes sur puce et de gestion de l'énergie (systèmes autonomes).
+
+Mots-clés : Capteurs, intégration, systèmes d'interface, conversion, électronique analogique et numérique, réseaux de capteurs sans fils
+
+
+Programme	Introduction. Structure de base de la chaîne d'acquisition.
+Capteurs intégrés
+Circuits de mise en forme, amplification.
+Communications : modulations analogiques et numériques
+
+Conversion analogique-numérique et numérique-analogique, interfaces Microcontrôleurs
+
+Circuits périphériques associés, transceivers RF, liaisons SPI, I2C Réseaux de capteurs communicants
+
+
+Compétences	◊ Etre capable d'appréhender le principe des différents capteurs, et les techniques de fabrication et d'intégration sur puce de Silicium.
+◊ Savoir mettre en oeuvre les circuits de mise en forme des signaux issus de ces capteurs, et les techniques de conversion vers les systèmes numériques
+
+◊ Savoir décrire la composition d'un réseau de capteurs sans fil et quelles en sont les contraintes
+
+Travail en
+Objectifs : Appliquer les acquis des séances de cours et TDs à la préparation théorique des
+autonomie
+séances de TP. Rédaction des rapports finaux
+
+Méthodes : Exercice fourni avant le TP
+
+B.P. Lathi. modern analog and digital communication systems. Oxford university press, 1998.
+Bibliographie
+
+
+F. Cottet. traitement du signal et acquisition de données. Dunod, 2009.
+
+H. Mathieu, H. Fanet. Physique des semiconducteurs et des composants électroniques. Dunod, 2009.
+
+Savoir (contrôle écrit) : 50%
+Contrôle des
+
+connaissances
+Savoir faire : 50% : activités pratiques : 35% , évaluation d'autonomie (15%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

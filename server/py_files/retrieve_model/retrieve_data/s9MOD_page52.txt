@@ -1,0 +1,84 @@
+
+ AF MOD 8.5
+
+
+Physique pour les technologies de l'information
+
+Physics for Information technology
+
+Responsable(s) : Ségolène CALLARD
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Dans les technologies de l'information, les fonctions, de transmission, de traitement, de stockage et d'affichage de l'information sont assurées par des composants dont le fonctionnement repose en grande partie sur les propriétés quantiques, électriques, optiques, et magnétiques des matériaux. Ce cours a pour ambition de donner une vue d'ensemble des principes physiques importants pour ces applications. L'accent sera mis dans la mesure du possible sur les limites qu'imposent les lois de la physique aux différentes technologies.
+
+Mots-clés : Q-bit, spin, photon, cryptographie quantique, composant logique, semi-conducteur, transistor, fibre optique, modulation optique, mémoires magnétiques.
+
+
+
+Programme	Chapitre I :	Introduction Générale, Contexte des TIC, Propriétés de l'information.
+Chapitre II: Information quantique : Cryptographie quantique, téléportation.
+Chapitre III:	Composants de base pour les circuits logiques (MOSFET, CMOS)
+Chapitre IV:	Nouveaux composants : Composant à effet tunnel,transistor à un électron.
+Chapitre V : Les fibres optiques
+Chapitre VI : Les matériaux photo-réfractifs
+Chapitre VII: Fondamentaux du magnétisme
+Chapitre VIII : Mémoires Magnétiques
+
+
+Compétences	◊ Développer une vision globale sur le domaine des technologies de l'information.
+◊ Identifier les principes physiques à la base d'une technologie de l'information.
+◊ Mobiliser des connaissances et des savoir-faire pour comprendre et expliquer le fonctionnement d'une technologie de l'information.
+
+◊ Connaître les limites physiques d'une technologie donnée.
+
+
+
+Activités /
+
+Autonomie
+
+
+
+Bibliographie
+
+
+
+
+
+Contrôle des connaissances
+
+
+Appréhender de façon approfondie plusieurs technologies de l'information.
+2 TP : utilisation du photon dans les technologies de l'information.
+
+un travail de recherche sur une technologie au choix avec restitution orale en binôme.
+
+Rainer Waser (Ed.). Nanoelectronics and information technology. Wiley (Germany), 2012.
+
+Saleh, Teich. Fundamentals of photonics. Wiley-Interscience, 2007.
+
+Charles Kittel. Introduction to Solid State Physics. Wiley, 2005.
+
+
+Examen 2h sans document (50%), Exposé oral ( 30%), CR de TP (20%)
+
+
+
+
+
+
+
+
+
+
+
+
+

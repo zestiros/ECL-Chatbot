@@ -1,0 +1,84 @@
+
+ AF INF tc 1
+
+
+Algorithmique et structures de données : conception, analyse et implémentation
+
+Algorithms and Data Structures: Design, analysis and implementation
+
+Responsable(s) : Romain Vuillemot
+
+| Cours : 8 h | TD : 17 h | TP : 0 h | Autonomie : 5 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif de ce cours est d’introduire des fondamentaux en algorithmique et structures de données, nécessaires aux élèves qui se destinent à un métier d'ingénieur. Les élèves seront initiés à l’analyse de problèmes, la conception et l’implémentation d’algorithmes mais aussi à leurs applications dans l’industrie, au travers des cours magistraux, des séances de travaux pratiques et d’une ouverture métier. Les notions abordées seront mises en œuvre en langage python.
+
+Mots-clés : algorithmique, structures de données, résolution de problème, implémentation d’algorithme, complexité algorithmique.
+
+
+Programme	Structures de données
+Introduction à la complexité
+Algorithmes de tri
+Algorithmes de graphes
+
+Paradigmes généraux et exemples : diviser pour régner, programmation dynamique, algorithmes gloutons, heuristiques.
+
+
+
+Compétences
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+◊ Savoir modéliser un problème ainsi que sa résolution algorithmique.
+◊ Savoir implémenter un algorithme et en évaluer la complexité.
+
+Objectifs : Comprendre et assimiler les notions de cours mises en œuvre dans les TDs. Méthodes : Séances de questions/réponses avec les enseignants faisant suite aux TD pour aider aux analyses et réalisations.
+
+T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Introduction to Algorithms (2nd Edition). The MIT Press and McGraw-Hill Book Company, 2001.
+
+M. Divay. Algorithmes et structures de données génériques (2nd Edition). Dunod, 2004.
+
+C. H. Papadimitriou. Computational Complexity. Addison Wesley, 1993.
+
+
+Note de savoir (70%) : Examen écrit
+Note de savoir-faire (30%) : Moyenne des deux devoirs à rendre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

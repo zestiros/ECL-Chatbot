@@ -1,0 +1,80 @@
+
+UE FLE
+
+Fl u i d e s e t En e r g i e
+
+Fluids and Energy
+
+Direction : CORRE Christophe
+
+90hTD, 6ECTS
+
+
+Présentation
+
+L'UE « Fluides et Energie » présente les concepts fondamentaux et les outils d’étude et de modélisation de la mécanique des fluides et de l’énergétique. Les lois fondamentales et les différents cadres d’approximation sont décrits. Les enseignements théoriques (cours et travaux dirigés) sont complétés par de nombreuses activités pratiques : TP de sensibilisation, TP et BE sur les techniques expérimentales et numériques, projet thématique en groupe sur une plate-forme de 31 installations expérimentales. Les concepts et outils abordés dans l'UE "Fluides et Energie" sont utilisés dans la plupart des domaines industriels : automobile, aéronautique, énergie, environnement, médecine et biologie.
+
+Semestre
+Programme
+S5 ou S6
+FLE tc 1
+: Sensibilisation et bases théoriques
+
+FLE tc 2
+: Méthodes expérimentales et numériques
+Département
+
+
+
+FLE tc 3
+: Projet thématique
+
+
+
+Département Mécanique des Fluides,
+
+Acoustique et Energétique
+
+
+Équipes d’enseignement
+
+Mécanique des fluides, Energétique,
+Acoustique
+
+Compétences visées par l’UE
+
+◊ Savoir décrire les lois fondamentales de la mécanique des fluides et de l'énergétique et leurs principaux cadres simplificateurs
+
+◊ Savoir identifier les principales phénoménologies et régimes d'écoulement
+◊ Savoir effectuer une analyse dimensionnelle et une analyse d’ordre de grandeur d’un problème aux limites
+◊ Maîtriser les bases des systèmes à flux continu et les bilans de charge
+◊ Savoir mettre en œuvre des méthodes expérimentales et numériques en mécanique des fluides et énergétique
+
+Pré-requis
+
+Notion de vitesse, température, pression, masse volumique, viscosité, contrainte Equations aux dérivées partielles
+
+Évaluation
+
+Moyenne pondérée : FLE tc1 : 60%, FLE tc2 : 15%, FLE tc3 : 25%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

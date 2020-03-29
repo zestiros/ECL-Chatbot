@@ -1,0 +1,85 @@
+
+ AF MOS 1.4
+
+
+Contrôle Actif du Bruit et des Vibrations
+
+Active control of noise and vibrations
+
+Responsable(s) : Marie-Annick Galland, Mohamed Ichchou
+
+| Cours : 8 h | TD : 0 h | TP : 12 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le développement des systèmes de contrôle actif a connu un réel essor depuis une quinzaine d'années, malgré la simplicité du principe de base. D'une manière schématique, il s'agit pour réduire une perturbation indésirable, de générer une onde en opposition de phase afin de réaliser par superposition des interférences destructives. Cette méthode, principalement appliquée pour la réduction du bruit et des vibrations, est particulièrement intéressante aux basses fréquences. Le but de ce cours est de fournir les bases des principes et techniques utilisés. De nombreuses illustrations sont présentées, en acoustique, vibrations et écoulement (mécanique des fluides active). D'autres champs d'applications sont ensuite abordés : absorption active, amortissement actif, matériaux intelligents, ...
+
+Mots-clés : contrôle actif, acoustique, vibrations, mécanique des fluides active, anti-bruit, filtrage numérique adaptatif temps réel, filtrage, analogique
+
+
+
+Programme
+1- Contrôle Actif en Acoustique
+
+2- Algorithme de contrôle adaptatif.
+
+3- Aspects énergétiques : contrôle local/contrôle global
+
+4- Contrôle passif/semi-actif et actif des vibrations
+
+5- Contrôle LQG appliqué aux vibrations - contrôle MIMSC
+
+6- Eléments de structures intelligentes
+
+7- Contrôle actif en vibroacoustique
+
+8- Contrôle des instabilités en écoulement
+
+Les séances de TP/ BE (12h) reflètent la variété des applications : - Casque Antibruit actif -
+
+Algorithmes de contrôle temps réel - Contrôle actif des vibrations d'une structure
+
+◊ identifier les cas d'application possible des méthodes de contrôle actif
+Compétences
+
+
+◊ selectionner les techniques de contrôle actif adaptées
+
+◊ dimensionner les éléments d'un système de contrôle actif
+
+◊ argumenter sur les limites des systèmes actifs mis en oeuvre
+
+Option : aéronautique, transport et trafic, génie civil et environnement
+Options /
+
+Masters
+Master : aéronautique & espace, acoustique, mécanique
+
+Stephen ELLIOTT. Signal Processing for Active Control,. Academic Press, 2001.
+Bibliographie
+
+
+Leonard MEIROVICH. Dynamic and control of structures. John Wiley and Sons, 1990.
+
+P.A. Nelson, S.J. Elliott. Active Control of Sound. Academic Press, 1992.
+
+- Comptes-rendus des TP/BE
+Contrôle des
+
+connaissances
+- QCM final
+
+- Présentation orale par 2 ou 3 : analyse critique d’un article scientifique récent
+
+
+
+
+
+
+
+

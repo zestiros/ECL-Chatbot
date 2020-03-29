@@ -1,0 +1,90 @@
+
+ AF MTH tc 6
+
+
+Mathématiques Adaptées II : probabilités
+
+Adapted Maths II :Probability
+
+Responsable(s) : Elisabeth Mironescu, Christophette Blanchet
+
+| Cours : 6 h | TD : 10 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Cette AF est consacrée à la modélisation à l'aide des lois usuelles mono et multidimensionnelles. Les variables aléatoires
+
+à densité seront introduites. Des méthodes de calcul des probabilités et d'approximation basées sur les théorèmes de convergence sont étudiées. Une part de ce cours est dédiée à l'apprentissage des outils de simulation du logiciel
+
+MATLAB.
+
+Mots-clés : Lois de probabilité, variables aléatoires à densité, moments, vecteurs gaussiens, simulations aléatoires.
+
+
+
+Programme
+1) Variables aléatoires (Modèle probabiliste, Lois à densité, Fonction de répartition d'une variable
+
+aléatoire réelle)
+
+2) Moments de variables aléatoires réelles (Définition et propriétés de l'espérance , Changement
+
+de variable, Variance et écart-type d'une variable aléatoire réelle.)
+
+3)Couple de variables aléatoires (Définition, loi , moments, indépendance, somme de deux
+
+variables aléatoires indépendantes. )
+
+4) Suites de variables aléatoires - Résultats asymptotiques-Simulation et méthode de Monte-Carlo.
+
+◊ Savoir modéliser une expérience aléatoire à l'aide de variables aléatoires et faire du calcul de
+Compétences
+
+
+probabilités
+
+◊ Etre capable de simuler des variables aléatoires sous MATLAB
+
+◊ Etre capable de mener des calculs de probabilités à l'aide de l'outil informatique
+
+◊
+
+Objectifs : Prise en main des outils de simulation aléatoire et de représentation graphique sous
+Travail en
+
+autonomie
+MATLAB
+
+Méthodes : Sur la plateforme pédagogie: QCM de dénombrement, cours et exercices sur les
+
+variables aléatoires discrètes, exercices corrigés de simulation de loi sous MATLAB.
+
+Gilbert Saporta. Probabilités, analyse des données et statistique. Technip, 2011.
+Bibliographie
+
+
+Jean-Pierre Lecoutre. Statistique et probabilités, coll. Eco Sup. Dunod, 2012.
+
+Mario Lefebvre. Probabilités, statistiques et applications. Presse Internationales Polytechnique, 2011.
+
+note de savoir-faire : note de TD sur ordinateur
+Contrôle des
+
+connaissances
+note de savoir par examen terminal
+
+
+
+
+
+
+
+
+
+
+

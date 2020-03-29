@@ -1,0 +1,91 @@
+
+ AF ELC D-8
+
+
+Systèmes autonomes de production (SAP)
+
+Discrete Event Systems
+
+Responsable(s) : Emmanuel BOUTLEUX, Anton KORNIIENKO
+
+| Cours : 8 h | TD : 4 h | TP : 16 h | Autonomie : 4 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+De nombreux processus industriels fonctionnent en temps discret en suivant des séquences d'opérations. Les chaînes de fabrication ou d'assemblage, les unités de production flexibles sont autant de systèmes à événements discrets dont le fonctionnement est régi par des automatismes logiques.
+
+Dans ce contexte, il s'agit d'exploiter un cahier des charges afin d'aboutir à la synthèse de la partie commande du processus à automatiser. Aujourd'hui, l'automatisme industriel est essentiellement implanté au travers des automates programmables industriels.
+
+L'autre objectif consiste à s'approprier un outil de modélisation de systèmes à événements discrets appelé Réseaux de Petri, permettant de vérifier l'ensemble du système en boucle fermée par analyse de propriétés ou par simulation.
+
+Mots-clés : Automatique, automates programmables, modélisation comportementale, GRAFCET, évaluation de performances
+
+
+
+Programme
+Les systèmes automatisés de production
+
+• Décomposition partie commande - partie opérative d'un système à automatiser ;
+
+• Exemples ;
+
+• Comparaison Automatique discrète/Automatique continue ;
+
+Synthèse de partie commande par API : le GRAFCET (langage de commande des API le plus
+
+répandu)
+
+• Histoire du GRAFCET ;
+
+• Principe et applications ;
+
+• Particularités ;
+
+• Architecture d'un API : environnement, bus et réseaux..., accès à distance par TCP/IP ;
+
+Modélisation par Réseaux de Petri (RdP)
+
+• Principe des RdP
+
+• Briques de bases
+
+• Analyse du comportement dynamique
+
+◊ Modéliser le comportement d'un système séquentiel
+Compétences
+
+
+◊ Utiliser un modèle pour évaluer et comparer des performances
+
+◊ Connaître un outil de programmation simple d'automate programmable
+
+◊ Comprendre les particularités de fonctionnement des automates programmables
+
+Objectifs : Prendre en main une plate-forme de manipulation ou un logiciel de simulation de systèmes
+Travail en
+
+autonomie
+discrets gratuit
+
+Méthodes : Etude de cas
+
+GENDREAU D.. 7 facettes du GRAFCET, approches pratiques de la conception à l'exploitation,
+Bibliographie
+
+
+pratiques de la conception à l'exploitation. CEPADUES-Editions, 2000.
+
+MORENO, S/PEULOT. LE GRAFCET. Conception-Implantation. CASTEILLA - TECHNIPLUS, 17.
+
+DAVID, R/ALLA, A. Du GRAFCET aux réseaux de Petri. Hermès, 1992.
+
+La note finale sera obtenue de la manière suivante : 50% note examen final individuel + 50%
+Contrôle des
+
+connaissances
+note moyenne des 4 TPs et de l'autonomie.

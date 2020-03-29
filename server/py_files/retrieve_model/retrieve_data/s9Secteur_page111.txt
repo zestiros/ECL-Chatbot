@@ -1,0 +1,70 @@
+
+ AF MOS 2.5
+
+
+Dynamique des mécanismes
+
+Dynamics of mechanisms
+
+Responsable(s) : Joël Perret-Liaudet, Alain Le Bot
+
+| Cours : 12 h | TD : 6 h | TP : 0 h | Autonomie : 0 h | BE : 10 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les mécanismes présentent des architectures très variées et souvent complexes qui exigent chacune des approches spécifiques. La conception de ces mécanismes impose de prendre en compte de plus en plus précisément leur comportement dynamique en vue d’optimiser le rapport performances / coût de fabrication. La performance peut être relative au gain de puissance massique comme à des prestations aussi variées que le confort sonore. Dans ce cadre, l’objectif de ce cours est de présenter des méthodes d’analyse, de modélisation, et de résolution qui permettent d’intégrer la plupart des phénomènes dynamiques mis en jeu. Il s’appuiera sur un ensemble d’exemples typiques de mécanismes pour illustrer la diversité des approches possibles, fonction des objectifs recherchés.
+
+Mots-clés : Mécanismes, Erreurs de Transmission, Dynamique, Vibrations, Contacts, non linéaires, paramétriques.
+
+
+
+Programme	Lois idéales de transmission : Géométrique – Cinématique – Dynamique.
+Erreurs de transmission. Définition, origines, caractéristiques, conséquences.
+
+Variabilité des performances : Origines des dispersions, tolérance, description statistique des lois entrée – sortie.
+
+Comportement dynamique type corps rigides : Approches vectorielle et analytique. Avantages et inconvénients. Notion d’équilibrage, principe.
+Vibrations de contact : non linéarité de Hertz et de jeux, impacts, cliquetis, affolements.
+Instabilités de frottement : lois de frottement, vibrations auto-entretenues crissement. Phénomènes paramétriques : origines dans les mécanismes, instabilités et résonances. Modélisation aux échelles locale et globale des mécanismes. Exemple de modèles réelles de l’ingénierie.
+
+
+Compétences	◊ Mise en équation de la dynamique multicorps de mécanismes
+◊ Connaître et être capable d'identifier des comportements vibratoires courants dans les mécanismes
+
+◊ Description de ces comportements (résonances non linéaires, paramétriques, vibrations autoentretenues, ...)
+
+◊ Approche globale du comportement elastodynamique (méthodes spécifiques / éléments finis)
+
+Options /
+Génie mécanique / dynamique / vibroacoustique
+Masters
+UE Master MEGA - Génie mécanique
+
+Secteurs des transports et de l'énergie
+
+Examen écrit (100% savoir).
+Contrôle des
+
+connaissances
+Projet / Bureau d'études (100% savoir faire)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,91 @@
+
+ AF ELC B-3
+
+
+Contrôle non destructif
+
+Non Destructive Testing
+
+Responsable(s) : Arnaud Bréard, Christian vollaire
+
+| Cours : 18 h | TD : 0 h | TP : 8 h | Autonomie : 6 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours a pour objectif de sensibiliser les élèves à la notion de Contrôle Non Destructif. Ce domaine s'inscrit dans la notion générale de qualité appliquée à la production, il joue un rôle clé dans toutes les applications requérant un haut niveau de sécurité et de fiabilité (nucléaire, aéronautique, automobile,...). Il s'agit d'une initiation à trois techniques (rayon X , ultra sons, électromagnétiques) qui a pour but de montrer d'une manière concrète (en s'appuyant sur des travaux pratiques réalisés sur pièces réelles) dans quels cadres ces techniques sont mises en œuvre et quelles peuvent être leurs performances.
+
+Mots-clés : Contrôle Non Destructif, Méthodes Electromagnétiques, CND par courants de Foucault, rayons X, ultra sons
+
+
+
+Programme
+A) Intervenant Noël BURAIS
+
+Généralités sur les méthodes électromagnétiques (magnétoscopie, impédancemétrie, courants de
+
+Foucault, ondes HF), catégories de matériaux.
+
+Structures de capteurs, association de capteurs, mesures double-fonction ou fonctions séparées,
+
+absolues ou différentielles.
+
+B) Intervenant Jean-Michel LETANG
+
+1°) Contrôle par ultrason (US).
+
+Principe de l'échographie,
+
+Incidence normale: coefficient de transmission et réflexion,
+
+incidence oblique: loi de Snell-Descartes,
+
+Production des US et capteurs, types de contrôles, visualisation
+
+2°) Contrôle par rayons X (RX).
+
+Principe de la radiologie par transmission, intéractions photons-matière,
+
+Dosimétrie,radioprotection et effets biologiques,
+
+Production et détection des RX, caractéristiques des générateurs et des capteurs.
+
+◊ Connaitre les principes des principales méthodes de CND
+Compétences
+
+
+◊ Connaitre les performances, des limites et des champs d'application des méhodes
+
+Objectifs : Approfondir une méthode de détection de défaut au niveau de son fonctionnement et/
+Travail en
+
+autonomie
+ou de ses domaines d'application
+
+Méthodes : L'autonomie est constituée d'une étude bibliographique donnant lieu à un rapport
+
+E.M. Hussein. Handbook on Radiation Probing, Gauging, Imaging and Analysis: Volume I: Basics
+Bibliographie
+
+
+and Techniques (Non-Destructive Evaluation). Kluwer Academic Publishers, 2003.
+
+Charles Hellier. Handbook of nondestructive Evaluation. Mc Graw-Hill, 2003.
+
+test de 2h
+Contrôle des
+
+connaissances
+Compte rendu des travaux pratiques
+
+Rapport de l'étude bibliographique réalisée en autonomie
+
+
+
+
+
+

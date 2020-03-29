@@ -1,0 +1,73 @@
+
+ AF ELC B-1
+
+
+Analyse fonctionnelle théorie et applications
+
+Functional Analysis, Theory and Applications
+
+Responsable(s) : Martine MARION
+
+| Cours : 18 h | TD : 14 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'étude des équations aux dérivées partielles (EDP) s'est longtemps limitée à la résolution explicite d'un nombre très réduit d'équations. Ce sont les développements récents de l'analyse fonctionnelle qui ont permis d'aborder des problèmes beaucoup plus généraux. Ce cours a un double but :
+
+- Présenter des résultats 'abstraits' d'analyse fonctionnelle, c'est-à-dire concernant des espaces qui ne sont pas de dimension finie,
+
+- Etudier des espaces fonctionnels 'concrets' intervenant en théorie des EDP et montrer comment la théorie générale s'applique à la résolution de ces équations.
+
+Ce cours est recommandé à tout étudiant intéressé par l'analyse et les EDP et tout particulièrement à ceux envisageant de suivre un cursus de Master en mathématique.
+
+Mots-clés : Analyse fonctionnelle, équations aux dérivée partielles
+
+
+
+Programme	Partie I - Problèmes inéaires
+Chapitre 1 : Espaces de Hilbert
+Chapitre 2 : Dérivées faibles et espaces de Sobolev
+Chapitre 3 : Résolution de problèmes elliptiques linéaires
+Partie II - Problèmes non linéaires
+Chapitre 3 : Topologie faible
+
+Chapitre 4 : Minimisation de fonctionnelles et résolution d'EDP
+
+
+Compétences	◊ être capable de comprendre et utiliser des outils d'analyse fonctionnelle.
+◊ être capable de comprendre et utiliser les espaces fonctionnels de base intervenant dans l'étude des EDP.
+
+◊ être capable de comprendre et utiliser différentes méthodes pour obtenir l'existence de solutions dans ces espaces.
+
+
+Bibliographie	H. Brezis. Analyse fonctionnelle. Dunod, 2005.
+
+G. Allaire. Analyse Numérique et optimisation. Editions de l'Ecole Polytechnique, 2009.
+
+
+
+Contrôle des	Test en fin de cours
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

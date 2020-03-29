@@ -1,0 +1,79 @@
+
+ AF INF a 4-EG
+
+
+Analyse de données et reconnaissance des formes
+
+Data analysis and pattern recognition
+
+Responsable(s) : Liming Chen, Emmanuel Dellandréa
+
+| Cours : 14 h | TD : 20 h | TP : 0 h | Autonomie : 14 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'analyse de données et la reconnaissance des formes ont pour but d'analyser et d'expliciter les concepts contenus dans des quantités importantes de données pouvant être issues de nombreuses sources. Ces méthodes ont des retombées applicatives sans cesse croissantes dans des domaines aussi divers et variés que la vision par ordinateur, l'analyse du signal, la robotique, la médecine, la finance, le commerce électronique, ou des applications militaires, etc.
+
+Cet enseignement a donc pour objectif d'introduire les principes et techniques fondamentaux de l'analyse de données et de la reconnaissance de formes, et en particulier les approches descriptives (description automatique des concepts contenus dans les données), ainsi que les approches prédictives.
+
+Mots-clés : Analyse de données, Reconnaissance de formes, apprentissage, classification, régression
+
+
+
+Programme	Analyses factorielles (ACP, AFC, ACM)
+Analyses discriminantes (LDA)
+Théorie bayésienne de la décision
+Modèles de Markov cachés
+Méthodes de mélange et EM
+Modèles linéaires pour la classification
+Modèles linéaires pour la régression
+Réseaux de neurones
+Méthodes à noyau et SVM
+Classification non supervisées
+
+
+Compétences	◊ Comprendre le principe des principales méthodes d'analyse de données et de reconnaissance de formes
+◊ Savoir choisir la méthode d'analyse de données ou de reconnaissance de formes à mettre en œuvre en fonction des données et des objectifs de l'étude
+
+◊ Savoir mettre en œuvre les principales méthodes d'analyse de données et de reconnaissance de formes, et exploiter leurs résultats
+
+◊ Appréhender les principes de l'apprentissage statistique pour la régression et classification
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : Comprendre et assimiler les notions de cours mises en œuvre dans les TD.
+Méthodes : Séances de questions/réponses avec les enseignants faisant suite aux TD pour aider à la réalisation des devoirs à rendre.
+
+Christopher M.Bishop. Pattern recognition and machine learning. Springer, 2006.
+
+Richard O.Duda, Peter E.Hart, David G.Stork. Pattern classification. John Wiley and Sons, 2001. Trevor Hastie, Robert Tibshirani, Jerome Friedman. The elements of statistical learning. Springer,
+
+2011.
+
+
+N1 : note de savoir (examen écrit)
+N2 : note de savoir-faire (moyenne des trois devoirs à rendre)
+
+Note AF = 0.5 * N1 + 0.5 * N2
+
+

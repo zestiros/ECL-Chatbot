@@ -1,0 +1,63 @@
+
+ AF AE 3.34
+
+
+Projet spécifique : Propulsion
+
+Elective project : Propulsion
+
+Responsable(s) : Jérôme Boudet, Laurent Blanc
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 72 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Le projet consiste en la conception d'un réacteur d'avion, du point de vue de l'aérodynamique et de la mécanique des structures (statique et dynamique). La pluridisciplinarité de la conception s'appuie sur une organisation des élèves en mode projet.
+
+Mots-clés : turboréacteur, compresseur, turbine, aérodynamique, thermodynamique, mécanique des structures, dynamique d'ensemble
+
+
+
+Programme	Pour commencer, des calculs de cycles thermodynamiques permettent de définir l'architecture globale du réacteur afin de fournir la poussée déterminée lors du projet avion. Une analyse unidimensionnelle conduit ensuite à la définition du nombre de composants constituant ce moteur. Des 'zooms' sur des composants particuliers sont enfin réalisés afin d'aborder des exemples concrets et approfondis d'expertise. Par exemple:
+
+- Conception détaillée d’étages de compresseur, à partir de simulations mécaniques et aérodynamiques 3D. Gestion des contraintes combinées de l'aérodynamique et de la mécanique.
+- Analyse de la dynamique d'ensemble (arbre, disques, liaisons…).
+
+Deux séries de cours viennent en soutien à la réalisation du projet:
+- Simulations en aérodynamique
+- Dynamique d'ensemble
+
+
+Compétences	◊ formuler un problème d'ingénierie
+◊ rassembler des savoirs et savoir-faire pour la conception détaillée d'un système
+◊ 
+◊ 
+
+
+
+Bibliographie	N.A. Cumpsty. Compressor Aerodynamics. Krieger Pub, 2004.
+
+B. Lakshminarayana. Fluid dynamics and heat transfer of Turbomachinery. John Wiley and Sons, Inc., 1996.
+
+
+
+
+Contrôle des	Participation, compte-rendu écrit et soutenance
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+

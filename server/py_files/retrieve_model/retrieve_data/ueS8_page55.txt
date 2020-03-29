@@ -1,0 +1,180 @@
+
+ AF ELC F-3
+
+
+Matériaux pour les composants des réseaux d'énergie
+
+Insulating Materials for Electrical Engineering
+
+Responsable(s) : Abderrahmane BEROUAL, Naoufel HADDOUR
+
+| Cours : 14 h | TD : 10 h | TP : 8 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le développement électro-énergétique est conditionné par la maîtrise des grands problèmes techniques résultant de la nécessité de produire et de transmettre des quantités d'énergie électriques de plus en plus importantes vers les centres de consommation pouvant se trouver à des milliers de kilomètres. Le principal moyen d'augmenter la puissance
+à transporter et de diminuer les pertes, c'est d'augmenter la tension de transmission. Cette augmentation de la tension dépend des systèmes d'isolation des composants utilisés et de leur tenue aux différentes contraintes notamment
+électriques. L'objectif de ce cours est de donner les bases nécessaires à la compréhension de la rupture diélectrique des structures isolantes et de leur intégration dans les composants des réseaux d'énergie électrique.
+
+Mots-clés : Matériaux du génie électrique ; isolation électrique ; matériaux composites ; nanomatériaux ; claquage diélectrique ; composants des réseaux d'énergie ; transformateur ; condensateurs ; câbles ; isolateurs ; traversées ; connecteurs.
+
+
+Programme
+Introduction
+
+1.
+Permittivité et pertes diélectriques
+
+Polarisation ; Permittivité complexe ; Schémas équivalents et Pertes Diélectriques
+
+2.
+Rigidité diélectrique des gaz
+
+Effet couronne ; Décharge dans les faibles et grands intervalles; Gaz électronégatifs ; Vide
+
+3.
+Rigidité diélectriques des liquides - idées récentes sur les mécanismes de rupture
+
+Conduction et EHD ; Pré-claquage ; Claquage
+
+4. Rigidité diélectriques des solides
+
+Caractéristiques physico-chimiques - classes ; Phénomènes d'arborescences (fracture), Claquage,
+
+Approche statistique.
+
+5.
+Les matériaux composites - nanomatériaux
+
+Permittivité effective ; Percolation ; Nanomatériaux ; Rigidité diélectrique
+
+6.
+Mécanismes de vieillissement des isolants - diagnostic
+
+7. Structures isolantes dans les composants du réseau électrique
+
+
+Compétences	◊ Acquérir les connaissances de base nécessaires à la compréhension des phénomènes physiques conduisant à la rupture diélectrique des matériaux
+◊ Disposer d'outils pour la conception et le dimensionnement des structures isolantes pour des composants et systèmes haute tension
+
+◊ Acquérir des compétences pour établir un diagnostic sur les systèmes et appareillage haute tension
+
+Travail en
+Objectifs : Effectuer le bon choix des matériaux et systèmes d'isolation pour une application donnée
+autonomie
+Méthodes : Travaux pratiques: Caractérisation diélectrique - pertes diélectriques ; Effet couronne
+
+et Rigidité diélectrique ; Contournement d'isolateurs ; Barrières isolantes.
+
+BE: Nano- matériaux
+
+P. Robert. Matériaux de l'Electrotechnique, Volume II, Traité d'Electricité, d'Electronique et
+Bibliographie
+
+
+d'Electrotechnique de l'EPFL, Lausanne. Dunod, 2007.
+
+R. Coelho et B. Aladenize. Les diélectriques, Traité des nouvelles Technologies, série Matériaux.
+
+Hermes, 1993.
+
+M. Aguet et M. Ianoz. Haute Tension, Volume XXII, Traité d'Electricité, d'Electronique et
+
+d'Electrotechnique. Dunod, 1987.
+Contrôle des
+Examen final, micro-tests, TP/BE
+connaissances
+
+54
+
+
+
+ AF ELC F-4
+
+
+Acoustique musicale
+
+Musical Acoustics
+
+Responsable(s) : Sébastien OLLIVIER, Michel ROGER
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Introduction à l'acoustique musicale et à ses applications (facture, musique, audio-numérique). Nous étudierons les caractéristiques physiques des sons musicaux et les aspects perceptifs associés. Les instruments de musique sont optimisés pour générer des sons à des fréquences précisément contrôlées. Leur étude physique et leur modélisation permettra de mettre en évidence les mécanismes mis en œuvre dans les sources acoustiques, et de développer des modèles de synthèse sonore. Nous discuterons des résonateurs, et des auto-oscillations des instruments à vent et à corde frottées. Nous introduirons les analogies électro-acoustiques et les appliquerons à la modélisation de dispositifs électroacoustiques (microphones, haut-parleurs, enceintes).
+
+Quota : 24 élèves maximum
+
+Mots-clés : acoustique musicale, auto-oscillations, acoustique non linéaire, synthèse par modèle physique, électro-acoustique, traitement du signal
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+Introduction à l'acoustique musicale.
+Caractéristiques des sons musicaux (aspects du signal, aspects physiques et perceptifs) Classification du point de vue fonctionnel des instruments de musique
+
+Instruments fonctionnant en oscillations libres (percussions, piano, cordes pincées, ...) Instruments à vent (résonateurs, cuivres, anches, flute,...), à cordes frottées (violon, etc), et auto-oscillations (stabilité, bifurcations, ...).
+
+Notions d'électroacoustique appliquées à la musique (résonateurs, microphones, haut-parleurs) Notions sur l'audio-numérique, la synthèse, et le traitement des signaux musicaux
+
+◊ Connaître les notions de base générales en acoustique musicale
+◊ Analyser des signaux sonores musicaux
+◊ Utiliser les analogies électroacoustiques et la modélisation de systèmes élémentaires
+◊ Comprendre les différents mécanismes de production du son
+
+Objectifs : Etude d'un problème en lien avec une problématique musicale ou de design sonore (mesure, analyse, modélisation, synthèse, ou tests perceptifs). Les sujets d'étude pourront être définis en collaboration avec des étudiants du CNSMD de Lyon.
+
+Méthodes : Bibliographie, modélisation, simulations, expériences, ou tests perceptifs selon le sujet. Rapport de synthèse et présentation orale.
+
+
+Bibliographie	A. Chaigne et J. Kergomard. Acoustique des instruments de musique. Belin, 2008.
+
+N.H. Fletcher and T. Rossing. The physics of musical instruments. Springer, 2008.
+
+M. Castallengo. Ecoute musicale et acoustique. Eyrolles, 2015.
+
+
+Contrôle des	Examen écrit. Rapport de synthèse + oral.
+
+connaissances
+
+
+
+
+
+

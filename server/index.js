@@ -15,7 +15,6 @@ const DIST_DIR = path.join(__dirname, '../dist');
 const HTML_FILE = path.join(DIST_DIR, '/index.html');
 
 
-//Routes
 
 //----
 
@@ -30,7 +29,7 @@ app.get("/", (req, res) => {
 app.get("/api/hello", invokeChatbotWelcome);
 
 
-app.post('/api/df_text_query', invokeChatbot);
+app.post('/api/df_text_query', invokeChatbotGenerativeModel);
 
 
 
@@ -38,9 +37,9 @@ app.post('/api/df_text_query', invokeChatbot);
 /// chatbot code starts here
 
 
-let chatbotScript = path.join(__dirname, '.', 'chatbot_ecl_2.py')
+let generativeModelScript = path.join(__dirname, '.', '/py_files/generative_model/main.py')
+    // let retrieveModelScript = path.join(__dirname, )
 
-console.log(chatbotScript)
 
 async function invokeChatbotWelcome(req, res) {
     console.log('welcome');
@@ -49,17 +48,15 @@ async function invokeChatbotWelcome(req, res) {
         args: ["bonjour"]
     }
 
-    await PythonShell.run(chatbotScript, options, function(err, results) {
+    await PythonShell.run(generativeModelScript, options, function(err, results) {
         if (err) console.log(err);
-
-
         res.send(results[0])
     });
 
 }
 
 
-async function invokeChatbot(req, res) {
+async function invokeChatbotGenerativeModel(req, res) {
 
     console.log("new message from client")
     console.log(req.body.text)
@@ -70,7 +67,7 @@ async function invokeChatbot(req, res) {
         args: [req.body.text]
     }
 
-    await PythonShell.run(chatbotScript, options, function(err, results) {
+    await PythonShell.run(generativeModelScript, options, function(err, results) {
         if (err) console.log(err);
 
         console.log(results[0])

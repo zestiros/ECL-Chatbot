@@ -1,0 +1,72 @@
+
+ AF ELC D-9
+
+
+Eoliennes
+
+Wind Turbines
+
+Responsable(s) : Pierre DUQUESNE, Eric VAGNON
+
+| Cours : 10 h | TD : 10 h | TP : 4 h | Autonomie : 6 h | BE : 2 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Dans un contexte de diversification de la production d'énergie, l'utilisation de l'énergie du vent est une alternative en plein développement. Les projets de nouvelles installations sont nombreux. Ils concernent de très grandes installations offshore jusqu'aux installations de faibles puissances en zone rurale voire urbaine ou dans des sites isolés du réseau. L'énergie éolienne est donc un enjeu industriel majeur et présente un potentiel d'emplois important.
+
+Ce cours vise à présenter les techniques mises en œuvre pour la production d'énergie électrique à partir de l'énergie du vent. Les notions abordées concernent la mécanique des fluides, l'électrotechnique et l'électronique de puissance. Les techniques présentées couvrent les installations de quelques kW comme celles de plusieurs MW.
+
+Mots-clés : Vent, Éoliennes, Mécanique des fluides, Génie électrique, Électronique de puissance
+
+
+
+Programme	Intervention (4h) d'un ingénieur du secteur sur la ressource, la situation et les tendances du marché.
+
+Potentiel de conversion de l'énergie du vent
+Aérodynamique des pales
+Interactions aérodynamiques : effets de site et d'installation
+Génie électrique des éoliennes
+Chaînes de conversions en site isolé, raccordé au réseau ou offshore
+Génératrice synchrone et électronique de puissance associée
+
+Recherche du point de puissance maximale (Maximum Power Point Tracking)
+
+TP de 4 heures
+Machine synchrone à vitesse variable et électronique de puissance pour la connexion au réseau ou (au choix)
+
+Mécanique des fluides
+
+
+Compétences	◊ Décrire les constituants des éoliennes et leur rôle
+◊ Expliquer les principes physiques entrant en jeu lors de la conversion de l'énergie cinétique du vent en énergie mécanique puis en énergie électrique
+
+Bibliographie
+Bin Wu et al.. Power conversion and control of wind energy systems. Wiley, 2011.
+
+Olimpo Anaya-Lara. Wind energy generation -- Modeling and control. Wiley, 2009.
+
+Note finale =
+Contrôle des
+
+connaissances
+0.5*
+Note de test final (test individuel écrit)
+
++
+
+
+0.5*
+Note de présentation sur les travaux pratiques
+
+
+
+
+
+
+
+

@@ -1,0 +1,72 @@
+
+ AF ELC C-6
+
+
+Mécanique des sols
+
+Fundamental Soil Mechanics
+
+Responsable(s) : Eric VINCENS
+
+| Cours : 14 h | TD : 14 h | TP : 0 h | Autonomie : 4 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce module a pour objectif de poser les bases essentielles de la Mécanique Théorique des Sols indispensable au géotechnicien pour comprendre et prédire le comportement d'un matériau polyphasique (air, eau, solide) complexe : le sol. Il fait le lien avec la Mécanique des Solides (UE MSS), dont il montre une application concrète. Il est notamment destiné aux futurs élèves de l'option Génie Civil et Environnement.
+
+Mots-clés : sable, argile, hydraulique, cisaillement, consolidation, analyse limite, soutènement
+
+
+
+Programme	1 - Caractéristiques physiques et classification des sols.
+2 - Hydraulique des sols
+3 - Consolidation des sols fins
+3.1 - Essai oedométrique
+3.2 - Tassements de consolidation
+4 - Résistance des sols au cisaillement
+4.1 - Essais de cisaillement
+4.2 - Chemins de contrainte
+
+5 - Equilibres limites - poussée et butée des terres
+
+
+Compétences	◊ savoir calculer les propriétés physiques et mécaniques des sols
+◊ savoir calculer les tassements des sols dus à la présence d'un ouvrage sur le site
+◊ savoir calculer des débits hydrauliques et sous-pressions sous les ouvrages
+◊ savoir calculer un champ de contraintes dans un sol
+
+
+Bibliographie	G. Olivari. Polycopié de Mécanique des sols I. SDEC.
+
+
+
+Contrôle des QCMs de 10min en début de séance en contrôle continu connaissances test avec partie "avec documents et autre "sans document"
+
+note : 0.67*test final +0.33*QCMs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

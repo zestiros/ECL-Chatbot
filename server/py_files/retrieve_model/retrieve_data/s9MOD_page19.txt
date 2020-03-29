@@ -1,0 +1,100 @@
+
+ AF MOD 3.2
+
+
+Apprentissage profond & Intelligence Artificielle : une introduction
+
+Deep Learning & Artificial Intelligence : an introduction
+
+Responsable(s) : Liming Chen, Emmanuel Dellandréa, Alberto Bosio
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+En permettant des percées jusqu'alors impensables dans un nombre croissant de domaines tels que la vision par ordinateur, la reconnaissance de la parole, la conduite autonome ou encore les jeux, l'apprentissage profond a révolutionné le domaine de l'intelligence artificielle devenue un des piliers majeurs de notre société. Dans ce cours, nous avons pour objectif d'introduire les concepts, les techniques et les outils de base de l'apprentissage profond.
+
+Mots-clés : Apprentissage profond, intelligence artificielle, apprentissage par renforcement, PyTorch.
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Activités /
+
+Autonomie
+
+
+
+Masters
+
+affiliés
+
+
+Bibliographie
+
+
+
+- Introduction à l'apprentissage automatique et à l'apprentissage profond
+- Classification/régression et descente du gradient
+- Graphes de calculs et rétro-propagation
+- Apprentissage de réseaux de neurones profonds
+- Réseaux de neurones convolutionnels (CNN)
+- Réseaux de neurones récurrents et LSTM
+- Séquence à séquence et attention
+- Apprentissage non-supervisé : auto-encodeurs profonds
+- Apprentissage par renforcement profond
+- Apprentissage profond embarqué
+
+◊ Comprendre les principes de l'apprentissage profond.
+◊ Maîtriser les techniques pour permettre la supervision des apprentissages.
+◊ Etre capable de mettre en oeuvre une approche d'apprentissage profond avec le framework PyTorch.
+
+Les principes de l'apprentissage profond introduits en cours seront mis en oeuvre lors des trois séances de BE en utilisant le framework PyTorch et une carte GPU pour les applications embarqués.
+
+Master Informatique de Lyon
+
+
+Ian Goodfellow, Yoshua Bengio, Aaron Courville. Deep Learning. MIT Press, 2016.
+
+
+Bert Moons, Daniel Bankman, Marian Verhelst. Embedded Deep Learning Algorithms, Architectures and Circuits for Always-on Neural Network Processing. Springer, 2019.
+
+Richard S. Sutton, Andrew G. Barto. Reinforcement Learning: An Introduction (2nd Edition). MIT Press, 2018.
+
+
+Contrôle des	50% savoir (examen écrit), 50% savoir-faire (évaluation des devoirs à rendre)
+
+connaissances
+
+
+
+
+
+
+

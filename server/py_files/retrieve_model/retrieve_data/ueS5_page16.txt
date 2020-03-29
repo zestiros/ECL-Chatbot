@@ -1,0 +1,85 @@
+
+ AF INF tc 2
+
+
+Conception et programmation objet
+
+Object-Oriented Design and Programming
+
+Responsable(s) : Emmanuel Dellandréa
+
+| Cours : 8 h | TD : 17 h | TP : 0 h | Autonomie : 5 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Apporter aux étudiants le bagage de base concernant la démarche de conception et de développement de programmes avec l’approche objet.
+
+Ces notions seront mises en oeuvre au travers du langage Python pour la programmation et UML pour la modélisation. Les cours traditionnels en amphithéâtre sont limités pour privilégier une approche par la pratique en TD et TP sur machine sous la forme d’exercices de programmation et de mini-projets.
+
+Mots-clés : Programmation objet, conception objet, Python, UML.
+
+
+
+Programme	Introduction au génie logiciel
+Langages de modélisations
+Conception orientée objet
+Penser objet : classes et instance
+Encapsulation, attributs, méthodes
+Héritage, agrégation, composition
+Polymorphisme et généricité
+Programmation objet en Python
+
+
+Compétences	◊ Savoir établir un modèle objet d’une application informatique.
+◊ Savoir implémenter un modèle objet en utilisant le langage Python.
+◊ Savoir utiliser le pseudo-formalisme UML.
+◊ Savoir mettre en oeuvre un projet informatique.
+
+
+
+Travail en autonomie
+
+
+
+Bibliographie
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+Objectifs : Comprendre et assimiler les notions de cours mises en œuvre dans les TD.
+Méthodes : Séances de questions/réponses avec les enseignants faisant suite aux TD pour aider à la réalisation des devoirs à rendre.
+
+Bertrand Meyer. Conception et programmation orientées objet. Eyrolles, 2008.
+
+Delannoy Claude. S'initier à la programmation et à l'orienté objet. Eyrolles, 2014.
+
+Pascal Roques, Franck Vallée. UML 2 en action : De l'analyse des besoins à la conception. Eyrolles, 2007.
+
+
+Note de savoir (60%) : Examen écrit
+Note de savoir-faire (40%) : Moyenne des deux devoirs à rendre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

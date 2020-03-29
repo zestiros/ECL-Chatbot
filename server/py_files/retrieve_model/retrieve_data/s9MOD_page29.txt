@@ -1,0 +1,77 @@
+
+ AF MOD 4.6
+
+
+Systèmes de bases de données
+
+Database systems
+
+Responsable(s) : Liming CHEN
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les bases de données sont au cœur de tout système d'information aujourd'hui omniprésent dans notre vie quotidienne (travail, organisation, web, etc.). Ce cours a pour objectif d'étudier les principes de programmation de bases de données relationnelles et semi-structurées qui sont les fondements de toute application dans les divers systèmes d'information. Il aborde aussi des aspects d'implémentation de systèmes de bases de données comme le contrôle de concurrence ou encore l'optimisation de requêtes.
+
+Mots-clés : bases de données, modélisation de données structurées ou non, stockage et accès de données, langages relationnels, contrôle de concurrence, optimisation de requêtes, contraintes d'intégrité
+
+
+
+Programme	Introduction (Modèle relationnel, schémas, SQL, modèle semistructuré, XML)
+Modèles de données (entité/association, relationnel, objet)
+Langages relationnels (Algèbre relationnelle, SQL, Datalog)
+Programmation SQL (PL/SQL, Embedded SQL)
+Applications web et bases de données (JDBC, PHP)
+XML Xpath-Xquery-xslt
+Contrôle de concurrence
+Optimisation de requêtes
+- contraintes d'intégrité
+- Olap et Data-mining
+
+
+Compétences	◊ être capable de comprendre les composantes majeures d'un système d'information;
+◊ mettre en oeuvre des techniques fondamentales pour développer un système d'information et ses applications
+
+Activités /
+Trois BEs sont prévus pour mettre en place une base de données, extraire des données à travers
+Autonomie
+SQL et développer un système d'information Web pour une application de gestion particulière.
+
+Master d'Informatique
+Masters
+
+affiliés
+
+
+H.Garcia-Molina, J.D.Ullman, J.Widom. Database systems: the complete book. Pearson Prentice
+Bibliographie
+
+
+Hall, 2002.
+
+Georges Gardarin. Bases de données (http://georges.gardarin.free.fr/Livre_BD_Contenu/XX-
+
+TotalBD.pdf). Eyrolles, 2003.
+
+40% savoir, 60% savoir faire
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+

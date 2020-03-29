@@ -1,0 +1,73 @@
+
+ AF IM 3.3
+
+
+Introduction aux problèmes inverses
+
+An introduction to Inverse Problems
+
+Responsable(s) : Abdelmalek ZINE
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Est-il possible de reconstruire la géométrie d'une membrane vibrante à partir de ses fréquences propres ? Détecter des fissures dans une pièce en mesurant sur son bord simultanément la température et/ou le flux. Ou encore déterminer les paramètres d'un système, connaissant son évolution.
+
+Ces questions donnent lieu à ce qu'on appelle les « Problèmes Inverses ». Contrairement au problèmes directs, généralement bien posés, les problèmes inverses sont souvent "mal posés" (non existence, non unicité ou non stabilité par rapport aux données).
+
+On aborde, dans ce cours, les outils mathématiques et numériques de base concernant l'inversion de problèmes mal-conditionnés (ou mal posés) et leur utilisation au travers d'applications dans quelques domaines d'ingénierie.
+
+Mots-clés : Problèmes mal posés, solutions généralisées, moindres carrées, décomposition en valeurs singulières, régularisation, estimation de paramètres
+
+
+
+Programme
+1- Introduction
+
+2- Exemples de problèmes inverses
+
+3- Equations intégrales et leur résolution numérique
+
+4- Problèmes inverses linéaires : moindres carrés, quasi-solutions et SVD
+
+5- Régularisation des problèmes inverses mal posés
+
+Problèmes inverses non linéaires : identification de paramètres, méthode de l'état adjoint
+
+
+Compétences	◊ Identifier les problèmes inverses, maitriser les outils mathématiques pour les problèmes inverses linéaires
+◊ Maitiser les techniques de moindres carrés pour la génération de solutions de problèmes mal posés
+
+◊ Utiliser la SVD pour les problèmes mal conditionnés
+◊ Savoir utiliser quelques techniques de régularisation.
+
+
+
+Bibliographie	A. Kirsh. An introduction to the mathematical theory of inverse problems. Springer-Verlag, 1996.
+
+H. Brézis. Analyse fonctionnelle - Theorie et applications. Masson, 1983.
+
+C.R. Vogel. Computational methods for inverse problems. SIAM, 2002.
+
+
+
+Contrôle des	Examen écris de 2 heures
+
+connaissances	Comptes rendus de Bureaux d'étude
+
+
+
+
+
+
+
+
+
+
+
+
+
+

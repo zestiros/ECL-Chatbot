@@ -1,0 +1,82 @@
+
+
+MOD 7.3	Acoustique générale (en anglais)
+
+MOD 8.3	Hydraulique fluviale (en anglais)
+
+MOD 9.3	Stabilité des Systèmes Mécaniques
+
+MOD 10.3	Le système électrique
+
+MOD 11.3	MOD Parcours Entrepreneur 2
+
+Créneau 4  Mardi 16h15-18h15
+
+MOD 1.4	Physique des écoulements turbulents
+
+MOD 2.4	Les turbines pour la production d'énergie
+
+MOD 3.4	Identification des systèmes et décomposition parcimonieuse des signaux
+
+MOD 4.4	Recherche opérationnelle
+
+MOD 5.4	Matériaux de construction
+
+MOD 6.4	Microsystèmes Autonomes
+
+MOD 7.4	Dynamique des structures
+
+MOD 8.4	Représentation et manipulation de données structurées
+
+MOD 9.4	Comportement des matériaux
+
+MOD 10.4	MOD Parcours Entrepreneur 1
+
+MOD 11.4	Méthodes variationnelles pour les EDP
+
+Créneau5	Vendredi 13h30-15h30
+
+MOD 1.5	Introduction aux vibrations non-linéaires
+
+MOD 3.5	Diagnostic et Sûreté de Fonctionnement
+
+MOD 4.5	Analyse des assemblages : géométrie et architecture
+
+MOD 5.5	Tribologie : principes et applications
+
+MOD 6.5	Changements Climatiques et Géo-ingénierie (en anglais)
+
+MOD 7.5	Bruits d'origine aérodynamique
+
+MOD 8.5	Physique pour les technologies de l'information
+
+MOD 9.5	Réseaux informatiques
+
+MOD 10.5	Ingénierie d'un objet de grande consommation
+
+Créneau6	Vendredi 15h45-17h45
+
+MOD 1.6	Acoustique Environnementale (en anglais)
+
+MOD 2.6	Reconnaissance et comportement des sols
+
+MOD 3.6	Automatique Avancée
+
+MOD 4.6	Systèmes de bases de données
+
+MOD 5.6	Aérodynamique externe (en anglais)
+
+MOD 6.6	Dynamique des systèmes biologiques humains
+
+MOD 7.6	Caractérisation des surfaces et des nanostructures
+
+MOD 8.6	Énergie Nucléaire
+
+MOD 9.6	Méthodes numériques pour les EDP
+
+Évaluation de l'UE MOD
+
+La note de l'UE MOD est la moyenne des notes des 6 actions de formations. L'UE est validée si chaque note est supérieure à 10.
+
+
+

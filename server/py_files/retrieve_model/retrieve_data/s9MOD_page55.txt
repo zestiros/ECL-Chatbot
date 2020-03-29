@@ -1,0 +1,93 @@
+
+ AF MOD 9.2
+
+
+Mécanique des matériaux et structures composites
+
+Mechanics of Composite Materials and Structures
+
+Responsable(s) : Michelle SALVIA, Olivier BAREILLE, Mohammed ICHCHOU
+
+| Cours : 12 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif de ce module est de fournir une description détaillée des matériaux et structures composites. Ces matériaux sont en effet de plus en plus employés dans de nombreux secteurs industriels et offrent de nombreux avantages qu'il convient de maîtriser. Le module discutera ainsi des modèles des structures composites souvent utilisées. Il abordera également le comportement dynamique de ces structures. Enfin, les mécanismes d'endommagements seront exposés.
+
+Mots-clés : anisotropie - les laminés - les structures sandwichs - homogenisation - comportement dynamique - endommagements et défauts.
+
+
+
+Programme	Matériaux et structures composites (2)
+Modèles structuraux (2)
+Modèles tridimensionnels (2)
+Théorie des Laminées (2)
+Structures Sandwich (2)
+Homogenisation (2)
+Comportement dynamique (2)
+Endommagements (2)
+
+
+
+Compétences
+
+
+
+Activités /
+
+Autonomie
+
+
+Masters
+
+affiliés
+
+
+Bibliographie
+
+
+
+
+
+Contrôle des connaissances
+
+
+◊ connaitre les types de composites - connaitre les modèles
+◊ théorie de l'homogénisation - mécanismes d'endommagements
+
+Analyse d'un article récent de la littérature
+
+
+Aéronautique et Espace
+
+
+Carl T. Herakovich. Mechanics of Fibrous Composites. John Wiley & Sons, 2004.
+
+J.N. Reddy. Mechanics of laminated composite plates. CRC Press, 1997.
+
+D Gay, S V Hoa, S W Tsai. Composite Materials: Design And Applications. CRC Press, 2003.
+
+
+Contrôle continu pendant les séances de TP/BE (33%)
+Test écrit (33%)
+
+Travail personnel en autonomie (33%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

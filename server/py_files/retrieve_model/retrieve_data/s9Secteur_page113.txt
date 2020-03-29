@@ -1,0 +1,78 @@
+
+ AF MOS 3.2
+
+
+Ouvrages de Production d'Energie
+
+Structures for Power Generation
+
+Responsable(s) : Eric VINCENS
+
+| Cours : 20 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+1. Connaitre les ouvrages associés à la production d'énergie nucléaire, hydro-électrique et éolienne. 2 Savoir appliquer les notions de base de conception et de securité
+
+Mots-clés : Systèmes électriques, centrale nucléaire, barrages, sécurité, conception, énergie éolienne
+
+
+
+Programme	Ouvrages nucléaires
+1. Présentation des plans généraux des sites (emplacements relatifs et rôle des ouvrages)
+2. Les textes régissant la conception et l’exploitation des ouvrages nuc, ayant un impact sur la conception
+
+3. Les éxigences de sûreté et installation générale du génie civil
+4. La conception du GC : des textes de base aux critères de dimensionnement
+5. Introduction aux études de fiabilité simplifiées appliquées au génie civil
+6. Les enceintes de confinement
+7. Les grands aéro-réfrigérants
+
+Ouvrages hydro-electriques
+1. Les ouvrages
+2. Les projets
+3. Les modes de ruptures
+4. Les fonctions de conception
+5. Les mesures compensatoires
+
+Développement d'un projet éolien (on shore et offshore)
+
+Compétences
+◊ Conception des aménagements
+
+◊ Evaluation de la Sécurité
+
+Option Energie
+Options /
+
+Masters
+Option Génie Civil & Environnement
+
+Master Génie Civil
+
+Examen de 2h (50%)
+Contrôle des
+
+connaissances
+Etude de BE par groupe de 2 (30%)
+
+Compte rendu de visites (20%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

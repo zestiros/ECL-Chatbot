@@ -1,0 +1,70 @@
+
+ AF BIO 3.4
+
+
+Bio-informatique, bio-statistique et modélisation
+
+Bio-computing, bio-statistic and modelisation
+
+Responsable(s) : Christelle Yéromonahos, Romain Rieger
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :	|
+
+
+Objectifs de la formation
+
+
+Au travers de cette AF, des outils statistiques de bases ainsi que des concepts et techniques de modélisation seront abordés pour permettre aux élèves-ingénieurs d’analyser et modéliser les données en sciences du vivant. A partir d’exemples concrets, les stratégies d’analyse et de modélisation seront étudiées, et le développement d'un modèle complet sera élaboré.
+
+Mots-clés :
+
+
+
+Programme	BE 1 (4h) : Modélisation de tissu vivant
+BE 2 (4h) : Modélisation de membrane cellulaire en dynamique moléculaire
+BE 3 (4h) : Epidémiologie et vaccination
+BE 4 (3h) : Outils statistiques pour les sciences du vivant
+
+
+Compétences	◊ Comprendre la modélisation
+◊ Etre capable de simuler et analyser un modèle
+◊ Reconnaitre les contextes d’application des méthodes statistiques et les mettre en œuvre sur des jeux de données
+
+◊ Comprendre le principe des simulations de dynamique moléculaire
+
+
+
+
+Contrôle des	1 rapport écrit pour chaque BE, comptant chacun pour 25% de la note finale.
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,67 @@
+
+Filière EE
+
+En e r g i e Em bar q u é e
+
+On-board Energy
+
+Responsables : J.P. CLOAREC
+
+
+
+Présentation
+
+La filière « Énergie embarquée » présente la chaîne complète d'extraction et de transformation des ressources énergétiques classiques (pétrole, gaz, charbon, de la prospection à la distribution), présente le développement de sources alternatives (bio-carburants, hydrogène, bois) et les approches de co-génération. L'ensemble est présenté dans un contexte de modification des filières énergétiques, en lien avec les questions environnementales et la problématique du bouquet énergétique. Comment articuler les structures industrielles et économiques actuelles pour augmenter la part d'énergie primaire renouvelable (biomasse, éolien, solaire...) en partant de la connaissance des systèmes actuels de production d'énergie, à l'échelle planétaire ?
+
+Une partie significative des enseignements de EE est commune avec la filière "Energie d'Infrastructure", car il est important de savoir relier les problématiques des sources d'énergies et des réseaux d'énergie.
+
+
+Départements/laboratoires	Programme
+STMS	EE 3.1 - Pétrole et Gaz
+
+EE 3.2 - Énergie de substitution EE 3.3 - Cogénération
+
+Un projet.
+
+Compétences visées
+
+◊ Appréhender toutes les dimensions scientifiques et techniques d'un projet dans le secteur de l'énergie
+◊ Comprendre, à communiquer en anglais dans les domaines de l'énergie
+◊ Intégrer les règles et normes qualité / sécurité / environnementales dans les industries de production et d'acheminement d'énergie
+
+◊ Prendre en compte les enjeux sociétaux, juridique, financier, économique, réglementaire
+
+◊
+
+Débouchés
+
+Exemple d’Entreprises partenaires et Recruteurs
+IFPEN, TOTAL, ENGIE, Technip, Subsea….
+
+Pré-requis
+
+MOD imposé: « Energie, stockage et conversion » .
+MOS imposé: « Macro énergie ».
+
+MOS recommandé : "Energie et impact sur l'environnement"
+
+Évaluation
+
+EE3.1 : 29% , EE3.2 : 24% , EE3.3 : 17% , EE3.4 : 30%
+
+Site web de l’option
+
+www.option-energie.ec-lyon.fr (en construction!)
+
+
+Informations complémentaires
+
+Autres modules ouverts conseillés : "Système électrique", "Eoliennes", "Turbines pour la production d'énergie", "Gestion de l’énergie dans le transport"
+
+
+
+
+
+
+
+

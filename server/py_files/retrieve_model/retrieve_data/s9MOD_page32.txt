@@ -1,0 +1,66 @@
+
+ AF MOD 5.3
+
+
+Traitement et analyse des données visuelles et sonores
+
+Processing and analysing of visual and audio data
+
+Responsable(s) : Mohsen ARDABILIAN, Emmanuel DELLANDREA
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les images et les données sonores font partie de notre quotidien, mais aussi produites en masse dans de nombreux secteurs industriels. Ces signaux particulièrement riches en information doivent être compris et maîtrisés par des algorithmes d'analyse pour en définir les parties utiles. Cette tâche d'analyse peut être aussi simple que la lecture des barre-codes ou aussi sophistiquée que l'identification d'une personne et de son affect à partir de son visage ou de sa voix. Ce cours présente les algorithmes et les outils d'analyse permettant l'extraction d'informations sémantiques et utiles, exploitées dans des applications réelles. Cette démarche est utilisée dans de nombreux domaines comme robotique, médecine, sécurité, vision industrielle, internet, audiovisuel, véhicule intelligent etc
+
+Mots-clés : Analyse d'image, analyse de vidéo, analyse audio, caractéristique, descripteur, forme, couleur, texture, classification, reconnaissance, fusion tardive, fusion précoce, représentation parsemé, traitement d'image, super résolution, big data
+
+
+
+Programme	Recherche d'image et de son par le contenu
+Evaluation des approches d'analyse et de traitements d'images et de son
+Algorithmes de traitement d'images, super résolution
+Algorithme de traitement audio
+Algorithmes d'analyse d'images et de son, de bout en bout
+Applications traitées :
+- Reconnaissance d'objets, de personne
+- Structuration de la vidéo
+- Reconnaissance d'image
+- Reconnaissance sonore
+
+
+Compétences	◊ Etre capable d'appliquer les algorithmes de traitement adéquats à un contexte donné
+◊ Etre capable d'appliquer les algorithmes d'analyse adéquats à un contexte donné
+◊ Evaluer des algorithmes ou des systèmes de traitement et d'analyse
+◊ Connaître des algorithmes de traitement et analyse de l'état de l'art, ainsi que leurs principes
+
+
+Masters	Master 2 de recherche Informatique de Lyon
+
+affiliés
+
+
+Bibliographie	A. Divakaran. Multimedia Content Analysis: Theory and Applications.. Springer, 2008.
+
+R. Szeliski. Computer Vision -- Algorithms and Applications. Springer, 2010.
+
+R. O. Duda, P. E. Hart & D. G. Stork,. Pattern Classification. Wiley Interscience, 2004.
+
+
+Contrôle des	Test final et note de BE
+
+connaissances
+
+
+
+
+
+
+
+

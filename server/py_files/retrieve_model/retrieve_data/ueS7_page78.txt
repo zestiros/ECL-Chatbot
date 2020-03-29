@@ -1,0 +1,76 @@
+
+ AF FLE a 1-FH
+
+
+Turbulences et instabilité
+
+Turbulences and instability
+
+Responsable(s) : Julian Scott, Daniel Juve
+
+| Cours : 20 h | TD : 16 h | TP : 0 h | Autonomie : 12 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Dans leur très grande majorité les écoulements sont turbulents, que ce soit dans les applications industrielles (transport, énergie, génie chimique) ou environnementales (atmosphère, océans).
+
+Le but de ce cours est de décrire le passage de l'état laminaire à la turbulence développée pour les principales classes d'écoulements : écoulements libres (jets ou sillages) ou contraints par des parois (conduites, couches limites). L'un des ingrédients essentiels de cette transition est la perte de stabilité du régime laminaire sous l'action de faibles perturbations. Cet aspect sera décrit dans la première partie du cours. La seconde partie précisera le comportement des écoulements turbulents développés et les différentes approches conduisant à leur simulation numérique.
+
+Mots-clés : Fluide, écoulement, turbulence, instabilité
+
+
+
+Programme	Introduction
+Stabilité des écoulements
+
+- Notions et outils de base. Instabilités locales et globales. Seuils d'instabilité et paramètres adimensionnels. Linéarisation.
+
+- Ecoulements plans parallèles. Equation d'Orr- Sommerfeld.
+ - Instabilités non visqueuses : équation de Rayleigh. Profils linéaires par morceaux. Profils monotones et modes neutres.
+
+- Effets de faibles non linéarités
+Ecoulements turbulents
+- Description qualitative des écoulements turbulents
+- Équations générales des écoulements turbulents
+- Écoulements pleinement développés en conduite
+- Écoulements turbulents à bords libres
+- Simulations numériques et méthodes expérimentales en turbulence
+
+
+Compétences	◊ Connaissances fondamentales de la mécanique des fluides.
+◊ Maîtriser les concepts de stabilité linéaire des écoulements
+◊ Posséder une bonne compréhension de la phénoménologie des écoulements turbulents
+
+Travail en
+Objectifs : Résoudre des problèmes (théoriques, numériques, traitement de données expérimen-
+autonomie
+tales)
+
+Méthodes : Certains TD comportent une partie à traiter en autonomie
+
+Bailly C. and Comte-Bellot G.. Turbulence. Springer, 2015.
+Bibliographie
+
+
+Drazin P. G. and Reid W. H.. Hydrodynamic Stability. Cambridge University Press, 1981.
+
+Godrèche C., Manneville P.. Hydrodynamic and Nonlinear Instabilities. Cambridge University Press, 1998.
+
+Rendus des séances d'autonomie (50%) et test écrit (50%)
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+

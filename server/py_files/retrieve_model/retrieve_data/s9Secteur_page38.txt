@@ -1,0 +1,65 @@
+
+ AF NANO 3.1
+
+
+Mémoires pour l’internet des objets
+
+Memories for Internet of Things
+
+Responsable(s) : Bertrand Vilquin & Ian O’Connor
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Au travers de cette AF les élèves-ingénieurs seront amenés à comprendre le fonctionnement de ces différentes propriétés physiques d’un même matériau ferroélectrique présentant un grand potentiel pour des applications innovantes et de fabriquer, caractériser et utiliser des mémoires numériques encore plus petites et rapides utiles pour l’internet es objets. La plus grande mobilité électronique sera un des grands enjeux de demain, au même titre que l’Internet des objets (Internet of things). À l’avenir, l’interaction avec des objets ne se fera plus seulement au moyen de puces électroniques ou d’ordres spécifiques transmis par un écran tactile, mais aussi entre les objets eux-mêmes.
+
+Mots-clés :
+
+
+
+Programme	BE1 (2h) : technologies de la salle blanche, diffraction des rayons X
+TP1 (4h) : dépôt de nanomatériaux en salle blanche et fabrication de cellules mémoires intégrées
+TP2 (2h) : caractérisations structurales de cellules mémoires ferroélectriques
+TP3 (2h) : caractérisations électriques de cellules mémoires ferroélectriques
+TP4 (8h) : conception de circuits à base de cellules mémoires
+BE2 (2h) : Présentation des résultats et discussions scientifiques.
+
+
+Compétences	◊ Comprendre les enjeux et problématiques de l’internet des objets.
+◊ Connaître et utiliser les techniques de la salle blanche et de caractérisations structurales et électriques.
+
+◊ Concevoir l’architecture d’un circuit.
+◊ Présenter des résultats de façon pertinente, rigoureuse et critique en vue d'une analyse.
+
+
+
+
+Contrôle des 30% savoir (rapport du travail), 30% savoir-être (implication et participation active), 40% savoir-connaissances faire (présentation orale du compte-rendu).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

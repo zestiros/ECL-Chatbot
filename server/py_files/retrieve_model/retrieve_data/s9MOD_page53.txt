@@ -1,0 +1,87 @@
+
+ AF MOD 8.6
+
+
+Energie Nucléaire
+
+Nuclear Energy
+
+Responsable(s) : Yves ROBACH, Ségolène CALLARD
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'énergie nucléaire représente un domaine technologique et économique important qui recouvre des compétences multidisciplinaires et des métiers variés (conduite de projets, ingénierie, sûreté,...). Ce module, à caractère très industriel, a pour objectif de donner aux élèves une formation à la fois scientifique et technologique dans les différents domaines de l'énergie nucléaire. Une large part sera consacrée à l'étude des filières actuelles de réacteurs nucléaires. Ce module permettra aussi d'appréhender l'ensemble des solutions aux questions de sûreté des installations et de protection des personnes.
+
+Mots-clés : Réacteurs nucléaires, filières nucléaires, sûreté nucléaire.
+
+
+
+Programme
+Éléments de physique nucléaire : rappels.
+
+Éléments de neutronique
+
+Cinétique des réacteurs.
+
+Filières actuelles de réacteurs nucléaires : Fonctionnement et pilotage.
+
+Sûreté nucléaire.
+
+Cycle du combustible.
+
+Matériaux pour le nucléaire.
+
+◊ Comprendre les enjeux scientifiques, économiques et environnementaux du nucléaire.
+Compétences
+
+
+◊ Comprendre les spécificités de l'industrie nucléaire
+
+◊ Situer l'énergie nucléaire par rapport aux autres énergies.
+
+Étude sur les réacteurs nucléaires de future génération.
+Activités /
+
+Autonomie
+Études, exposés
+
+Jacques LIGOU. Introduction au génie nucléaire. Presses polytechniques et universitaires
+Bibliographie
+
+
+romandes, 1997.
+
+John R. LAMARSH. Introduction to nuclear engineering. Addison Wesley Publishing company, 2013.
+
+Paul BONCHE. Le nucléaire expliqué par des physiciens. EDP Sciences, 2002.
+
+Examen écrit de 2H.
+Contrôle des
+
+connaissances
+Évaluation sur les travaux effectués en bureaux d'étude.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,74 @@
+
+ AF INF a 1-FH
+
+
+Multimédia : Concepts et technologies
+
+Multimedia: Concepts and technologies
+
+Responsable(s) : Mohsen Ardabilian, Emmanuel Dellandrea
+
+| Cours : 16 h | TD : 0 h | TP : 18 h | Autonomie : 14 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours vise à familiariser les étudiants avec les concepts fondamentaux du multimédia ainsi qu’avec les différentes technologies, systèmes et méthodes d’analyse multimédia.
+
+Mots-clés : Multimédia, image, son vidéo, analyse, segmentation, traitement, mpeg
+
+
+
+Programme	les terminologies et concepts de base
+La perception visuelle et auditive
+L’échantillonnage et quantification
+L’acquisition du son, image et vidéo
+Les systèmes d’acquisition
+Analyse multimédia et ses applications
+Analyse multimodale par le contenu
+modalité visuelle
+modalité auditive
+modalité temporelle
+Les principes de codage et de compression
+Indexation automatique
+Structuration automatique (résumé, chapitre, etc.)
+présentation des standards et normes de description, compression et synchronisation (H.26x, JPEGs, MPEGs, SMIL et autres).
+
+
+Compétences	◊ Appréhender le principe général des différents procédés de codage et compression appliqués aux images, audio et vidéo.
+◊ Etre capable d'identifier les techniques de codage et de compression les plus adaptées en fonction de la nature des données multimédia.
+
+◊ Comprendre le principe des méthodes d'analyse multimédia.
+◊ Savoir mettre en oeuvre des méthodes d'analyse audio/vidéo (segmentation, classification).
+
+Travail en
+Objectifs : Permettre aux étudiants d’assimiler les notions et les concepts vus en cours et en BE
+autonomie
+Méthodes : Séances d’encadrement et de questions réponses avec les enseignants
+
+P. Bellaïche. Les secrets de l’image vidéo. Eyrolles, 2002.
+Bibliographie
+
+
+N. Chapman et J. Chapman. Digital Multimedia. Wiley, 2000.
+
+T. Vaughan. Multimedia-Making it Work (5ème édition). McGraw-Hill, 2002.
+
+Savoir : évalué suite à l’examen écrit final (63% de la note finale)
+Contrôle des
+
+connaissances
+Savoir-faire : par évaluation des rendus des élèves (37% de la note finale)
+
+
+
+
+
+
+
+
+

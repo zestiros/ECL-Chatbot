@@ -1,0 +1,77 @@
+
+UE MSS
+
+Mé c a n i q u e d e s So l i d e s e t d e s St r u c t u r e s
+
+Mechanics of Solids and Structures
+
+Direction : MAGOARIEC Hélène 90hTD, 6ECTS
+
+Présentation
+
+La mécanique des milieux continus déformables a pour objectif de modéliser les mouvements, les déformations et les efforts intérieurs d’un système matériel considéré comme continu à l’échelle macroscopique. Elle fournit pour les solides des informations essentielles sur la cinématique et la résistance des structures.
+
+La plupart des systèmes matériels sont conçus pour fonctionner dans un domaine où les déformations ne sont pas irréversibles et restent proportionnelles aux efforts appliqués. Le cadre de l’élasticité linéaire a donc une importance particulière pour la conception des systèmes et des structures.
+
+Les aspects dynamiques font apparaître des phénomènes particuliers (vibrations, résonances, instabilités) qu’il est indispensable de maîtriser pour assurer la résistance et la durée de vie des structures, mais aussi pour minimiser les inconforts associés: Résistance des structures du génie civil aux séismes, confort et sécurité dans les transports, réduction des émissions acoustiques et des nuisances vibratoires, etc.
+
+Les techniques de calculs (Méthodes des éléments finis) permettent désormais d’intégrer, au processus de conception, des simulations prédictives du comportement des structures. La maquette numérique devient ainsi un élément central permettant de piloter la fabrication, simuler l’assemblage et le comportement du système dans son environnement mécanique.
+
+Semestre
+Programme
+S6 ou S7
+MSS tc 1 : Mécanique des solides déformables
+
+MSS tc 2
+: Expérimentations et simulations en mécanique des solides
+Département
+
+
+
+MSS tc 3
+: Maquettage numérique
+Mécaniques des Solides, Génie
+
+
+
+MSS tc 4
+: Dynamique des structures
+Mécanique, Génie Civil (MS.GM.GC)
+MSS tc 5
+: Plasticité et mise en forme
+
+
+Équipes d’enseignement
+
+Mécanique des solides, Mécanique
+des vibrations, Technologie
+
+mécanique
+
+Compétences visées par l’UE
+
+◊ Savoir poser un problème d’élasticité linéaire et le résoudre analytiquement pour des configurations simples
+◊ Savoir utiliser les outils de l’analyse et de la synthèse modale pour prévoir le comportement dynamique d’une structure simple
+
+◊ Savoir utiliser un logiciel de simulation pour résoudre un problème à géométrie complexe
+◊ Savoir adapter le niveau de modélisation à la précision attendue sur les résultats
+◊ Savoir interpréter un résultat de mesure
+
+Pré-requis
+
+Mathématiques : vecteurs, torseurs, tenseurs, méthodes variationnelles, algèbre linéaire.
+Connaissance des lois fondamentales de la mécanique.
+
+
+Évaluation
+
+Moyenne pondérée : MSS tc1 : 70%, MSS tc2 : 10% , MSS tc3 : 10%, MSS tc4/tc5 : 10%
+
+
+
+
+
+
+
+
+

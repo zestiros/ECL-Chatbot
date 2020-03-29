@@ -1,0 +1,184 @@
+
+ AF MOS 7.1
+
+
+Stabilité des machines tournantes
+
+Stability of rotating machines
+
+Responsable(s) : F. Thouverez et L. Blanc
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les machines tournantes comme les systèmes de propulsion (turboréacteurs, …), de production d’énergie (éolienne, alternateur, …) ou tout système nécessitant la mise en rotation d’un objet (pompe, gyroscope, centrifugeuse, …) tiennent une place importante dans la vie quotidienne. Ces machines répondent aux équations de la dynamique et évoluent souvent dans un contexte multi-physique : interaction fluide structure, interaction mécatronique, ... Ce cours a donc pour objectif de fournir les éléments clés de modélisation de ce type de système en se concentrant sur les aspects stabilité. Ce point est en effet essentiel car beaucoup d’énergie est concentrée dans ces machines et donc leur stabilité est un enjeu majeur de leur bon fonctionnement et plus globalement de la sécurité.
+
+Mots-clés : Machine tournante, Stabilité, Vibration
+
+
+
+Programme
+Première partie :
+
+Rappel de la mise en équation d’une structure élastique en rotation
+
+Descriptions des caractéristiques modales en repère fixe et repère tournant, interprétation
+
+Deuxième partie :
+
+Analyse de stabilité des systèmes linéaires :
+
+-Equations à coefficients constants
+
+-Equations à coefficients périodiques
+
+Introduction à la stabilité des systèmes non-linéaires
+
+Troisième partie :
+
+Problèmes de stabilité des rotors :
+
+Analyse phénoménologique et compréhension des mécanismes
+
+Analyse des éléments structuraux conduisant à des instabilités :
+
+•Symétrie, dissipation, flambement dans les parties tournantes
+
+•Caractéristiques des paliers
+
+•Couplage rotor / stator
+
+Couplage fluide / structure conduisant à des instabilités
+
+Phénomènes non-linéaires responsables d’instabilités (bifurcation, ...)
+
+◊ Comprendre les specifictés de la dynamique des rotors
+Compétences
+
+
+◊ Savoir mettre en équation un problèmes de machines tournantes
+
+◊ Savoir analyse la dynamique et la stabilité d'une machine tournante
+
+◊ Connaitre les differents organes d'une machines tournantes et leurs spécificités
+
+Option : Aéronautique, Transport et Trafic, Génie Civil et Environnement
+Options /
+
+Masters
+
+
+Roland Bigret. Stabilité des machines tournantes et des systèmes. Publication CETIM, 1997.
+Bibliographie
+
+
+Fredric F. Ehrich. Handbook of Rotordynamics. Krieger Publishing Company, 2004.
+
+MI Fiswell, JET Penny, SD Garvey, AW Lees. Dynamics of rotating machines. Cambridges Aerospace
+
+series, 2010.
+
+Note de BE
+Contrôle des
+
+connaissances
+Note commentaire d'article
+130
+Note de test écrit
+
+
+ AF MOS 7.2
+
+
+Sureté de fonctionnement des systèmes et des structures
+
+Structural and system health monitoring
+
+Responsable(s) : Michelle Salvia, Olivier Bareille
+
+| Cours : 0 h | TD : 28 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Dans le domaine des transports et des grands ensembles technologiques une maintenance rigoureuse périodique ou en continu est indispensable. On décrira dans ce cours des méthodes de contrôle santé in-situ en continu, et les possibilités de déterminer les états de fonctionnement actuels et éventuellement la durée de vie restante ainsi que les méthodes pour adapter et accroître la durée de vie.
+
+Ce cours abordera les différents matériaux et techniques permettant le contrôle santé in situ ou périodiques et les méthodes pour adapter et accroître la durée de vie.
+
+Les méthodologies de sûreté de fonctionnement et de diagnostic seront présentées : essais sur systèmes ou structures, comparaison avec des états de référence,états de fonctionnement actuels et durée de vie résiduelle.
+
+Mots-clés : surveillance des structures, vieillissement, endommagement des matériaux et des structures, traitement du signal, indicateur d'endommagement
+
+
+
+Programme	Les étapes de l'approche "Structural Health Monitoring"
+Mesures et système de capteurs en monitoring de systèmes
+Les composites dans l’aéronautique : application du SHM
+Vers les matériaux intelligents
+
+Les modèles de défauts et les modèles prévisionnels de défaillance
+
+
+Compétences	◊ établir une méthodologie de surveillance
+◊ identifier phénomènes d'endommagement
+◊ analyser les résultats de mesures comparatifs
+
+
+
+Options /
+
+Masters
+
+
+
+Bibliographie
+
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+transports, aéronautique et espace, énergie
+maintenance industrielle
+
+conception de structure intelligentes
+
+J. Lemaître. A course on damage mechanics. Springer Verlag, New York, 1996.
+
+Karbhari Vistasp M., Ansari Farhad. Structural health monitoring of civil infrastructure systems.
+Woodhead Publishing CRC Press, 2009.
+
+Adams Douglas E. Health monitoring of structural materials and components. Wiley, 2007.
+
+
+Test final écrit (savoir - coeff. 0,3)
+Analyse documentaire et TP/BE (savoir faire - coeff. 0,6)
+
+Travaux pratiques (méthodologie - coeff. 0,1)
+
+
+
+
+
+
+
+
+
+
+
+
+

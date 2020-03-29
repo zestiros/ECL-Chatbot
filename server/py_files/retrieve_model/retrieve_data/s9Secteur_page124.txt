@@ -1,0 +1,74 @@
+
+ AF MOS 5.4
+
+
+Phénomènes complexes en dynamique des structures
+
+Complex phenomena in structural dynamics
+
+Responsable(s) : Olivier Dessombz et Jean-Jacques Sinou
+
+| Cours : 4 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 24 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le comportement de structures réelles dépasse souvent le cadre de la mécanique de base pour diverses raisons. La nature non déterministe des structures, la présence de non-linéarités sont à prendre en compte pour mieux comprendre le comportement de ces structures dans des cas réels de fonctionnement en ingénierie
+
+On se propose ici de donner des outils et d'aborder les méthodes classiques de l'ingénieur permettant d'introduire l'aléa et les non-linéarités dans les systèmes, et de décrire ainsi de manière plus réaliste le comportement des structures réelles et leur optimisation. Ces outils seront introduits au travers d'exemples simples mais significatifs. Ils seront empruntés au milieu industriel.
+
+Mots-clés : Mécanique des solides, Dynamique des structures, Ingénierie des systèmes complexes, Incertitudes, Optimisation, Stabilité, Systèmes non-linéaires
+
+
+
+Programme	1) Introduction
+2) Instabilités
+3) Comportement non-linéaire et méthodologie
+4) Dispersions
+5) Optimisation structurale
+
+
+Compétences	◊ Formuler un problème complexe en dynamique des structures
+◊ Expliquer des phénomènes physiques en dynamique des structures
+◊ Evaluer selon des critères le fonctionnement dynamique d'un objet
+◊ Connaître les sources d'incertitudes et de non linéarités et savoir comment les modéliser
+
+Options /
+AERONAUTIQUE - TRANSPORTS TERRESTRES - GENIE CIVIL - ENERGIE
+Masters
+
+
+A.H. Nayfeh and D.T. Mook. Nonlinear Oscillations.. John Wiley & Sons, 1979.
+Bibliographie
+
+
+A. Preumont. Vibrations aléatoires et analyse spectrale. Presses Polytechniques Romandes, 1990.
+
+D.-J. Ewins. Modal Testing: theory and analysis, Research. Study Press, 1984.
+
+Notes de BE
+Contrôle des
+
+connaissances
+Note de test écrit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

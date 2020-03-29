@@ -1,0 +1,76 @@
+
+ AF MOS 3.1
+
+
+Compatibilité électromagnétique des systèmes de puissance et interaction avec leur environnement
+
+Electromagnetic compatibility
+
+Responsable(s) : Christian Vollaire
+
+| Cours : 0 h | TD : 28 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+La généralisation actuelle des télécommunications ainsi que celle des systèmes numériques conduit à prendre en considération la "pollution électromagnétique" ambiante, avec pour objectif la sûreté de fonctionnement de ces systèmes complexes. Ces phénomènes de perturbations électromagnétiques sont aujourd'hui d'une importance considérable avec le développement des dispositifs d’électronique de puissance qui peuvent interagir avec les systèmes bas niveaux dans des domaines tels que les transports ou l'énergie. L'objet du cours est de sensibiliser aux problèmes de compatibilité électromagnétique (CEM), de présenter les principales sources de perturbations, d'appréhender les modes de couplage, de préciser les principaux remèdes, ainsi que l'évolution des normes.
+
+Mots-clés : Compatibilité électromagnétique, électronique de puissance, couplages, diaphonie
+
+
+
+Programme	Chapitre I : La problématique de la CEM
+Chapitre II : Champs et ondes électromagnétiques
+Chapitre III : Les sources de perturbations
+Chapitre IV : Etude des modes de couplage conduits et rayonnés
+Chapitre V : Les moyens actuels d'étude et d'essai
+Chapitre VI :	Méthodes de prévention et de protection
+
+Chapitre VII :	Champs électromagnétiques et milieux biologiques
+
+
+Compétences	◊ Appréhender les problèmes de CEM
+◊ Savoir analyser un système complexe et en déduire les paramètres majeurs influents sur la CEM
+
+◊ Savoir proposer des solutions d'amélioration et de contre mesure CEM
+
+Options /
+Transports (aéronautique, terrestre), industrie
+Masters
+
+
+P. Degauque, J. Hamelin. Compatibilité Electromagnétique. Dunod, 1990.
+Bibliographie
+
+
+Yvon Mori. Compatibilité électromagnétique. Lavoisier, 2007.
+
+M. Mardiguian. Manuel pratique de CEM ; prédiction et solutions aux perturbations. Editions Prana
+
+R & D, 1992.
+
+Un test final à l’issue du cours et des travaux dirigés (questions de cours et exercices
+Contrôle des
+
+connaissances
+d’applications).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

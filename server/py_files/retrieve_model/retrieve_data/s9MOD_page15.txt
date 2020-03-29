@@ -1,0 +1,84 @@
+
+ AF MOD 2.3
+
+
+Statistique appliquée aux sciences de l'ingénieur
+
+Statistical engineering
+
+Responsable(s) : Céline HELBERT
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le cours est divisé en deux parties. Dans une première partie nous présentons deux modèles classiques de la statistique appliquée : la régression linéaire et la régression logistique. L'estimation et la prédiction de ces modèles probabilistes seront abordées.
+
+La deuxième partie du cours sera dédiée à l'analyse statistique de résultats de simulation numérique. Nous présenterons le modèle de krigeage, les plans d'expériences adaptés et les techniques de quantification des incertitudes.
+Le but de ce cours est aussi d'assurer une formation à la mise en oeuvre pratique des modèles étudiés. Pour cela, une partie conséquente du cours est orientée vers la mise en oeuvre des différents modèles à l'aide du logiciel R.
+
+Mots-clés : Régression linéaire, plans d'expériences, régression logistique, krigeage, plans d'expériences numériques, Analyse de sensibilité, Optimisation bayésienne
+
+
+
+Programme	Chap 1 : Régression linéaire : modèle, estimation, prédiction, évaluation, sélection de modèle.
+Chap 2 : Plans d'expériences
+Chap 3 : Régression logistique
+Chap 4 : Krigeage
+Chap 5 : Plans d'expériences numérique
+Chap 6 : Analyse de sensibilité et optimisation bayésienne
+
+
+Compétences	◊ Savoir proposer un modèle probabiliste adapté à un contexte applicatif.
+◊ Savoir estimer et prédire le modèle probabiliste proposé.
+◊ Savoir choisir un plan d'expériences adapté au modèle à estimer
+
+◊ Savoir mettre en oeuvre les techniques de régression, de krigeage sur le logiciel R.
+
+
+
+Masters
+
+affiliés
+
+
+
+Bibliographie
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+Option MD/Filière MIR (fortement conseillé)
+Master mention "Mathématiques appliquées, statistique" (obligatoire)
+
+Master mention "Statistique et économétrie" (obligatoire)
+
+A. Antoniadis, J. Berruyer, R. Carmona. Regression non linéaire et applications. Economica, 1992.
+
+J.J. Droesbeke, J. Fine, G. Saporta. Plans d'expériences, application à l'entreprise. Technip, 1997. Rasmussen, Williams. Gaussian Processes for Machine learning. MIT Press, 2006.
+
+
+Examen final de 1h30.
+
+
+
+
+
+
+
+
+
+
+
+
+

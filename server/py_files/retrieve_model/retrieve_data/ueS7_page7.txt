@@ -1,0 +1,352 @@
+
+
+
+Table des matières
+
+
+
+UNITÉS D'ENSEIGNEMENTS SCIENTIFIQUES
+6
+Energie électrique et Commande des Systèmes
+7
+Automatique linéaire
+10
+Autonomie
+8
+Énergie Électrique
+9
+Régulation et entrainement électrique
+11
+Fluides et Energie
+12
+Méthodes expérimentales et numériques
+14
+Projet thématique
+15
+Sensibilisation et bases théoriques
+13
+Génie Mécanique
+16
+Activités pratiques de Génie Mécanique
+18
+Conception de mécanismes
+20
+Modélisation et conception
+19
+Technologie - Mécanique Générale et Analytique - Résistance des Matériaux
+17
+Informatique
+25
+Algorithmique et structures de données : conception, analyse et implémentation
+26
+Conception et programmation objet
+27
+Projet d'application Web
+28
+Ingénierie Des Matériaux
+21
+Activité de synthèse IDM/PCM
+24
+De la Matière aux Matériaux : Structure et Propriétés
+22
+Travaux Pratiques en Science et Génie des Matériaux et des Surfaces
+23
+Mathématiques
+35
+Analyse appliquée
+36
+Analyse numérique
+37
+Mathématiques adaptées I : analyse-algèbre
+40
+Mathématiques Adaptées II : probabilités
+41
+Probabilités
+38
+Statistique
+39
+Mécanique des Solides et des Structures
+29
+Dynamique des Structures
+33
+Expérimentations et Simulations en mécanique des solides
+31
+Maquettage Numérique
+32
+Mécanique des Solides Déformables
+30
+Plasticité et mise en forme
+34
+Physique Chimie de la Matière
+42
+
+
+
+Activité de synthèse IDM/PCM	46
+
+
+Chimie
+44
+Physique
+43
+Travaux Pratiques de Physique-Chimie
+45
+Sciences Economiques et de Management
+47
+Economie
+48
+Gestion d'Entreprise
+49
+Sciences et Techniques de l'Information
+54
+Autonomie
+55
+Conversion Analogique-Numérique pour les systèmes audio
+58
+Systèmes électroniques
+56
+Traitement du Signal
+57
+Sciences Humaines et Sociales
+50
+Ethique
+53
+Individus et société
+51
+Travailler aujourd'hui
+52
+
+
+UNITÉ D'ENSEIGNEMENT PROFESSIONNELLE
+59
+Professionnelle
+60
+Accompagnement au projet professionnel
+67
+Conférences
+61
+Enquête découverte
+62
+Projet d'Application industriel (PAi)
+68
+Projet d'Application recherche (PAr)
+69
+Projet d'Etudes (PE)
+66
+Sport et éducation physique
+65
+Stage d'exécution
+64
+Visite d'entreprises
+63
+
+
+UNITÉ D'ENSEIGNEMENT D'APPROFONDISSEMENTS
+70
+Unité d'enseignements d'Approfondissements
+71
+Acoustique et ondes dans les fluides
+79
+Analyse de données et reconnaissance des formes
+89
+Applications concurrentes, mobiles et réparties en Java
+88
+Approximation numérique d'équations différentielles et aux dérivées partielles
+94
+Architectures Embarquées et Informatique Industrielle
+100
+Architectures numériques de calcul et de traitement de l'information
+102
+Automatique et phénomènes non linéaires
+76
+Biomécanique des tissus vivants et biomatériaux prothétiques
+85
+Capteurs intelligents communicants : systèmes d'interface
+103
+Chimie Moléculaire et Supramoléculaire
+97
+Commande multi-actionneurs multi-capteurs
+77
+Comportement anélastique des structures
+91
+Conversion Electromécanique
+75
+Ecoulements supersoniques
+80
+
+
+Electrochimie et Chimitronique
+98
+Électronique de puissance
+74
+Endommagement et ruine des matériaux
+82
+Estimation et Transmission de L'information
+101
+Ingénierie Mécanique
+73
+Matériaux amorphes pour structures fonctionnelles innovantes
+84
+Matériaux et traitements de surface innovants
+83
+Mécanique quantique et applications
+96
+Méthodes déterministes et probabilistes pour l'équation de la chaleur
+93
+Multimédia : Concepts et technologies
+86
+Physique des semiconducteurs
+99
+Processus aléatoires pour l'ingénieur
+92
+Statistiques et économétrie
+95
+Stratégies de Résolution de Problèmes
+87
+Systèmes mécaniques polyarticulés
+72
+Thermique et Combustion
+81
+Turbulences et instabilité
+78
+Vibration des systèmes mécaniques
+90
+
+
+LANGUES ET CULTURES
+104
+Langues et Cultures
+105
+Allemand
+108
+Anglais
+109
+Arabe
+107
+Chinois
+115
+Espagnol
+110
+Français langue étrangère
+106
+Italien
+111
+Japonais
+112
+Portugais
+113
+Russe
+114
+
+
+Enseignements tronc commun
+
+Responsables
+
+Marie-Annick GALLAND, Directrice des études
+
+Ségolène CALLARD, Directrice adjointe au tronc commun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unités d'enseignements scientifiques
+
+
+UE ECS
+
+Ener g ie é lec t r i q ue et Co m m a n de des Sy s t è mes
+
+Electrical Energy and systems control
+
+Directeur : Christian Vollaire
+
+96hTD, 6 ECTS
+
+
+Présentation
+
+L'UE ECS regroupe des enseignements relatifs au contrôle des systèmes et à l'utilisation moderne de l'énergie électrique. La richesse de ces domaines réside dans la diversité des applications rencontrées (traction électrique, énergies renouvelables, distribution, éclairage, communication...) et dans l'actualisation permanente des connaissances et savoir-faire. Dans beaucoup de domaines (transport, énergie ...) la principale valeur ajoutée des dispositifs modernes réside dans les systèmes de contrôle et de conversion de l'énergie électrique afin d'améliorer les performances et l'efficacité énergétique des systèmes. Tout ceci fait de ces enseignements une brique incontournable dans les connaissances de bases d'un ingénieur généraliste.
+
+Semestre
+Programme
+S5 ou S6
+ECS tc 0
+: Autonomie
+
+ECS tc 1
+: Cours d'énergie électrique
+Département
+
+
+
+ECS tc 2
+: Cours d'automatique des procédés linéaires
+département EEA
+
+
+
+ECS tc 3
+: Régulation et entraînement électrique
+
+
+Équipes d'enseignement
+
+Electrotechnique, Automatique et
+Traitement du Signal
+
+Compétences visées par l'UE
+
+◊ Savoir utiliser les technologies récentes des domaines de l'énergie électrique et du contrôle des systèmes.
+◊ Être capable d'appliquer les concepts de bases en automatique et en électrotechnique.
+◊ Savoir mettre en oeuvre les outils de conception et d'analyse des systèmes complexes.
+◊ Être capable de concevoir des lois de commande simples pour des procédés linéaires.
+◊ Être capable de manipuler les ordres de grandeur et le vocabulaire spécifique dans le domaine de l'énergie
+électrique.
+
+Évaluation
+
+Moyenne pondérée : ECS tc0 : 15 %, ECS tc1 : 40 %, ECS tc2 : 40 %, ECS tc3 : 5%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

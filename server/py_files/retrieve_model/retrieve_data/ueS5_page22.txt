@@ -1,0 +1,89 @@
+
+ AF ECS tc 3
+
+
+Régulation et entrainement électrique
+
+Control and electrical drive
+
+Responsable(s) : Catherine Musy-Bassot
+
+| Cours : 0 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif est ici de montrer les concepts et les aspects technologiques d’un procédé automatisé mettant en jeu un entraînement électrique de puissance
+
+Mots-clés : Régulation, correcteurs, convertisseurs d’électronique de puissance, moteur à courant continu
+
+
+
+Programme
+2 heures d’analyse de la problématique (BE)
+
+4 heures de travail expérimental sur une des deux thématiques (TP)
+
+2 heures de capitalisation et de restitution orale devant l’autre partie du groupe et un enseignant
+
+(BE)
+
+◊ Savoir distinguer les différents sous-systèmes d’un procédé automatisé et ceux, de puissance,
+Compétences
+
+
+d’un entraînement électrique.
+
+◊ Être capable d'identifier les grandeurs de consigne, de commande et de perturbation.
+
+◊ Être capable d'associer dans la chaîne de commande-procédé, actionneur, capteur et
+
+régulateur.
+
+◊ Savoir choisir la structure et les paramètres de la loi de commande nécessaire.
+
+Objectifs : Préparation de la restitution orale
+Travail en
+
+autonomie
+Méthodes : Construction des supports visuels et des explications associées
+
+Évaluation lors des 3 phases : BE d’introduction (20%), TP (40 %), BE de restitution (40%)
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

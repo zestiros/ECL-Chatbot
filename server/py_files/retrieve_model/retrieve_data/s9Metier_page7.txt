@@ -1,0 +1,71 @@
+
+ AF ICo 3.1
+
+
+Procédés de conception avancée
+
+Advanced design processes
+
+Responsable(s) : Louis JEZEQUEL, Frédéric GILLOT
+
+| Cours : 20 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+Fournir aux futurs concepteurs un panels des méthodes industriel d'optimisation de forme pour des pièces mécaniques sous critères dynamiques. Sensibilisation aux enjeux de développement durable et à la démarche d'écoconception. La pose du contexte a pour mission de ré-ancrer l'élève ingénieur dans un la réalité sociétale. Partir des exemples pour intégrer les notions et les mettre en pratique. Au travers d'exercices de créativité, apprendre à développer la capacité de projection vers des scénarios futurs.
+
+Mots-clés : Optimisation, Meta-Heuristiques, Meta-modèles, Incertitudes, Iso-geometrie ; Eco-conception, économie circulaire, impacts environnementaux et sociaux, analyse multicritères, objectif de développement durable (ODD), déve-loppement durable, RSO
+
+
+
+Programme	Approches robustes d'optimisation de forme de pièces mécaniques.
+De la planète aux produits :
+- Approche du développement durable, de la responsabilité sociétale des organisations.
+- Limites des ressources.
+- Services éco systémiques, biomimétisme.
+- Enjeu du développement durable, de la responsabilité sociétale des organisations, dimension environnementale, sociale, sociétale.
+
+- Les enjeux de l'éco-conception dans votre stratégie design.
+- Développement durable, impacts environnementaux, éco-conception, cycle de vie...
+- Définir l'unité fonctionnelle base de toute Analyse de Cycle de Vie (ACV).
+- Méthodologie d'éco-conception et mise en œuvre d'un projet industriel.
+
+
+Compétences	◊ Connaître les approches industrielles d'optimisation de forme pour des pièces mécaniques sous critères dynamiques.
+◊ Etre capable d'intégrer des critères environnementaux et sociaux dans la démarche de conception.
+
+◊ Compréhension des enjeux sociaux, environnementaux, planétaires et locaux.
+◊ Créer de nouveaux paradigmes, innover, s'interroger sur l'existant.
+
+Travail en
+Objectifs : À la suite du cours comprendre un article récent exposant une avancée dans les
+autonomie
+méthodes présentées. Mettre en œuvre le contenu.
+
+Méthodes : Par groupe lire, analyser, synthétiser un article récent exposant une avancée dans les
+
+méthodes présentées en cours. Outils de créativité : méthodes d'éloignement, de rapprochement,
+
+de projection... Recherche et analyse de documents.
+
+Jan Sokolowski. Introduction to Shape Optimization Shape Sensitivity Analysis. Editeur1, 1992.
+Bibliographie
+
+
+Fuad Luke. Eco-design handbook Alastair. Thames & Hudson, 2005.
+
+Vanessa Batut, Fred Causse. Design responsable. La Martinière Styles, 2010.
+
+Évaluation de la synthèse de l'article.
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+
+ AF MOS 2.3
+
+
+Choix des matériaux et des assemblages
+
+Choice of materials and assemblies
+
+Responsable(s) : Stéphane Benayoun, Michelle Salvia
+
+| Cours : 14 h | TD : 4 h | TP : 8 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif de ce cours est l'apprentissage du choix des matériaux en tenant compte des procédés de fabrication, des méthodes d'assemblages et du recyclage pour la réalisation de structures dans les grands domaines industriels : transport (automobiles, aéronautiques et ferroviaires), sport, médical. Il existe un assez grand nombre de méthodes de choix de matériaux, de procédés d'élaboration et de traitements, comme celles développées par Ashby et Brechet qui s'appuient sur la notion d'indices de performance. Ces méthodes seront présentées, utilisées et critiquées. Une attention particulière sera portée aux traitements de surface, assemblages et aux composites dont les caractéristiques peuvent être optimisées suivant l'utilisation finale (constituants, architecture, mise en œuvre...).
+
+Mots-clés : Conception matériau, analyse multi-critères, éco-conception, matériaux architecturés, mise en œuvre, traitement de surface, énergie surface, collage, comportement mécanique
+
+
+
+Programme	La première partie de ce cours sera consacrée au choix des matériaux et des procédés de mise en forme. La recherche de nouvelles performances pour la réalisation d'une pièce et le souci d'innover imposent, dès la conception, une approche multi-critères pour le choix d'un matériau ou d’une structure. La seconde partie traitera des traitements de surface et des assemblages. Des applications réelles seront étudiées.
+
+Introduction à la sélection des matériaux: méthodologie de la conception, cartes de propriétés, indices de performance, prise en compte de la forme, sélection multiastreintes
+
+Composites: mise en œuvre, comportement aux échelles micro et macroscopique, optimisation de l’architecture du renfort, recyclage
+
+Traitements de surface: interface solide-solide, adhésion, collage structural
+
+
+Compétences	◊ L’élève doit connaitre et maîtriser des méthodes étudiées
+◊ L’élève doit être capable d’adapter ces méthodes à une application industrielle et d’analyser le problème posé pour la construction d’un cahier des charges
+
+◊ L’élève doit être capable de mettre en œuvre l’objectif en optimisant au besoin les étapes de résolution pour un enjeu industriel spécifique
+
+◊ L’élève doit savoir apprécier l’importance et les limites de ces approches par l’observation et la mesure
+
+Options /
+Secteurs : de l'automobile, aéronautique mais aussi le sport, le médical et l'énergie.
+Masters
+Options : TT, AE, Master MISTE
+
+M.F. Ashby, Y Bréchet, L. Salvio. Sélection des Matériaux et des procédés de mise en oeuvre. Presse
+Bibliographie
+
+
+Polytechniques et Universitaires Romandes, 2001.
+
+J.M. Berthelot. Matériaux composites : Comportement mécanique et analyse des structures.
+
+Lavoisier, 2005.
+
+Test écrit de 2 heures avec documents
+Contrôle des
+
+connaissances
+Compte rendu BE - énergie de surface et collage
+
+
+
+
+
+
+
+

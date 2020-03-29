@@ -1,0 +1,73 @@
+
+ AF MTH tc 4
+
+
+Mathématiques adaptées I : algèbre et analyse
+
+Adapted Maths I : Algebra-Analysis
+
+Responsable(s) : Abdelmalek Zine
+
+| Cours : 18 h | TD : 20 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Dans cette AF sont présentés des outils de base de l'algèbre et de l’analyse mathématique : Espaces vectoriels, Polynômes, Orthogonalisation, Matrices et réduction, intégration, Analyse de Fourier
+
+Mots-clés : Polynômes, Espace de Hilbert, Projection, Réduction de Matrices, Intégration, Analyse de Fourier, Espace fonctionnel
+
+
+Programme	A-Algèbre
+Polynômes
+Espace de Hilbert, espace euclidien
+Matrice, déterminant
+Valeur propre, vecteur propre
+Valeur singulière, conditionnement
+B-Analyse
+Mise à niveau
+L'intégrale de Lebesgue
+Théorèmes et espaces fonctionnels fondamentaux
+Séries de Fourier
+Transformation de Fourier
+
+
+Compétences	◊ Maitriser les notions fondamentales d'algèbre
+◊ Justifier le calcul de l'intégrale d'une fonction à plusieurs variables
+◊ Identifier les espaces fonctionnels utilisés en analyse de Fourier
+◊ Calculer un développement en série de Fourier et une transformée de Fourier
+
+
+
+Bibliographie	C.GASQUET,P. WITOMSKI. Analyse de Fourier et applications. MASSON, 1990.
+
+Jean-Marie MONIER. Mathématiques, méthodes et exercices MP. DUNOD, 2009.
+
+Daniel FREDON. Mathématiques, résumé du cours en fiches MPSI-MP. Vuibert, 2010.
+
+
+Contrôle des
+note de micro-test
+connaissances
+note d’examen terminal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

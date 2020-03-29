@@ -1,0 +1,94 @@
+
+ AF PCM a 2-FH
+
+
+Chimie Moléculaire et Supramoléculaire
+
+Molecular and Supramolecular Chemistry
+
+Responsable(s) : Jean-Pierre Cloarec, Naoufel Haddour, Virginie Monnier-Villaume
+
+| Cours : 12 h | TD : 18 h | TP : 0 h | Autonomie : 18 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Pourquoi certaines molécules présentent un effet thérapeutique ? Comment effectuer des choix pour modifier la structure d'une molécule, afin d'améliorer ses propriétés en vue d'une application donnée ? Le cours " Chimie moléculaire et supramoléculaire " est un cours de physicochimie abordant le lien entre la structure de molécules et leur comportement physicochimique. Ce cours n'est pas un cours de chimie organique ni de synthèse de molécules.
+
+Le cours s'appuie sur deux grands domaines d'application pour illustrer les notions abordées : les molécules pharmaceutiques et l'analyse biomédicale.
+
+Une fraction importante des enseignements s'appuiera sur un logiciel de modélisation moléculaire (Hyperchem) pour déterminer, théoriquement, les propriétés physicochimiques de molécules d'intérêt.
+
+Mots-clés : Chimie, Physico-Chimie, Pharmacochimie, Molécules, Médicaments, Biocapteurs, Modélisation
+
+
+
+Programme
+Introduction à la pharmacocinétique et à la pharmacodynamie.
+
+Modélisation moléculaire : introduction aux calculs de mécanique moléculaire, mécanique
+
+quantique.
+
+Calculs d'interactions moléculaires.
+
+Application aux molécules pharmaceutiques :
+
+Introduction à la chimie supramoléculaire.
+
+Etude des propriétés physicochimiques de monomères et de polymères par modélisation
+
+moléculaire.
+
+Analyse des données expérimentales et confrontation avec les résultats de modélisation.
+
+Conception de biocapteurs électrochimique et photoélectrochimique à partir des polymères
+
+étudiés.
+
+◊ Savoir représenter la structure la plus stable d'une molécule complexe
+Compétences
+
+
+◊ Savoir identifier des propriétés physico-chimiques à partir d'une structure moléculaire
+
+◊ Connaître les paramètres à contrôler dans la mise au point d'un médicament
+
+◊ Mettre en évidence les interactions intermoléculaires
+
+Objectifs : Confronter les élèves à des problèmes concrets dans le domaine de la chimie molé-
+Travail en
+
+autonomie
+culaire et supramoléculaire. Découvrir la conception de nouveaux médicaments, la fabrication de
+
+biocapteurs. Apprendre à travailler en groupe en autonomie sur un problème nouveau.
+
+Méthodes : Apprentissage par problèmes (APP) par petit groupe ; modélisation moléculaire ;
+
+recherche documentaire ;
+
+Préparation de rapports intermédiaires; soutenance oral des travaux effectués ;
+
+Exercices d'auto-évaluation sur Didactest
+
+G. L. Patrick. Chimie Pharmaceutique. De Boeck Supérieur, 2003.
+Bibliographie
+
+
+P. Atkins, J. de Paula. Physical Chemistry. W. H. Freeman and Company, 2008.
+
+J. M. Lehn. La chimie supramoléculaire, concepts et perspectives. De Boeck, 1997.
+
+Soutenances orales en groupe (Savoir-faire) + examen individuel de 2h sans documents (Savoir)
+Contrôle des
+
+connaissances
+Note AF = 0,6 * Note Savoir + 0,4 * Note Savoir-Faire.
+
+
+

@@ -1,0 +1,93 @@
+
+ AF MOD 3.5
+
+
+Diagnostic et Sûreté de Fonctionnement
+
+Diagnosis and Health Monitoring
+
+Responsable(s) : Emmanuel BOUTLEUX
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les systèmes innovants sont de plus en plus complexes. Dans le domaine de la mécatronique des véhicules automobiles, il est par exemple nécessaire de piloter des actionneurs par rapport à une stratégie de commande programmée dans un calculateur, qui réagit en fonction de mesures renvoyées par des capteurs. Dans le domaine aéronautique, on remplace, par exemple, les actionneurs hydrauliques par des actuateurs électriques avec une intelligence embarquée, afin d'obtenir des gains de poids et de flexibilité.
+
+La complexité sans cesse croissante des systèmes ne doit pas nuire à leur fiabilité. Il est donc nécessaire de surveiller un système dans son ensemble pour diagnostiquer l'apparition de défaillances et garantir sa sûreté de fonctionnement.
+
+Mots-clés : Diagnostic, sûreté de fonctionnement, automatique, identification, reconnaissance des formes, AMDEC, arbre de défaillance
+
+
+
+Programme
+Enjeux du diagnostic automatisé
+
+Méthodes fonctionnelles d'analyse de défaillance (arbres de défaillances, AMDEC, ...)
+
+Fiabilité
+
+Méthodes de diagnostic :
+
+- à base de modèle
+
+- identification
+
+- analyse de résidus
+
+- à base d'intelligence artificielle
+
+- reconnaissance des formes
+
+- classification
+
+- règles de décision
+
+Perspectives
+
+◊ Comprendre l'intérêt et la complexité des approches fonctionnelles
+Compétences
+
+
+◊ Saisir les enjeux et les difficultés de la sûreté de fonctionnement
+
+◊ Etre capable d'appliquer des méthodes de diagnostic par reconnaissance des formes
+
+◊ Savoir identifier un modèle physique et l'utiliser à des fins de diagnostic
+
+3 séances de BE de 4h à l'aide du logiciel Matlab (la maîtrise de ce logiciel est indispensable)-
+Activités /
+
+Autonomie
+
+
+GI, GSA
+Masters
+
+affiliés
+
+
+Bernard Dubuisson. Diagnostic, intelligence artificielle et reconnaissance des formes. Hermès
+Bibliographie
+
+
+Science Publications, Collection : ic2 prod, 2001.
+
+Bernard Dubuisson. Diagnostic et reconnaissance des formes. Traité des nouvelles technologies.
+
+Série diagnosti, 1990.
+
+Alain Villemeur. Sûreté de fonctionnement des systèmes industriels. Edition Eyrolles, 1988.
+
+50% moyenne des 3 comptes-rendus de BE (savoir-faire)
+Contrôle des
+
+connaissances
+50% examen final individuel (savoir)
+
+

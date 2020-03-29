@@ -1,0 +1,68 @@
+
+ AF IDM tc 2
+
+
+Travaux Pratiques en Science et Génie des Matériaux et des Surfaces
+
+Practical courses in Material and Surface Science
+
+Responsable(s) : Fabrice Dassenoy, Clotilde Minfray, Bruno Berthel, Michelle Salvia, Stéphane Valette, Clotilde Minfray
+
+| Cours : 0 h | TD : 0 h | TP : 32 h | Autonomie : 8 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les objectifs de cette action de formation sont :
+-de faire connaître et pratiquer les essais les plus utilisés pour accéder aux propriétés et au comportement mécanique de quelques matériaux appartenant aux trois classes suivantes : métaux, céramiques et polymères.
+
+-d'aborder par une approche pratique quelques problèmes simples d'usure et de lubrification dans un cadre multidisciplinaire regroupant la mécanique, la science des matériaux et des surfaces.
+
+- d'établir, à partir d'une démarche expérimentale, les relations entre composition chimique, traitement thermique, microstructure et propriétés mécaniques.
+
+- d'acquérir des connaissances sur la mise en œuvre des polymères et des composites.
+
+Mots-clés : Comportement mécanique des matériaux, tribologie, traitement thermique, alliages métalliques, verres, polymères et composites
+
+
+Programme	Comportement mécanique des matériaux
+Tribologie et surfaces
+Traitement thermique des alliages métalliques
+Polymères et composites
+
+
+Compétences	◊ Savoir prédire les propriétés mécaniques des matériaux et leurs structures en fonction des traitements thermo mécaniques
+◊ Savoir identifier les procédés d'élaboration et de traitement pour adapter les propriétés des matériaux à un cahier des charges
+
+◊ Savoir identifier l'échelle pertinente pour une propriété donnée
+◊ Être capable d'expliquer les principes de base de la tribologie (frottement, usure, lubrification)
+
+Travail en
+Objectifs : Préparation des TP, synthèse des connaissances et rapports d'expériences
+autonomie
+Méthodes : travail personnel et rédaction de rapports écrits
+
+
+Contrôle des Moyenne des 4 notes de chaque groupe de TP. Pas de rattrapage sur ce module quelle que soit la connaissances nature de l'absence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

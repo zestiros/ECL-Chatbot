@@ -1,0 +1,81 @@
+
+ AF GM tc 3
+
+
+Modélisation et conception
+
+Modelling and Design
+
+Responsable(s) : Olivier Dessombz, Francesco Froiio
+
+| Cours : 4 h | TD : 4 h | TP : 0 h | Autonomie : 2 h | BE : 10 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Donner des notions plus avancées sur la mécanique des solides et des structures, ayant un lien direct avec des applications.
+
+Mots-clés : Dimensionnement, treillis, statique, dynamique
+
+
+
+Programme	Cours 1 et TD 1 : Calcul de treillis isostatiques et hyperstatiques. Flambement.
+Cours 2 et TD 2 : Petits mouvements en vibration.
+
+Bureau d'Études 1 et 2 : Calcul de la couverture d'un gymnase (dimensionnement statique et analyse dynamique)
+
+
+Compétences	◊ Appliquer les notions de la statique des structures au dimensionnement d'un treillis
+◊ Appliquer les notions de la dynamique des structures au dimensionnement d'un treillis
+◊ Utiliser des plateformes de calcul numérique (Matlab, Scilab) pour l'analyse des structures
+◊ Rendre compte de l'analyse statique et dynamique d'une structure
+
+Travail en
+Objectifs : Finaliser le travail de Bureau d'Etudes
+autonomie
+Méthodes : Travail en groupe : étude de cas et rédaction de comptes-rendus
+
+F.P. Beer et R.R. Johnston Jr.. Mécanique pour ingénieurs, Vol. 1 : Statique. Chenelière McGraw-Hill, 2004.
+Bibliographie
+
+
+M. Albiges, A. Coin et H. Journet. Étude des structures par les méthodes matricielles. Éditions
+
+Eyrolles, 1969.
+
+M. Géradin et D. Rixen. Théorie des vibrations, application à la dynamique des structures. Masson, 1993.
+
+Évaluation du compte-rendu et de la restitution orale du travail en Bureau d'Études
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

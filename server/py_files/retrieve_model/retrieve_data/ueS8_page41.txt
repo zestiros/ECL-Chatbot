@@ -1,0 +1,76 @@
+
+ AF ELC D-6
+
+
+PLM - Maquette numérique
+
+PLM - Digital Mockup
+
+Responsable(s) : Paul CLOZEL, Didier LACOUR
+
+| Cours : 6 h | TD : 4 h | TP : 0 h | Autonomie : 4 h | BE : 18 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Connaissance du processus industriel de développement produits dans un contexte PLM (Product Lifecycle Management), depuis la maquette numérique, les applicatifs, la collaboration et la gestion de données, dans le Système d'Information de l'Entreprise.
+
+- fournir aux élèves les éléments nécessaires à l'analyse des pratiques industrielles dans le domaine du PLM, intégré au Système d'Information de l'Entreprise
+
+- préparer les élèves à la mise en oeuvre des outils et méthodes utilisés dans les bureaux d'études / production.
+- situer l'état de l'art dans le domaine de l'ingénierie intégrée et de la maquette numérique et les SGDT.
+
+Mots-clés : PLM (Product Lifecycle Management), CAO, SGDT, Systeme d'information, Catia, Maquette Numérique,
+
+
+
+Programme	Système d'Information global de l'Entreprise : Problématique et Architecture technique.
+Développement de produit dans un contexte PLM.
+
+Environnement PLM : projet, équipe projet, conteneurs, processus, workflow, cycle de vie Maquette avancée, knowledge, automatisation (macros)
+Mise en œuvre des concepts abordés en cours, sur 3 études de cas.
+- application verticale (intégration de la démarche de conception/production - exemple de pièces en tôle découpée pliée -, unicité d'information, cohérence de l'information)
+
+- automatisations de taches Catia par macros et programmation
+- connaissance des bases de l'outil Catia V5, V6 3D expérience: mini-projet concret par binôme: application sur des cas concrets utilisant les concepts, outils et méthodes d'applicatifs et PLM.
+
+
+Compétences	◊ connaitre comment la maquette numérique sert de base au processus industriel, et le PLM à sa gestion.
+◊ être capable, principalement avec la maquette numérique, de commencer à s'insérer dans le processus industriel d'une entreprise.
+
+◊ connaitre des bases d'outil CAO, avec Catia V5, V6 3D expérience, très présent dans le milieu industriel
+
+Travail en
+Objectifs : Connaissance des bases de l'outil Catia V5, V6 3D expérience
+autonomie
+Méthodes : Mini-projet concret par binôme : application sur des cas concrets utilisant les
+
+concepts, outils et méthodes d'applicatifs et PLM.
+
+Denis Debaecker. Le projet PLM par l'expérience. Hermes 2013, ISBN-13: 978-2746245389, 2013.
+Bibliographie
+
+
+Dassault Aviation. l'entreprise numérique: http://www.dassaultaviation.com/fr/dassault-aviation/
+
+innovation/lentreprise-numerique. Dassault Aviation, 2015.
+
+Dassault Systems. www.3ds.com. Dassault Systems, 2016.
+
+Evaluation des livrables du mini-projet : production + rapport écrit
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+

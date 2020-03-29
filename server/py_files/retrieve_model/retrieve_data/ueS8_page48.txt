@@ -1,0 +1,76 @@
+
+ AF ELC E-5
+
+
+Savoir choisir un matériau
+
+Selection of materials
+
+Responsable(s) : Vincent FRIDRICI
+
+| Cours : 14 h | TD : 2 h | TP : 0 h | Autonomie : 4 h | BE : 4 h | Projet : 8 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les objectifs de cette AF sont de fournir aux étudiants des apports méthodologiques sur le choix des matériaux. Cela passe par une bonne connaissance des propriétés des matériaux (quelques rappels de tronc commun sont effectués) et par la mise en place de critères de sélection, appliqués sur une base de données de matériaux. Le logiciel CES EduPack de choix de matériaux sera présenté et utilisé.
+
+Le cours sera complété par des exposés d'intervenants du monde industriel sur le choix des matériaux en lien avec le design, l'analyse de cycle de vie et l'impact environnemental des produits et matériaux. Un travail en autonomie en groupe sera réalisé sur un sujet choisi par les étudiants.
+
+Mots-clés : matériaux, sélection, méthodologie de choix, logiciel CES EduPack
+
+
+
+Programme	- méthodologie de sélection de matériaux
+- critères de choix et logiciel de sélection de matériaux CES
+- analyses synthétiques des grandes familles de matériaux et de leurs propriétés
+- analyse de cycle de vie et impact environnemental
+- développement de cas concrets industriels choisis dans des domaines d'activité mettant en œuvre un éventail assez large de matériaux : métaux et alliages, polymères et composites, céramiques
+
+- des séances sont également consacrées à la restitution des travaux réalisés par les étudiants en autonomie sur des sujets en rapport avec les matériaux et leur place dans le monde actuel
+
+Compétences
+◊ savoir choisir un matériau : établissement et analyse du cahier des charges, élaboration de
+
+critères, recherche de matériaux et analyse critique des résultats
+
+◊ utiliser et approfondir les connaissances acquises en tronc commun
+
+◊ collecter et analyser de l'information avec logique et méthode
+
+◊ savoir restituer à l'oral et à l'écrit un travail réalisé en autonomie et en groupe
+
+Objectifs : - mettre en œuvre une démarche de choix de matériau pour une application donnée
+Travail en
+
+autonomie
+- approfondir l'étude des propriétés des matériaux
+
+Méthodes : Travail en trinôme : étude bibliographique, analyse d'un cahier des charges, utilisation
+
+du logiciel CES EduPack, ...
+
+Remise d'un rapport et exposé oral
+
+
+Bibliographie	M. Ashby. Choix des matériaux en conception mécanique. Dunod, 2012.
+
+M. Colombié. Matériaux métalliques. Dunod, 2000.
+
+M. Ashby. Matériaux et environnement : choix éco-responsable en conception. Dunod, 2011.
+
+
+Contrôle des	restitution orale + rapport écrit sur le travail de groupe (55%)
+
+connaissances	test écrit individuel sans documents de 1 h (30%)
+participation active au BE (15%)
+
+
+
+
+
+

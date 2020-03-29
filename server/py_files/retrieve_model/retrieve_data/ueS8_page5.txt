@@ -1,0 +1,204 @@
+
+
+
+Sommaire
+
+Acoustique musicale
+55
+Algorithme et raisonnement
+45
+Algorithmes collaboratifs et applications
+18
+Analyse fonctionnelle théorie et applications
+17
+Analyser et observer la matière
+31
+Antennes, signal et processeurs (Fermé en 2019-2020)
+57
+Applications Web
+38
+Capteurs et traitement d'images
+30
+Circuits et Dispositifs en Micro-Ondes
+28
+Collaborer et manager à l'ère du numérique
+46
+Communication interpersonnelle et pratiques professionnelles
+42
+Conception d'un emballage responsable
+25
+Contrôle non destructif
+19
+Des déchets et des hommes
+65
+Design de l'interaction et prototypage rapide par fablab
+29
+Design optimal et mécanique des fluides numérique
+59
+Du micro au macro en mécanique
+49
+Dynamique des rotors en ingénierie mécanique
+11
+Ecologie et Environnement
+61
+Ecoulement diphasique et systèmes énergétiques
+40
+Elaboration de pièces techniques
+23
+Entreprendre et innover
+58
+Eoliennes
+44
+Filtrage adaptatif application au contrôle actif de bruit
+37
+Finance de marché
+52
+Finance d'entreprise
+35
+Hydrologie et Gestion des Ressources en Eau
+22
+Ingéniérie des Procédés Industriels
+47
+Ingénierie Nucléaire
+20
+Ingénierie pour la santé
+21
+Introduction
+5
+Introduction aux vibrations aléatoires
+62
+Les enjeux du développement durable
+16
+Les métamatériaux mécaniques
+9
+Machine learning et applications
+8
+Marketing
+26
+Matériaux polymères propriétés physiques et innovations
+60
+Matériaux pour les composants des réseaux d'énergie
+54
+Mathématiques appliquées à la biologie
+27
+
+
+Mécanique des sols
+32
+Mécanique des structures minces Plaques et Coques
+12
+Méthode des éléments finis, de la théorie à la mise en oeuvre
+66
+Méthodes numériques en mécanique
+13
+Mondialisation et transculturalités
+51
+Optique et Photonique pour l'Ingénieur
+10
+Ordre, chaos, fractales
+56
+Philosophie des sciences et techniques
+34
+Physico-chimie des surfaces
+39
+PLM - Maquette numérique
+41
+Programmation des interfaces graphiques en C++
+15
+Propulseurs aéronautiques
+50
+Savoir choisir un matériau
+48
+Simulation multiphysique en conception mécanique
+33
+Sociologie des comportements politiques
+24
+Space physics and solar-terrestrial coupling
+63
+Surfaces, friction, vibrations
+64
+Systèmes autonomes de production (SAP)
+43
+Systèmes mécatroniques intelligents
+53
+Théorie des probabilités et introduction aux processus aléatoires
+36
+Vivant, Information et Système (Fermé en 2019-2020)
+14
+
+
+Introduction
+
+
+
+Programme du parcours électif
+
+
+
+Au S8, chaque élève suit l'UE élective (UE ELC), l'UE langue et l'UE pro.
+
+Semestre S8 à l'École Centrale de Lyon
+
+Au S8, chaque élève suit l'UE élective (UE ELC), l'UE Langues et cultures et l'UE Pro.
+
+1. L'UE Élective
+
+Dans cette UE, un élève sont affectés à 5 actions de formation (AF), en fonction de leurs voeux et des places disponibles, parmi une liste de 58 cours, répartis dans 6 créneaux horaires. Chaque AF représente un total de 32h de cours et 3 ECTS.
+
+Les AF proposées sont des cours interdisciplinaires ou des cours d'ouverture sur des disciplines peu ou non abordées lors du tronc commun.
+
+
+Liste des cours :
+
+Créneau A
+Lundi 8h-12h
+ELC A-1
+Machine learning et applications
+ELC A-2
+Les métamatériaux mécaniques (anglais)
+ELC A-5
+Optique et photonique pour l'ingénieur
+ELC A-6
+Dynamique des rotors en ingénierie mécanique (anglais)
+ELC A-7
+Mécanique des structures minces : plaques et coques
+ELC A-8
+Méthodes numériques en mécanique (anglais)
+ELC A-10
+Vivant, information et système (Fermé en 2019-2020)
+ELC A-11
+Programmation des interfaces graphiques en C++
+ELC A-12
+Les enjeux du développement durable
+
+
+Créneau B
+Lundi 14h-18h
+ELC B-1
+Analyse fonctionnelle : théorie et applications
+ELC B-2
+Algorithmes collaboratifs et applications
+ELC B-3
+Contrôle non destructif
+ELC B-4
+Ingénierie nucléaire
+ELC B-5
+Ingénierie pour la santé
+ELC B-6
+Hydrologie et gestion des ressources en eau (anglais)
+ELC B-8
+Élaboration de pièces techniques
+ELC B-9
+Sociologie des comportements politiques
+ELC B-10
+Conception d'un emballage responsable
+ELC B-12
+Marketing
+
+
+
+
+
+
+
+

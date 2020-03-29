@@ -1,0 +1,429 @@
+
+
+
+Sommaire
+
+
+
+Les options (2019-2020)
+9
+
+
+Aéronautique
+11
+Conférences
+12
+Projet Avion
+13
+Projet spécifique : Acoustique et Vibrations
+14
+Projet spécifique : Automatique
+15
+Projet spécifique : Matériaux et Structures
+16
+Projet spécifique : Propulsion
+17
+
+
+Energie
+18
+
+
+Energie Embarquée
+19
+Nouveaux carburants
+21
+Pétrole et Gaz
+20
+Production thermique
+22
+Projet EN
+23
+
+
+Energie d'Infrastructure
+24
+Ingénierie nucléaire
+27
+Production thermique
+26
+Projet EN
+28
+Réseaux d'énergie
+25
+
+
+Bio-Ingénierie et Nanotechnologies
+29
+
+
+Bio-ingénierie
+30
+Bio-informatique, bio-statistique et modélisation
+34
+Bioproduction
+33
+Conférences
+35
+Imageries médicales
+31
+Interactions matériau-vivant
+32
+Projet
+36
+
+
+Nanotechnologies
+37
+Conférences
+42
+Guidage photonique
+40
+Mémoires pour l’internet des objets
+38
+Nano-optiques
+41
+Projet
+43
+Surfaces intelligentes
+39
+
+
+Génie Civil et Environnement
+44
+
+
+Ouvrages
+45
+Constructions
+46
+Ouvrages de transport
+47
+Projet GCE
+48
+
+
+Environnement
+49
+
+
+Advanced building physics
+49
+Hydrogéologie
+52
+Qualité et traitement des eaux
+50
+Systèmes d'information géographique (SIG)
+51
+
+
+Energie Bâtiment Durable
+53
+Confort du bâtiment
+56
+Constructions
+55
+Introduction à l’énergétique du bâtiment
+54
+Les systèmes ENR
+58
+Projet EN
+57
+
+
+Bâtiment Durable
+59
+Confort du bâtiment
+62
+Constructions à section homogène
+61
+Introduction
+60
+Projet GBD
+64
+Systèmes d’énergies renouvelables
+63
+
+
+Informatique
+65
+Apprentissage automatique
+69
+Calcul et modélisation géométrique pour l'informatique graphique
+71
+Internet des objets
+68
+Les systèmes d'information par la pratique
+67
+Projet Informatique
+73
+Système temps réel, embarqué et mobile
+72
+Technologies informatiques du Big Data
+66
+Vision par ordinateur
+70
+
+
+Mathématiques et Décision
+74
+
+
+Mathématiques et Ingénierie du Risque
+75
+Data Mining et Big Data
+79
+Introduction aux mathématiques financières
+77
+Introduction aux problèmes inverses
+78
+Mathématiques en situation
+76
+Projet MIR
+80
+
+
+Aide à la décision pour l'entreprise
+81
+Projet ADE
+85
+Simulation de décisions opérationnelles
+82
+Simulation de décisions stratégiques et financières
+83
+Systèmes et outils d'aide à la décision
+84
+
+
+Transport et Trafic
+86
+
+
+Trafic et environnement
+87
+Ingénierie des transports
+89
+Logistique desTransports
+91
+Projet TT
+92
+Sécurité des transports
+90
+Transports et Société
+88
+Visites de sites
+93
+
+
+Technologies des véhicules
+94
+Dynamique des véhicules
+97
+Ingénierie des transports
+96
+Organes et architecture véhicule
+98
+Projet TT
+99
+Transports et Société
+95
+Visites de sites
+100
+
+
+Les MOS (2019-2020)
+101
+Aérodynamique transsonique
+
+102
+Algorithmes pour la décision en entreprise
+
+107
+Bruit des Transports
+
+103
+Calculs Avancés en Dynamique des Véhicules
+
+104
+Choix des matériaux et des assemblages
+
+109
+Compatibilité électromagnétique des systèmes de puissance et interaction avec leur environnement
+112
+Contrôle Actif du Bruit et des Vibrations
+
+105
+Couches ultraminces et surfaces fonctionnalisées
+
+106
+Dynamique des mécanismes
+
+111
+Économétrie des Séries Temporelles
+
+129
+Ecoulements instationnaires en turbomachine
+
+116
+Energie et impact sur l'environnement
+
+133
+Entrepreneur
+
+135
+Génie de l'Océan et du Littoral
+
+117
+Géotechnique
+
+122
+Gestion des ressources naturelles
+
+121
+Informatique d'entreprise
+
+119
+Informatique Graphique
+
+108
+Ingénierie tissulaire et biomatériaux
+
+126
+Intrapreneur
+
+134
+Macro Energie
+
+110
+Microsystèmes, microcapteurs, microfluidique
+
+128
+Modélisation et gestion du trafic
+
+115
+Nouvelles Technologies de l'Information et de la Communication
+
+120
+Ouvrages de Production d'Energie
+
+113
+Phénomènes complexes en dynamique des structures
+
+124
+Pollution Atmosphérique
+
+118
+Problèmes en domaines non bornés : analyse mathématique et simulation numérique
+
+123
+Procédés généraux de construction
+
+132
+Stabilité des machines tournantes
+
+130
+Stratégie d'entreprise
+
+127
+Sureté de fonctionnement des systèmes et des structures
+
+131
+Véhicules hybrides : modélisation et gestion de l'énergie
+
+114
+Visualisation interactive de données
+
+125
+
+
+Le semestre 9 à l’École Centrale de Lyon
+
+Au S9, les élèves suivent :
+
+◊ l’UE métier (septembre-novembre)
+
+◊ l’UE secteur (janvier-mars)
+
+◊ l’UE Module « ouvert » (octobre-décembre)
+
+◊ l’UE langue.
+
+1. L’UE métier
+
+Le module spécifique métier (92h +30h projet)
+
+Les élèves choisissent un métier de l’ingénieur parmi les huit suivants :
+
+◊ IBDE - Ingénieur Business Développement
+
+◊ ICS - Ingénieur Consultant
+
+◊ ICO - Ingénieur Eco-Conception et Innovation
+
+◊ IGO - Ingénieur Gestion des Opérations Industrielles
+
+◊ IMR - Ingénieur Management des risques industriels et environnementaux
+
+◊ IRD - Ingénieur Recherche Innovation et Développement
+
+◊ ISC - Ingénieur Supply Chain
+
+◊ IE – Ingénieur Entrepreneur
+
+La note du module spécifique métier est calculée à partir des moyennes pondérées des actions de formation suivies dans chaque module.
+
+Les MOM (28h)
+
+En dehors de cette spécialisation, les élèves choisissent deux actions de formations parmi sept modules ouverts métiers (MOM) :
+
+
+Créneau 1
+Lundi 14h-16h
+
+
+MOM 1.1
+Systèmes d'ingénierie
+
+
+MOM 2.1
+Management de l'entreprise industrielle
+
+
+MOM 3.1
+Droit de l'entreprise
+
+
+Créneau 2
+Lundi 16h-18h
+
+
+MOM 1.2
+Management de la qualité
+
+
+MOM 2.2
+Intelligence économique et protection de l'information
+
+
+MOM 3.2
+Management des ressources humaines et des organisations
+
+
+MOM 4.2
+Risques Naturels et Technologiques
+
+
+
+La note du module ouvert métier est égale à la moyenne des deux notes de MOM.
+
+Évaluation de l’UE métier
+
+La note d’UE est la somme pondérée du module spécifique métier (80%) et du module ouvert métier (20%). L’UE est validée si la moyenne de l’UE est supérieure à 10 et si la note de chaque action de formation au sein de chaque module est supérieure à 10.
+
+2. L’UE secteur (164h +50h projet):
+
+Un module spécifique option (MSO - 80h+50h projet):
+
+Un élève choisit une option, représentative d’un secteur d’activité (avec filières), parmi les sept suivantes :
+
+

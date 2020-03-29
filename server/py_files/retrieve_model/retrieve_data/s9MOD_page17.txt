@@ -1,0 +1,89 @@
+
+ AF MOD 2.6
+
+
+Reconnaissance et comportement des sols
+
+Soils survey and soils behaviour
+
+Responsable(s) : Eric VINCENS
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Tout aménagement est susceptible de perturber un équilibre naturel et ce risque doit pouvoir être évalué par une connaissance approfondie du site et des outils scientifiques adaptés.
+Ce cours a donc pour objectifs :
+- de donner aux étudiants les connaissances nécessaires pour définir et réaliser une campagne de reconnaissance des sols d'un site, cette reconnaissance sera complétée par des essais en laboratoire
+
+- de présenter les outils d'analyse permettant d'évaluer les risques d'instabilités de pentes naturelles ou construites par l'homme,
+
+- d'introduire des outils plus sophistiqués de modélisation de comportement de sols utilisés dans les grands bureaux d'études géotechniques.
+
+Mots-clés :
+
+
+
+Programme
+Reconnaissance des sols (essais in situ +laboratoire)Stabilité des pentes (statique +dynamique)
+
+Comportement expérimental des sols (argile +sables)
+
+Elastoplasticité appliquée au sol (modèle de Cam-Clay
+
+◊ maitriser les différents modèles géomécaniques et hydrauliques
+Compétences
+
+
+◊ savoir analyser la stabilité des talus et pentes
+
+◊ comprendre le comportement des sols selon leur nature
+
+TP : "Reconnaissance visuelle des sols" accompagné de "Reconnaissance des sols argileux"
+Activités /
+
+Autonomie
+TP : "Essai de cisaillement sur sable" accompagné de "comportement des milieux saturés"
+
+Un compte-rendu est attendu à chaque fois
+
+BE : Analyse d'un cas d'étude (ouvrage hydraulique) avec mise ne application des modèles, essais
+
+et reconnaissances
+
+Master de Mécanique
+Masters
+
+affiliés
+Master de Génie Civil
+
+G. Olivari. Mécanique des sols. Polycopié ECL-SDEC, 0.
+Bibliographie
+
+
+P. Mestat. De la rhéologie des sols à la modélisation des ouvrages géotechniques. 2000
+
+- Micro-tests sous la base de QCM (sans documents)
+Contrôle des
+
+connaissances
+- TPs
+
+- Test de 2h sans documents
+
+note du MOD : 2/3*test + 1/3*(microtests+TPs)
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+
+ AF ELC E-7
+
+
+Propulseurs aéronautiques
+
+Aircraft Turbojets
+
+Responsable(s) : Xavier OTTAVY, Isabelle TREBINJAC
+
+| Cours : 10 h | TD : 4 h | TP : 4 h | Autonomie : 10 h | BE : 4 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours a plusieurs objectifs :
+- apporter les notions complémentaires d'aéroénergétique dans le cadre des écoulements compressibles en systèmes ouverts, essentielles pour la compréhension et l'étude des performances d'un propulseur aéronautique
+
+- inventorier et classifier les différentes formes de propulseurs (turboréacteur, turbosoufflante, turbopropulseur...), en fonction de leur domaine d'application (domaine de vol, type d'avion...)
+
+- apprendre à calculer les performances pour un point de fonctionnement donné du domaine de vol, et savoir dimensionner simplement un propulseur, avec un objectif de performances nominales. Du point de vue disciplinaire, ce cours est principalement centré sur les aspects aéroénergétiques
+
+Mots-clés : aéroénergétique, écoulements compressibles, turboréacteur, turbofan, turbopropulseur, poussée, performances
+
+
+Programme	- Aérothermodynamique des écoulements compressibles quasi-unidimensionnels stationnaires (quantification et effet des échanges de travail, des échanges de chaleur et des frottements de nature visqueuse)
+
+- Compléments d'aérothermodynamique des systèmes ouverts (bilans d'énergie, travail utile, variables d'arrêt...).
+
+- Caractérisation des éléments compresseurs et turbines (énergies échangées, rendements, courbes caractéristiques de performance, tenue mécanique, comportement vibratoire, matériaux).
+- Caractérisation aéro-mécanique des autres composants (chambres, échangeurs, tuyères...).
+- Analyse des performances des propulseurs (assemblages, critères de performance, étude paramétrique, optimisation).
+
+- Procédures et outils de dimensionnement d'un moteur
+
+
+Compétences	◊ Comprendre le fonctionnement des composants d'un turboréacteur (compresseur, turbine, chambre de combustion, tuyère,...)
+◊ Comprendre et analyser le cycle thermodynamique d'un turboréacteur
+◊ Savoir calculer les performances d'un turboréacteur (poussée, consommation, rendement, ...)
+◊ Connaitre les enjeux scientifiques intervenant dans la conception des turboréacteurs du futur.
+
+Travail en
+Objectifs : Calculer les performances d'un turbofan pour 2 points de fonctionnement (décollage et
+autonomie
+croisière)
+
+Méthodes : Calcul des performances d'un turbofan en séances de BE (50% en autonomie), aidé
+
+d'un TP sur l'étude d'un mini-turboréacteur.
+
+Examen écrit (QCM portant sur la compréhension du cours et résolution d'un problème), rapport
+Contrôle des
+
+connaissances
+de BE et rapport de synthèse du TP.
+
+
+
+
+
+
+
+
+
+

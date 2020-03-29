@@ -1,0 +1,83 @@
+
+ AF STI tc 2
+
+
+Traitement du Signal
+
+Signal processing
+
+Responsable(s) : Gérard Scorletti, Eric Blanco
+
+| Cours : 12 h | TD : 14 h | TP : 4 h | Autonomie : 2 h | BE : 2 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le traitement du signal regroupe l'ensemble des techniques permettant de décrire l'acquisition, le stockage, la modification et la transmission de l'information. Face à la masse des signaux qu'il est nécessaire de traiter, souvent en temps réel, des systèmes technologiques d'une grande complexité ont envahi notre société. En réponse aux enjeux actuels, des méthodes scientifiques puissantes ont été développées pour gérer une telle complexité. La maîtrise de ces méthodes devient incontournable dans la pratique de l'ingénieur quel que soit le domaine auquel il se destine. L'objectif de cet enseignement est de présenter les bases préalables à l'acquisition et à la maîtrise de ces méthodes et de les illustrer par leur application.
+
+Mots-clés : Signaux déterministes et aléatoires, Signaux analogiques et numériques, Analyse en temps et en fréquence, Transformées de Fourier et Laplace, Filtrages analogique et numérique, échantillonnage, Transformée de Fourier Rapide, Filtres générateurs.
+
+
+Programme
+Modéliser et caractériser un signal : Analyse en temps et en fréquence
+
+Modéliser et caractériser un système : Convolution et filtrage
+
+Autocorrélation et Intercorrélation déterministes
+
+De l'analogique au numérique
+
+Filtrage fréquentiel numérique
+
+Des signaux déterministes aux signaux aléatoires
+
+◊ Être capable d'appliquer l'analyse en temps et en fréquence
+Compétences
+
+
+◊ Savoir échantillonner les signaux
+
+◊ Être capable de concevoir des filtres analogiques et numériques
+
+◊ Être capable de modéliser les signaux.
+
+Objectifs : Mettre en place une démarche d'ingénierie en mobilisant savoir et savoir-faire acquis
+Travail en
+
+autonomie
+au cours de l'AF
+
+Méthodes : Résoudre un problème pratique et original de traitement du signal en appliquant les
+
+méthodes et outils numériques acquis au cours de l'AF.
+
+G. Scorletti. Traitement du Signal. Polycop École Centrale de Lyon-SDEC, 2014.
+Bibliographie
+
+
+E. Tisserand, J.F. Pautex, and P. Schweitzer. Analyse et Traitement des Signaux. Sciences sup.
+
+Dunod, 2004.
+
+E.W. Kamen and B.S. Heck. Fundamentals of Signals and Systems with MATLAB. Pearson Prentice
+
+Hall, 2007.
+
+Le controle du Savoir est basé sur le travail préparatoire de TD, microtest et test final et le
+Contrôle des
+
+connaissances
+Savoir-Faire sur un TP et un BE de restitution.
+
+
+
+
+
+
+
+
+

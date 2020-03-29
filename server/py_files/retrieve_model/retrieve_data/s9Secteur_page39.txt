@@ -1,0 +1,70 @@
+
+ AF NANO 3.2
+
+
+Surfaces intelligentes
+
+Smarts surfaces
+
+Responsable(s) : Stéphane Benayoun & Magali Phaner-Goutorbe
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Au travers de cette AF les élèves-ingénieurs seront amenés à élaborer des surfaces bioinspirées à fonctionnalité spécifique (superhygrophobie, super-adhérentes, …) grâce à la nano/microtexturation. Ces surfaces seront caractérisées et analysées au regard de deux propriétés spécifiques leur mouillabilité et le pouvoir adhérent.
+
+Mots-clés :
+
+
+
+Programme	TP1 (4h) : fabrication des surfaces fonctionnelles
+TP2 (4h) : caractérisations topographiques (échelle nanométrique)
+TP3 (4h) : caractérisations des propriétés de mouillabilité des surfaces texturées
+TP4 (4h) : caractérisation mécanique de l’adhérence
+
+BE (2h) : Présentation des résultats et discussions scientifiques.
+
+
+Compétences	◊ Comprendre les enjeux et les problématiques des surfaces fonctionnelles.
+◊ Connaître et utiliser quelques techniques de fabrication des surfaces.
+◊ Savoir caractériser ces surfaces à différentes échelles.
+◊ Mise en place d’un protocole expérimental.
+
+
+
+
+Contrôle des 50% savoir être (travail durant la séance de travaux pratiques), 50% savoir-faire (présentation connaissances orale).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

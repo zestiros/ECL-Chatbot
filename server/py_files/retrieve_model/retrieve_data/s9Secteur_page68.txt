@@ -1,0 +1,59 @@
+
+ AF INFO 3.3
+
+
+Internet des objets
+
+Internet of Things (IoT)
+
+Responsable(s) : Daniel Muller, René Chalon
+
+| Cours : 10 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 10 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+L'Internet des Objets s'appuie sur les progrès continus des technologies de la microélectronique et des réseaux qui permettent le déploiement de services distribués sur des réseaux d'objets communicants interconnectés. Parmi les secteurs déjà concernés on peut citer la voiture connectée (réduction des accidents, partage de véhicules, taxis, VTC, gestion de flotte), le domaine de la santé (suivi médical individualisé), la domotique, ou la logistique (optimisation du transport et du stockage). Ce module propose un tour d'horizon de l'Internet des Objets, depuis les normes, standards et technologies sur lesquels il se base, jusqu'aux applications, sans oublier les problèmes sociétaux (aspects juridiques, vie privée, sécurité, sûreté de fonctionnement).
+
+Mots-clés : Internet des Objets, Web des Objets, objets connectés, ville intelligente, intelligence ambiante, domotique, géolocalisation, Big Data, IoT, WoT, RFID, Bluetooth, Zigbee, 6LoWPAN, CPL, PoE, Linky
+
+
+
+Programme	Contexte, usages et domaines d’application (historique, web des objets, environnement, infrastructures, médical, domotique, transport, smart cities, intelligence ambiante, Big Data) Technologies des objets connectés (matériel, alimentation, capteurs, processeurs, géolocalisation, puissance de calcul vs. Consommation, exemples d’objets connectés)
+
+Identification unique, communication et programmation (RFID, Bluetooth, Zigbee, 6LoWPAN, CPL, PoE, middlewares, frameworks)
+
+Aspects sociétaux (sécurité, sûreté physique des actionneurs, aspects juridiques, vie privée) Exemples d’applications – Interventions d’experts en entreprise (entreprises pressenties EDF, Sopra Steria, Sigfox, Wistiki)
+
+BE programmation d’un objet communicant muni de capteurs
+
+
+Compétences	◊ Appréhender le domaine des objets connectés, leurs technologies et leurs applications,
+◊ Concevoir une application basée sur l'exploitation de données issues de capteurs répartis,
+◊ Comprendre les implications sociétales d'une telle application.
+
+◊
+
+
+
+Bibliographie	R. Briand et al.. Livre Blanc - Objets Communicants et Internet des objets. Association Instituts Carnot, 2011.
+
+P. Mulder. Node.js for Embedded Systems – Building Web Interfaces for Connected Device.
+O’Reilly Media, 2015.
+
+M. Boudellal. Smart Home - Habitat connecté, installations domotiques et multimédia. Dunod, 2014.
+
+
+
+Contrôle des	Test final et note de BE
+
+connaissances
+
+
+
+
+
+
+
+

@@ -1,0 +1,77 @@
+
+ AF MOD 7.3
+
+
+Acoustic sources and propagation
+
+Acoustic sources and sound propagation
+
+Responsable(s) : Vincent Clair, Didier Dragna, Gilles Robert
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours d'acoustique avancé s'intéresse aux sources sonores et à leur propagation. Les principes fondamentaux de l'acoustique, tels que les équations linéaires de l'acoustique et l'évaluation quantitative du son sont présentés brièvement, avant de décrire les sources acoustiques ainsi que leur rayonnement en espace ouvert ou confiné de manière plus approfondie. Le son rayonné par des structures vibrantes ainsi que la propagation acoustique en milieu inhomogène sont aussi discutés. L'objectif du cours est de fournir un socle de connaissances théoriques nécessaire à l'appréhension d'un problème complexe de génération ou de rayonnement sonore. Ce cours fournit aussi une base aux étudiants qui seraient intéressés par des sous-domaines spécialisés de l'acoustique.
+
+Mots-clés : Acoustique, onde sonore, sources acoustiques, rayonnement acoustique, acoustique en milieu guidé, son généré par des structures vibrantes, propagation en milieu inhomogène.
+
+
+
+Programme	I - Equations de l'acoustique linéaire (équation d'onde, énergie acoustique, ondes harmoniques) II - Ondes planes et sphériques, Conditions aux limites, Impédance de surface
+III - Niveaux acoustiques et analyse spectrale (Décibels, densité spectrale de puissance, pondérations)
+
+IV - Propagation acoustique en milieu guidé (modes de conduit, fréquences de coupure, modèles basse fréquence)
+
+V - Sources (sources élémentaires, fonction de Green, distribution de sources)
+VI - Rayonnement des structures vibrantes (équation intégrale de frontières, intégrale de Rayleigh)
+
+VII - Propagation acoustique en milieu inhomogène (approximations géométrique et paraxiale) VIII - Approfondissements supplémentaires (absorption thermo-visqueuse, diffraction par des corps solides)
+
+Compétences
+◊ Comprendre la génération et le rayonnement du son dans des configurations classiques.
+
+◊ Modéliser et résoudre un problème acoustique.
+
+◊ Communiquer avec un expert en acoustique.
+
+◊ Acquérir une base théorique afin d'approfondir un domaine spécialisé de l'acoustique.
+
+Deux séances de travaux pratiques : 1) Mesure de la puissance acoustique d'une source en
+Activités /
+
+Autonomie
+chambre anéchoïque et en chambre réverbérante. 2) Propagation en conduit à proximité d'un
+
+changement de section brusque.
+
+Un bureau d'étude sur la localisation de sources avec un partenaire industriel (MicrodB).
+
+Master of Science in Acoustics
+Masters
+
+affiliés
+
+
+A. D. Pierce. Acoustics: an introduction to its physical principles and applications. The Acoustical
+Bibliographie
+
+
+Society of America, 1989.
+
+L. E. Kinsler et al.. Fundamentals of acoustics. John Wiley & Sons, 1982.
+
+D.T. Blackstock. Fundamentals of physical acoustics. John Wiley & Sons, 2000.
+
+Savoir : contrôle écrit de connaissances individuelles (50%)
+Contrôle des
+
+connaissances
+Savoir-faire : contrôle des connaissances activités pratiques (50%)
+
+

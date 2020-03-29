@@ -1,0 +1,69 @@
+
+ AF MOS 3.5
+
+
+Ecoulements instationnaires en turbomachine
+
+Unsteady flows in turbomachinery
+
+Responsable(s) : Stéphane AUBERT, Alexis GIAUQUE
+
+| Cours : 24 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les turbomachines impliquent des échanges entre le fluide et la structure qui permettent soit de récupérer de l'énergie (turbines), soit d'en apporter (compresseurs). Alors que les niveaux énergétiques peuvent être considérables, une partie du processus d'échange peut être déviée de l'objectif et produire des mécanismes instationnaires, pouvant aller jusqu'à la destruction de la turbomachine. L'objectif du cours est d'étudier ces mécanismes instationnaires et de répondre aux questions : pourquoi et comment sont-ils générés, comment se développent-ils, est-il possible de les contrôler ou de repousser leur apparition, est-il possible de les simuler ou de les mesurer expérimentalement ?
+
+Mots-clés : turbomachine, écoulements instationnaires, aéroélasticité, instabilités, couplages
+
+
+
+Programme	1. Dégradation des performances hors nominal : restriction du domaine de fonctionnement en multi-étages par effet cumulatif; quasi-stationnarité ou instationnarité majeure
+ 2. Interactions roues mobiles - roues fixes : effets potentiels en subsonique et en supersonique; sillages à travers les turbines et les compresseurs; impacts sur la structure, vibrations forcées
+ 3. Instabilités aérodynamiques : description, analyse et modélisation du pompage; le décrochage tournant; exemple de recherches actuelles en compresseur axial multi-étage
+
+ 4. Couplage fluide-structure et instabilités aéroélastiques : historique de catastrophes liées au flottement; spécificité du flottement en turbomachine
+
+
+Compétences	◊ Désigner les principaux phénomènes instationnaires en turbomachine
+◊ Formuler des scénarios d'interaction entre ces phénomènes
+◊ Evaluer les fréquences caractéristiques de ces phénomènes
+◊ Décomposer en phénomènes physiques élémentaires un comportement simulé ou mesuré de l'écoulement en turbomachine
+
+Options /
+Conseillé pour l'option Aéronautique; conseillé pour le master Aéronautique et Espace
+Masters
+
+
+Examen écrit de 2h
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,94 @@
+
+ AF ECS a 2-FH
+
+
+Conversion Electromécanique
+
+Electromechanic Conversion
+
+Responsable(s) : François Buret, Thomas Aka
+
+| Cours : 14 h | TD : 14 h | TP : 6 h | Autonomie : 14 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif de ce cours est de présenter les phénomènes électromagnétiques et leurs aspects énergétiques et de montrer comment passer, à partir des concepts fondamentaux de l’électromagnétisme, à la conception d’une machine électrique. Cette démarche est présentée sur l'exemple de la machine synchrone et Illustrée par les différentes utilisations de cette machine.
+
+Mots-clés : Énergie électromagnétique, force et puissance, actionneur, structures de conversion, fréquence-puissance, machine synchrone, alternateur, réseau, moteur, modèles de comportement électrique, contrôle- commande.
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+Introduction : aspects historiques et contexte de la conception des convertisseurs.
+Effort et puissance mécanique dans les systèmes électromagnétiques
+Les structures de conversion
+Constitution d’une machine synchrone
+Aspects technologiques
+Modèles électriques
+
+Contrôle et commande dans les principales utilisations.
+
+◊ Traduire les concepts fondamentaux de l’électromagnétisme en terme de conception d’une machine électrique.
+
+◊ Adapter cette démarche à la machine synchrone.
+◊ Créer des modèles électromagnétiques de différents niveaux à partir de données constructives.
+
+◊ Analyser un modèle électrique d’un convertisseur électromécanique en vue de son contrôle et ou de sa commande.
+
+Objectifs : Pré-dimensionner un système comprennent un actionneur électromécanique et un convertisseur électronique de puissance.
+Déterminer une structure satisfaisante pour le convertisseur de puissance
+Méthodes : Calculs analytiques et simulations sous Matlab/Simulink en binôme avec un élève de
+l'AF "Electronique de puissance"
+Restitution orale
+
+
+Bibliographie	Marcel JUFER. Electromécanique (Traité d'électrcité de l'EPFL - vol XIV)). PPUR, 1995.
+
+Ernest MATAGNE. Electromécanique - Convertisseurs d'énergie et actionneurs. DUNOD, 2009.
+
+
+
+Contrôle des	Note finale = 0,65 * Savoir + 0,35 * Savoir Faire
+
+connaissances	Note finale = 0,65 * Test final + (0,25 * Travail en autonomie + 0.10 * Compte rendu du TP)
+
+
+
+
+
+
+
+
+
+
+
+

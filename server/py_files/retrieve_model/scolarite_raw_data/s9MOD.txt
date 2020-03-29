@@ -1,0 +1,3889 @@
+﻿PROGRAMME DES ENSEIGNEMENTS
+
+
+PARCOURS ÉLECTIF S9
+
+UE Modules ouverts
+
+2019-2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+Sommaire
+
+
+Acoustic sources and propagation44Acoustique Environnementale12Aérodynamique et Energétique des Turbomachines8Aerodynamique externe35Aléas et hétérogénéités dans les structures31Analyse des assemblages : géométrie et architecture28Apprentissage profond & Intelligence Artificielle : une introduction19Automatique Avancée23Bruits d'origine aérodynamique46Caractérisation des surfaces et des nanostructures47Changements climatiques et Géo-ingénierie40Combustion pour la propulsion26Comportement des matériaux57Défis informatiques du Big Data13Diagnostic et Sûreté de Fonctionnement22Durabilité des matériaux et des structures38Dynamique de l'Atmosphère et l'Océan14Dynamique des structures45Dynamique des systèmes biologiques humains41Energie Nucléaire53Energie Stockage-Conversion25Extraction de Connaissances43Green Computing24Hydraulique Fluviale50Identification des systèmes et décomposition parcimonieuse des signaux21Ingénierie d'un objet de grande consommation63Interactions fluide-structure48Introduction aux vibrations non-linéaires11Les turbines pour la production d'énergie16Le système électrique61Matériaux de construction33Matière molle : nanosystèmes et interfaces biologiques37Mécanique des matériaux et structures composites55Méthodes numériques pour les EDP59Méthodes variationnelles pour les EDP65Microsystèmes Autonomes39MOD Parcours Entrepreneur 162MOD Parcours Entrepreneur 264
+
+
+
+
+
+3
+
+Nanophotonique9Nanotechnologies36Ouverture socio-économique et culturelle66Parcours Intrapreneur 154Parcours Intrapreneur 260Physiologie humaine et biotechnologies30Physique des écoulements turbulents10Physique pour les technologies de l'information52Processus Stochastiques : modèles et méthodes numériques49Propagation des ondes élastiques18Recherche opérationnelle27Reconnaissance et comportement des sols17Représentation et manipulation de données structurées51Réseaux informatiques58Simulation numérique des écoulements7Stabilité des Systèmes Mécaniques56Statistique appliquée aux sciences de l'ingénieur15Systèmes de bases de données29Systèmes d'information en entreprise42Systèmes embarqués sécurisés20Traitement et analyse des données visuelles et sonores32Tribologie : principes et applications34
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+Le semestre 9 à l'École Centrale de Lyon
+
+Au S9, les élèves suivent :
+
+◊ l'UE métier (septembre-novembre)
+
+◊ l'UE secteur (janvier-mars)
+
+◊ l'UE Module " ouvert " (octobre-décembre)
+
+◊ l'UE langue.
+
+L'UE " Module Ouverts Disciplinaires " (180h)
+
+Dans cette UE, l'élève doit choisir 6 actions de formation parmi une cinquantaine de cours. En fonction des masters suivis, certaines AF peuvent remplacer un cours de master et vice et versa.
+
+Remarque :
+
+◊ Les MOD 9.1, 10.2, 10.4 et 11.3 sont réservés aux élèves suivant le métier ISBD.
+
+◊ Le MOD OUV (hors créneau) s'adresse aux étudiants internationaux inscrits en Master.
+
+
+Créneau 1  Lundi 8h-10h
+
+MOD 1.1	Simulation numérique des écoulements
+
+MOD 2.1	Défis informatiques du Big Data
+
+MOD 3.1	Propagation des ondes élastiques
+
+MOD 4.1	Green Computing
+
+MOD 5.1	Physiologie humaine et biotechnologies
+
+MOD 6.1	Nanotechnologies
+
+MOD 7.1	Systèmes d'information en entreprise
+
+MOD 8.1	Interactions fluide-structure (en anglais)
+
+MOD 9.1	Parcours Intrapreneur 1
+
+Créneau 2  Lundi 10h15-12h15
+
+MOD 1.2	Aérodynamique et Énergétique des Turbomachines (en anglais)
+
+MOD 2.2	Dynamique de l'atmosphère et de l'Océan (en anglais)
+
+MOD 3.2	Apprentissage profond et intelligence artificielle : introduction
+
+MOD 4.2	Énergie Stockage-Conversion
+
+MOD 5.2	Aléas et hétérogénéités dans les structures
+
+MOD 6.2	Matière molle : nanosystèmes et interfaces biologiques
+
+MOD 7.2	Extraction de Connaissances
+
+MOD 8.2 Processus Stochastiques: modèles et méthodes numériques (anglais) MOD 9.2 Mécanique des matériaux et structures composites (en anglais) MOD 10.2 Parcours Intrapreneur 2
+
+Créneau 3  Mardi 14h-16h
+
+MOD 1.3	Nanophotonique
+
+MOD 2.3	Statistique appliquée aux sciences de l'ingénieur
+
+MOD 3.3	Systèmes embarqués en environnement hostile
+
+MOD 4.3	Combustion pour la propulsion
+
+MOD 5.3	Traitement et analyse des données visuelles et sonores
+
+MOD 6.3	Durabilité des matériaux et des structures (en anglais)
+
+
+
+
+5
+
+
+MOD 7.3	Acoustique générale (en anglais)
+
+MOD 8.3	Hydraulique fluviale (en anglais)
+
+MOD 9.3	Stabilité des Systèmes Mécaniques
+
+MOD 10.3	Le système électrique
+
+MOD 11.3	MOD Parcours Entrepreneur 2
+
+Créneau 4  Mardi 16h15-18h15
+
+MOD 1.4	Physique des écoulements turbulents
+
+MOD 2.4	Les turbines pour la production d'énergie
+
+MOD 3.4	Identification des systèmes et décomposition parcimonieuse des signaux
+
+MOD 4.4	Recherche opérationnelle
+
+MOD 5.4	Matériaux de construction
+
+MOD 6.4	Microsystèmes Autonomes
+
+MOD 7.4	Dynamique des structures
+
+MOD 8.4	Représentation et manipulation de données structurées
+
+MOD 9.4	Comportement des matériaux
+
+MOD 10.4	MOD Parcours Entrepreneur 1
+
+MOD 11.4	Méthodes variationnelles pour les EDP
+
+Créneau5	Vendredi 13h30-15h30
+
+MOD 1.5	Introduction aux vibrations non-linéaires
+
+MOD 3.5	Diagnostic et Sûreté de Fonctionnement
+
+MOD 4.5	Analyse des assemblages : géométrie et architecture
+
+MOD 5.5	Tribologie : principes et applications
+
+MOD 6.5	Changements Climatiques et Géo-ingénierie (en anglais)
+
+MOD 7.5	Bruits d'origine aérodynamique
+
+MOD 8.5	Physique pour les technologies de l'information
+
+MOD 9.5	Réseaux informatiques
+
+MOD 10.5	Ingénierie d'un objet de grande consommation
+
+Créneau6	Vendredi 15h45-17h45
+
+MOD 1.6	Acoustique Environnementale (en anglais)
+
+MOD 2.6	Reconnaissance et comportement des sols
+
+MOD 3.6	Automatique Avancée
+
+MOD 4.6	Systèmes de bases de données
+
+MOD 5.6	Aérodynamique externe (en anglais)
+
+MOD 6.6	Dynamique des systèmes biologiques humains
+
+MOD 7.6	Caractérisation des surfaces et des nanostructures
+
+MOD 8.6	Énergie Nucléaire
+
+MOD 9.6	Méthodes numériques pour les EDP
+
+Évaluation de l'UE MOD
+
+La note de l'UE MOD est la moyenne des notes des 6 actions de formations. L'UE est validée si chaque note est supérieure à 10.
+
+
+
+
+
+
+6
+
+ AF MOD 1.1
+
+
+Simulation numérique des écoulements
+
+Numerical methods for computational fluid dynamics
+
+Responsable(s) : Fabien GODEFERD, Christophe CORRE
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours  |
+
+
+Objectifs de la formation
+
+
+L'objectif du cours est de donner les éléments de base sur les méthodes numériques de simulation en mécanique des fluides et leurs spécificités, et de fournir une première expérience pratique de programmation et d'utilisation de ces méthodes. Le cours devrait permettre aux étudiants de disposer d'un aperçu pour aborder le développement de codes de calcul ou exploiter les grands codes actuels déjà en place dans les grands organismes et entreprises, dans les secteurs tels que l'aéronautique, la propulsion, les transports, l'énergie, etc. Le cours contient notamment les bases indispensables à l'approfondissement des méthodes numériques dans les spécialisations de filière qui pourront être choisies par la suite.
+
+Mots-clés : Simulation numérique, classification des équations, caractéristiques, méthodes spectrales, différences finies, volumes finis, éléments finis
+
+
+
+Programme	L'accent est d'abord mis sur la classification des problèmes aux limites (systèmes d'équations aux dérivées partielles de type hyperbolique, parabolique ou elliptique). Le cours présente ensuite les diverses classes de méthodes numériques de résolution :
+- méthodes des caractéristiques,
+- différences finies,
+- volumes finis,
+- éléments finis,
+- méthodes spectrales,
+
+et leurs spécificités comparées pour chacune des applications industrielles ou de recherche.
+
+
+Compétences	◊ Connaître les principes des méthodes de simulation les plus utilisées en mécanique des fluides
+◊ Etablir les équations discrétisées et créer l'algorithme de résolution associé
+◊ Implémenter la méthode numérique dans un langage de programmation et s'assurer de la pertinence physique des résultats obtenus par le calcul
+
+◊ Appréhender les principes de fonctionnement d'un code existant de type commercial ou académique
+
+Activités /Bureaux d'étude : 3 x 4 heuresAutonomieCes BE abordent l'approche de façon pragmatique et exhaustive certaines des méthodesnumériques vues d'un point de vue théorique en cours, illustrées au travers d'un cas-test degéométrie simple.Master Acoustique - Master Aéronautique et Espace - Master Mécanique, ÉnergétiqueMastersaffiliésCharles Hirsch. Numerical Computation of Internal and External Flows. ISBN: 978-0-7506-6594-0, 2007.BibliographieClive A.J. Fletcher. Computational Techniques for Fluid Dynamics Vols. 1 & 2. ISBN-13: 978-3540530589, 1997.John P. Boyd. Chebyshev and Fourier Spectral Methods. ISBN-13: 978-0486411835, 2000.Comptes rendus écrit pour chacun des trois BE : 3 x 20% de la note finaleContrôle desconnaissancesExamen écrit de 2 heures (+1 heure pour le master Recherche) : 40%
+
+
+
+
+7
+
+ AF MOD 1.2
+
+
+Aérodynamique et Energétique des Turbomachines
+
+Fundamentals of turbomachines
+
+Responsable(s) : Alexis GIAUQUE, Isabelle TREBINJAC
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Le cours a essentiellement pour but de familiariser l'étudiant avec le fonctionnement et le calcul de l'écoulement dans une turbomachine. A partir des notions d'aérodynamique et de thermodynamique appliquées aux turbomachines, on détaillera les principaux outils permettant de dessiner une turbomachine, et plus précisément de déterminer la géométrie d'un compresseur axial répondant à un objectif de performance précis.
+
+Le travail pratique sur un banc d'essais de compresseur basse-vitesse permet de mesurer et d'analyser sur un cas concret les différents phénomènes étudiés en cours.Les bureaux d'études ont pour but de réaliser la conception d'un compresseur axial pour un cahier des charges donné.
+
+Mots-clés : turbomachine, compresseur, turbine, aérodynamique, énergétique, compressible
+
+
+
+ProgrammeFonctions et domaine d'application des turbomachinesCourbes caractéristiques et domaine d'utilisation (point nominal et plage de fonctionnement).Application des formes intégrales des équations de la mécanique des fluides aux turbomachines.Analyse aérothermodynamique mono-dimensionnelle : transformations réelles dans lesturbomachines, quantification des pertes.Analyse bidimensionnelle dans le plan circonférentiel : triangles de vitesse, critères de charges encompresseurs, corrélations.Analyse bidimensionnelle dans le plan méridien : équation d'équilibre radial.Introduction aux phénomènes tridimensionnels et instationnaires.◊ comprendre le fonctionnement des turbomachinesCompétences◊ savoir concevoir un compresseur axial◊ maitriser l'aérodynamique compressible◊ savoir analyser l'écoulement interne aux turbomachinesConcevoir un compresseur axial compressible subsonique (complément des BE).Activités /AutonomieEcrire le programme de conception aérodynamique du compresseur (matlab...)Master Aéronautique et EspaceMastersaffiliésN. A. Cumpsty. Compressor aerodynamics. Longman Scientific & Technical, 1989.BibliographieDavid Japikse, N. C. Baines. Introduction to turbomachinery. Concepts ETI, 1997.Examen final, compte-rendu des BEs et compte-rendu du TPContrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+ AF MOD 1.3
+
+
+Nanophotonique
+
+Nanophotonics
+
+Responsable(s) : Emmanuel DROUARD, Christelle MONAT
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+La photonique a connu des développements importants dans l'émission de la lumière, son traitement, son transport et sa détection, appliqués dans de nombreux secteurs. Les progrès technologiques, notamment issus de la microélectronique, pour la réalisation de dispositifs micrométriques, ont permis la mise en oeuvre de nouveaux concepts d'optique intégrée pour le contrôle de la lumière, qui sont aujourd'hui couramment utilisés. Les recherches actuelles, très actives, sur les dispositifs submicrométriques, tels les cristaux photoniques, bénéficieront à des secteurs à fort potentiel : information et communications, biologie, énergie. Le but de ce cours est de donner les bases physiques communes à ces nouvelles technologies, afin de pouvoir aborder la littérature plus spécialisée.
+
+Mots-clés : Biréfringence, Guide d'onde, Cristal Photonique, Optique non linéaire
+
+
+
+Programme	Polarisation de la lumière
+Optique guidée planaire
+Optique intégrée & Fibre optiques
+Cristaux photoniques & Nanophotonique: principes et perspectives d'applications
+Optique non linéaire: effet Kerr optique, doublage de fréquence, conversion de longueur d'onde.
+Exemple d'applications: source accordable, interrupteur optique, peigne de fréquences...
+
+Sujets de travaux pratiques possibles (2 séances): Simulations " Finite Difference Time Domain " de composants d'optique intégrée, Transmission d'un signal par modulation électro-optique, Laser à cristaux photoniques. Laser à fibre optique.
+
+BE d'Optique non linéaire sur de la conversion de longueur d'onde
+
+
+Compétences	◊ être capable de décrire la propagation de la lumière dans un matériau biréfringent
+◊ comprendre et utiliser les effets du profil d'indice et de la longueur d'onde sur les modes guidés
+◊ comprendre et savoir utiliser les propriétes de dispersion des structures micro-nanophotoniques
+◊ comprendre l'origine de phénomènes d'optique nonlinéaire et comment les appliquer à du traitement tout optique de l'information
+
+Activités /Maîtrise des compétencesAutonomieRédaction de Compte Rendu de certains TPMaster NSE (50% des cours sont en anglais)MastersaffiliésB.E. A. Saleh, M.C.Teich. Fundamental of Photonics. Wiley, 2007.BibliographieRigneault H., Lourtioz JM.. La Nanophotonique. Hermes science publ. Lavoisier, 2005.TP/ BE, test écrit final.Contrôle desconnaissances70% savoir (test écrit final), 30% savoir faire (TP/BE)
+
+
+
+
+
+
+
+
+9
+
+ AF MOD 1.4
+
+
+Physique des écoulements turbulents
+
+Physics of turbulent flows
+
+Responsable(s) : Christophe BAILLY, Christophe BOGEY, Simon PRIGENT
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+La turbulence intervient dans de nombreuses applications technologiques des transports terrestres, de l'aéronautique et du spatial (aérodynamique interne et externe, combustion, aéroacoustique, vibroacoustique) et de l'énergie. Elle joue également un rôle déterminant dans le domaine de l'environnement (dispersion de polluants) et des écoulements géophysiques (météorologie, climat). Ce cours aborde les grandes problématiques de la turbulence, et présente la physique des phénomènes impliqués et leur modélisation. Le cours s'appuie sur de nombreux exemples de cas pratiques, ainsi que sur les résultats les plus récents obtenus par les simulations numériques et les techniques expérimentales (cours pouvant d'être donné en anglais suivant le public présent, supports de cours en anglais)
+
+Mots-clés : turbulence, mécanique des fluides, aérodynamique, couche limite, modèle de turbulence, dynamique de la vorticité, turbulence homogène et isotrope, théorie de Kolmogorov, simulation numérique (DNS, LES, RANS), techniques expérimentales (HWA, LDA, PIV)
+
+
+
+Programme	Quelques exemples d'écoulements turbulents Description statistique pour l'écoulement moyen
+Ecoulements de paroi et propriétés physiques de la couche limite turbulente
+Un exemple de modélisation de type RANS: le modèle k-epsilon (k-omega)
+Dynamique de la vorticité
+Turbulence homogène et isotrope, théorie de Kolmogorov
+
+Quelques illustrations sur l'état de l'art pour les simulations numériques et les techniques expérimentales
+
+
+Compétences	◊ Maitriser des principaux éléments physiques (production, couche limite, vorticité, Kolmogorov)
+◊ Connaissance générales des techniques numériques et expérimentales (état de l'art)
+◊ Savoir-faire dans la modélisation (modèles de turbulence)
+◊ Savoir-faire dans l'analyse des résultats (traitement du signal ou modélisation avec Matlab par exemple)
+
+
+
+Activités /
+
+Autonomie
+
+
+
+
+
+
+
+Masters
+
+affiliés
+
+
+
+Bibliographie
+
+
+
+
+
+Contrôle des connaissances
+
+
+Exercices à résoudre de manière régulière par binôme (4 dans une liste d'une dizaine au choix) portant sur la modélisation, la résolution de problèmes sous Matlab, l'approfondissement d'un sujet via la bibliographie, ...
+
+2 séances de travaux pratiques (caractérisation d'une turbulence de jet libre par fil chaud et modélisation numérique d'un écoulement de paroi) et un TD (4h)
+
+Mécanique des fluides & énergie
+Acoustique
+
+Aéronautique
+
+
+Bailly C. & Comte-Bellot G.. Turbulence. Springer, 2015.
+
+Davidson P. A.. Turbulence. An introduction for scientists and engineers. Oxford University Press, 2004.
+
+Pope S.B.. Turbulent flows. Cambridge University Press, 2000.
+
+
+Contrôle continu (4 exercices dans une liste), activités pratiques (2 TP, 1 BE). Savoir 30%, Savoir-faire 30%, Méthodologie 40%
+
+
+
+10
+
+ AF MOD 1.5
+
+
+Introduction aux vibrations non-linéaires
+
+Introduction to nonlinear vibrations
+
+Responsable(s) : Joël PERRET-LIAUDET, Fabrice THOUVEREZ
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Il s'agit de sensibiliser et familiariser les élèves aux principaux phénomènes liées aux problèmes des vibrations non linéaires. Les connaissances minimales et les règles utiles à l'ingénieur seront introduites en vue de diagnostiquer et traiter ces problèmes. De nombreux exemples issus de problèmes de l'ingénierie viendront illustrer le cours. On peut citer la dynamique des contacts frottants (crissements), des systèmes à jeux (cliquetis), des rotors et transmissions, des ponts soumis aux vents...
+
+Mots-clés : vibrations non linéaires, dynamique des systèmes, stabilité, bifurcations, modes non linéaires, résonances principales, surharmoniques, sous harmoniques, vibrations auto entretenues, galop flottement
+
+
+
+Programme	◊ Généralités sur les problèmes vibratoires non linéaires en ingénierie, classification des sources
+◊ Outil de description et d'analyse, Analyse modale non linéaire
+◊ Perte de stabilité d'équilibre et vibrations auto entretenues (phénomènes de galop, crissement)
+◊ Phénomènes de résonances non linéaires (principales et harmoniques)
+◊ Notion de réponses complexes (chaos)
+◊ Introduction aux méthodes spécifiques aux traitements des phénomènes non linéaires
+
+Compétences◊ détecter et/ou diagnostiquer un phénomène de vibrations non linéaires◊ caractériser les principaux types de réponses vibratoires◊ identifier les principaux phénomènes qui conduisent à ces réponses dynamiques◊ modéliser certains problèmes non linéaires et les traiter par des méthodes spécifiques1 BE et 2 TP permettront d'illustrerActivités /Autonomie- les résonances non linéaires dans le cas de contacts sous sollicitations normales- les instabilités qui conduisent à des vibrations auto entretenues comme pour le crissement- de manipuler les principaux concepts et outils de description- quelques scénarios de route vers le chaosA. H. Nayfeh, B. Balachandran. Applied Nonlinear Dynamics: Analytical, Computational andBibliographieExperimental Methods. Wiley, 1995.Vidal, Bergé, Pommeau. L'ordre dans le Chaos. Hermann, 1984.P. Manneville. Instabilités, chaos et turbulence. Ed. Ecole Polytechnique, 2004.50 % savoir (test)Contrôle desconnaissances50 % savoir faire (BE/TP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+
+ AF MOD 1.6
+
+
+Acoustique Environnementale
+
+Environmental Acoustics
+
+Responsable(s) : Marie-Annick Galland, Didier Dragna
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Noise is considered by the population as one of the main and most important nuisances. Taking into account acoustic constraints is therefore of primary importance in many fields, for example in building engineering or evaluation of transportation systems. This course presents basic notions in acoustics particularly suited to engineers working in related sectors. More specifically will be developed acoustics of rooms and industrial or public environments, outdoor sound propagation in an urban environment, as well as the various techniques used to control (usually reduce) sound levels: passive techniques (noise barriers, use of absorbing materials) or active ones (anti-noise). Subjective aspects will also be introduced with notions on sound perception, sound quality and annoyance.
+
+Mots-clés : Acoustics, room acoustics, noise control, outdoor propagation, sound perception
+
+
+
+ProgrammeI- Basic equations and models in acousticsII- Sound perception: from deciBel scales to nuisancesIII- Room acoustics: modal theory and energetic approach (Sabine theory, ray tracing,reverberation time and quality indices)IV- Noise reduction and control: airborne sound insulation (single and double- leaf partitions),barriers, absorbing materials, active controlV- Outdoor propagation: effects of ground, buildings, meteorological conditions, ... ; sound maps◊ Develop a coherent approach for diagnosing a problem in environmental acousticsCompétences◊ Build a simplified model◊ Propose a technical solution and evaluate the margin of error.Practical work:Activités /Autonomie- Room acoustics: measurement of reverberation time and sound quality indices in the cinemaroom of ECL; numerical simulation with CATT-Acoustic software.- Outdoor propagation: Sound map design and analysis; numerical simulation with SoundPlansoftware- Case study in noise controlThis set of lectures is one of the teaching units of the Master of Sciences in Acoustics (M2; seeMastersaffiliéshttp://master-acoustics.ec-lyon.fr/).It can also be taken as a teaching unit of the Masters in Aerospace Engineering, Mechanics orCivil Engineering,
+
+Bibliographie	A. Pierce. Acoustics, Introduction to its physical principles and applications. Mc Graw -Hill, 1981.
+
+H. Kuttruff. Room acoustics. Spon Press, 2000.
+
+
+D.Bies, C.Hansen. Engineering noise control. Spon Press, 2009.
+
+
+
+Contrôle des	Written Exam (50%); Practical work (50%)
+
+connaissances
+
+
+
+
+
+
+
+12
+
+ AF MOD 2.1
+
+
+Défis informatiques du Big Data
+
+Big Data challenges
+
+Responsable(s) : Stéphane DERRODE, Emmanuel DELLANDREA
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+L'explosion quantitative des données numériques est à l'origine de nouveaux ordres de grandeur qui impactent la capture, le stockage, l'analyse et la visualisation des données. Les perspectives du traitement des big data sont encore en partie insoupçonnées : analyse prospective (climatique, commercial...), gestion des risques (assuranciel, industriel, naturel) ou encore médical (génomique, épidémiologie) et sécurité (lutte contre la criminalité).
+
+L'enseignement proposé permettra de découvrir les grandes problématiques soulevées par l'émergence de ces flots de données (stockage, interrogation, analyse et visualisation) et leur exploitation commerciale. Les questionnements d'ordre éthique et juridique que soulèvent la collecte et l'exploitation de ces données seront également examinés.
+
+Mots-clés : Big Data, NoSQL, Hadoop, Open-data.
+
+
+
+ProgrammeIntroduction : les enjeux techniques/économiques/éthiques du big-dataBases de données : NoSQL et MongoDBOpen data et données publiquesBig Data analyticsTP #1 : Map-Reduce avec Apache/HadoopTP #2 : Visualisation de données massives : OpenStreetMapTP #3 : Web sémantique.◊ comprendre les enjeux économiques, éthiques et techniques que soulèvent les big-dataCompétences◊ utiliser un algorithme map-reduce fonctionnant sous Hadoop◊ avoir un esprit critique sur les nouveaux outils s'appuyant sur les données massives◊ approfondir ses compétences big-data par lui-mêmeApprofondir un sujet en rédigeant une note de synthèse par groupe de 4/5 (Ex. Big data etActivités /Autonomiestartup, les Data-Centers).- Synthèse bibliographique de lectures- Interview d'un acteur du big dataMaster Informatique de LyonMastersaffiliésPirmin Lemberger et Marc Batty. Big Data et Machine Learning - Manuel du data scientist. Dunod, 2015.BibliographieRudi Bruchez. Les bases de données NoSQL et le Big Data : Comprendre et mettre en oeuvre.Eyrolles, 2015.Jean-Charles Cointot et Yves Eychenne. La Révolution Big data - Les données au coeur de latransformation de l'entreprise. Dunod, 2014.L'enseignement sera évalué par un examen et par la synthèse bibliographique (travail enContrôle desconnaissancesautonomie).
+
+
+
+
+
+
+
+
+13
+
+ AF MOD 2.2
+
+
+Dynamique de l'Atmosphère et l'Océan
+
+Atmosphere and Ocean Dynamics
+
+Responsable(s) : Richard PERKINS, Lionel SOULHAC
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Le but de ce cours est de fournir une compréhension physique des circulations atmosphériques et océaniques à grande échelle, et les conséquences pratiques de tels systèmes. Le vent est le résultat de l'interaction entre des déséquilibres thermodynamiques - poussés notamment par le rayonnement solaire - et la rotation de la Terre. Grâce à la différence entre la capacité calorifique de l'eau et de l'air, l'océan agit comme un réservoir de chaleur qui peut stabiliser ou déstabiliser l'atmosphère. L'interaction entre les mouvements atmosphériques et océaniques assure le transport de chaleur de l'équateur vers les pôles. Dans ce cours on étudie donc les processus d'échange de chaleur dans l'atmosphère, les effets de la rotation de la Terre, et l'interaction entre ces deux.
+
+Mots-clés : Atmosphère, Océan, Chaleur, Humidité, Rotation, Rayonnement, Coriolis, Rossby, Ekman, Richardson, Géostrophique, Nuages, Courants, Ondes internes
+
+
+
+Programme	Introduction : Les propriétés physico-chimiques de l'atmosphère et de l'océan
+La thermodynamique de l'atmosphère : Les échanges radiatifs, stratification et stabilité
+L'eau dans l'atmosphère : L'atmosphère humide, les nuages
+Les ondes dans un fluide stratifié : Discontinuité de masse volumique, stratification continue
+
+Les effets de rotation : L'équation de mouvement dans un système en rotation, les vents géostrophiques et quasi-géostrophiques, le vent thermique
+Les mouvements forcés : La couche d'Ekman, le pompage d'Ekman
+Les ondes dans un système en rotation : L'approximation du plan β, les ondes de Rossby, le problème d'ajustement vers l'équilibre
+
+Mouvements à grande échelle : La circulation générale
+
+
+Compétences	◊ Calculer l'évolution des propriétés d'une masse d'air lors de son déplacement dans l'atmosphère.
+◊ Appréhender les différentes formes d'ondes internes dans l'atmosphère et l'océan
+◊ Calculer un vent géostrophique ou quasi-géostrophique, en fonction du gradient de pression dans l'atmosphère.
+
+◊ Expliquer les phénomènes principaux sur une carte météorologique.
+
+Activités /Renforcer les notions du cours en travaillant les exemples.AutonomieApprofondir certains éléments du cours à travers les sujets des BE.Des questions sur chaque partie du cours seront fournies, avec les solutions, pour permettre àl'élève de vérifier son travail et sa compréhension du cours.Sciences de l'Océan, Atmosphère et Climat (SOAC); MécaniqueMastersaffiliésGILL, A.E.. Atmosphere-ocean dynamics. Academic Press, 1982.BibliographieFLEAGLE, R.G. & BUSINGER, J.A.. An introduction to atmospheric physics.. Academic Press, 1980.HOLTON, J.R. & HAKIM, G.J.. An introduction to dynamic meteorology. Academic Press, 2012.Savoir: Examen en fin de cours (40%) Savoir faire: Comptes rendus des trois BE (60%)Contrôle desconnaissances
+
+
+
+14
+
+ AF MOD 2.3
+
+
+Statistique appliquée aux sciences de l'ingénieur
+
+Statistical engineering
+
+Responsable(s) : Céline HELBERT
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Le cours est divisé en deux parties. Dans une première partie nous présentons deux modèles classiques de la statistique appliquée : la régression linéaire et la régression logistique. L'estimation et la prédiction de ces modèles probabilistes seront abordées.
+
+La deuxième partie du cours sera dédiée à l'analyse statistique de résultats de simulation numérique. Nous présenterons le modèle de krigeage, les plans d'expériences adaptés et les techniques de quantification des incertitudes.
+Le but de ce cours est aussi d'assurer une formation à la mise en oeuvre pratique des modèles étudiés. Pour cela, une partie conséquente du cours est orientée vers la mise en oeuvre des différents modèles à l'aide du logiciel R.
+
+Mots-clés : Régression linéaire, plans d'expériences, régression logistique, krigeage, plans d'expériences numériques, Analyse de sensibilité, Optimisation bayésienne
+
+
+
+Programme	Chap 1 : Régression linéaire : modèle, estimation, prédiction, évaluation, sélection de modèle.
+Chap 2 : Plans d'expériences
+Chap 3 : Régression logistique
+Chap 4 : Krigeage
+Chap 5 : Plans d'expériences numérique
+Chap 6 : Analyse de sensibilité et optimisation bayésienne
+
+
+Compétences	◊ Savoir proposer un modèle probabiliste adapté à un contexte applicatif.
+◊ Savoir estimer et prédire le modèle probabiliste proposé.
+◊ Savoir choisir un plan d'expériences adapté au modèle à estimer
+
+◊ Savoir mettre en oeuvre les techniques de régression, de krigeage sur le logiciel R.
+
+
+
+Masters
+
+affiliés
+
+
+
+Bibliographie
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+Option MD/Filière MIR (fortement conseillé)
+Master mention "Mathématiques appliquées, statistique" (obligatoire)
+
+Master mention "Statistique et économétrie" (obligatoire)
+
+A. Antoniadis, J. Berruyer, R. Carmona. Regression non linéaire et applications. Economica, 1992.
+
+J.J. Droesbeke, J. Fine, G. Saporta. Plans d'expériences, application à l'entreprise. Technip, 1997. Rasmussen, Williams. Gaussian Processes for Machine learning. MIT Press, 2006.
+
+
+Examen final de 1h30.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+
+ AF MOD 2.4
+
+
+Les turbines pour la production d'énergie
+
+Power plant turbine technology
+
+Responsable(s) : Pierre DUQUESNE , Alexis GIAUQUE
+
+| Cours : 16 h | TD : 4 h | TP : 4 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+On s'intéressera dans ce cours aux différents types et assemblages de turbomachines utilisées pour la production d'énergie actuelle et future, en réseau ou locale. On analysera les différentes ressources, les types, géométries et dimensions de turbomachines associées et leur mode de fonctionnement.
+
+L'extraction directe de l'énergie contenue dans le vent (les éoliennes), dans les cours d'eau (les hydrauliennes) ou dans les chutes d'eau (les turbines hydrauliques) représente une part de cette production. Une autre partie provient d'assemblages de constituants (compresseurs, turbines et sources de chaleur) communément dénommés turbine à gaz ou turbine à vapeur, pouvant produire simultanément chaleur et énergie mécanique (ou électrique).
+
+Mots-clés : Production d'énergie, Turbines hydrauliques, Éolienne, Turbine à gaz, Turbine à vapeur
+
+
+
+Programme	- Turbines hydrauliques : géométries (turbines à action et à réaction, Francis, Kaplan, Pelton), échanges d'énergie (équation d'Euler), rendement, lois de similitude, phénomène de cavitation
+- Éoliennes : géométrie, taille, nombre de pales, puissance récupérable (loi de Betz), régulation.
+- Turbines à gaz : introduction à la production d'énergie à partir d'une source de chaleur, formes d'énergie échangée dans les différents composants (notions de travail utile et de variables d'arrêt), représentation graphique des transformations, description des composants.
+
+- Turbines à vapeur : cycle de Rankine, cycle de Hirn et améliorations ( resurchauffe, soutirage).
+
+Compétences◊ Comprendre la génération d'énergie à partir d'une turbomachine◊ Savoir dimemsionner une turbine hydraulique◊ Savoir dimensionner une éolienne◊ Savoir calculer un cycle de turbine à gaz et à vapeurSavoir expliquer le fonctionnement d'une turbine Pelton à partir du TP et illustrer l'analyseActivités /AutonomiedimensionnelleExamen écrit + rapport de TP (60% Examen (savoir) + 40% TP (savoir-faire)Contrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
+
+ AF MOD 2.6
+
+
+Reconnaissance et comportement des sols
+
+Soils survey and soils behaviour
+
+Responsable(s) : Eric VINCENS
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Tout aménagement est susceptible de perturber un équilibre naturel et ce risque doit pouvoir être évalué par une connaissance approfondie du site et des outils scientifiques adaptés.
+Ce cours a donc pour objectifs :
+- de donner aux étudiants les connaissances nécessaires pour définir et réaliser une campagne de reconnaissance des sols d'un site, cette reconnaissance sera complétée par des essais en laboratoire
+
+- de présenter les outils d'analyse permettant d'évaluer les risques d'instabilités de pentes naturelles ou construites par l'homme,
+
+- d'introduire des outils plus sophistiqués de modélisation de comportement de sols utilisés dans les grands bureaux d'études géotechniques.
+
+Mots-clés :
+
+
+
+ProgrammeReconnaissance des sols (essais in situ +laboratoire)Stabilité des pentes (statique +dynamique)Comportement expérimental des sols (argile +sables)Elastoplasticité appliquée au sol (modèle de Cam-Clay◊ maitriser les différents modèles géomécaniques et hydrauliquesCompétences◊ savoir analyser la stabilité des talus et pentes◊ comprendre le comportement des sols selon leur natureTP : "Reconnaissance visuelle des sols" accompagné de "Reconnaissance des sols argileux"Activités /AutonomieTP : "Essai de cisaillement sur sable" accompagné de "comportement des milieux saturés"Un compte-rendu est attendu à chaque foisBE : Analyse d'un cas d'étude (ouvrage hydraulique) avec mise ne application des modèles, essaiset reconnaissancesMaster de MécaniqueMastersaffiliésMaster de Génie CivilG. Olivari. Mécanique des sols. Polycopié ECL-SDEC, 0.BibliographieP. Mestat. De la rhéologie des sols à la modélisation des ouvrages géotechniques. 2000- Micro-tests sous la base de QCM (sans documents)Contrôle desconnaissances- TPs- Test de 2h sans documentsnote du MOD : 2/3*test + 1/3*(microtests+TPs)
+
+
+
+
+
+
+
+
+
+
+
+
+17
+
+ AF MOD 3.1
+
+
+Propagation des ondes élastiques
+
+Elastic Wave Propagation
+
+Responsable(s) : Louis JEZEQUEL, Sébastien BESSET
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Dans le domaine de la Vibro-acoustique, la maîtrise du comportement des structures se heurte à la difficulté d'utiliser la méthode des éléments finis. La vision ondulatoire apparaît alors indispensable et constitue la base de nombreuses méthodes d'analyse utilisées dans l'industrie. Sa mise en oeuvre dans le domaine des transports a permis d'optimiser le confort vibro-acoustique des véhicules. Dans le domaine du Génie Civil, le calcul du comportement vibro-acoustique des constructions a été rendu nécessaire par l'évolution de normes de sécurité et de confort. D'autre part, l'analyse ondulatoire des problèmes aéro-élastiques ou hydro-élastique met en évidence des phénomènes dynamiques majeurs comme les ondes de choc, le rayonnement et la transparence acoustique des structures.
+
+Mots-clés : Propagation, vibro-acoustique, rayonnement, sismique, milieux stratifiés, couplage fluide-structure, couplage sol-structure
+
+
+
+Programme	I - Introduction : Propagation d'un milieu mono-dimensionnel - Ondes harmoniques - Flux de puissance
+II - Analyse des ondes dans les solides : Propagation dans un espace fini - Propagation dans un demi-espace - Ondes dans les milieux stratifiés - Guide d'ondes - Cas des milieux périodiques
+III - Analyse vibro-acoustique : Comportement non-modal des structures - Formulation Intégrales des problèmes - Méthodes d'analyse énergétique - Analyse statique de problèmes dynamiques
+IV - Couplage sol-structure : Dynamique des fondations superficielles - Modélisation des fondations par pieux - Modèles de simulation numérique
+
+V - Couplage fluide-structure : Propagation dans les tuyauteries - Etude des coups de bélier -
+Transparence acoustique et rayonnement des parois
+
+Compétences◊ Comprendre les principaux phénomènes vibro-acoustiques◊ Maîtriser les échanges d'énergie vibratoire entre les milieux élastiques◊ S'initier aux outils de calculs vibro-acoustiques utilisés en conception mécanique◊ Comprendre les règles de dimensionnement parasismiqueApprendre et approfondir une partie du cours via une analyse bibliographique et une réflexion surActivités /Autonomieun problème d'application.Master MécaniqueMastersaffiliésMaster de Génie CivilMaster AcoustiqueA. Bedford & D.S. Drumheller. Introduction to elastic wave propagation. Wiley, 1994.BibliographieF.E. Richard, JR Hall & R.D. Woods. Vibrations of Soils and Foundation. Prentice Hall, 1970.James F. Doyle. Wave Propagation in Structures. Spectral Analysis using fast discrete Fouriertransforms - Second Edition. Springer, 1997.Bureaux d'étudeContrôle desconnaissancesTest
+
+
+
+
+
+
+18
+
+ AF MOD 3.2
+
+
+Apprentissage profond & Intelligence Artificielle : une introduction
+
+Deep Learning & Artificial Intelligence : an introduction
+
+Responsable(s) : Liming Chen, Emmanuel Dellandréa, Alberto Bosio
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+En permettant des percées jusqu'alors impensables dans un nombre croissant de domaines tels que la vision par ordinateur, la reconnaissance de la parole, la conduite autonome ou encore les jeux, l'apprentissage profond a révolutionné le domaine de l'intelligence artificielle devenue un des piliers majeurs de notre société. Dans ce cours, nous avons pour objectif d'introduire les concepts, les techniques et les outils de base de l'apprentissage profond.
+
+Mots-clés : Apprentissage profond, intelligence artificielle, apprentissage par renforcement, PyTorch.
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Activités /
+
+Autonomie
+
+
+
+Masters
+
+affiliés
+
+
+Bibliographie
+
+
+
+- Introduction à l'apprentissage automatique et à l'apprentissage profond
+- Classification/régression et descente du gradient
+- Graphes de calculs et rétro-propagation
+- Apprentissage de réseaux de neurones profonds
+- Réseaux de neurones convolutionnels (CNN)
+- Réseaux de neurones récurrents et LSTM
+- Séquence à séquence et attention
+- Apprentissage non-supervisé : auto-encodeurs profonds
+- Apprentissage par renforcement profond
+- Apprentissage profond embarqué
+
+◊ Comprendre les principes de l'apprentissage profond.
+◊ Maîtriser les techniques pour permettre la supervision des apprentissages.
+◊ Etre capable de mettre en oeuvre une approche d'apprentissage profond avec le framework PyTorch.
+
+Les principes de l'apprentissage profond introduits en cours seront mis en oeuvre lors des trois séances de BE en utilisant le framework PyTorch et une carte GPU pour les applications embarqués.
+
+Master Informatique de Lyon
+
+
+Ian Goodfellow, Yoshua Bengio, Aaron Courville. Deep Learning. MIT Press, 2016.
+
+
+Bert Moons, Daniel Bankman, Marian Verhelst. Embedded Deep Learning Algorithms, Architectures and Circuits for Always-on Neural Network Processing. Springer, 2019.
+
+Richard S. Sutton, Andrew G. Barto. Reinforcement Learning: An Introduction (2nd Edition). MIT Press, 2018.
+
+
+Contrôle des	50% savoir (examen écrit), 50% savoir-faire (évaluation des devoirs à rendre)
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+19
+
+ AF MOD 3.3
+
+
+Systèmes embarqués sécurisés
+
+Secure embedded systems
+
+Responsable(s) : Cedric Marchand, David Navarro
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Les systèmes électroniques embarqués sont partout aujourd'hui que ce soit dans nos poches, maisons ou voitures mais aussi dans l'industrie, l'aéronautique ou le spatial. De plus en plus de ces systèmes sont utilisés dans des applications où les données manipulées sont sensibles et nécessitent d'être protégées. L'avènement des objets connectés qui sont de plus en plus nombreux ont éveillé un intérêt particulier pour les problématiques de sécurité auprès du grand public. Au travers de ce cours, nous aborderons les principes de base de la sécurité ainsi que leur intégration dans les systèmes embarqués. Les attaques classiques ainsi que certaines contre-mesures seront présentées. Enfin, des domaines spécifiques tels que la contrefaçon ou la sécurité dans les systèmes RFID seront abordé.
+
+Mots-clés : Systèmes embarqués, sécurité, cryptographie
+
+
+
+Programme	Définition des notions de systèmes embarqués, de sécurité. Vue d'ensemble des enjeux et des risques.
+Introduction aux systèmes embarqués, microcontrôleur et FPGA.
+Introduction à la cryptographie
+Attaques et contre-mesures sur les systèmes d'information et sur les systèmes embarqués Composants et primitives de sécurité pour l'électronique.
+Domaine spécifique de la sécurité : la lutte contre la contrefaçon des produits électroniques
+Domaine d'application : La sécurité dans les systèmes RFID
+
+
+Compétences	◊ Appréhender les enjeux de la sécurité dans le domaine des systèmes embarqués
+◊ Identifier les faiblesses et les attaques possibles sur un système
+◊ Connaître les mécanismes de base de la sécurité
+◊ Proposer des solutions combinant plusieurs briques de bases permettant d'améliorer la sécurité d'un système
+
+Activités /BE : Programmation logicielle d'un système embarquéAutonomieTP1 : Programmation d'un algorithme de chiffrement standard (AES) sur cible embarquée STM32TP2 : Attaque de l'algorithme de chiffrement grâce aux canaux auxiliaire (Challenge)Master EEEA, parcours "systèmes embarqués"MastersaffiliésHans Delfs, Helmut Knebl. Introduction to Cryptography. Springer, 2002.BibliographieMohammad Tehranipoor, Cliff Wang. Introduction to Hardware Security and Trust. Springer, 2011.Lilian Bossuet, Lionel Torres. Foundations of Hardware IP Protection. Springer, 2017.70% savoir, 30% savoir-faireContrôle desconnaissances
+
+
+
+
+
+
+
+
+
+20
+
+ AF MOD 3.4
+
+
+Identification des systèmes et décomposition parcimonieuse des signaux
+
+System identification and sparse decompositions
+
+Responsable(s) : Julien HUILLERY, Laurent BAKO
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+La compréhension des phénomènes de la physique couplée à l'avancée des technologies de l'observation, les besoins d'analyse, de diagnostic et de commande des systèmes d'ingénierie font de plus en plus appel à la modélisation expérimentale. Ce travail de modélisation est un préalable à la synthèse de lois de commande des systèmes dynamiques ou à l'analyse et au traitement des signaux. L'objectif de l'enseignement est de donner des principes et des méthodes avancées de modélisation des signaux et des systèmes. L' " identification de systèmes " vise à associer un modèle mathématique à un système dynamique sur la base de données bruitées issues de capteurs. La " décomposition parcimonieuse de signaux " vise à une modélisation compacte d'un signal via sa décomposition dans un dictionnaire.
+
+Mots-clés : modélisation, identification de systèmes, estimation paramétrique, parcimonie, dictionnaire de signaux, représentations temps-fréquence, ondelettes, acquisition compressée, optimisation
+
+
+
+ProgrammePartie I : Identification de systèmesIntroduction à la modélisation des signaux et des systèmes : point de vue systèmesNotion de structure de modèle : définition et exemplesMéthodes d'estimation basées sur la minimisation de l'erreur de prédictionÉléments pour l'analyse : identifiabilité, persistance d'excitation, richesse fréquentielle d'un signalPropriétés asymptotiques des estimateurs: consistance, convergence en distributionPartie II : Décomposition parcimonieuse de signauxIntroduction à la modélisation des signaux et des systèmes : point de vue signalDécompositions parcimonieuses des signaux : principe et algorithmesDictionnaires de représentation : temps-fréquence et ondelettesAcquisition compressée : un nouveau paradigme pour la mesure◊ Comprendre les enjeux applicatifs de la modélisation des signaux et des systèmesCompétences◊ Construire et identifier un modèle de système à partir de mesures expérimentales◊ Connaître les bases usuelles de représentation des signaux◊ Obtenir une représentation parcimonieuse d'un signalLe cours magistral est suivi de 3 BEs de mise en œuvre sous Matlab/Simulink :Activités /AutonomieBE 1 : Mise en œuvre de méthodes d'identification sur un exempleBE 2 : Décompositions parcimonieuses de signauxBE 3 : Acquisition compresséeParcours "Génie des Systèmes Automatisés" (GSA) du Master EEEAMastersaffiliésParcours "Medical Imaging, Signals and Systems" (MISS) du Master IDSL. Ljung. System Identification: Theory for the User (2nd Edition). PTR Prentice Hall, 1999.BibliographieS. Mallat. A wavelet tour of signal processing, the sparse way. Academic Press, 2009.S. Boyd and L. Vandenberghe. Convex Optimization. Cambridge University Press, 2004.La note de l'AF est formée pour 50% de la note de savoir (examen écrit de 2h) et 50% de la noteContrôle desconnaissancesde savoir-faire (moyenne des notes obtenues aux 3 BEs)
+
+
+
+21
+
+ AF MOD 3.5
+
+
+Diagnostic et Sûreté de Fonctionnement
+
+Diagnosis and Health Monitoring
+
+Responsable(s) : Emmanuel BOUTLEUX
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Les systèmes innovants sont de plus en plus complexes. Dans le domaine de la mécatronique des véhicules automobiles, il est par exemple nécessaire de piloter des actionneurs par rapport à une stratégie de commande programmée dans un calculateur, qui réagit en fonction de mesures renvoyées par des capteurs. Dans le domaine aéronautique, on remplace, par exemple, les actionneurs hydrauliques par des actuateurs électriques avec une intelligence embarquée, afin d'obtenir des gains de poids et de flexibilité.
+
+La complexité sans cesse croissante des systèmes ne doit pas nuire à leur fiabilité. Il est donc nécessaire de surveiller un système dans son ensemble pour diagnostiquer l'apparition de défaillances et garantir sa sûreté de fonctionnement.
+
+Mots-clés : Diagnostic, sûreté de fonctionnement, automatique, identification, reconnaissance des formes, AMDEC, arbre de défaillance
+
+
+
+ProgrammeEnjeux du diagnostic automatiséMéthodes fonctionnelles d'analyse de défaillance (arbres de défaillances, AMDEC, ...)FiabilitéMéthodes de diagnostic :- à base de modèle- identification- analyse de résidus- à base d'intelligence artificielle- reconnaissance des formes- classification- règles de décisionPerspectives◊ Comprendre l'intérêt et la complexité des approches fonctionnellesCompétences◊ Saisir les enjeux et les difficultés de la sûreté de fonctionnement◊ Etre capable d'appliquer des méthodes de diagnostic par reconnaissance des formes◊ Savoir identifier un modèle physique et l'utiliser à des fins de diagnostic3 séances de BE de 4h à l'aide du logiciel Matlab (la maîtrise de ce logiciel est indispensable)-Activités /AutonomieGI, GSAMastersaffiliésBernard Dubuisson. Diagnostic, intelligence artificielle et reconnaissance des formes. HermèsBibliographieScience Publications, Collection : ic2 prod, 2001.Bernard Dubuisson. Diagnostic et reconnaissance des formes. Traité des nouvelles technologies.Série diagnosti, 1990.Alain Villemeur. Sûreté de fonctionnement des systèmes industriels. Edition Eyrolles, 1988.50% moyenne des 3 comptes-rendus de BE (savoir-faire)Contrôle desconnaissances50% examen final individuel (savoir)
+
+
+22
+
+ AF MOD 3.6
+
+
+Automatique Avancée
+
+Advanced Control
+
+Responsable(s) : Anton KORNIIENKO, Xavier BOMBOIS
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Les systèmes étant de plus en plus complexes, les cahiers des charges (CdC) serrés, la recherche du correcteur assurant le meilleur compromis entre des spécifications parfois contradictoires doit être vue comme un problème d'optimisation. La commande LQ/LQG est une solution efficace où le CdC est traduit sous la forme d'un critère représentant classiquement un compromis entre la performance dynamique et le coût pour l'atteindre. Supposant un modèle parfait du procédé, elle ne prend pas en compte les besoins actuels de robustesse. La commande H_infini, généralisation de la commande fréquentielle classique, permet de pallier à cela. Ces 2 approches sont présentées ici en soulevant leurs points forts et faibles sur des exemples permettant de s'approprier les outils de mise en œuvre.
+
+Mots-clés : Commande LQ/LQG, Commande H2, Commande robuste, Commande H infinie, Commande multivariable.
+
+
+
+Programme	Le cours commencera par un récapitulatif des méthodes classiques de commande et de leurs cahiers des charges. La méthode de synthèse LQ/LQG et sa généralisation (càd la commande H2) seront ensuite présentées. Nous nous intéresserons particulièrement aux spécifications additionnelles du cahier des charges qui peuvent être traitées avec cette méthode de commande ainsi qu'aux différentes manières de réaliser cette commande (approche entrée-sortie ou retour d'état avec observateur). Finalement, la deuxième méthode avancée de synthèse de correcteur (la commande Hinfinie) sera présentée. Cette méthode permet de considérer un cahier des charges similaire à la méthode LQ/LQG, mais peut également traiter les problèmes de robustesse liée à l'incertitude du modèle.
+
+
+Compétences	◊ Etre capable de spécifier un critère d'optimisation pour la commande LQ/LQG et la commande Hinfinie à partir d'un cahier des charges
+◊ Etre capable de synthétiser un correcteur en utilisant une méthode de commande avancée
+◊ Etre capable d'analyser la boucle fermée obtenue et sa performance
+
+Activités /3 séances de BEs :AutonomieBE1 : Commande LQ/LQGBE2 : Commande H_infiniBE3 : Synthèse LQ/LQG vs H_infiniMaster EEEA, Parcours Génie des Systèmes Automatisés (GSA)MastersaffiliésAlazard D., Cumer C., Apkarian P., Gauvrit M. et F. Robustesse et commande optimale.. CépaduèsBibliographieeditions, 1999.Kwakernaak H.. H2-Optimization - Theory and Applications to Robust Control Design. AnnualReviews in Control, 26 (1), pp. 45-56, 2002.Skogestad S. and Postlethwaite I.. Multivariable Feedback Control, Analysis and Design.. John Wileyand Sons Chischester, 2005.Examen final de 2h avec documents : 50%Contrôle desconnaissancesÉvaluation BE1 & BE2 & BE3 : 50%
+
+
+
+
+
+23
+
+ AF MOD 4.1
+
+
+Green Computing
+
+Green Computing
+
+Responsable(s) : Sébastien LE BEUX, Ian O'CONNOR
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Ce cours vise à étudier l'exécution d'applications sur les architectures de calcul des points de vue de la fonctionnalité, des performances et de l'efficacité énergétique. Dans ce contexte seront abordés les architectures matérielles parallèles (processeurs multi-cœur, machines SIMD), les ressources matérielles de communications (bus et réseau) ainsi que le déploiement efficace d'applications sur ces ressources matérielles : placement des tâches, partitionnement matériel/ logiciel et adéquation algorithme architecture. Les techniques d'estimation de la consommation énergétique seront présentées et permettront d'estimer le coût des accès mémoires, des calculs et des communications.
+
+Mots-clés : Consommation énergétique dans les systèmes électroniques numériques, Techniques faible consommation, Architectures de calcul parallèles, Déploiement des applications, Adéquation algorithme architecture
+
+
+
+
+Programme
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Activités /
+
+Autonomie
+
+
+
+Masters
+
+affiliés
+
+
+Bibliographie
+
+
+
+
+Principes du partitionnement matériel / logiciel et du dimensionnement des processeurs Architectures multi-cœur et programmation
+Stratégies de déploiement de tâches et de réduction de la consommation
+Coût énergétique de la communication inter-cœur ou du calcul distribué
+
+Estimation énergétique multi-niveau d'abstraction de l'exécution logicielle
+
+◊ Comprendre les enjeux et les origines de la consommation dans les architectures de calcul
+◊ Etre capable d'évaluer la consommation énergétique dans les processeurs
+◊ Etre capable d'optimiser la programmation d'algorithmes sur processeurs pour minimiser la consommation énergétique
+
+BE : analyse des supercalculateurs économes en énergie (green500.org)
+TP (2 séances de 4h) : programmation d'un filtre numérique audio sur processeur, optimisation de la consommation énergétique
+
+Master Electronique, Energie Electrique, Automatique (3EA)
+
+
+M.T. Schmitz et al. System-Level Design Techniques for Energy-Efficient Embedded Systems.
+Springer, 2004.
+
+T.D. Burd et al. Energy-efficient microprocessor design. Kluwer, 2002.
+
+
+
+Contrôle des	50% savoir, 50% savoir-faire
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24
+
+ AF MOD 4.2
+
+
+Energie Stockage-Conversion
+
+Energy, Storage, Conversion
+
+Responsable(s) : Guy STREMSDOERFER, Jean-Pierre CLOAREC
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+L'augmentation de la population mondiale, l'élargissement de la demande (2 milliards de personnes n'ont pas accès à l'électricité), ou l'augmentation de la demande (parc automobile passera de 400 millions à 1 milliard dès 2020), fait que la place et le rôle des énergies revêt une grande importance
+
+La matière " stocke différemment l'énergie". Cette réserve et densité énergétique disponible seront différentes selon les sources et interactions impliquées. Les cycles et procédés de la transformation permettant les conversions et échanges d'énergie seront étudiés en soulignant l'ingénierie liée aux énergies renouvelables (hydraulique, solaire, éolien, biomasse, géothermie). Ce module ouvert doit permettre d'avoir une meilleure vision des enjeux énergétique au regard des concepts scientifiques.
+
+Mots-clés : Interaction nucléaire, électromagnétique, gravitationnelle ; densité énergétique ; procédés de transformation ; conversion et échange d'énergie ; techniques de stockage.
+
+
+
+Programme	1-Les diverses conversions et hiérarchie des énergies (2H) G.Stremsdoerfer, JP. Cloarec 2- Transformation et stockage : Mécanique - Electrique (2H), F.Morel 3- Transformation et stockage : Chimique - Thermique (2H) J.M. Vignon
+4- Transformation et stockage : Chimique - Electrique (2H) G. Stremsdoerfer
+5- Transformation et stockage : Electrique - Magnétique (2H) D. Voyer
+6- Transformation et stockage : Nucleaire Thermique (2H) Y.Robach
+7- Transformation: Rayonnement - Electrique, (2H) E. Drouard
+
+8- Transformation et stockage : Biochimique-Thermique (2H) E. Laurenceau
+
+
+Compétences	◊ être capable de faire une analyse systémique d'un système énergétique
+◊ comprendre et formuler le problème lié à une conversion énergétique
+◊ identifier les interactions entre éléments (types de transformations, stockages, conversions)
+◊ travailler en groupe et présenter des solutions pour un problème énergétique
+
+Activités /BE: Le véhicule écologique : réalité ou utopie ? Etude d'un véhicule à air compriméAutonomieBE: Les différentes formes de Stockage et étude de dimensionnement d'un champ photovoltaïque3 BE : Restitution du travail à partir d'un choix de sujets ( 18-20 sujets proposés ou à proposer).Travail en autonomie par groupes de 2 ou 3.CEA. Memento sur l'énergie " Energy handbook ". CEA, 2015.Bibliographie2h de test (50%) + restitution travail en BE (50%)Contrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25
+
+ AF MOD 4.3
+
+
+Combustion pour la propulsion
+
+Combustion
+
+Responsable(s) : Mikhael GOROKHOVSKI, Alexis GIAUQUE
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Ce cours a pour objectif d'appréhender les phénomènes de combustion dans les milieux gazeux. Les domaines d'application vont de la production d'énergie à l'étude des risques d'incendie. Un point particulier est la pollution par les gaz de combustion. Ce cours s'appuie sur des connaissances de base en thermodynamique classique et chimique, qui seront complétées par les éléments nécessaires de cinétique chimique. Il constitue aussi une extension aux milieux réactifs des notions de mécanique des fluides, support des équations locales de conservation. Très globalement, l'étude de la combustion peut être abordée à différents niveaux, le minimum étant l'aspect énergétique global, indispensable pour appréhender l'énergétique industrielle. Les autres aspects sont très synthétiques, et la théorie d
+
+Mots-clés : Combustion, Mécanique, Inflammation, Diffusion, Mélange, Sprays, Cinétique, Énergétique
+
+
+
+Programme	I - Thermodynamique chimique. Température adiabatique de flamme. Équilibres chimiques
+II - Taux de réaction chimique Mécanismes cinétiques de la combustion. Température d'inflammation et limites d'inflammabilité.
+
+III - Rappel des équations de conservation des systèmes réactifs : Diffusion, Énergie et Bilan dynamique dans le milieu fluide en mouvement.
+
+IV - Combustion en systèmes homogènes et explosions.
+V - Flammes de prémélange. Onde de détonation. Flammes laminaires
+VI - Flammes de diffusion. Modèles des flammes laminaires de diffusion. Flammes turbulentes et stabilisation de la combustion.
+
+VIII - Combustion des sprays. Combustion d'une goutte. Milieu diphasique.
+IX - Nouvelles tendances dans la combustion industrielle. Oxy-combustion, Combustion " verte ", Recirculation des gaz
+
+
+Compétences	◊ Savoir faire les bilans massiques et énergétiques des combustions pratiques
+◊ Savoir exprimer les termes de cinétiques dans les équations de bilan locales de mécanique des fluides, et des hypothèses simplificatrices.
+
+◊ Connaitre les particularité des flammes turbulentes, de diffusion et de prémélange.
+
+
+
+Masters
+
+affiliés
+
+
+Bibliographie
+
+
+
+
+
+Contrôle des connaissances
+
+
+Master MEGA Thermique et énergétique
+Options Energie, Transport et Trafic, Aéronautique.
+
+R. BORGHI et M. DESTRIAU. La combustion et les flammes. Editions Technip, 1995.
+
+K.K. KUO. Principles of Combustion. Wiley-Interscience Publication, 2005.
+
+I. GLASSMAN & RA. YETTER. Combustion. Elsevier, 2008.
+
+
+Examen de deux heures en fin de module (savoir)
+Compte-rendus de bureau d'études (savoir faire)
+
+Note globale = 50%Savoir = 50 % Savoir faire
+
+
+
+
+
+
+
+
+
+
+26
+
+ AF MOD 4.4
+
+
+Recherche opérationnelle
+
+Opertations Research
+
+Responsable(s) : Abdelmalek ZINE, Alexandre SAIDI
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+L'objectif de ce cours est de donner aux élèves les méthodes et outils leur permettant à la fois de savoir poser mathématiquement un problème d'optimisation combinatoire à variables continues ou discrètes et de savoir identifier les outils adéquats pour sa résolution (algorithmes d'optimisation).
+Ce cours sera illustré par de nombreux cas concrets issus de l'ingénierie.
+Ainsi, notre but est de faire découvrir aux futurs ingénieurs l'attitude d'esprit qu'ils doivent adopter devant tout problème réel, donc complexe.
+
+Mots-clés : Recherche opérationnelle, optimisation combinatoire, optimisation continue, optimisation discrète, aide à la décision, résolution de contraintes, théorie des graphes, complexité, problèmes NP-difficiles, algorithmes
+
+
+
+Programme	Partie I : présentation de la recherche opérationnelle.
+Les problèmes d'Optimisation et de Recherche Opérationnelle Savoir poser un problème, le formaliser Théorie de la complexité, classes de complexité
+
+Partie II : Résolution de problèmes à variable continues (A. Zine) Optimisation sans contraintes et algorithmes Optimisation avec contraintes et algorithmes Programmation linéaire et algorithme du simplexe
+
+Partie III : Résolution de problèmes à variables discrètes (A. Saidi)
+Algorithmes polynomiaux, d'approximation
+Algorithmes de graphes (plus court chemin et flots maximums), Programmation Dynamique
+Heuristiques et méta-heuristiques
+
+Programmation par contraintes
+
+
+Compétences	◊ Modéliser mathématiquement des problèmes d'optimisation
+◊ Créer des algorithmes et résoudre numériquement des problèmes d'optimisation
+◊ Maîtriser la complexité combinatoire des problèmes d'optimisation
+◊ Choisir un algorithme de résolution approprié, Savoir spécifier une solution ("Programmation
+Mathématique")
+
+Activités /Modélisation et résolution de problèmes d'optimisation par systèmes linéaires et par systèmes deAutonomiesatisfaction de contraintes (BEs). Prise en compte de la complexité des problèmes combinatoires.Master GIMastersaffiliésToutes les options sont concernées par ce coursCh-E. Bichot et P. Siarry. Partitionnement de graphe. Hermes, 2010.BibliographieP. Venkataraman. Applied Optimization with Matlab. Wiley, 2009.A. Billionnet. Optimisation discrète : De la modélisation à la résolution par des logiciels deprogrammation mathématique. Dunod, 2006.Examen écrit de 2 heures et comptes rendus des BEContrôle desconnaissances
+
+
+27
+
+ AF MOD 4.5
+
+
+Analyse des assemblages : géométrie et architecture
+
+Mechanical assembly: architecture and geometry analyses
+
+Responsable(s) : Bertrand HOUX, Didier LACOUR
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Présenter les méthodes et outils d'analyse de la qualité géométrique des assemblages.
+La maîtrise de l'architecture et de la géométrie des assemblages est un objectif industriel majeur. La qualité géométrique des pièces, l'architecture des assemblages peuvent avoir des répercussions directes sur la capacité d'assemblage du produit, mais aussi sur les prestations qu'il doit assurer.
+
+Ce cours présente les méthodes modernes de simulation des assemblages en intégrant les défauts géométriques de leurs composants. Il identifie ainsi les concepts théoriques sur lesquelles ces méthodes se basent, afin de comprendre leurs domaines d'application et leurs limites.
+
+Mots-clés : assemblage, architecture, spécifications géometriques, normes ISO GPS, tolerancement, métrologie, analyse d'influences, simulation assemblage, statistique
+
+
+
+
+Programme
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Masters
+
+affiliés
+
+
+Bibliographie
+
+
+
+
+Quantification des spécifications et analyse de leurs influences sur l'assemblage (sensibilités) par
+torseurs de petits déplacements.
+Approches statistiques, Monte-Carlo.
+Méthodes de spécifications géométriques, matrice GPS (Geometrical Product Specification).
+
+Algorithmes utilisés en métrologie tridimensionnelle (méthodes numériques d'association).
+
+◊ connaitre les méthodes et outils d'analyse de la qualité géométrique des assemblages.
+◊ écrire et interpréter des spécifications géomètriques normalisées.
+◊ analyser les influences et contributions sur un modèle concret.
+◊ établir et mettre en oeuvre une stratégie de controle tridimensionnelle.
+
+Aéronautique et Espace
+
+
+Anselmetti B.. Tolérancement - Volumes 1 a 4. Hermès - Lavoisier, 2010.
+
+Charpentier F.. Mémento de spécification géométrique des produits - Les normes ISO-GPS. AFNOR, 2015.
+
+Bourdet P. & Mathieu L.. Tolérancement et métrologie dimensionnelle. Cetim, 1999.
+
+
+
+Contrôle des	Note finale = 0,6 x Note d'examen écrit de 2 heures (savoir) + 0,4 x Note de BE (savoir faire)
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28
+
+ AF MOD 4.6
+
+
+Systèmes de bases de données
+
+Database systems
+
+Responsable(s) : Liming CHEN
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Les bases de données sont au cœur de tout système d'information aujourd'hui omniprésent dans notre vie quotidienne (travail, organisation, web, etc.). Ce cours a pour objectif d'étudier les principes de programmation de bases de données relationnelles et semi-structurées qui sont les fondements de toute application dans les divers systèmes d'information. Il aborde aussi des aspects d'implémentation de systèmes de bases de données comme le contrôle de concurrence ou encore l'optimisation de requêtes.
+
+Mots-clés : bases de données, modélisation de données structurées ou non, stockage et accès de données, langages relationnels, contrôle de concurrence, optimisation de requêtes, contraintes d'intégrité
+
+
+
+Programme	Introduction (Modèle relationnel, schémas, SQL, modèle semistructuré, XML)
+Modèles de données (entité/association, relationnel, objet)
+Langages relationnels (Algèbre relationnelle, SQL, Datalog)
+Programmation SQL (PL/SQL, Embedded SQL)
+Applications web et bases de données (JDBC, PHP)
+XML Xpath-Xquery-xslt
+Contrôle de concurrence
+Optimisation de requêtes
+- contraintes d'intégrité
+- Olap et Data-mining
+
+
+Compétences	◊ être capable de comprendre les composantes majeures d'un système d'information;
+◊ mettre en oeuvre des techniques fondamentales pour développer un système d'information et ses applications
+
+Activités /Trois BEs sont prévus pour mettre en place une base de données, extraire des données à traversAutonomieSQL et développer un système d'information Web pour une application de gestion particulière.Master d'InformatiqueMastersaffiliésH.Garcia-Molina, J.D.Ullman, J.Widom. Database systems: the complete book. Pearson PrenticeBibliographieHall, 2002.Georges Gardarin. Bases de données (http://georges.gardarin.free.fr/Livre_BD_Contenu/XX-TotalBD.pdf). Eyrolles, 2003.40% savoir, 60% savoir faireContrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+29
+
+ AF MOD 5.1
+
+
+Physiologie humaine et biotechnologies
+
+Human physiology and biotechnology
+
+Responsable(s) : Emmanuelle LAURENCEAU
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+L'objectif est de mettre à niveau les connaissances de base en physiologie et de permettre la compréhension des mécanismes de communication et de régulation de l'organisme. L'intégration entre les différentes fonctions sera abordée
+à partir d'exemples concrets pour les applications biomédicales en s'appuyant sur l'étude de systèmes tels que les systèmes cardiovasculaire et immunitaire. Une seconde partie permettra d'approcher le fonctionnement d'une cellule vivante dans son milieu naturel et d'appréhender les potentialités des cellules et des biomolécules qui les composent dans les secteurs de la santé. L'accent sera mis sur le lien entre structure, environnement et aptitude à remplir une fonction biologique. Le cours sera illustré par les développements de la biologie moléculaire.
+
+Mots-clés : Cellules, biologie moléculaire, systèmes immunitaire et cardiovasculaire, applications biomédicales
+
+
+
+Programme	Organisation de la cellule vivante
+Organisation du corps humain : Systèmes cardio-vasculaire, immunitaire
+Mécanismes biologiques fondamentaux
+Les cellules dans leur environnement
+TP : Analyse de cellules par microscopie optique et croissance cellulaire
+BE : Pharmacologie
+
+BE : Analyse de la fonction cardiaque par imagerie
+
+
+Compétences	◊ Connaitre les bases en biologie cellulaire et moléculaire
+◊ Comprendre le fonctionnement du corps humain et les relations structure-fonction biologique
+◊ Appréhender les enjeux dans le secteur de la santé
+◊ Appliquer les connaissances à la résolution d'une problématique
+
+Activités /approfondir le cours sur le système cardio-vasculaire et la pharmaco-cinétiqueAutonomieMaster Ingénierie de la Santé (IdS)MastersaffiliésMOD obligatoire pour l'option BIN Filière BIOAlberts Bruce M. (Collab.) Johnson Alexander (Coll. Biologie moléculaire de la cellule. FlammarionBibliographieMédecine-Sciences, 2004.Étienne Jacqueline. Biochimie génétique, biologie moléculaire. Masson, 2006.Silverthorn Dee Unglaub. Physiologie humaine. Pearson education, 2007.Evaluations TP et BE, examen finalContrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+30
+
+ AF MOD 5.2
+
+
+Aléas et hétérogénéités dans les structures
+
+Uncertainties and heterogeneities in real structures
+
+Responsable(s) : Francesco FROIIO, Eric VINCENS
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Le TC de Mécanique des Solides envisage les matériaux constitutifs des structures comme des matériaux homogènes dont les caractéristiques mécaniques et physiques possèdent une valeur déterministe. Les actions ont été aussi envisagées comme étant des actions déterministes pour le dimensionnement des sections.
+
+Or, les structures réelles sont souvent sujettes à des actions, qui par nature sont aléatoires, et fabriquées selon des procédés induisant une certaine variabilité des propriétés. Nous verrons dans ce cours comment prendre en compte cette réalité complexe dans une démarche de dimensionnement qui se doit de rester simple pour l'ingénieur.
+
+Mots-clés : Dimensionnement des structures, méthode semi-probabiliste; Eurocodes, sections hétérogènes, béton armé
+
+
+
+Programme	Lors de ce cours nous aborderons :
+- la caractérisation statistique des sollicitations, des matériaux dans les modèles mécaniques, introduction à la fiabilité des structures, facteurs partiels de sécurité
+
+- compléments de mécanique des structures
+- sections hétérogènes et approche spécifique de leur dimensionnement, calcul à la rupture
+
+
+Compétences	◊ Identifer les aléas de chargement et les incertitudes liées aux matériaux et aux modèles dans une structure réelle (ex. ossature de bâtiment)
+◊ Appliquer la démarche générale prévue par les Eurocodes (approche semi-probabiliste)
+◊ Appliquer les méthodes de calcul usuelles permettant l'evaluation des sollicitations dans une structure réelle
+
+◊ Dimensionner un élément de structure ayant une section hétérogène, selon la méthode du calcul à la rupture
+
+
+
+Activités /
+
+Autonomie
+
+
+
+Masters
+
+affiliés
+
+
+Bibliographie
+
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+BE1 : Calculs des actions climatiques sur une structure réelle
+BE2 : Calculs des sollicitations dans un plancher de bâtiment en béton armé
+
+BE3 : Dimensionnement d'un plancher de bâtiment en béton armé
+
+Master de Génie Civil
+
+
+J.-A. Calgaro. Introduction aux Eurocodes : sécurité des constructions et bases de la théorie de la fiabilité. Presses de l'École Nationale des Ponts et Chaussée, 1999.
+
+R. Park, T. Paulay. Reinforced concrete structures. John Wiley & Sons, 1975.
+
+Y. Sieffert. Le béton armé selon les Eurocodes 2. Dunod, 2010.
+
+
+Elle sera faite sur la base de :
+- un compte rendu du BE 1 (coefficient 1/3)
+- un test final sans dcouments (coefficient 2/3)
+
+
+
+
+
+
+
+
+
+
+31
+
+ AF MOD 5.3
+
+
+Traitement et analyse des données visuelles et sonores
+
+Processing and analysing of visual and audio data
+
+Responsable(s) : Mohsen ARDABILIAN, Emmanuel DELLANDREA
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Les images et les données sonores font partie de notre quotidien, mais aussi produites en masse dans de nombreux secteurs industriels. Ces signaux particulièrement riches en information doivent être compris et maîtrisés par des algorithmes d'analyse pour en définir les parties utiles. Cette tâche d'analyse peut être aussi simple que la lecture des barre-codes ou aussi sophistiquée que l'identification d'une personne et de son affect à partir de son visage ou de sa voix. Ce cours présente les algorithmes et les outils d'analyse permettant l'extraction d'informations sémantiques et utiles, exploitées dans des applications réelles. Cette démarche est utilisée dans de nombreux domaines comme robotique, médecine, sécurité, vision industrielle, internet, audiovisuel, véhicule intelligent etc
+
+Mots-clés : Analyse d'image, analyse de vidéo, analyse audio, caractéristique, descripteur, forme, couleur, texture, classification, reconnaissance, fusion tardive, fusion précoce, représentation parsemé, traitement d'image, super résolution, big data
+
+
+
+Programme	Recherche d'image et de son par le contenu
+Evaluation des approches d'analyse et de traitements d'images et de son
+Algorithmes de traitement d'images, super résolution
+Algorithme de traitement audio
+Algorithmes d'analyse d'images et de son, de bout en bout
+Applications traitées :
+- Reconnaissance d'objets, de personne
+- Structuration de la vidéo
+- Reconnaissance d'image
+- Reconnaissance sonore
+
+
+Compétences	◊ Etre capable d'appliquer les algorithmes de traitement adéquats à un contexte donné
+◊ Etre capable d'appliquer les algorithmes d'analyse adéquats à un contexte donné
+◊ Evaluer des algorithmes ou des systèmes de traitement et d'analyse
+◊ Connaître des algorithmes de traitement et analyse de l'état de l'art, ainsi que leurs principes
+
+
+Masters	Master 2 de recherche Informatique de Lyon
+
+affiliés
+
+
+Bibliographie	A. Divakaran. Multimedia Content Analysis: Theory and Applications.. Springer, 2008.
+
+R. Szeliski. Computer Vision -- Algorithms and Applications. Springer, 2010.
+
+R. O. Duda, P. E. Hart & D. G. Stork,. Pattern Classification. Wiley Interscience, 2004.
+
+
+Contrôle des	Test final et note de BE
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+32
+
+ AF MOD 5.4
+
+
+Matériaux de construction
+
+Construction materials
+
+Responsable(s) : Eric VINCENS
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+L'objectif de ce cours est de présenter les matériaux essentiels de construction, leur mode de fabrication ou de production, ainsi que leur caractérisation. Nous expliciterons leur comportement mécanique justifiant leur domaine d'emploi et donnerons à chaque fois des critères de choix en lien avec des problèmes de durabilité.
+
+Mots-clés : granulat, bitumes, ciment, béton, bois, acier, terre, pierre
+
+
+
+Programme	Nous aborderons tour à tour les matériaux suivants :
+- Granulats
+- Produits noirs : bitume, émulsions de bitumes...
+- Liants hydrauliques : ciments, plâtre, chaux
+- Bétons : normaux, hautes ou très hautes performances, fibrés, autoplaçants....
+- Bois
+- Acier de construction
+- Matériaux premiers : terre et pierre sèche
+
+L'emploi de ces matériaux sera replacé dans son contexte industriel et normatif, on insistera sur l'action de l'environnement qui tend à altérer ou modifier leurs propriétés tant physiques que mécaniques.
+
+Compétences◊ savoir idenftifier et caractériser les matériaux◊ connaître les problèmes de durabilité des matériaux dans leur environnementTP de 2*2h :Activités /Autonomie- réalisation d'une courbe granulométrique par tamisage et sédimentométrie- activité des sols en remblai : essai au Bleu de Méthylène.Master de Génie CivilMastersaffiliésG. Dreux. Nouveau guide du béton et de ses constituants. Eyrolles, 1998.BibliographieH. di Benedetto. Matériaux routiers bitumeux 1 : Description et propriétés des constituants.Lavoisier, 2004.JP. Ollivier, JM. Torrenti, M. Carcassès. Propriétés physiques du béton et de ses constituants.Lavoisier, 2012.- Microtests (QCM) sans documentsContrôle desconnaissances- TPs- Test final sous forme de QCM sans documentsNote finale = 2/3 test final +1/3 activités de (microtests+TP)
+
+
+
+
+
+
+
+
+
+
+33
+
+ AF MOD 5.5
+
+
+Tribologie : principes et applications
+
+Tribology
+
+Responsable(s) : Denis MAZUYER
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Bien que présente depuis longtemps dans notre vie quotidienne, la tribologie est une discipline scientifique récente traitant du frottement, de l'usure et de la lubrification. Si les structures sont souvent bien dimensionnées, les surfaces constituent une butée technologique dans la prédiction de leur endommagement. La prise en compte des phénomènes tribologiques devient un passage obligé dans de nombreux secteurs industriels pour répondre aux enjeux technologiques et économiques (production et maîtrise de l'énergie, fiabilisation des produits). Grâce à une approche interdisciplinaire couplant mécanique, science des matériaux et des surfaces, ce cours donne les principes généraux de la tribologie et leurs applications pour le diagnostic et la résolution de problèmes concrets.
+
+Mots-clés : Frottement, Lubrification, Usure, Adhésion, Surfaces, Contact
+
+
+
+Programme	La mécanique du contact statique
+- Mécanique du contact lisse et rugueux
+- Effet des couches minces
+Les lois macroscopiques de frottement et d'usure
+- Frottements statique et dynamique
+- Les mécanismes physiques de l'usure
+Les lubrifiants et les surfaces
+- Adhésion entre surfaces et mécanique du contact adhésif
+- Structure, propriétés des lubrifiants et additifs de lubrification La lubrification fluide
+
+- La lubrification hydrodynamique : principes physiques, notion de portance
+- La lubrification élastohydrodynamique : formation des films lubrifiants sous haute pression La lubrification limite
+
+- Le contrôle du frottement et la réduction de l'usure
+- La lubrification moléculaire et nanotribologie
+
+Compétences◊ Mise en oeuvre de méthodes d'expertises et de résolution de problèmes trilogiques◊ Compréhension fondamentale des phénomènes de contact impliquant des surfaces enmouvement.2 TP : démarche expérimentale en tribologie, caractérisation d'un contact élastohydrodynamiqueActivités /Autonomieavec une approche expérimentale et numérique1 BE : Simulation numérique des contacts soumis à des sollicitations tribologiques : application aucontact came/poussoirMaster OIVMastersaffiliésMaster mécanique - parcours Tribologie et Ingénierie des SurfacesG.W. Stachowiak and A. Batchelor. Engineering Tribology. Butterworth-Heinemann, 2013.BibliographieF.P. Bowden and D. Tabor. Friction and Lubrication of Solids. Oxford University Press, 1954.J.M. Georges. Frottement, Usure et Lubrification. CNRS Editions, Eyrolles, 2000.Examen écrit de 2 heures (Coeff. 2/3)Contrôle desconnaissancesEvaluation des comptes-rendus de TP et BE (Coeff. 1/3)
+
+
+34
+
+ AF MOD 5.6
+
+
+Aerodynamique externe
+
+External aerodynamics
+
+Responsable(s) : Julian SCOTT, Jérôme BOUDET
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Comprendre et décrire les forces (portance et traînée) induites par un écoulement sur un corps.
+Identifier les paramètres de conception associés.
+Formuler et appliquer des modèles d'écoulement utilisables en aérodynamique.
+Estimer la précision de la prédiction issue des modèles, du point de vue d'un concepteur.
+
+Mots-clés : Aérodynamique, Portance, Traînée, Aéronautique, Aéronefs, Surfaces portantes.
+
+
+
+Programme	1. Dynamique du vol. Pilotage et surfaces de contrôle. Équilibre longitudinal. Stabilité du vol.
+2. Conception bidimensionnelle d'une aile. Eléments essentiels de la théorie du profil d'aile. Cas particulier d'un profil mince. Modèles : méthodes potentielle, des panneaux.
+
+3. Portance et effets 3D. Lien portance / circulation et ses conséquences pour les écoulements 3D. Cas particulier de l'aile elliptique et généralisation. Modèles : théories de la surface et de la ligne portantes.
+
+4. Contrôle de la traînée. Couches limites laminaires et turbulentes. Paramètres d'influence sur la transition. Composantes de traînée sur un aéronef.
+
+5. Effets de la compressibilité. Nombre de Mach, ondes de choc. Profils transoniques et supersoniques. Modèles : théories de Prandtl-Glauert et d'Ackeret.
+
+
+Compétences	◊ Comprendre les principes élémentaires du vol d'un aéronef.
+◊ Exploiter les modèles de base de l'aérodynamique.
+◊ Pré-dimensionner une surface portante en aérodynamique.
+
+
+
+Activités /
+
+Autonomie
+
+
+
+Masters
+
+affiliés
+
+
+Bibliographie
+
+
+
+
+
+Contrôle des connaissances
+
+
+TP : étude en soufflerie d'un profil d'aile, et comparaison à des simulations.
+BE : modélisations élémentaires d'un avion : illustrations.
+
+BE : conception géométrique d'un profil d'aile répondant à un cahier des charges donné.
+
+Master Aéronautique et Espace.
+Master Mécanique (parcours mécanique des fluides et énergétique).
+
+E.L. Houghton, P.W. Carpenter. Aerodynamics for Engineering Student. Butterworth-Heinemann, 2003.
+
+D.P. Raymer. Aircraft Design: A Conceptual Approach. AIAA, 2012.
+
+B.W. McCormick. Aerodynamics, Aeronautics and Flight Mechanics. Wiley, 1994.
+
+
+Contrôle écrit (55%, savoir).
+Participation et comptes-rendus des séances BE et TP (45%, savoir faire).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35
+
+ AF MOD 6.1
+
+
+Nanotechnologies
+
+Nanotechnologies
+
+Responsable(s) : Magali PHANER-GOUTORBE, Virginie MONNIER
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Les nanosciences et nanotechnologies traitent de la compréhension des propriétés spécifiques de structures à l'échelle nanométrique, ainsi que de l'élaboration et de la caractérisation de ces nanostructures. Les nanotechnologies permettent de repousser les limites de la miniaturisation et d'engendrer de nouvelles applications et de nouvelles fonctionnalités en micro- et optoélectronique, en science des matériaux, en biologie, en médecine, en énergie et environnement. Ce cours présentera les propriétés spécifiques des nanostructures et nanomatériaux, ainsi que les outils d'observation et d'élaboration à l'échelle nanométrique. Il mettra l'accent sur les réalisations technologiques déjà existantes ou susceptibles d'émerger dans un avenir proche.
+
+Mots-clés : Physique des systèmes de faible dimensionnalité, Microscopies champ proche, Nanolithographie, Nanomatériaux, Nanoélectronique, Nanobiotechnologies, Nanotechnologie pour l'énergie et l'environnement
+
+
+
+ProgrammeIntroduction aux nanosciences et nanotechnologies.Applications des nanotechnologies dans les objets de tous les jours et de demain (smartphone,nanorobot, nanocapsule médicale...)Techniques d'observation et de caractérisation des nanostructures.Procédés de fabrication nanolithographie.Nanomatériaux, nanofils et nanoparticules.Nanoélectronique, électronique moléculaire, transistor à un électron.Nanobiotechnologies : biopuces à ADN et à protéines, auto-assemblage et biologie, structuresbiomimétiques.Nanotechnologie pour l'énergie et l'environnementBE nanoparticules magnétiques - stockage de données et applications biomédicalesTP Microscopie à Force Atomique◊ Maîtriser les enjeux des nanotechnologies dans les domaines des technologies de l'information,Compétencesdes matériaux, de la médecine,de l'énergie et de l'environnement.◊ Comprendre les phénomènes physiques des structures de faible dimensionnalité◊ Réfléchir aux développements futurs des nanotechnologiesApprofondissement d'une partie du coursActivités /AutonomieÉtudes spécifiques d'objets utilisant les nanos, travail en groupeExposésEquivalence possible pour le master NSE et lien très fort avec les masters MISTE et EEEAMastersaffiliésRecommandé pour l'option BINM. LAHMANI, C. BRECHIGNAC, P. HOUDY. Les nanosciences. Tome 1: Nanotechnologies etBibliographienanophysique. Editions Belin, 2004.M. LAHMANI, C. BRECHIGNAC, P. HOUDY. Les nanosciences. Tome 2: Nanomatériaux etnanochimie. Editions Belin, 2006.M. LAHMANI, C. BRECHIGNAC, P. HOUDY. Les nanosciences. Tome 3: Nanobiotechnologies etnanobiologie. Editions Belin, 2007.Évaluation de l'activité pratique.Contrôle desconnaissancesÉvaluation en BE.
+
+
+36
+
+ AF MOD 6.2
+
+
+Matière molle : nanosystèmes et interfaces biologiques
+
+
+Responsable(s) : Denis MAZUYER
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+De nombreux systèmes moléculaires complexes sont utilisés, en très faible concentration pour contrôler les fonctionnalités des produits (cristaux liquides, cosmétiques, peintures, aliments) en donnant une réponse très forte à un signal de commande très faible. Ces technologies font appel à un fort état de division de la matière qui conduit à la création de grandes interfaces. À ces échelles, les équilibres des forces prévalant au niveau macroscopique sont bouleversés et les forces de surface interviennent directement dans la physique des nano-systèmes. Le but est ici de présenter les processus fondamentaux régissant la dynamique de cet état particulier de la matière et d'identifier le comportement d'objets courants (savons, polymères,...) en vue de leur utilisation/conception/fabrication.
+
+Mots-clés : Mouillage, capillarité, adhésion, rhéologie,colloïdes, biotechnologies
+
+
+
+Programme1. L'état colloïdalDéfinition, classification et propriétés physico-chimiques des systèmes colloïdauxSystèmes moléculaires organisés (de l'agrégat micellaire aux cristaux liquides ordonnés) etstabilitéCapillarité et mouillage : ménisques et dynamique d'étalement de gouttes2. Solutions de polymèresConfigurations des polymères dissousPolymères aux interfaces : Adsorption, greffage, stabilisation stérique3.Transports des milieux colloïdauxIntroduction à la rhéologie expérimentaleÉcoulement des solutions concentrées et interactions colloïdalesRhéologie des suspensions4. Dispersions colloïdales et applications bio-médicalesLes biofluides et les tissus biologiquesColloïdes en diagnostic et biotechnologie.P.-G. de Gennes, F. Brochard, D. Quéré,. Gouttes, perles et ondes. Belin, 2001.BibliographieP. Coussot, Ph. Ancey,. Rhéophysique des pâtes et des suspensions. EDP Sciences, 2000.D. Tabor. Gases, Liquids and Solids and Other States of Matter. Third edition, CambridgeUniversity Press, 1991.Analyse critique d'un article scientifique : restitution orale et écrite (coeff. 2/3)Contrôle desconnaissancesComptes rendus des activités partiques (coeff. 1/3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37
+
+ AF MOD 6.3
+
+
+Durabilité des matériaux et des structures
+
+Durability of materials and structures
+
+Responsable(s) : Bruno BERTHEL, Michelle SALVIA
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+La recherche de systèmes performants, fiables et à sécurité accrue, passe par une bonne prise en compte des mécanismes d'endommagement des matériaux et des structures. Ce cours vise à fournir les outils permettant d'estimer la durée de vie de pièces sous sollicitation mécanique avec prise en compte de l'environnement, essentiellement appliqués au domaine des transports. Chaque famille de matériaux (métaux, polymères, composites, ...) possédant des modes de ruines différents, nous aborderons pour chacune d'elle leurs propres mécanismes d'endommagement en lien avec leurs modélisations. Nous aborderons des aspects théorique (mécanique de la rupture, critères de fatigue, ...) mais aussi pratique (fractographie, émission acoustique, ...).
+
+Mots-clés : Fatigue, Mécanique de la rupture, Eléments finis, Fractographie, Emission acoustique.
+
+
+
+Programme	Mécanique de la rupture : aspects matériaux, description d'un champ de contrainte autour d'une fissure et critères énergétiques.
+Fatigue des matériaux : les différents domaines de durée de vie, paramètres influençant la tenue en fatigue, règles de dimensionnement et loi de propagation de fissure. Fatigue multiaxiale : définition et les différentes familles de critères multiaxiaux.
+Spécificités des matériaux polymères et composites.
+BE d'analyse fractographique : analyse morphologique des faciès de rupture de plusieurs pièces rompues en fonctionnement et reconstruction du scénario qui a engendré la rupture. TP sur l'utilisation de l'émission acoustique pour la protection de structures composites.
+
+TP sur l'utilisation dans un code de calcul par éléments finis de critères de rupture.
+
+
+Compétences	◊ Identifier les différents modes d'endommagement et de rupture des matériaux utilisé dans le domaine des transports et savoir analyser un faciès de rupture.
+◊ Maitriser les bases de la mécanique de la rupture et de la fatigue des matériaux. Savoir utiliser les outils prédictifs de durée de vie en fatigue multiaxiale.
+
+◊ Connaitre les spécificités des matériaux composites et avoir des notions sur la surveillance de l'état des structures (notamment en l'émission acoustique).
+
+◊ Utiliser des connaissances acquises pour analyser un problème de recherche et en faire une analyse critique.
+
+Activités /L'autonomie permet aux élèves de préparer les enseignements pratiques, rédiger le rapport etAutonomied'analyser un article scientifique. Travail en groupe. Lecture d'articles scientifiques.Option Aéronautique du S9 : dans la liste du MOD parmi les 5 obligatoireMastersaffiliésMaster Aéronautique et Espace: obligatoire pour l'option de M2 " Dynamique et Durabilité desComposites (DDC) ".Master MISTE : équivalent au TC3-Mécanique MatériauxD. HULL. Fractography: Observing, Measuring and Interpreting Fracture Surface Topography.BibliographieCambridge University Press, 1999.P. C. POWELL. Engineering with polymers. Chapman & Hall, 1992.C. BATHIAS, A. PINEAU. Fatigue des matériaux et des structures (Volumes 1 à 4). Lavoisier, 2009.Travaux pratique (50%) + présentation orale (50%)Contrôle desconnaissances
+
+
+38
+
+ AF MOD 6.4
+
+
+Microsystèmes Autonomes
+
+Autonomous microsystems
+
+Responsable(s) : Ian O'CONNOR, Pedro ROJO-ROMEO
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Les avancées spectaculaires dans les micro-nano-technologies permettent l'intégration de fonctionnalités très diverses dans un volume inférieur au mm3. Les microsystèmes autonomes, s'appuyant sur cette intégration et à la base de l'émergence de l'internet des objets, ne nécessitent pas d'apport externe énergétique, sont capables de communiquer sans fil et intègrent des capteurs/actuateurs ainsi que des circuits de traitement de l'information. Leurs applications sont nombreuses : automobile, génie civil, santé, chaînes de production ...
+
+L'objectif de cette AF est d'étudier les principes de conception et de fabrication des microsystèmes autonomes :
+technologies micro-nano-électroniques, capteurs / actuateurs, récupération d'énergie, conception faible consommation.
+
+Mots-clés : technologies micro-nano-électroniques, capteurs / actuateurs, récupération d'énergie, conception faible consommation
+
+
+
+Programme	Introduction aux principes des technologies microélectroniques
+Description des technologies spécifiques des capteurs / actuateurs intégrés, applications
+Récupération d'énergie ambiante
+Conditionnement électronique du signal
+
+Contraintes liées à l'intégration nanométrique (thermique, mécanique, bruit, ...)
+
+
+Compétences	◊ Comprendre les enjeux et les principes des microsystèmes autonomes, les situer dans les
+◊ Connaître les techniques de fabrication et les principes de fonctionnement des microcapteurs intégrés
+
+◊ Etre capable d'analyser un circuit intégré de conditionnement du signal issu d'un capteur
+◊ Connaître les techniques de récupération d'énergie (mécanique, thermique, photovoltaique) à l'échelle intégrée
+
+Activités /TP : Introduction aux micro-nanotechnologies en salle blancheAutonomieTP : Conception d'un bloc d'amplification CMOS faible bruit, faible consommation, faible tensionBE : synthèse d'un microsystème autonomeMaster Electronique, Energie Electrique, Automatique (3EA)MastersaffiliésS. Senturia. Microsystem Design. Springer, 2000.BibliographieN. Maluf. An Introduction to Microelectromechanical Systems Engineering. Artech, 2004.50% savoir, 50% savoir-faireContrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+39
+
+ AF MOD 6.5
+
+
+Changements climatiques et Géo-ingénierie
+
+Climate Change and Geo-engineering
+
+Responsable(s) : Pietro SALIZZONI, Julian SCOTT, Richard PERKINS
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+S'il y a maintenant un consensus que l'évolution de notre climat est en train d'accélérer, il manque toujours un accord sur les mesures à adopter pour le stabiliser et il est probablement trop tard pour qu'une réduction dans les émissions des gaz à effet de serre ait un impact significatif. Les changements climatiques vont impacter tous les aspects du métier de l'ingénieur, et il va falloir les prendre en compte dans chaque projet. Il sera probablement nécessaire également d'envisager d'intervenir directement sur le climat, et diverses stratégies ont déjà été proposées. L'objectif de ce cours est de fournir une compréhension générale des enjeux pour permettre aux futurs ingénieurs de participer à ce débat parce que beaucoup des problèmes sont clairement du domaine de l'ingénierie.
+
+Mots-clés : Changement climatique, gaz à effet de serre, carbone, paléoclimatologie, réchauffement, océans, atmosphère, météorologie, modélisation, systèmes dynamiques
+
+
+
+Programme	Introduction : Définition du climat, les processus principaux, l'évidence du changement climatique
+Transferts radiatifs : Le rayonnement solaire, l'atmosphère comme filtre, les aérosols
+Circulation atmosphérique et océanique
+Modélisation du climat : Les hypothèses de modélisation, les données d'entrée, les résultats, sensibilité aux hypothèses et aux données
+Cycle de carbone : Mécanismes de transfert, captage et stockage de carbone
+Reconstruction du climat : Métrologie, l'histoire du climat
+Les scénarios possibles : Influence des différents processus, l'évolution du climat
+Impact : Météorologique, agricole, économique, politique
+Géo-ingénierie : Les approches, réversibilité, risques, conséquences, difficultés pratiques.
+Le MOD 2.2 (DAO) apporte un complément intéressant à ce MOD.
+
+
+Compétences	◊ Appréhender la notion du climat, et les processus physiques qui contribuent à sa définition
+◊ Appréhender de façon critique les éléments factuels disponibles concernant l'évolution du climat
+
+◊ Comprendre comment sont construits les modèles du climat, les hypothèses utilisées et les données nécessaires
+
+◊ Identifier les conséquences (physiques, économiques et politiques) possibles et probables du changement climatique
+
+
+Masters	Sciences de l'Océan, Atmosphère et Climat (SOAC)
+
+affiliés
+
+
+Bibliographie	SALTZMAN, B. Dynamical Paleoclimatology. Academic Press, 2002.
+
+BURROUGHS, W.J. Climate Change A Multidisciplinary Approach. Cambridge University Press, 2007.
+
+COWIE, J. Climate Change Biological and Human Aspects. Cambridge University Press, 2009.
+
+
+Contrôle des	Savoir : Examen (50%) Savoir faire : Comptes rendus des 3 BE (50%)
+
+connaissances
+
+
+
+
+
+
+
+
+
+40
+
+ AF MOD 6.6
+
+
+Dynamique des systèmes biologiques humains
+
+Dynamics of biological human systems
+
+Responsable(s) : Didier DRAGNA
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Le corps humain est un système dynamique extraordinairement complexe, dont la description physique est essentiellement multidisciplinaire. Il comporte de nombreux processus d'autorégulation visant à maintenir l'équilibre interne, appelé l'homéostasie. Dans ce cours, on se propose d'aborder la modélisation physique des systèmes biologiques chez l'homme, ainsi que de présenter quelques applications en bio-ingénierie (cœur artificiel, robotique médicale et imagerie).
+
+Mots-clés :
+
+
+
+Programme	1. Modélisation des systèmes biologiques humains
+1.1 Modèles mécaniques :
+- le système musculo-squelettique
+Résistance des matériaux, systèmes multi-corps rigides et flexibles, biomatériaux.
+- le système auditif
+mécanique des fluides, acoustique.
+1.2 Modèles multi-physiques :
+- le système cardiovasculaire
+mécanique du cœur, circulation sanguine, circuits électriques équivalents, cœur artificiel.
+2. Robotique médicale
+3. Imagerie médicale
+
+problèmes inverses, contrôle non destructif, ultrasons, rayons X, IRM.
+
+
+Compétences	◊ Faire le lien entre votre formation pluri-disciplinaire fondamentale et le génie biomédical.
+◊ Acquérir des connaissances fondamentales en génie biomédical pour maîtriser les applications récentes et futures
+
+◊ Etre capable de dialoguer avec des professionnels de santé sur les sujets du programme.
+
+Activités /1.Simulation du mouvement avec un modèle multi-corpsAutonomie2.Traitement du signal pour un électrocardiogramme3.Présentation et compte-rendu de lecture d'un article de recherche.Ingénierie de la santé.MastersaffiliésBiomécanique.D. A. Neumann. Kinesiology of the musculoskeletal system. Foundations for physical rehabilitation.BibliographieMcGraw-Hill, 2002.L. Waite. Biofluid mechanics in cardiovascular systems. McGraw-Hill, 2006.C. Guy et D. Ffytche. Introduction to the principles of medical imaging. Imperial College Press, 2005.examen + comptes-rendus de BE + un exposé relatif à une lecture d'article (50%+25%+25%)Contrôle desconnaissances
+
+
+
+
+
+
+
+
+41
+
+ AF MOD 7.1
+
+
+Systèmes d'information en entreprise
+
+Enterprise Information Systems
+
+Responsable(s) : Romain VUILLEMOT
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Les systèmes d'information se positionnent dans les organisations modernes comme des acteurs incontournables car ils mettent en œuvre les processus opérationnels de l'organisation et permettent la circulation de l'information. La bonne santé des organisations, de la multinationale à la petite entreprise, dépend de plus en plus de la performance de leur système d'information. Il est donc crucial pour les ingénieurs et futurs responsables de comprendre le fonctionnement et l'organisation des systèmes d'information quand bien même ils n'y travailleraient pas directement.
+
+Mots-clés : Systèmes d'information, processus, urbanisation, architecture orientée services, analytics, KPI, cloud computing, big data, management des organisations, ERP, progiciel de gestion intégré, CRM, progiciel de gestion client.
+
+
+
+Programme	Chapitre 1 : Introduction
+Chapitre 2 : Architectures techniques et grandes constituantes du SI en entreprise
+Chapitre 3 : Projets, coûts et normes d'un SI
+Chapitre 4 : Architecture orientée service, cloud computing et big data
+Chapitre 5 : KPI et Pilotage d'un SI
+Chapitre 6 : Tendances et impact du Big Data et IA dans les SI
+
+
+Compétences	◊ Connaître les composantes d'un système d'information en entreprise
+◊ Mettre en oeuvre une démarche d'urbanisation du système d'information
+◊ Mettre en oeuvre les bonnes pratiques des systèmes d'information en entreprise
+◊ Connaître les problématiques auxquelles sont confrontées les systèmes d'information et savoir les résoudre
+
+
+
+Activités /
+
+Autonomie
+
+
+
+Bibliographie
+
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+Bureaux d'étude autour d'un problème concrêt de mise en oeuvre et suivit de SI.
+Rédaction d'une note de synthèse sur un sujet d'approfondissement, au choix, lié aux systèmes d'information (ex: développement durable, etc.)
+
+Christophe Longépé. Le projet d'urbanisation du SI. Lavoisier, 2009.
+
+Yves Caseaut, Gérard Roucairol. Urbanisation, SOA et BPM : Le point de vue d'un DSI. Broché, 2008.
+
+Jacques Printz, Yves Caseau. Architecture logicielle : Concevoir des applications simples, sûres et adaptables. Dunod, 2009.
+
+
+Contrôle du savoir par examen (60%) et du savoir-faire par l'évaluation de la note de synthèse (40%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42
+
+ AF MOD 7.2
+
+
+Extraction de Connaissances
+
+Machine Learning and Data Mining
+
+Responsable(s) : Alexandre SAIDI
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+L'extraction de Connaissances (EC, dite "fouille de données" ou "Machine Learning") est un domaine de Reconnaissance de Formes et de l'apprentissage automatique. Il connaît une expansion fulgurante et les entreprises prennent conscience de la sous-exploitation des données qu'elles collectent et archivent.
+
+Un ex. de connaissances extraites est la règle : "Quand j'ai les propriétés A et B souvent satisfaites dans mes données alors j'observe aussi la propriété C". De telles règles peuvent être utilisées en marketing, en gestion d'alarmes, en épidémiologie, etc.
+
+Il s'agit d'un domaine d'aide à la décision et de la prédiction posant des problèmes techniques difficiles. Ce cours dans lequel les Statistique jouent un rôle central traite divers domaines d'application d'EC (BD, texte, Web,...)
+
+Mots-clés : Reconnaissance de Formes, Big Data, Data Mining, Prédiction et décision, Classification, Apprentissage automatique (et artificiel, Machine Learning).
+
+
+
+Programme	- La problématique scientifique de l'apprentissage artificiel (Machine Learning)
+- Formalisation et fondements Algorithmiques / Statistiques
+- Quelques applications typiques
+- Apprentissage supervisé, Non-(et semi-) supervisé,
+- Classification, régression, association (Introduction à la fouille de textes)
+- Arbres de décision / de régression
+- Méthodes statistiques (Bayes, SVM, Méthodes à base de noyaux)
+- Méthodes et indicateurs d'évaluation statistiques
+- Méthodes de Classification (Clustering)
+- Règles de classification / d'association
+- Méthodes importantes de pré et post-traitement des données
+- Exploitation des Connaissances extraites
+
+
+Compétences	◊ Familiariser les élèves avec les enjeux et techniques d'extraction de connaissances et leurs domaines d'application
+◊ Apprendre l'étendu des techniques allant d'une simple règle aux réseaux de neurones convolutionnels profonds (DCNN) et passant par les méta-méthodes "Ensemble"
+◊ Utiliser les algorithmes et les outils Informatique et statistiques d'apprentissage automatique
+◊ Souligner les problèmes d'optimisation de ces outils, le compromis Biais-Variance, etc.
+
+Activités /3 BESAutonomieMaster InformatiqueMastersaffiliésU.M. Fayyad & al.. From Data Mining to Knowledge Discovery in Databases. 1996.BibliographieStan Matwin & al.. Challenges in Computational Statistics and Data Mining. Jan Mielniczuk, 2016.I.H. Witten, E. Frank. Data Mining - practical ML Tools & Techniques. 2005.25% BEs, 75% test écrit (qui comporte également des questions sur les BEs)Contrôle desconnaissances
+
+
+43
+
+ AF MOD 7.3
+
+
+Acoustic sources and propagation
+
+Acoustic sources and sound propagation
+
+Responsable(s) : Vincent Clair, Didier Dragna, Gilles Robert
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Ce cours d'acoustique avancé s'intéresse aux sources sonores et à leur propagation. Les principes fondamentaux de l'acoustique, tels que les équations linéaires de l'acoustique et l'évaluation quantitative du son sont présentés brièvement, avant de décrire les sources acoustiques ainsi que leur rayonnement en espace ouvert ou confiné de manière plus approfondie. Le son rayonné par des structures vibrantes ainsi que la propagation acoustique en milieu inhomogène sont aussi discutés. L'objectif du cours est de fournir un socle de connaissances théoriques nécessaire à l'appréhension d'un problème complexe de génération ou de rayonnement sonore. Ce cours fournit aussi une base aux étudiants qui seraient intéressés par des sous-domaines spécialisés de l'acoustique.
+
+Mots-clés : Acoustique, onde sonore, sources acoustiques, rayonnement acoustique, acoustique en milieu guidé, son généré par des structures vibrantes, propagation en milieu inhomogène.
+
+
+
+Programme	I - Equations de l'acoustique linéaire (équation d'onde, énergie acoustique, ondes harmoniques) II - Ondes planes et sphériques, Conditions aux limites, Impédance de surface
+III - Niveaux acoustiques et analyse spectrale (Décibels, densité spectrale de puissance, pondérations)
+
+IV - Propagation acoustique en milieu guidé (modes de conduit, fréquences de coupure, modèles basse fréquence)
+
+V - Sources (sources élémentaires, fonction de Green, distribution de sources)
+VI - Rayonnement des structures vibrantes (équation intégrale de frontières, intégrale de Rayleigh)
+
+VII - Propagation acoustique en milieu inhomogène (approximations géométrique et paraxiale) VIII - Approfondissements supplémentaires (absorption thermo-visqueuse, diffraction par des corps solides)
+
+Compétences◊ Comprendre la génération et le rayonnement du son dans des configurations classiques.◊ Modéliser et résoudre un problème acoustique.◊ Communiquer avec un expert en acoustique.◊ Acquérir une base théorique afin d'approfondir un domaine spécialisé de l'acoustique.Deux séances de travaux pratiques : 1) Mesure de la puissance acoustique d'une source enActivités /Autonomiechambre anéchoïque et en chambre réverbérante. 2) Propagation en conduit à proximité d'unchangement de section brusque.Un bureau d'étude sur la localisation de sources avec un partenaire industriel (MicrodB).Master of Science in AcousticsMastersaffiliésA. D. Pierce. Acoustics: an introduction to its physical principles and applications. The AcousticalBibliographieSociety of America, 1989.L. E. Kinsler et al.. Fundamentals of acoustics. John Wiley & Sons, 1982.D.T. Blackstock. Fundamentals of physical acoustics. John Wiley & Sons, 2000.Savoir : contrôle écrit de connaissances individuelles (50%)Contrôle desconnaissancesSavoir-faire : contrôle des connaissances activités pratiques (50%)
+
+
+44
+
+ AF MOD 7.4
+
+
+Dynamique des structures
+
+Structural dynamics
+
+Responsable(s) : Olivier DESSOMBZ, Louis JEZEQUEL
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+L'analyse dynamique des structures à l'aide des méthodes de synthèse modale et d'éléments finis a trouvé un grand nombre d'applications industrielles (aéronautique, automobile, construction navale, ferroviaire, génie civil). Le but principal de ce cours est de présenter ces méthodes dans un cadre général en menant en parallèle et en interaction une approche numérique et une approche expérimentale basée sur des essais vibratoires. La correction des modèles et l'influence de l'amortissement sont aussi abordées.
+
+Mots-clés : Éléments finis - modélisation - méthodes numériques - analyse modale numérique - sous-structuration - synthèse modale - amortissement
+
+
+
+Programme	PARTIE 1 : MODÈLES ÉLÉMENTS FINIS
+- Introduction
+- Discrétisation par éléments finis
+- Modification de la formulation matricielle globale
+- Problèmes conservatifs standard
+- Problème spectral
+- Intégration temporelle du problème transitoire
+- Cas des machines tournantes
+PARTIE 2 : OPTIMISATION DU COMPORTEMENT DYNAMIQUE
+- Origine de dissipation
+- Modélisation de l'amortissement
+- Introduction de matériaux amortissants
+- Identification des matrices d'amortissement
+- Synthèse modale
+- Perturbation des modèles dynamiques
+- Lien avec les procédés de conception
+
+Compétences◊ Modéliser une structure par éléments finis◊ Utiliser un code de calcul industriel par éléments finis généraliste◊ Appréhender les fondements des méthodes par éléments finisActivités pratique : 2 TP de 4h (expérimental) + 4h BE sur logicielActivités /AutonomieMaster MécaniqueMastersaffiliésJ.-.F. IMBERT. Analyse des structures par éléments finis (3ème ed). Cepadues, 1995.BibliographieM. GERARDIN, D. RIXEN. Théorie des vibrations. Masson, 1996.L. MEIROVITCH. Computational methods in structural dynamics. Sijthoff Nordhoff, 1980.50% savoir (Test)Contrôle desconnaissances50% savoir faire (TP1 1/4, TP2 1/4, BE 1/2)
+
+
+
+
+
+45
+
+ AF MOD 7.5
+
+
+Bruits d'origine aérodynamique
+
+Aerodynamically generated sound
+
+Responsable(s) : Michel ROGER
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Le but est de former les étudiants à l'aéroacoustique, science des bruits d'origine aérodynamique, par opposition aux bruits d'origine vibratoire. Ceci inclut la compréhension des phénomènes physiques, leur illustration expérimentale et leur modélisation, principalement analytique (des simulations numériques sont néanmoins citées). Les étudiants seront amenés au niveau requis pour aborder les problèmes industriels modernes, d'une part, et la littérature scientifique internationale, d'autre part. Des notions de base en aérodynamique et en acoustique seront rappelées succinctement. Les applications concernent les transports aéronautique et terrestre, la ventilation et le conditionnement d'air, les instruments à vents...
+
+Mots-clés : aéroacoustique, aérodynamique instationnaire, modélisation analytique, turbomachines
+
+
+
+Programme	- Petites oscillations dans un gaz et mécanismes du bruit d'origine aérodynamique
+- Les analogies acoustiques et l'équation des ondes
+- Propriétés générales des sources sonores en mouvement (effet Doppler, convection)
+- Bruit des jets turbulents libres (aéronautique)
+- Mécanismes d'oscillations auto-entretenues (instruments à vent)
+- Bruit du vent sur les structures (câbles, antennes, exo-structures)
+- Aérodynamique instationnaire et bruit des profils d'ailes
+- Matériaux absorbants acoustiques sous écoulement
+- Sources sonores en rotation et bruit de raies des rotors (hélices, ventilateurs...)
+- Bruit des turbomachines carénées (turboréacteurs)
+- Essais en soufflerie anéchoïde
+
+
+Compétences	◊ Réaliser une analyse critique d'une publication scientifique
+◊ Conduire des essais en soufflerie anéchoïde
+◊ Modéliser un problème d'aéroacoustique industriel
+
+
+
+Activités /
+
+Autonomie
+
+
+
+Masters
+
+affiliés
+
+
+Bibliographie
+
+
+
+Contrôle des connaissances
+
+
+BE: optimisation acoustique d'un étage rotor-stator (par la modélisation, CR)
+TP1: bruit d'impact de turbulence sur un profil (manipulation en chambre sourde+CR)
+
+TP2: sifflements d'une cavité en conduit (manipulation +CR)
+
+Master d'Acoustique, Ecole Doctorale MEGA
+
+
+Goldstein. Aeroacoustics. McGraw-Hill, 1976.
+
+
+Test de 2 heures (note de savoir 40%)
+Comptes-rendus de TP (note de savoir-faire 30%)
+
+Compte-rendu de BE (note de méthodologie 30%)
+
+
+
+
+
+
+
+
+
+
+46
+
+ AF MOD 7.6
+
+
+Caractérisation des surfaces et des nanostructures
+
+Characterization of surfaces and nanostructures
+
+Responsable(s) : Fabrice DASSENOY, Maria-Isabel DE BARROS
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Les nanotechnologies sont concernées par un état très divisé de la matière et un rôle exacerbé des surfaces par rapport au volume. La physicochimie et la chimie des surfaces exposées sont très importantes au regard des applications. Les premières couches atomiques présentes sur les solides sont particulièrement réactives dans de nombreux procédés.
+Ce cours propose l'étude des principales techniques de caractérisation des surfaces et des structures de faible dimensionnalité. Elle sera illustrée par des applications spécifiques dans le domaine des nanotechnologies et de la biologie.
+
+Mots-clés : Surfaces, Interfaces, Nanostructures, Analyses de surface, Microscopie, Spectroscopies électroniques
+
+
+
+Programme	I - Analyse chimique de la surface des solides.
+Les spectroscopies électroniques (photoélectron, Auger), spectroscopie ionique (ToF-SIMS)
+Informations sur les liaisons chimiques en surface.
+II- Analyse morphologique de la surface à l'échelle subnanométrique
+
+Les microscopies champ proche (microscopie à effet tunnel, microscopie à force atomique, microscopie champ proche optique) spectroscopie tunnel, mesure des forces d'interaction. Illustrations : (reconstruction de surfaces, molécule unique, cristaux photoniques...) III - Caractérisation des interfaces
+
+Microscopie électronique à transmission analytique, diffraction électronique, analyses par rayons X et pertes d'énergie des électrons transmis. Exemples concret d'applications (couches minces, colloïdes...)
+
+
+Compétences	◊ Savoir se référer aux bonnes techniques de caractérisation pour l'étude et l'analyse des surfaces et des nanostructures
+◊ Connaitre le principe de base des principales techniques de caractérisation des surfaces et des nanostructures
+
+
+Bibliographie	R. W. Cahn. Materials science and technology : a comprehensive treatment. VCH, 1994.
+
+
+
+Contrôle des	Test écrit de 2h.
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+47
+
+ AF MOD 8.1
+
+
+Interactions fluide-structure
+
+Fluid-Structure Interactions
+
+Responsable(s) : Mohammed ICHCHOU, Gilles ROBERT
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Ce cours est un cours d'introduction aux phénomènes de rayonnement et de couplage fluide-structure. Il a deux objectifs principaux. Le premier objectif de ce cours vise à donner à l'étudiant une méthode cohérente pour formuler un problème de couplage entre structures et fluides. Le second objectif vise une présentation non exhaustive des phénomènes d'interaction fondamentaux rencontrés dans les domaines d'applications pré-cités. Le rayonnement des structures est ainsi étayé par cet angle. Différentes approches analytiques et numériques permettant d'appréhender ce mécanisme de couplage sont explicitées.
+
+Mots-clés : couplage fluide-solide; fluide compressible; fluide incompressible, masse ajoutée; modes couplés fluide-structures; rayonnement acoustique; accrochage; chargement pariétal.
+
+
+
+ProgrammeI- Couplage fluide-structure classificationII- Mise en équation, mécanismes de couplagesIII- Couplage inertiel, couplage fortIV- Couplage dissipatif, rayonnement acoustiqueV- Rayonnement de structures simples (cas non borné et borné)VI- Interprétation physique et description modal, indicateurs de rayonnement, formulationsnumériques,opérateur d'impédance de rayonnement, mise en œuvre.VII- Eléments de couplage fluide-structure avec convection.◊ Savoir classifier les intéractions fluides-structuresCompétences◊ Savoir formuler analytiquement quelques intéractions fluides-structures◊ Savoir traiter numériquement quelques intéractions fluides-structures◊ Savoir caractériser un chargement pariétalAnalyse d'article en parallèle avec les activités pratiquesActivités /AutonomieCalcul numérique par le code ANSYS de quelques situationsMaster AcoustiquesMastersaffiliésMaster Aéronautique et EspaceMaster mécaniqueH. J.-P. Morand & R. Ohayon. Fluid-Structure Interaction. Wiley, 1995.BibliographieE. de Langre. Fluides et solides. Editions de l'Ecole Polytechnique, 2002.Savoir: Contrôle écrit de connaissance individuel pour 50%Contrôle desconnaissancesSavoir-faire: Contrôle des connaissances TP/BE pour 50%
+
+
+
+
+
+
+
+
+
+
+
+48
+
+ AF MOD 8.2
+
+
+Processus Stochastiques : modèles et méthodes numériques
+
+Stochastic Processes
+
+Responsable(s) : Christophette BLANCHET, Elisabeth MIRONESCU
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Ce cours est un complément du cours de théorie des probabilités, orienté vers la modélisation des phénomènes aléatoires
+
+dépendant du temps. Son but est de présenter d'une part les outils théoriques de la modélisation par processus de
+Markov et d'autre part les algorithmes classiques de simulation de ces processus. Il est plus particulièrement destiné aux
+
+élèves des options et masters d'Ingénierie Mathématiques, de Sciences Actuarielle et Financière et Ingénierie du Risque.
+
+Pré-requis : il est recommandé d'avoir suivi le cours S8 " Théorie des probabilités et introduction aux processus
+stochastiques ", ou tout cours
+
+équivalent.
+
+Mots-clés : Mouvement Brownien, Martingales, Calcul d'Itô, Simulation, Méthodes de Monte Carlo par Chaînes de Markov
+
+
+
+Programme	0.	Rappels de théorie des probabilités (en autonomie)
+1. Généralité sur les processus, mouvement brownien
+2. Martingales
+3. Intégrale stochastique
+4. Equations différentielles stochastiques
+5. Approximation et simulation de diffusion
+6. (BE) Méthodes de Monte Carlo par Chaînes de Markov pour la simulation
+7. (master IM et GRAF) Diffusions et équations aux dérivées partielles
+
+
+Compétences	◊ Savoir modéliser un phénomène à l'aide de processus de Markov
+◊ Savoir appliquer le calcul différentiel d'Itô
+◊ Savoir simuler et/ou discrétiser une diffusion
+◊ Savoir implémenter une méthode du recuit simulé ou de l'algorithme de Gibbs
+
+
+
+Activités /
+
+Autonomie
+
+
+Masters
+
+affiliés
+
+
+
+Bibliographie
+
+
+
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+Préparation des BE
+
+
+Option MD-MIR (conseillé pour une formation avancée en math appli).
+Master Econométrie et Statistiques Parcours GRAF (Obligatoire)
+
+Master Mathématiques Appliquées, Statistique, Parcours Math en Actions (Obligatoire)
+
+Francis Comets et Thierry Meyre. Calcul stochastique et modèles de diffusions.. Série Mathématiques pour le Master/SMAI, Dunod, 2006.
+
+Nicole El Karoui et Emmanuel Gobet. :Les outils stochastiques des marchés financiers. Editions de l'Ecole Polytechnique 2011., 2011.
+
+
+Bernard Bercu et Djalil Chafaï. Modélisation stochastique et simulation.. Série Mathématiques pour le Master/SMAI, Dunod, 2007.
+
+
+Tous : Test de deux heures. Master Math en action et GRAF : Test de 1h supplémentaire
+
+
+
+
+
+
+
+49
+
+ AF MOD 8.3
+
+
+Hydraulique Fluviale
+
+River Hydraulics
+
+Responsable(s) : Richard PERKINS, Pierre BRUN
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Depuis les origines de la civilisation humaine, l'homme a exploité les fleuves et les rivières pour ses différents besoins
+- l'eau potable, l'irrigation, transport, énergie - ainsi pour l'évacuation des déchets, industriels et domestiques. En parallèle, l'homme a dû apprendre à coexister avec les fleuves et les rivières, et avec ses variations saisonnières, parce qu'un fleuve ou une rivière est une entité vivante, toujours en train d'évoluer. Le but de ce cours est de fournir aux
+élèves une compréhension complète des processus fondamentaux en ingénierie hydraulique, à travers le développement de modèles et concepts adaptés, mais simples. Les deux BE et le TP permettront aux élèves de mettre en pratique les éléments théoriques rencontrés dans les cours.
+
+Mots-clés : Fleuve, Rivière, Surface libre, Ondes, Crues, Barrage, Transport Solide, Transport des sédiments, Erosion, Charge spécifique, Fluvial, Torrentiel, Ressaut, Impulsion, Chézy, Manning, Strickler, Froude, Shields
+
+
+
+Programme	Introduction : Cycle de l'eau, les systèmes fluviaux
+Les écoulements uniformes dans les canaux découverts : La profondeur critique, la charge spécifique et la force spécifique, le ressaut
+
+Les écoulements graduellement variés : Résistance à l'écoulement, l'écoulement uniforme et la profondeur normale, les régimes et les formes de la surface de l'eau
+
+Les écoulements non-permanents dans les canaux découverts : Les variations lentes, la méthode des caractéristiques, la rupture d'un barrage, la propagation des ondes de crue Les ouvrages hydrauliques
+
+Le transport des sédiments : le mouvement des particules solides, les rides, dunes et antidunes, le seuil d'érosion, transport par charriage et par suspension, les sédiments cohésifs
+
+
+Compétences	◊ Identifier le régime d'un écoulement en fonction du débit et de la profondeur.
+◊ Calculer la réponse d'un écoulement à surface libre à un changement de section.
+◊ Calculer la propagation d'une onde en réponse à un changement de débit ou de profondeur dans le canal.
+
+◊ Calculer la stabilité des sédiments sur le lit et les berges d'un canal.
+
+Activités /Renforcer les notions du cours en travaillant les exemplesAutonomieApprofondir certains éléments du cours à travers le TP et les BE.Des questions sur chaque partie du cours seront fournies, avec les solutions, pour permettre àl'élève de vérifier son travail et sa compréhension du cours.MécaniqueMastersaffiliésCHANSON, H.. The Hydraulics of Open Channel Flow: an Introduction. Elsevier, 2004.BibliographieVIOLLET, P.-L., CHABARD, J.-P, ESPOSITO, P & LAURE. Mécanique des Fluides Appliquée. Pressesde l'ENPC, 1999.RAUDKIVI, A.J.. Loose Boundary Hydraulics. Balkema, 1998.Savoir : Examen (60%) Savoir faire : Comptes rendus des TP (40%)Contrôle desconnaissances
+
+
+
+50
+
+ AF MOD 8.4
+
+
+Représentation et manipulation de données structurées
+
+
+Responsable(s) : Daniel MULLER
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Quelle que soit la technologie sous-jacente, les systèmes d'information s'appuient sur un certain nombre de paradigmes incontournables : structuration des données, usage de méta données, vérifications d'intégrité, réutilisation par transformation plutôt que par duplication, échange d'informations structurées entre applications ou modules...Ce cours s'attache à montrer comment les standards basés sur XML favorisent ou même induisent certains fondamentaux comme l'intégrité des données, l'interopérabilité des applications, voire leur internationalisation, et comment les nombreuses applications qui en découlent s'inscrivent dans cette dynamique au sein de systèmes dont la complexité va croissant.
+
+Mots-clés : XML, DTD, XML Schema, Xpath, XSLT, Webservices
+
+
+
+Programme	Introduction à la problématique des systèmes d'information Structuration des données - XML
+Intégrité des informations - validation, DTD, schémas
+Interopérabilité - espaces de nommage
+Recherche d'information - Xpath, XQuery
+Transformations - XSLT
+Échange d'informations, Services Web - XML-RPC
+
+Exemples d'applications - SVG, XSL-FO
+
+
+Compétences	◊ Appréhender les potentialités et le fonctionnement de l'écosystème XML
+◊ Maîtriser la notion de document bien formé
+◊ Savoir invoquer l'outil adéquat face à un problème concret
+
+
+
+Activités /
+
+Autonomie
+
+
+
+Bibliographie
+
+
+
+
+
+Contrôle des connaissances
+
+
+BE 1 - Conception d'un document XML
+BE 2 - Transformations avec XSLT
+
+BE 3 - Focus sur une application (SVG, XSL-FO, ...)
+
+E. R. Harold, W. Scott Means. XML in a Nutshell. 3rd Edition - O'Reilly, 2004.
+
+E. van der Vlist. XML Schema, the W3C's Object-Oriented Descriptions for XML. O'Reilly, 2002.
+
+J. E. Simpson. XPath and XPointer, Locating Content in XML Documents. O'Reilly, 2002.
+
+
+50% savoir (QCM), 50% savoir-faire (moyenne des BEs)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+51
+
+ AF MOD 8.5
+
+
+Physique pour les technologies de l'information
+
+Physics for Information technology
+
+Responsable(s) : Ségolène CALLARD
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Dans les technologies de l'information, les fonctions, de transmission, de traitement, de stockage et d'affichage de l'information sont assurées par des composants dont le fonctionnement repose en grande partie sur les propriétés quantiques, électriques, optiques, et magnétiques des matériaux. Ce cours a pour ambition de donner une vue d'ensemble des principes physiques importants pour ces applications. L'accent sera mis dans la mesure du possible sur les limites qu'imposent les lois de la physique aux différentes technologies.
+
+Mots-clés : Q-bit, spin, photon, cryptographie quantique, composant logique, semi-conducteur, transistor, fibre optique, modulation optique, mémoires magnétiques.
+
+
+
+Programme	Chapitre I :	Introduction Générale, Contexte des TIC, Propriétés de l'information.
+Chapitre II: Information quantique : Cryptographie quantique, téléportation.
+Chapitre III:	Composants de base pour les circuits logiques (MOSFET, CMOS)
+Chapitre IV:	Nouveaux composants : Composant à effet tunnel,transistor à un électron.
+Chapitre V : Les fibres optiques
+Chapitre VI : Les matériaux photo-réfractifs
+Chapitre VII: Fondamentaux du magnétisme
+Chapitre VIII : Mémoires Magnétiques
+
+
+Compétences	◊ Développer une vision globale sur le domaine des technologies de l'information.
+◊ Identifier les principes physiques à la base d'une technologie de l'information.
+◊ Mobiliser des connaissances et des savoir-faire pour comprendre et expliquer le fonctionnement d'une technologie de l'information.
+
+◊ Connaître les limites physiques d'une technologie donnée.
+
+
+
+Activités /
+
+Autonomie
+
+
+
+Bibliographie
+
+
+
+
+
+Contrôle des connaissances
+
+
+Appréhender de façon approfondie plusieurs technologies de l'information.
+2 TP : utilisation du photon dans les technologies de l'information.
+
+un travail de recherche sur une technologie au choix avec restitution orale en binôme.
+
+Rainer Waser (Ed.). Nanoelectronics and information technology. Wiley (Germany), 2012.
+
+Saleh, Teich. Fundamentals of photonics. Wiley-Interscience, 2007.
+
+Charles Kittel. Introduction to Solid State Physics. Wiley, 2005.
+
+
+Examen 2h sans document (50%), Exposé oral ( 30%), CR de TP (20%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+52
+
+ AF MOD 8.6
+
+
+Energie Nucléaire
+
+Nuclear Energy
+
+Responsable(s) : Yves ROBACH, Ségolène CALLARD
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+L'énergie nucléaire représente un domaine technologique et économique important qui recouvre des compétences multidisciplinaires et des métiers variés (conduite de projets, ingénierie, sûreté,...). Ce module, à caractère très industriel, a pour objectif de donner aux élèves une formation à la fois scientifique et technologique dans les différents domaines de l'énergie nucléaire. Une large part sera consacrée à l'étude des filières actuelles de réacteurs nucléaires. Ce module permettra aussi d'appréhender l'ensemble des solutions aux questions de sûreté des installations et de protection des personnes.
+
+Mots-clés : Réacteurs nucléaires, filières nucléaires, sûreté nucléaire.
+
+
+
+ProgrammeÉléments de physique nucléaire : rappels.Éléments de neutroniqueCinétique des réacteurs.Filières actuelles de réacteurs nucléaires : Fonctionnement et pilotage.Sûreté nucléaire.Cycle du combustible.Matériaux pour le nucléaire.◊ Comprendre les enjeux scientifiques, économiques et environnementaux du nucléaire.Compétences◊ Comprendre les spécificités de l'industrie nucléaire◊ Situer l'énergie nucléaire par rapport aux autres énergies.Étude sur les réacteurs nucléaires de future génération.Activités /AutonomieÉtudes, exposésJacques LIGOU. Introduction au génie nucléaire. Presses polytechniques et universitairesBibliographieromandes, 1997.John R. LAMARSH. Introduction to nuclear engineering. Addison Wesley Publishing company, 2013.Paul BONCHE. Le nucléaire expliqué par des physiciens. EDP Sciences, 2002.Examen écrit de 2H.Contrôle desconnaissancesÉvaluation sur les travaux effectués en bureaux d'étude.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53
+
+ AF MOD 9.1
+
+
+Parcours Intrapreneur 1
+
+
+Responsable(s) : Marie Goyon, Sébastien Poussielgue
+
+| Cours : 0 h | TD : 28 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours	|
+
+
+Objectifs de la formation
+
+
+Former des pilotes de projets innovant en entreprise capables de relever les défis de demain, les mutations systémiques, que ce soit dans l'environnement, l'économie, le social... Les innovations qui peuvent répondre à ces problématiques transversales ne peuvent être centrées sur une approche mono-disciplinaire.
+
+L'approche est centrée sur le projet : apprentissage par le faire, DIY et DIWO : les élèves travaillent en groupes projet sur des sujets proposés par des entreprises. Cette approche transdisciplinaire de gestion de projet est destinée aux futurs professionnels de l'innovation dans le secteur privé ou les institutions publiques.
+
+Mots-clés : design thinking, usages, intraprenariat, buisiness development, prototypage, pilotage de projet
+
+
+
+Programme	-Méthodologie Design thinking / Approfondissement -Usagers et enquêtes terrain
+-Fablab et prototypage rapide
+-Management de projet / Stratégies et ressources
+-Réseaux d'acteurs / Approfondissement
+-Business Development / marché
+-Facilitation graphique
+
+-Pitch
+
+
+Compétences	◊ créativité
+◊ contextualisation, formulation problématique
+◊ stratégie de pilotage de projet
+◊ planification de projet
+
+
+Activités /	activité de projet, projets entreprises
+
+Autonomie
+
+
+Bibliographie	Brown Tim. L'Esprit design: Comment le design thinking change l'entreprise et la stratégie.
+Pearson, 2014.
+
+AKRICH M., CALLON M. et LATOUR B. A quoi tient le succès des innovations?, Gérer et comprendre. Annales des Mines, 1988.
+
+Gaglio G. ., Sociologie de l'innovation. PUF, 2012.
+
+
+Contrôle des	activité de projet : soutenances + rapports / prototypes et scénarios d'usage
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+54
+
+ AF MOD 9.2
+
+
+Mécanique des matériaux et structures composites
+
+Mechanics of Composite Materials and Structures
+
+Responsable(s) : Michelle SALVIA, Olivier BAREILLE, Mohammed ICHCHOU
+
+| Cours : 12 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+L'objectif de ce module est de fournir une description détaillée des matériaux et structures composites. Ces matériaux sont en effet de plus en plus employés dans de nombreux secteurs industriels et offrent de nombreux avantages qu'il convient de maîtriser. Le module discutera ainsi des modèles des structures composites souvent utilisées. Il abordera également le comportement dynamique de ces structures. Enfin, les mécanismes d'endommagements seront exposés.
+
+Mots-clés : anisotropie - les laminés - les structures sandwichs - homogenisation - comportement dynamique - endommagements et défauts.
+
+
+
+Programme	Matériaux et structures composites (2)
+Modèles structuraux (2)
+Modèles tridimensionnels (2)
+Théorie des Laminées (2)
+Structures Sandwich (2)
+Homogenisation (2)
+Comportement dynamique (2)
+Endommagements (2)
+
+
+
+Compétences
+
+
+
+Activités /
+
+Autonomie
+
+
+Masters
+
+affiliés
+
+
+Bibliographie
+
+
+
+
+
+Contrôle des connaissances
+
+
+◊ connaitre les types de composites - connaitre les modèles
+◊ théorie de l'homogénisation - mécanismes d'endommagements
+
+Analyse d'un article récent de la littérature
+
+
+Aéronautique et Espace
+
+
+Carl T. Herakovich. Mechanics of Fibrous Composites. John Wiley & Sons, 2004.
+
+J.N. Reddy. Mechanics of laminated composite plates. CRC Press, 1997.
+
+D Gay, S V Hoa, S W Tsai. Composite Materials: Design And Applications. CRC Press, 2003.
+
+
+Contrôle continu pendant les séances de TP/BE (33%)
+Test écrit (33%)
+
+Travail personnel en autonomie (33%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55
+
+ AF MOD 9.3
+
+
+Stabilité des Systèmes Mécaniques
+
+Stability of mechanical systems
+
+Responsable(s) : Louis JEZEQUEL, Jean-Jacques SINOU
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Lors de la conception des structures et des systèmes mécaniques, il est impératif de maîtriser les risques d'instabilité provenant de nombreux phénomènes. On peut citer en particulier les divers couplages de nature non-conservative liés à l'existence de frottements ou de contacts entre une structure élastique en mouvement et un fluide ou un solide. Par ailleurs, les phénomènes de flambement et de cloquage sont de plus en plus dimensionnants compte tenu de l'allégement des structures associé à l'utilisation de nouveaux matériaux. Dans les domaines du transport, du Génie Civil et de l'énergie, on peut citer : les bruits de freins, la résistance aux crashs, les instabilités de machines tournantes, le risque d'effondrement des bâtiments, stabilité des systèmes de forage.....
+
+Mots-clés : Stabilité, crissement de freins, fluide-structure, machines tournantes, couplage aéroélastique, couplage hydro-élastique
+
+
+
+ProgrammeI. Analyse générale de la stabilitéII. Flambement des structures élastiquesIII. Structures élastiques non conservativesIV. Stabilité des systèmes gyroscopiquesV. Application aux structures frottantesVI. Applications aux structures couplées avec un écoulement◊ Développer une vision synthétique des risques d'instabilités des systèmes mécaniques en phaseCompétencesde conception.◊ S'initier aux outils de calcul permettant de prévoir les risques d'instabilités.◊ Comprendre les phénomènes de couplage à l'origine des instabilités.Apprendre et approfondir une partie du cours.Activités /AutonomieAnalyse bibliographique et réflexion sur un problème d'application.Master MécaniqueMastersaffiliésWanda Szemplinska-Stupnicka. The behavior of Nonlinear Vibrating systems Vol. 1. FundamentalBibliographieconcepts and methods : applications to single-Degree of freedom Systems.Robert D. Blevins. Flow-Induced vibration.Roland Bigret. Stabilité des machines tournantes et des systèmes.Bureaux d'étudeContrôle desconnaissancesTest
+
+
+
+
+
+
+
+
+
+
+
+
+56
+
+ AF MOD 9.4
+
+
+Comportement des matériaux
+
+
+Responsable(s) : Thierry HOC, Vincent FRIDRICI, Laurent BLANC, Bruno BERTHEL
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Les exigences de performance et de fiabilité ainsi que la nécessité d'une optimisation toujours meilleure des organes mécaniques et des procédés exigent une connaissance et une modélisation fine du comportement des matériaux sous diverses sollicitations mécaniques ou thermo-mécaniques. En parallèle, les outils de calculs modernes autorisent l'utilisation de lois de comportement sophistiquées que l'ingénieur doit savoir choisir, identifier et utiliser à bon escient. Ce cours vise à dégager la structure hiérarchique de ces modèles de comportement, leurs principes de base et principaux champs d'application. On attachera une importance particulière à leur identification et aux essais nécessaires ainsi qu'à la liaison entre les mécanismes microscopiques et leurs manifestations macroscopiques.
+
+Mots-clés :
+
+
+
+ProgrammeIntroduction à la rhéologie: modèles rhéologiques, cadre thermodynamiqueVisco-élasticité. Fonction de fluage et relaxation. Spectre, Sollicitations harmoniquesVisco-plasticité. Fluages primaire et secondaire. Norton-Hoff et BinghamPlasticité : Comportement indépendant des vitesses. onction seuil et lois d'évolutionEcrouissage: Modèles standard généralisés, écrouissage isotrope et cinématiqueRupture et Endommagement: rupture fragile, endommagement continuFatigue multi-axialePassage micro-macro: Moyennes et localisation. Voigt et ReussAnisotropie: Elasticité, Plasticité, Rupture ou Thermo-mécaniqueMécanique du contact1 TP : Essai de traction et analyse des résultatsActivités /Autonomie1 BE : Construction et identification de modèles de comportement pour une application1 BE : Fatigue des matériaux: approche phénoménologique, amorçage et propagation desfissures, prise en compte de la fatigue dans le comportement des matériauxJ. Lemaître, J.-L. Chaboche, A. Benallal, R. Desmo. Mécanique des matériaux solides. Ed. Dunod.BibliographieD. François, A. Pineau, A. Zaoui.. Comportement mécanique des matériaux : volumes 1 et 2. Ed.Lavoisier.Test final de 2 heures (80%) + compte-rendu de TP (20%)Contrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57
+
+ AF MOD 9.5
+
+
+Réseaux informatiques
+
+Computer networks
+
+Responsable(s) : René CHALON
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Ce cours expose les principes et les protocoles de base des réseaux informatiques en mettant l'accent sur les protocoles TCP/IP. Les caractéristiques et les architectures des réseaux locaux, moyens et hauts débits ainsi que les protocoles d'Internet sont détaillés de manière systématique et méthodique. Cette approche à la fois conceptuelle et pratique permet à chacun de mieux comprendre l'offre actuelle, l'évolution et les perspectives des réseaux informatiques actuels et futurs.
+
+Mots-clés : réseaux, modèle OSI, Ethernet, Internet, IP, Wi-FI, Internet, IP, TCP, UDP, DNS, HTTP
+
+
+
+ProgrammeCours :1- Introduction : concepts généraux, modèles OSI et architecture TCP/IP2- Couche physique : support et transmission des données3- Réseaux locaux : topologies, Ethernet, WiFi4- Couche Réseau : notion d'internet, protocole IP, adressage, routage, IPv65- Couche transport : TCP, UDP, SCTP6- Couche application : modèle client/serveur, DNS, messagerie électronique, FTP, World WideWebBureaux d'étude :1- Etude détaillée d'Ethernet avec un simulateur réseau2- Etude détaillée d'IP avec un simulateur réseau3- Etude du protocole HTTP◊ Connaitre les principes des réseaux informatiquesCompétences◊ Analyser et concevoir des réseaux locaux Ethernet◊ Analyser et concevoir des réseaux basés sur les protocoles TCP/IPChaque élève reçoit une licence individuelle du simulateur réseau lui permettant d'effectuer les BEActivités /Autonomieet de concevoir ses propres architectures de réseaux.InformatiqueMastersaffiliésG. Pujolle et al.. Les réseaux. Eyrolles, 2018.BibliographieD. Comer. Internetworking with TCP/IP - Volume 1, Principles, Protocols and Architecture. Pearson, 2015.C. Servin. Réseaux et Télécoms. Dunod, 2013.50 % savoir : Examen écrit sans documents de 2h.Contrôle desconnaissances50 % savoir-faire : Evaluation des bureaux d'étude (1/3 chacun)
+
+
+
+
+
+
+
+
+
+58
+
+ AF MOD 9.6
+
+
+Méthodes numériques pour les EDP
+
+Numerical methods for PDEs
+
+Responsable(s) : Grégory VIAL, Laurent SEPPECHER
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Le but du cours est de presenter les principales approches actuelles pour la resolution numerique des equations aux derivees partielles (EDP). Il s'agit moins de proposer une liste exhaustive des techniques effectivement utilisees dans les codes professionnels, que de donner les reperes mathematiques et numeriques pour la construction et l'analyse des methodes les plus courantes. La programmation effective de certaines methodes lors de seances de BE permettra aux eleves de se sensibiliser aux aspects pratiques de mise en œuvre. D'autres BE seront consacres a l'utilisation de logiciels de recherche, illustrant la resolution complete de problemes plus complexes.
+
+Mots-clés : Méthodes numériques. Calcul scientifique. Équations aux dérivées partielles.
+
+
+
+
+Programme
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Activités /
+
+Autonomie
+
+
+Masters
+
+affiliés
+
+
+
+Bibliographie
+
+
+
+
+Chapitre 1. Rappels sur les EDP lineaires et les methodes aux differences finies Chapitre 2. Methodes d'elements finis
+
+Chapitre 3. Approximation numérique pour les lois de conservation scalaires
+
+◊ Savoir reconnaître la nature d'une EDP et les enjeux de son approximation numérique
+◊ Connaître les principes des principales familles de méthodes d'approximation des EDP
+◊ Reconnaître les comportements des méthodes dans leurs limites d'utilisation
+◊ Être capable de mettre en œuvre les méthodes d'approximation pour des problèmes modèles
+
+Implémenter les méthodes numériques sur des exemples simples, mais représentatifs.
+Les trois BE permettent de commencer le travail, qui est terminé en autonomie.
+
+Option MD/Filière MIR (fortement conseillé)
+Master mention "Mathématiques appliquées, statistique" (obligatoire)
+
+Master mention "Statistique et économétrie" (obligatoire)
+
+A. Ern, J.-L. Guermond. Elements finis : theorie, applications, mise en œuvre. Mathematiques et applications. Springer, 2002.
+
+B. Despres, F. Dubois. Systemes hyperboliques de lois de conservation : Application a la dynamique des gaz. Ecole Polytechnique, 2005.
+
+
+
+Contrôle des	Savoir (60%) : examen de 2H
+
+connaissances	Savoir-faire (40%) : compte-rendus de BE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59
+
+ AF MOD 10.2
+
+
+Parcours Intrapreneur 2
+
+
+Responsable(s) : Marie Goyon, Sébastien Poussielgue
+
+| Cours : 0 h | TD : 28 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Former des pilotes de projets innovant en entreprise capables de relever les défis de demain, les mutations systémiques, que ce soit dans l'environnement, l'économie, le social... Les innovations qui peuvent répondre à ces problématiques transversales ne peuvent être centrées sur une approche mono-disciplinaire.
+
+L'approche est centrée sur le projet : apprentissage par le faire, DIY et DIWO : les élèves travaillent en groupes projet sur des sujets proposés par des entreprises. Cette approche transdisciplinaire de gestion de projet est destinée aux futurs professionnels de l'innovation dans le secteur privé ou les institutions publiques.
+
+Mots-clés : Intraprenariat, buisiness development, pilotage de projet, Design Thinking, usages, prototypage
+
+
+
+Programme-Méthodologie Design Thinking / Approfondissement-Usagers et enquêtes terrain-Fablab et prototypage rapide-Management de projet / Stratégies et ressources-Réseaux d'acteurs / Approfondissement-Business Development / marché-Facilitation graphique-Pitch◊ créativitéCompétences◊ contextualisation, formulation problématique◊ stratégie de pilotage de projet◊ analyse d'ecosystèmeTravail en groupes projet sur projets réels entreprisesActivités /AutonomieEnquêtes de terrainAKRICH M., CALLON M. et LATOUR B., A quoi tient le succès des innovations ?BibliographieBrown T. L'Esprit design : Comment le design thinking change l'entreprise et la stratégie. PearsonEducation, 2014.Crozier M. et Friedberg E., L'Acteur et le Système.Gaglio G. Sociologie de l'innovation. PUF, 2012.Projet de création d'activité / contrôle continu et soutenances + rapportsContrôle desconnaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60
+
+ AF MOD 10.3
+
+
+Le système électrique
+
+Electric Power System
+
+Responsable(s) : Eric VIGNON
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Le système électrique est une infrastructure majeure des sociétés modernes. La libéralisation du secteur ces dernières années a profondément modifié sa gestion dans un grand nombre de pays et notamment en Europe.
+
+L'objectif du cours est donc d'une part de donner les bases techniques permettant de comprendre le fonctionnement du système électrique et d'autre part de présenter l'organisation de celui-ci a travers le rôle et les relations entre les différents acteurs: producteurs, gestionnaires de réseau de transport, responsables d'équilibre et consommateurs.
+
+Mots-clés : production, transports, gestionnaire de réseau, équilibre production consommation, planification court et long terme
+
+
+
+ProgrammeIntroduction: le système électrique dans le contexte énergétiqueEquilibre production/consommationPlan de tensionLes différents acteurs du système électrique, leurs rôles et leurs relations dans le contexte de lalibéralisation du marché.La planification du réseauAnalyse de grands incidentsFonctionnement d'une bourse de l'énergie électrique◊ Nommer les contraintes et avantages techniques ou économiques d'un système électriqueCompétencesétendu◊ Differentier le rôle des différents acteurs du système électrique◊ Définir les actions permettant de gérer le système électrique◊ Interpréter et expliquer des évolutions observées sur un réseauAnalyse des problèmes de transport - Load flowActivités /AutonomieVisite du dispatching régional de Lyon (installation soumise à restriction d'accès - la visite n'a puavoir lieu en 2016-2017)Simulation du fonctionnement d'une bourse de l'énergieEEEA: Electronique, Energie Electrique, AutomatiqueMastersaffiliésP. Bastard et al. Voyage au coeur du sytème. Eyrolles, 1999.BibliographiePersoz et al. Planification des réseaux électriques. Eyrolles, 1984.Savoir 70%Contrôle desconnaissancesSavoir-faire 30%
+
+
+
+
+
+
+
+
+
+
+
+61
+
+ AF MOD 10.4
+
+
+MOD Parcours Entrepreneur 1
+
+Entrepreneurial coaching
+
+Responsable(s) : Sylvie MIRA BONNARDEL
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Accompagner les élèves porteurs de leur projet entrepreneurial à avancer sur la définition de leur modèle économique, la connaissance de leur marché et la caractérisation de leur offre.
+
+Des experts (droit, finance, ...) viendront apporter leur compétences Mots-clés : Modèle économique, définition de l'offre, création d'entreprise
+
+
+
+Programme
+
+
+
+Compétences
+
+
+
+
+
+
+Activités /
+
+Autonomie
+
+
+Bibliographie
+
+
+
+Séances de coaching sur le projet entrepreneurial avec les ressources adéquates,telles que juriste,
+
+conseiller en propriété industrielle, investisseurs financiers, ....
+
+◊ Préciser les opportunités de marché
+◊ Construire une offre différenciée
+◊ Concevoir un business model complet et détaillé
+◊ Savoir pitcher son projet
+
+Travail sur projet entrepreneurial
+
+
+Osterwalder A., Pigneur Y. Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers. Willey, 2010.
+
+Ries E. The Lean Startup: How Constant Innovation Creates Radically Successful Businesses.
+Penguin, 2011.
+
+Masterson AK. Business Model Generation: The Blueprints Every Entrepreneur in Every Industry Needs Today to Achieve Maximum Profits. CreateSpace Independent Publishing Platform, 2014.
+
+
+
+Contrôle des	Pitch en milieu et fin de MOD
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62
+
+ AF MOD 10.5
+
+
+Ingénierie d'un objet de grande consommation
+
+
+Responsable(s) : Jose PENUELAS, Charles-Edmond BICHOT
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Montrer à des étudiants n'ayant pas suivi auparavant d'études scientifiques l'implication et l'imbrication des sciences et techniques de l'ingénieur à partir d'un objet connu : le CD. Ce module est l'occasion d'introduire l'approche multidisciplinaire propre à l'ingénieur généraliste en exposant les concepts et les outils de la physique, de la science des matériaux, de l'informatique, du traitement du signal et de l'automatique qui coexistent dans la conception et la réalisation d'un CD.
+
+Mots-clés : Ingénierie , Matériaux , Physique , Traitement du signal , Informatique , Automatique , Conception
+
+
+
+Programme	1 - Présentation générale
+2 - Physique : le laser
+3 - Les matériaux du CD
+4 - Les fondamentaux de l'informatique
+5 - Représentation de l'information
+6 - Conception
+7 - Traitement du signal : de l'analogique au numérique
+8 - Automatique : les principes de base du contrôle / commande
+
+
+Compétences	◊ Comprendre la nature multidisciplinaire de la conception des objets du quotidien
+◊ Posséder quelques fondamentaux dans les disciplines impliquées
+◊ Programmer un logiciel simple
+
+
+Activités /	6 séances de TD de 2h permettant de découvrir ,de manière accompagnée, la programmation
+
+Autonomie	informatique sur une série de petits cas concrèts.
+
+
+Bibliographie	T. Goussard. Java 8, les fondamentaux du langage Java avec exercices et corrigés. ENI.
+
+
+
+Contrôle des Il prendra en compte le travail effectué lors des séances de bureau d'études (1/3) ainsi que la connaissances note de l'examen final (sans document = 2/3).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+63
+
+ AF MOD 11.3
+
+
+MOD Parcours Entrepreneur 2
+
+Entrepreneurial coaching
+
+Responsable(s) : Sylvie MIRA BONNARDEL
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Accompagner les élèves porteurs de leur projet entrepreneurial à avancer sur la définition de leur modèle économique, la connaissance de leur marché et la caractérisation de leur offre.
+
+Des experts (droit, finance, ...) viendront apporter leur compétences Mots-clés : Modèle économique, définition de l'offre, création d'entreprise
+
+
+
+Programme
+
+
+
+Compétences
+
+
+
+
+
+
+Activités /
+
+Autonomie
+
+
+Bibliographie
+
+
+
+Séances de coaching sur le projet entrepreneuriale avec les ressources adéquates,telles que juriste, conseiller en PI, financiers...
+
+◊ Préciser les opportunités de marché
+◊ Construire une offre différenciée
+◊ Concevoir un business model complet et détaillé
+◊ Savoir pitcher son projet
+
+Travail sur projet entrepreneurial
+
+
+Osterwalder A., Pigneur Y. Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers. Willey, 2010.
+
+Ries E. The Lean Startup: How Constant Innovation Creates Radically Successful Businesses.
+Penguin, 2011.
+
+Masterson AK. Business Model Generation: The Blueprints Every Entrepreneur in Every Industry Needs Today to Achieve Maximum Profits. CreateSpace Independent Publishing Platform, 2014.
+
+
+Contrôle des	Pitch en milieu et fin de MOD
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+64
+
+ AF MOD 11.4
+
+
+Méthodes variationnelles pour les EDP
+
+Variational methods for PDEs
+
+Responsable(s) : Martine MARION
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Les méthodes variationnelles ou méthodes d'énergie sont fondamentales dans l'étude des équations aux dérivées partielles (ou EDP) linéaires et surtout non linéaires. Elles reposent sur des estimations des solutions dans des espaces fonctionnels adaptés et sur l'utilisation d'outils puissants d'analyse fonctionnelle. Le but de ce cours est de
+
+- présenter les notions fondamentales d'analyse à la base de ces méthodes
+- montrer comment elle peuvent être utilisées pour étudier des EDP stationnaires (dites elliptiques) ainsi que des EDP d'évolution (dites paraboliques).
+
+Ces notions seront notamment illustrées par l'étude de divers problèmes issus de la physique mathématique. Pré-requis : il est recommandé d'avoir suivi le cours S8 'Analyse Fonctionnelle' (ou toute formation équivalente).
+
+Mots-clés : Equations aux dérivées partielles, solutions faibles, problèmes linéaires et non linéaires, méthodes variationnelles
+
+
+
+Programme	Chapitre 1. Espaces de Sobolev
+- notions sur les distributions
+- théorèmes de trace et de densité
+Chapitre 2. Problèmes aux limites elliptiques linéaires
+- Méthodes variationnelles
+- Problèmes aux valeurs propres
+Chapitre 3. Problèmes elliptiques non linéaires
+- Topologie faible
+- Méthode de Galerkin
+Chapitre 4. Problèmes paraboliques
+- Fonctions à valeurs vectorielles
+- Formulation variationnelle d'un problème modèle
+
+
+Compétences	◊ Acquérir les notions d'analyse permettant l'étude des EDPs
+◊ Savoir les appliquer à divers problèmes
+
+
+Masters	Master mention "Mathématiques appliquées, statistiques", parcours "Maths en action"
+
+affiliés
+
+
+Bibliographie	H. Brézis. Analyse fonctionnelle. Dunod, 2005.
+
+L. Evans. Partial Differential Equations. AMS, 1998.
+
+J.-L. Lions. Quelques méthodes de résolution des problèmes aux limites non linéaires. Dunod et Gauthier-Villars, 1969.
+
+
+Contrôle des	Examen de 2H (note de savoir 70%) - Compte-rendus de BE (note de savoir-faire 30%)
+
+connaissances
+
+
+
+
+
+
+
+
+
+65
+
+ AF MOD OUV
+
+
+Ouverture socio-économique et culturelle
+
+
+Responsable(s) : Florence MILON
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours|
+
+
+Objectifs de la formation
+
+
+Mieux connaître les spécificités de "l'ingénieur à la française" et la culture d'une entreprise française, sensibiliser à l'ouverture interculturelle et améliorer l'intégration des élèves internationaux de 3A.
+
+Mots-clés : Ouverture, altérité, interculturel, intégration, communication, relations, culture d'une entreprise française
+
+
+
+ProgrammeElèves internationaux (18h + participation au forum),élèves de l'EM (12h + participation au forum et à trois conférences).Apports théoriques sur les les notions d'interculturalité, présentation de films interculturels etateliers par groupes de nationalités différentes sur des thématiques culturelles.Réflexion autour de l'intégration des élèves internationaux (accueil, difficultés rencontrées...) àpartir de questionnaires, propositions d'amélioration.Enquêtes auprès d'ingénieurs français et tables rondes avec un ingénieur français ayant travaillé àl'international et un ingénieur étranger travaillant en France.Aide à la recherche de stage TFE (CV, lettre de motivation, simulation d'entretien).Soirée internationale (spécialités culinaires des différents pays).◊ Compétences de communication orale et écriteCompétences◊ Compétences culturelle et interculturelleActivités à faire en binôme de nationalités différentes (réalisation de l'enquête, rédaction d'unActivités /Autonomierapport d'étonnement sur une thématique en lien avec le champ professionnel).M. SAUQUET, M. VIELAJUS. L'intelligence interculturelle, 15 thèmes à exploiter pour travailler auBibliographiecontact d'autres cultures. Charles Léopold Mayer, 2014.CV, lettre de motivation, entretien (élèves internationaux), restitution orale de l'enquête auprèsContrôle desconnaissancesd'un ingénieur français, rapport d'étonnement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36 av. Guy de Collongue
+
+69134 Écully cedex
+
+T + 33 (0)4 72 18 60 00
+
+www.ec-lyon.fr
+
+SIRET 196 901 870 000 10 - APE 8542Z
+
+
+67

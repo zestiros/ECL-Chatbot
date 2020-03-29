@@ -1,0 +1,79 @@
+
+ AF MOD 7.4
+
+
+Dynamique des structures
+
+Structural dynamics
+
+Responsable(s) : Olivier DESSOMBZ, Louis JEZEQUEL
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'analyse dynamique des structures à l'aide des méthodes de synthèse modale et d'éléments finis a trouvé un grand nombre d'applications industrielles (aéronautique, automobile, construction navale, ferroviaire, génie civil). Le but principal de ce cours est de présenter ces méthodes dans un cadre général en menant en parallèle et en interaction une approche numérique et une approche expérimentale basée sur des essais vibratoires. La correction des modèles et l'influence de l'amortissement sont aussi abordées.
+
+Mots-clés : Éléments finis - modélisation - méthodes numériques - analyse modale numérique - sous-structuration - synthèse modale - amortissement
+
+
+
+Programme	PARTIE 1 : MODÈLES ÉLÉMENTS FINIS
+- Introduction
+- Discrétisation par éléments finis
+- Modification de la formulation matricielle globale
+- Problèmes conservatifs standard
+- Problème spectral
+- Intégration temporelle du problème transitoire
+- Cas des machines tournantes
+PARTIE 2 : OPTIMISATION DU COMPORTEMENT DYNAMIQUE
+- Origine de dissipation
+- Modélisation de l'amortissement
+- Introduction de matériaux amortissants
+- Identification des matrices d'amortissement
+- Synthèse modale
+- Perturbation des modèles dynamiques
+- Lien avec les procédés de conception
+
+Compétences
+◊ Modéliser une structure par éléments finis
+
+◊ Utiliser un code de calcul industriel par éléments finis généraliste
+
+◊ Appréhender les fondements des méthodes par éléments finis
+
+Activités pratique : 2 TP de 4h (expérimental) + 4h BE sur logiciel
+Activités /
+
+Autonomie
+
+
+Master Mécanique
+Masters
+
+affiliés
+
+
+J.-.F. IMBERT. Analyse des structures par éléments finis (3ème ed). Cepadues, 1995.
+Bibliographie
+
+
+M. GERARDIN, D. RIXEN. Théorie des vibrations. Masson, 1996.
+
+L. MEIROVITCH. Computational methods in structural dynamics. Sijthoff Nordhoff, 1980.
+
+50% savoir (Test)
+Contrôle des
+
+connaissances
+50% savoir faire (TP1 1/4, TP2 1/4, BE 1/2)
+
+
+
+
+

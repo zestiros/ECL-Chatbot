@@ -1,0 +1,75 @@
+
+ AF GM tc 4
+
+
+Conception de mécanismes
+
+Mechanism Design
+
+Responsable(s) : Paul Clozel
+
+| Cours : 4 h | TD : 4 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Connaître et dimensionner les éléments de transmission de puissance, notamment ceux utilisés dans le monde du transport terrestre, maitriser leur fonctionnement et analyser leurs performances.
+
+Mots-clés :
+
+
+
+Programme	Éléments de technologie pour la transmission de puissance Trains épicycloïdaux et applications
+Boîtes de vitesses et variateurs
+Étagement d'une boîte de Vitesses, performances.
+Architectures de véhicules hybrides
+
+3 Bureaux d’études de 4h :
+- Analyse du fonctionnement d'une Boîte de Vitesses DSG7.
+- Simulation du fonctionnement d'une Boite de Vitesses et d'un différentiel DPC (à partir du logiciel Catia et des applications).
+
+- Etude du système de transmission de puissance d’un véhicule 4x4
+
+
+Compétences	◊ Être capable de réaliser l’analyse fonctionnelle d’un système de transmission mécanique.
+◊ Être capable d'analyser et simuler le fonctionnement d’un système de transmission mécanique.
+
+
+Bibliographie	Esnault F.. Construction mécanique, Tomes 1. Dunod, 2009.
+
+Esnault F.. Construction mécanique, Tomes 2. Dunod, 2009.
+
+Esnault F.. Construction mécanique, Tomes 3. Dunod, 2009.
+
+
+
+Contrôle des	Compte-rendu de Bureaux d’études, participation
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

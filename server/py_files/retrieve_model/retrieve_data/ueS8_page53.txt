@@ -1,0 +1,88 @@
+
+ AF ELC F-2
+
+
+Systèmes mécatroniques intelligents
+
+Intelligent Mechatronic Systems
+
+Responsable(s) : Mohamed ICHCHOU, Manuel COLLET, Anton KORNIIENKO, Cédric MAR-CHAND
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 4 h | BE : 8 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ces dernières années ont été marquées par le remplacement de systèmes mécaniques par des systèmes mécatroniques
+
+: des systèmes " intelligents " imbriquant étroitement des technologies mécaniques, électroniques, automatiques et informatiques temps réel.
+
+Si traditionnellement les systèmes mécatroniques sont des systèmes de très haute technologie comme les véhicules aéronautiques et spatiaux, ils ont pris une place importante dans des produits manufacturiers grands publics. La conception des systèmes mécatroniques procède d'une démarche pluridisciplinaire à l'interaction entre la Mécanique et l'EEA.
+
+L'objectif de ce cours est de comprendre cette démarche et les éléments importants des différentes disciplines impliquées, illustration étant contrôle actif de vibrations.
+
+Mots-clés : Mécatronique, Contrôle actif, vibrations, commande fréquentielle.
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+1. Introduction à la Mécatronique (2h)
+2. Systèmes mécaniques (4h)
+3. Commande des systèmes mécaniques flexibles (4h)
+4. Systèmes électroniques embarqués pour la mécatronique (4h)
+5. Amortissement actif des structures (2h)
+6. Mise en œuvre pratique (2 BE de 4h + TP 4h)
+
+◊ Savoir identifier les différents sous-ensembles d'un système mécatronique.
+◊ Connaitre les principes et méthodes mis en oeuvre dans le dimensionnement des sous-systèmes
+
+◊ Etre capable d'analyser les contraintes techniques croisées entre les différents sous systèmes: performances/dimensionnement
+
+◊ Etre capable de donner les principaux éléments du cahier des charges d'un système mécatronique
+
+Objectifs : Développer un esprit critique et analyser un article scientifique sur un sujet concernant les systèmes mécatroniques intelligents.
+
+Méthodes : Un rapport par binôme sur 1-3 pages comportant une analyse critique de l'article est rendu avant le test final.
+
+
+Bibliographie	Robert H. Bishop. Mechatronics: an introduction. Taylor and Francis, 2005.
+
+A. Preumont. Active control of structures. J. Wiley & Sons, 2008.
+
+Rolf Iserman. Mechatronic Systems: Fundamentals. Springer, 2005.
+
+
+Contrôle des Le contrôle de connaissance comprend l'évaluation du travail en Autonomie (synthèse d'articles), connaissances d'un test, des BE et TP.
+
+
+
+
+
+
+

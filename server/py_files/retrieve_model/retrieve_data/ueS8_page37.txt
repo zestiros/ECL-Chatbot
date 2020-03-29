@@ -1,0 +1,81 @@
+
+ AF ELC D-2
+
+
+Filtrage adaptatif application au contrôle actif de bruit
+
+Adaptive Filtering: Application to Active Noise Control
+
+Responsable(s) : Laurent BAKO, Marie-Annick GALLAND, Alberto BOSIO
+
+| Cours : 12 h | TD : 6 h | TP : 8 h | Autonomie : 6 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Depuis quelques années, le filtrage adaptatif a permis de développer de nombreuses applications (annulation d'échos en téléphonie, égalisation en télécommunication, amélioration des signaux en génie biologique et médical,...). Ce cours a pour objectif de montrer à travers des applications essentiellement dans le domaine de l'acoustique, les fondements, la mise en oeuvre et l'intérêt du filtrage adaptatif. L'originalité de cet enseignement est d'aborder de manière transversale les aspects fondamentaux et appliqués reliés en Traitement du signal, Electronique et Acoustique. Parmi les applications de techniques de filtrage adaptatif, on privilégiera plus spécifiquement dans ce cours l'étude des systèmes de contrôle actif du bruit.
+
+Mots-clés : Filtrage de Wiener, Algorithmes de filtrage adaptatifs (LMS, RLS, ...), Processeurs dédiés au traitement de signal (DSP), Acoustique, Contrôle actif de bruit
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+Introduction aux applications du filtrage adaptatif
+Filtrage déterministe de Wiener et Optimisation quadratique
+Filtrage adaptatif et Algorithme LMS
+Architecture des DSPs (Processeurs dédiés au Traitement du Signal)
+Mise en œuvre des DSPs
+Introduction à l'acoustique
+Contrôle passif de bruit
+Contrôle actif de bruit et applications
+
+◊ Définir les enjeux et le cadre conceptuel du filtrage adaptif
+◊ Appliquer les algorithmes de filtrage adaptatif
+◊ Expliquer l'architecture des processeurs dédiés au traitement de signal
+◊ Mettre en oeuvre les méthodes de filtrage adaptatif pour le contrôle actif de bruit
+
+Objectifs : Objectifs pédagogiques visés: effectuer le design complet d'un système de contrôle actif de bruit (diagnostic acoustique, choix de l'algorithme, simulation, performances, implémenta-tion sur DSP)
+
+Méthodes : Mini-projet par groupe de 5 étudiants suivi d'un exposé : le travail s'appuie sur des données issues de mesures, des programmes Matlab et Simulink à adapter ; il est demandé de proposer une solution argumentée et d'analyser les résultats
+
+
+Bibliographie	Simon Haykin. Adaptive Filter Theory. 5th Ed, Prentice Hall, 2013.
+
+Phil Lapsley, Jeff Bier, Amit Shoham, E.A. Lee. DSP Processor Fundamentals: Architectures and Features. Wiley-Press, 1997.
+
+
+Contrôle des Le contrôle de connaissance comprend une épreuve individuelle écrite de 1h et l'évaluation du connaissances travail en Travaux pratiques et Autonomie.
+
+
+
+
+
+

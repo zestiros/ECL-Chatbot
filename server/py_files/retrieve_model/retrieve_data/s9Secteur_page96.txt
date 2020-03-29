@@ -1,0 +1,72 @@
+
+ AF TV 3.2
+
+
+Ingénierie des transports
+
+Transports Engineering
+
+Responsable(s) : Olivier BAREILLE, Benjamin CHOUVION
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+L’ingénierie des transports est ici abordée sous deux angles.
+
+Solutions techniques véhicule
+- liaison au sol
+- prestations véhicule : acoustique et confort
+- approche organique / architecture véhicule
+
+Solutions de mobilité
+- architecture de transport collectifs
+- intégration urbaine de solutions de transport multi-modal
+- méthode de conception de ligne de transports
+
+Mots-clés : Mobilité, Véhicule, Organes véhicule, Réseaux de transports
+
+
+
+Programme
+
+
+Compétences	◊ Capacité à appréhender toutes les dimensions scientifiques et techniques d'un projet
+◊
+◊
+◊
+
+
+
+
+Contrôle des	note de savoir : 100%
+
+connaissances	examen écrit individuel terminal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

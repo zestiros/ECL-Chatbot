@@ -1,0 +1,70 @@
+
+ AF ICo 3.5
+
+
+Bureaux d'Etudes
+
+
+Responsable(s) : Olivier DESSOMBZ
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 28 h | Projet : 0 h | langue du cours    |
+
+
+Objectifs de la formation
+
+
+BE CONTROLE DYNAMIQUE DES BATIMENTS : optimisation d'un système anti-vibratoire pour bâtiments
+
+Mots-clés : Coordonnées généralisées, représentation d'État, modélisation, simulation ; incertitudes - conception - cahier des charges - optimisations - aléatoire - stochastique - intervalles
+
+
+
+Compétences	◊ Connaître les grandes méthodes de prise en comptes des incertitudes dans les systèmes mécaniques
+◊ Optimiser un système TMD (tuned mass damper)
+
+
+Contrôle des	Notation du compte-rendu de BE
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,70 @@
+
+ AF STI tc 0
+
+
+Autonomie
+
+Autonomous work
+
+Responsable(s) : E. Blanco, I O'Connor, G. Scorletti
+
+| Cours : 0 h | TD : 0 h | TP : 0 h | Autonomie : 2 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le travail en autonomie permet aux élèves d'approfondir les enseignements en électronique et traitement du signal, à l'aide de simulations (respectivement à l'aide de PSPSICE et MATLAB). L'autonomie liée à TC1 (systèmes électroniques) consiste en la simulation de montages électroniques étudiés en TD. L'autonomie liée à TC2 consiste en un travail de type projet (simulations MATLAB).
+
+Le travail en autonomie est initié lors d'une séance de lancement (une par AF TC1 et TC2).
+
+Mots-clés : simulation, PSPSICE, MATLAB
+
+
+
+Programme	Une séance de lancement chaque semestre pour chaque AF TC1 et TC2 Travail en autonomie durant le semestre
+Evaluation du travail en autonomie par une séance de restitution orale individuelle
+
+
+Compétences	◊ savoir mettre en oeuvre les outils de simulation
+◊ connaître les méthodes existantes et savoir les mettre en oeuvre
+◊ savoir analyser des résultats de simulation
+
+
+Contrôle des Ce travail en autonomie est évalué en fin de semestre lors d'une séance spécifique de restitution connaissances (évaluation orale de 15 minutes sur une des 2 AF).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

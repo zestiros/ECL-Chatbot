@@ -1,0 +1,79 @@
+
+ AF ECS tc 2
+
+
+Automatique linéaire
+
+Linear Control
+
+Responsable(s) : Catherine Musy-Bassot, Emmanuel Boutleux
+
+| Cours : 12 h | TD : 14 h | TP : 4 h | Autonomie : 0 h | BE : 2 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif du cours est de dégager les points communs à tout problème d'automatique linéaire : le choix de l'instrumentation, l'expression du cahier des charges et le choix de la structure de commande. Des procédures d'analyse et de résolution sont présentés avec le placement de pôles (dont la commande RST) et l'étude fréquentielle.
+
+Mots-clés : Structure et loi de commande, procédé SISO, poursuite et régulation, système de référence, placement de pôles, commande RST, analyse fréquentielle.
+
+
+Programme
+Problématique
+
+Du cahier des charges au système de référence
+
+Réalisation des correcteurs
+
+Méthodes empiriques de synthèse de correcteurs
+
+Bases de la modélisation
+
+Commande par placement de pôles
+
+Synthèse fréquentielle de correcteurs
+
+
+Compétences	◊ Être capable de poser un problème de commande à partir du cahier des charges.
+◊ Prévoir le comportement d'un procédé via la position des pôles de sa fonction de transfert ou de ses paramètres fréquentiels.
+
+◊ Savoir écrire une loi de commande simple permettant de placer les pôles ou d'imposer le comportement fréquentiel.
+
+◊ Programmer un correcteur numérique à partir de sa fonction de transfert analogique.
+
+
+
+Bibliographie	Ph. de Larminat. Automatique, commande des systèmes linéaires. Editions Hermès, 1993.
+
+L. Maret. Régulation automatique. Presses Polytechniques Romandes, 1987.
+
+Ph. de Larminat. Analyse des systèmes linéaires. Editions Hermès,, 2002.
+
+
+
+Contrôle des	Examen écrit final (2h), microtest, TD, TP
+
+connaissances	Note =0.9 Savoir (0.8 exam+0.1 exos TD au tableau+0.1 microtest) + 0.1 Savoir-Faire (TP/BE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

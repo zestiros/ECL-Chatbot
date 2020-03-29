@@ -1,0 +1,87 @@
+
+ AF MOD 6.2
+
+
+Matière molle : nanosystèmes et interfaces biologiques
+
+
+Responsable(s) : Denis MAZUYER
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+De nombreux systèmes moléculaires complexes sont utilisés, en très faible concentration pour contrôler les fonctionnalités des produits (cristaux liquides, cosmétiques, peintures, aliments) en donnant une réponse très forte à un signal de commande très faible. Ces technologies font appel à un fort état de division de la matière qui conduit à la création de grandes interfaces. À ces échelles, les équilibres des forces prévalant au niveau macroscopique sont bouleversés et les forces de surface interviennent directement dans la physique des nano-systèmes. Le but est ici de présenter les processus fondamentaux régissant la dynamique de cet état particulier de la matière et d'identifier le comportement d'objets courants (savons, polymères,...) en vue de leur utilisation/conception/fabrication.
+
+Mots-clés : Mouillage, capillarité, adhésion, rhéologie,colloïdes, biotechnologies
+
+
+
+Programme
+1. L'état colloïdal
+
+Définition, classification et propriétés physico-chimiques des systèmes colloïdaux
+
+Systèmes moléculaires organisés (de l'agrégat micellaire aux cristaux liquides ordonnés) et
+
+stabilité
+
+Capillarité et mouillage : ménisques et dynamique d'étalement de gouttes
+
+2. Solutions de polymères
+
+Configurations des polymères dissous
+
+Polymères aux interfaces : Adsorption, greffage, stabilisation stérique
+
+3.Transports des milieux colloïdaux
+
+Introduction à la rhéologie expérimentale
+
+Écoulement des solutions concentrées et interactions colloïdales
+
+Rhéologie des suspensions
+
+4. Dispersions colloïdales et applications bio-médicales
+
+Les biofluides et les tissus biologiques
+
+Colloïdes en diagnostic et biotechnologie.
+
+P.-G. de Gennes, F. Brochard, D. Quéré,. Gouttes, perles et ondes. Belin, 2001.
+Bibliographie
+
+
+P. Coussot, Ph. Ancey,. Rhéophysique des pâtes et des suspensions. EDP Sciences, 2000.
+
+D. Tabor. Gases, Liquids and Solids and Other States of Matter. Third edition, Cambridge
+
+University Press, 1991.
+
+Analyse critique d'un article scientifique : restitution orale et écrite (coeff. 2/3)
+Contrôle des
+
+connaissances
+Comptes rendus des activités partiques (coeff. 1/3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

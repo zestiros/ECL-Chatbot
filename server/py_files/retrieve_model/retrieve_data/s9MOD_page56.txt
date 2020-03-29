@@ -1,0 +1,87 @@
+
+ AF MOD 9.3
+
+
+Stabilité des Systèmes Mécaniques
+
+Stability of mechanical systems
+
+Responsable(s) : Louis JEZEQUEL, Jean-Jacques SINOU
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Lors de la conception des structures et des systèmes mécaniques, il est impératif de maîtriser les risques d'instabilité provenant de nombreux phénomènes. On peut citer en particulier les divers couplages de nature non-conservative liés à l'existence de frottements ou de contacts entre une structure élastique en mouvement et un fluide ou un solide. Par ailleurs, les phénomènes de flambement et de cloquage sont de plus en plus dimensionnants compte tenu de l'allégement des structures associé à l'utilisation de nouveaux matériaux. Dans les domaines du transport, du Génie Civil et de l'énergie, on peut citer : les bruits de freins, la résistance aux crashs, les instabilités de machines tournantes, le risque d'effondrement des bâtiments, stabilité des systèmes de forage.....
+
+Mots-clés : Stabilité, crissement de freins, fluide-structure, machines tournantes, couplage aéroélastique, couplage hydro-élastique
+
+
+
+Programme
+I. Analyse générale de la stabilité
+
+II. Flambement des structures élastiques
+
+III. Structures élastiques non conservatives
+
+IV. Stabilité des systèmes gyroscopiques
+
+V. Application aux structures frottantes
+
+VI. Applications aux structures couplées avec un écoulement
+
+◊ Développer une vision synthétique des risques d'instabilités des systèmes mécaniques en phase
+Compétences
+
+
+de conception.
+
+◊ S'initier aux outils de calcul permettant de prévoir les risques d'instabilités.
+
+◊ Comprendre les phénomènes de couplage à l'origine des instabilités.
+
+Apprendre et approfondir une partie du cours.
+Activités /
+
+Autonomie
+Analyse bibliographique et réflexion sur un problème d'application.
+
+Master Mécanique
+Masters
+
+affiliés
+
+
+Wanda Szemplinska-Stupnicka. The behavior of Nonlinear Vibrating systems Vol. 1. Fundamental
+Bibliographie
+
+
+concepts and methods : applications to single-Degree of freedom Systems.
+
+Robert D. Blevins. Flow-Induced vibration.
+
+Roland Bigret. Stabilité des machines tournantes et des systèmes.
+
+Bureaux d'étude
+Contrôle des
+
+connaissances
+Test
+
+
+
+
+
+
+
+
+
+
+
+

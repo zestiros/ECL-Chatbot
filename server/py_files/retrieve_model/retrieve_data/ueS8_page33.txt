@@ -1,0 +1,71 @@
+
+ AF ELC C-7
+
+
+Simulation multiphysique en conception mécanique
+
+Multiphysics Simulation in Mechanical Design
+
+Responsable(s) : Sébastien BESSET, Louis JEZEQUEL
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 6 h | BE : 12 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif de l'enseignement est de présenter les formulations et les méthodes de
+discrétisation capables de simuler des problèmes couplés. Dans ce but, les formulations intégrales et variationnelles, adaptées aux milieux fluides et solides, seront analysées et mises en complémentarité. Des mises en œuvre numériques sur des exemples concrets seront effectuées dans la cadre de 3 BE. Le couplage fluide-structure, avec et sans écoulement, sera particulièrement étudié ainsi que le couplage électromagnétique et électro-statique dans le cas des milieux solides et fluides (piézo-électiques, ferro-fluides, magnéto-strictifs).
+
+Mots-clés : multiphysique, discrétisation, couplage, formulation intégrale
+
+
+
+Programme	1/ Discrétisation des problèmes
+Cas des milieux sans écoulement : Formulations intégrales ; Formulations variationnelles.
+Cas des fluides en écoulement : Volumes finis, Formulations variationnelles.
+2/ Couplage fluide-structure
+Vibro-acoustique des structures couplées à un fluide compressible et non compressible.
+Calcul du comportement des structures soumises à un écoulement fluide.
+3/ Couplage thermo-mécanique
+Formulation des problèmes thermo-mécaniques
+Calcul des comportements stationnaires et transitoires. Application au système de freinage.
+4/ Couplage électro--mécanique
+Calcul du comportement dynamique des structures possédant des matériaux piézo-électriques.
+Calcul du comportement des solides et des fluides soumis à des champs électromagnétiques.
+
+
+Compétences	◊ Comprendre la complexité d'un problème multiphysique
+◊ Savoir formuler un couplage entre deux physiques
+◊ Connaître les outils adaptés à la résolution d'un problème multiphysique
+◊ Savoir analyser et critiquer les résultats de la résolution
+
+
+Bibliographie	F. Brezzi & M. Fortin. Mixed and hybrid finite element methods.
+
+C.A. Bredia, S. Kim, T.A. Osswald & H. Power. Boundary elements XVII.
+
+Klauss J. Bathe. Finite element procedures in engineering analysis.
+
+
+Contrôle des	1 examen + 3 BE
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

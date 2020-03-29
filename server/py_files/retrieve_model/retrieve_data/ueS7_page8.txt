@@ -1,0 +1,73 @@
+
+ AF ECS tc 0
+
+
+Autonomie
+
+Autonomous work
+
+Responsable(s) : Christian Vollaire
+
+| Cours : 0 h | TD : 24 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Acquérir des connaissances complémentaires aux cours d'énergie électrique et d'automatique des procédés linéaires par un travail en autonomie autour de l'utilisation d'applications logicielles (Matlab ou dédiées).
+
+Mots-clés : Automatique, électrotechnique
+
+
+
+Programme	Thème 1 : Automatique linéaire
+Analyse d'un dispositif physique, modélisation, synthèse de régulateurs
+Thème 2 : Électrotechnique
+Magnétostatique, électronique de puissance
+
+
+Compétences	◊ Être capable d'analyser un problème complexe.
+◊ Être capable d'acquérir des connaissances spécifiques en vue de résoudre un problème.
+◊ Mettre en oeuvre les méthodes vues dans le cours et en TD.
+◊ Analyser des résultats de simulation et leur donner du sens.
+
+
+
+
+Contrôle des Évaluation de chaque étudiant au travers d'un entretien de 20 min sur un des deux thèmes connaissances (automatique ou électrotechnique)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

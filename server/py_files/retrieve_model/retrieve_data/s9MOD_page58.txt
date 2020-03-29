@@ -1,0 +1,92 @@
+
+ AF MOD 9.5
+
+
+Réseaux informatiques
+
+Computer networks
+
+Responsable(s) : René CHALON
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours expose les principes et les protocoles de base des réseaux informatiques en mettant l'accent sur les protocoles TCP/IP. Les caractéristiques et les architectures des réseaux locaux, moyens et hauts débits ainsi que les protocoles d'Internet sont détaillés de manière systématique et méthodique. Cette approche à la fois conceptuelle et pratique permet à chacun de mieux comprendre l'offre actuelle, l'évolution et les perspectives des réseaux informatiques actuels et futurs.
+
+Mots-clés : réseaux, modèle OSI, Ethernet, Internet, IP, Wi-FI, Internet, IP, TCP, UDP, DNS, HTTP
+
+
+
+Programme
+Cours :
+
+1- Introduction : concepts généraux, modèles OSI et architecture TCP/IP
+
+2- Couche physique : support et transmission des données
+
+3- Réseaux locaux : topologies, Ethernet, WiFi
+
+4- Couche Réseau : notion d'internet, protocole IP, adressage, routage, IPv6
+
+5- Couche transport : TCP, UDP, SCTP
+
+6- Couche application : modèle client/serveur, DNS, messagerie électronique, FTP, World Wide
+
+Web
+
+Bureaux d'étude :
+
+1- Etude détaillée d'Ethernet avec un simulateur réseau
+
+2- Etude détaillée d'IP avec un simulateur réseau
+
+3- Etude du protocole HTTP
+
+◊ Connaitre les principes des réseaux informatiques
+Compétences
+
+
+◊ Analyser et concevoir des réseaux locaux Ethernet
+
+◊ Analyser et concevoir des réseaux basés sur les protocoles TCP/IP
+
+Chaque élève reçoit une licence individuelle du simulateur réseau lui permettant d'effectuer les BE
+Activités /
+
+Autonomie
+et de concevoir ses propres architectures de réseaux.
+
+Informatique
+Masters
+
+affiliés
+
+
+G. Pujolle et al.. Les réseaux. Eyrolles, 2018.
+Bibliographie
+
+
+D. Comer. Internetworking with TCP/IP - Volume 1, Principles, Protocols and Architecture. Pearson, 2015.
+
+C. Servin. Réseaux et Télécoms. Dunod, 2013.
+
+50 % savoir : Examen écrit sans documents de 2h.
+Contrôle des
+
+connaissances
+50 % savoir-faire : Evaluation des bureaux d'étude (1/3 chacun)
+
+
+
+
+
+
+
+
+

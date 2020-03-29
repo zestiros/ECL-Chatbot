@@ -1,0 +1,78 @@
+
+ AF MSS tc 2
+
+
+Expérimentations et Simulations en mécanique des solides
+
+Continuum solid mechanics - experiments
+
+Responsable(s) : Olivier Bareille et Cécile Nouguier
+
+| Cours : 0 h | TD : 0 h | TP : 16 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+A travers un ensemble d'activités pratiques, en parallèle des notions théoriques abordées en MSS tc 1, cette action de formation doit permettre aux élèves de : se sensibiliser aux phénomènes physiques en mécanique, connaître différentes techniques de mesure des variables utiles en mécanique (extensométrie, accélérométrie, photoélasticimétrie, stroboscopie, etc.), développer la mise en situation concrète des concepts théoriques et favoriser ainsi leur assimilation, savoir valider des résultats expérimentaux : analyse critique de la qualité et de la pertinence des mesures réalisées, confronter résultats expérimentaux et résultats issus d'approches théoriques ou numériques.
+
+Mots-clés : Déformations, contraintes, modes propres, phénomène de résonance, mesures statiques et dynamiques, méthodes expérimentales et numériques, méthode des éléments finis
+
+
+Programme
+TP Découverte
+
+TP1 : Etudes des phénomènes de résonance d'une structure flexible ;
+
+TP2 : Photoélasticimétrie - Visualisation du champ de contraintes dans des solides 2D, mesure
+
+des contraintes par photoélasticimétrie.
+
+TP Mesures et analyses
+
+TP3 : Détermination des modes propres de structures élastiques continues ;
+
+TP4 : Extensométrie (mesures par jauges de déformation) - Dépouillement analytique, application
+
+à la détermination du champ de contraintes.
+
+BE éléments finis : calcul de structures à l'aide d'un logiciel fondé sur la méthode des éléments
+
+finis : cas statique interprété en termes de contraintes et déformations, cas dynamique interprété
+
+en termes de modes propres.
+
+
+Compétences	◊ Maîtriser les notions élémentaires de déformations et de contraintes pour le solide déformable
+◊ Comprendre le lien entre hypothèses, modélisation et phénomènes physiques associés
+◊ Savoir identifier les éléments d'une chaine de mesure
+◊ Savoir rédiger un compte-rendu de travaux pratiques et de bureau d'études
+
+Travail en
+Objectifs : Être sensibilisé aux exigences et à la rigueur d'une analyse expérimentale.
+autonomie
+Méthodes : Apprentissage et maîtrise des instruments par une prise en main directe lors des
+
+séquences de mesure, avec assistance des enseignants
+
+Les compte-rendus de TP/BE sont notés; la participation en séances est notée.
+Contrôle des
+
+connaissances
+La note finale de cette AF est la moyenne de ces notes.
+
+
+
+
+
+
+
+
+
+
+
+
+

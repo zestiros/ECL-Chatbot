@@ -1,0 +1,82 @@
+
+ AF INF a 3-EG
+
+
+Applications concurrentes, mobiles et réparties en Java
+
+Java application programming: Android development, concurrency, distributed applications and graphical user interfaces
+
+Responsable(s) : Charles-Edmond Bichot
+
+| Cours : 20 h | TD : 12 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 16 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Après la découverte de la programmation objet en tronc commun, ce cours vise à poursuivre l'apprentissage de la programmation en étudiant :
+- les interfaces homme-machine, ou comment offrir à l'utilisateur une belle interface ergonome ;
+- la concurrence, ou comment utiliser plusieurs cœurs d'un microprocesseur pour faire un calcul en parallèle ;
+- la programmation répartie, ou comment faire travailler ensemble des ordinateurs distants sur un réseau. C'est l'un des principes entre autre du fonctionnement du cloud computing ;
+
+- la programmation mobile, ou comment programmer sous ANDROID.
+
+Java est un langage très utilisé dans l'industrie, plus facile à appréhender que le C++, disposant de vastes bibliothèques pour faciliter la programmation et indispensable à la programmation sous ANDROID.
+
+Mots-clés : Informatique, Java, ANDROID, concurrence, parallélisme, programmation répartie, IHM, interface utilisateur
+
+
+
+Programme
+Le langage Java
+
+Programmation par événement (interfaces homme-machine, IHM)
+
+Programmation concurrente (processus, parallélisme du calcul)
+
+Programmation distribuée (Java RMI)
+
+Programmation des appareils informatique mobile (ANDROID)
+
+
+Compétences	◊ Savoir développer une application ANDROID
+◊ Savoir programmer en Java une application répartie sur plusieurs ordinatuers reliés par un réseau
+
+◊ Savoir développer une application concurrente utilisant plusieurs processeurs
+◊ Savoir programmer une interface utilisateur (IHM) ergonome et fluide
+
+Travail en
+Objectifs : Réaliser un travail de groupe visant à produire une application fonctionnelle en s'ap-
+autonomie
+puyant sur les concepts étudiés en cours.
+
+Méthodes : Projets par groupe de 4 élèves à réaliser en séances de 2h. Restitution finale sous
+
+forme d'une présentation orale du travail réalisé (4h).
+
+Nazim BENBOURAHLA et Serge UNGARB. Android - Des fondamentaux du développement Java à la
+Bibliographie
+
+
+mise en pratique d'une application sous Android. ENI, 2014.
+
+Reto Meier. Android 4: Développement d'applications avancées. Pearson Education, 2012.
+
+Brian Goetz. Programmation concurrente en Java. Pearson Education, 2009.
+
+Examen individuel (tous documents, ordinateurs, etc autorisés) : 50 %
+Contrôle des
+
+connaissances
+Projet (travail, code, documents, présentation) : 50 %
+
+
+
+
+
+
+
+

@@ -1,0 +1,90 @@
+
+ AF MOD 3.4
+
+
+Identification des systèmes et décomposition parcimonieuse des signaux
+
+System identification and sparse decompositions
+
+Responsable(s) : Julien HUILLERY, Laurent BAKO
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+La compréhension des phénomènes de la physique couplée à l'avancée des technologies de l'observation, les besoins d'analyse, de diagnostic et de commande des systèmes d'ingénierie font de plus en plus appel à la modélisation expérimentale. Ce travail de modélisation est un préalable à la synthèse de lois de commande des systèmes dynamiques ou à l'analyse et au traitement des signaux. L'objectif de l'enseignement est de donner des principes et des méthodes avancées de modélisation des signaux et des systèmes. L' " identification de systèmes " vise à associer un modèle mathématique à un système dynamique sur la base de données bruitées issues de capteurs. La " décomposition parcimonieuse de signaux " vise à une modélisation compacte d'un signal via sa décomposition dans un dictionnaire.
+
+Mots-clés : modélisation, identification de systèmes, estimation paramétrique, parcimonie, dictionnaire de signaux, représentations temps-fréquence, ondelettes, acquisition compressée, optimisation
+
+
+
+Programme
+Partie I : Identification de systèmes
+
+Introduction à la modélisation des signaux et des systèmes : point de vue systèmes
+
+Notion de structure de modèle : définition et exemples
+
+Méthodes d'estimation basées sur la minimisation de l'erreur de prédiction
+
+Éléments pour l'analyse : identifiabilité, persistance d'excitation, richesse fréquentielle d'un signal
+
+Propriétés asymptotiques des estimateurs: consistance, convergence en distribution
+
+Partie II : Décomposition parcimonieuse de signaux
+
+Introduction à la modélisation des signaux et des systèmes : point de vue signal
+
+Décompositions parcimonieuses des signaux : principe et algorithmes
+
+Dictionnaires de représentation : temps-fréquence et ondelettes
+
+Acquisition compressée : un nouveau paradigme pour la mesure
+
+◊ Comprendre les enjeux applicatifs de la modélisation des signaux et des systèmes
+Compétences
+
+
+◊ Construire et identifier un modèle de système à partir de mesures expérimentales
+
+◊ Connaître les bases usuelles de représentation des signaux
+
+◊ Obtenir une représentation parcimonieuse d'un signal
+
+Le cours magistral est suivi de 3 BEs de mise en œuvre sous Matlab/Simulink :
+Activités /
+
+Autonomie
+BE 1 : Mise en œuvre de méthodes d'identification sur un exemple
+
+BE 2 : Décompositions parcimonieuses de signaux
+
+BE 3 : Acquisition compressée
+
+Parcours "Génie des Systèmes Automatisés" (GSA) du Master EEEA
+Masters
+
+affiliés
+Parcours "Medical Imaging, Signals and Systems" (MISS) du Master IDS
+
+L. Ljung. System Identification: Theory for the User (2nd Edition). PTR Prentice Hall, 1999.
+Bibliographie
+
+
+S. Mallat. A wavelet tour of signal processing, the sparse way. Academic Press, 2009.
+
+S. Boyd and L. Vandenberghe. Convex Optimization. Cambridge University Press, 2004.
+
+La note de l'AF est formée pour 50% de la note de savoir (examen écrit de 2h) et 50% de la note
+Contrôle des
+
+connaissances
+de savoir-faire (moyenne des notes obtenues aux 3 BEs)
+
+
+

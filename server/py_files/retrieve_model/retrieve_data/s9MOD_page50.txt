@@ -1,0 +1,76 @@
+
+ AF MOD 8.3
+
+
+Hydraulique Fluviale
+
+River Hydraulics
+
+Responsable(s) : Richard PERKINS, Pierre BRUN
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Depuis les origines de la civilisation humaine, l'homme a exploité les fleuves et les rivières pour ses différents besoins
+- l'eau potable, l'irrigation, transport, énergie - ainsi pour l'évacuation des déchets, industriels et domestiques. En parallèle, l'homme a dû apprendre à coexister avec les fleuves et les rivières, et avec ses variations saisonnières, parce qu'un fleuve ou une rivière est une entité vivante, toujours en train d'évoluer. Le but de ce cours est de fournir aux
+élèves une compréhension complète des processus fondamentaux en ingénierie hydraulique, à travers le développement de modèles et concepts adaptés, mais simples. Les deux BE et le TP permettront aux élèves de mettre en pratique les éléments théoriques rencontrés dans les cours.
+
+Mots-clés : Fleuve, Rivière, Surface libre, Ondes, Crues, Barrage, Transport Solide, Transport des sédiments, Erosion, Charge spécifique, Fluvial, Torrentiel, Ressaut, Impulsion, Chézy, Manning, Strickler, Froude, Shields
+
+
+
+Programme	Introduction : Cycle de l'eau, les systèmes fluviaux
+Les écoulements uniformes dans les canaux découverts : La profondeur critique, la charge spécifique et la force spécifique, le ressaut
+
+Les écoulements graduellement variés : Résistance à l'écoulement, l'écoulement uniforme et la profondeur normale, les régimes et les formes de la surface de l'eau
+
+Les écoulements non-permanents dans les canaux découverts : Les variations lentes, la méthode des caractéristiques, la rupture d'un barrage, la propagation des ondes de crue Les ouvrages hydrauliques
+
+Le transport des sédiments : le mouvement des particules solides, les rides, dunes et antidunes, le seuil d'érosion, transport par charriage et par suspension, les sédiments cohésifs
+
+
+Compétences	◊ Identifier le régime d'un écoulement en fonction du débit et de la profondeur.
+◊ Calculer la réponse d'un écoulement à surface libre à un changement de section.
+◊ Calculer la propagation d'une onde en réponse à un changement de débit ou de profondeur dans le canal.
+
+◊ Calculer la stabilité des sédiments sur le lit et les berges d'un canal.
+
+Activités /
+Renforcer les notions du cours en travaillant les exemples
+Autonomie
+Approfondir certains éléments du cours à travers le TP et les BE.
+
+Des questions sur chaque partie du cours seront fournies, avec les solutions, pour permettre à
+
+l'élève de vérifier son travail et sa compréhension du cours.
+
+Mécanique
+Masters
+
+affiliés
+
+
+CHANSON, H.. The Hydraulics of Open Channel Flow: an Introduction. Elsevier, 2004.
+Bibliographie
+
+
+VIOLLET, P.-L., CHABARD, J.-P, ESPOSITO, P & LAURE. Mécanique des Fluides Appliquée. Presses
+
+de l'ENPC, 1999.
+
+RAUDKIVI, A.J.. Loose Boundary Hydraulics. Balkema, 1998.
+
+Savoir : Examen (60%) Savoir faire : Comptes rendus des TP (40%)
+Contrôle des
+
+connaissances
+
+
+
+

@@ -1,0 +1,68 @@
+
+ AF ELC A-6
+
+
+Dynamique des rotors en ingénierie mécanique
+
+Rotors Dynamics in Mechanical Engineering
+
+Responsable(s) : Laurent BLANC, Fabrice THOUVEREZ
+
+| Cours : 12 h | TD : 10 h | TP : 4 h | Autonomie : 2 h | BE : 4 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif est d'acquérir les connaissances spécifiques au dimensionnement des machines tournantes. Les domaines d'application vont de la dynamique des moteurs d'avion à l'analyse des lignes d'arbres en passant par les micro-pompes ou encore les turbines électriques. Cette action de formation approfondit les notions vues en UE MSS et GM : elle donne les connaissances technologiques, de modélisation et expérimentales nécessaires pour comprendre la dynamique des structures produites ou mises en oeuvre, entre autres, par Safran-Snecma, Safran-Turboméca, General Electric, Siemens, Alstom Power, Rolls-Royce, EDF, Pratt&Whitney...
+
+Mots-clés : dynamique des structures, vibrations, analyse modale, éléments finis, diagramme de Campbell, diagramme zig-zag, vitesses critiques, coïncidences, roulements à billes, squeeze-films, rotors, turbomachines, health monitoring
+
+
+Programme	Cours + TD :
+- cycle de conception d'une machine tournante, spécificités et outils
+- modélisation des rotors mono- et multi-disques
+- modélisation des roues aubagées
+- phénoménologie des organes de guidage
+BE :
+- analyse modale par éléments finis d'une roue aubagée
+
+
+Compétences	◊ connaître les étapes-clefs du cycle de conception d'une machine tournante
+◊ savoir lire un diagramme de Campbell pour identifier des situations d'utilisation à risque
+◊ savoir calculer par éléments finis les modes propres d'une structure tournante
+
+Travail en
+Objectifs : s'informer de l'état de l'art en machines tournantes
+autonomie
+Méthodes : analyse d'article de recherche en binôme + exposé au groupe
+
+
+Bibliographie	M. Lalanne and G. Ferraris. Rotordynamics Prediction in Engineering. John Wiley and Sons, 1998.
+
+D. W. Childs. Turbomachinery rotordynamics phenomena, modelling and analysis. John Wiley and Sons, 1993.
+
+F. F. Ehrich. Handbook of rotordynamics. Krieger Publishing company, 1999.
+
+
+Contrôle des	examen final, exposé sur l'analyse d'articles
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

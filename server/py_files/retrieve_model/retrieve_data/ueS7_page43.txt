@@ -1,0 +1,73 @@
+
+ AF PCM tc 1
+
+
+Physique
+
+Physics
+
+Responsable(s) : Emmanuel Drouard, Yves Robach
+
+| Cours : 16 h | TD : 22 h | TP : 0 h | Autonomie : 5 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours a pour ambition de donner les bases de physique quantique nécessaires pour décrire à la fois la matière à l'échelle microscopique et les principaux processus d'interaction rayonnement-matière (émission, absorption, diffusion). Ces derniers seront abordés à la fois du point de vue classique et quantique, et étudiés notamment dans le cadre d'applications comme les sources et détecteurs de lumière et le laser.
+
+Mots-clés : mécanique quantique, physique atomique et nucléaire, interaction photons-matière, propagation des ondes dans les milieux.
+
+
+Programme	Propagation des ondes, dispersion
+Description classique des interactions ondes électromagnétiques/milieux matériels : propriétés
+optiques des diélectriques et des métaux
+Limites de la physique classique
+Dualité onde-corpuscule
+Équation de Schrödinger et ses applications
+Physique atomique et moléculaire
+Physique du noyau
+Description semi-classique/quantique de l'interaction photon-matière
+Sources de lumières et détecteurs
+Principe du laser
+Propriétés et applications des lasers
+
+
+Compétences	◊ Être capable d'appliquer l'équation de Schrödinger à des systèmes quantiques simples
+◊ Savoir relier les propriétés macroscopiques de la matière à leurs origines microscopiques.
+◊ Savoir décrire les différentes interactions rayonnement/matière
+◊ Être capable de donner les ordres de grandeurs des énergies mises en jeu lors de ces interactions.
+
+Travail en
+Objectifs : Comprendre et assimiler le cours
+autonomie
+Méthodes : Savoir refaire et interpréter les TD.
+
+Exercices complémentaires and QCM en ligne
+
+Séance de questions/réponses avec les enseignants
+
+B. Cagnac. Atomes et rayonnement, interactions électromagnétiques. Dunod, 2005.
+Bibliographie
+
+
+B. Cagnac. L'atome, un édifice quantique. Dunod, 2007.
+
+B.E. Saleh, M.C. Teich. Fundamental of photonics. Wiley, 2007.
+
+Microtest 25 min sans document
+Contrôle des
+
+connaissances
+Examen terminal 2h avec formulaire manuscrit personnel (2 A4 r/v)
+
+Note finale (Savoir) = 15% microtest + 85% examen
+
+
+
+
+
+

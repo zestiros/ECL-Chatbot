@@ -1,0 +1,79 @@
+
+ AF PCM a 4-EG
+
+
+Physique des semiconducteurs
+
+Semiconductor solid-state physics
+
+Responsable(s) : Christelle Monat, Bertrand Vilquin
+
+| Cours : 10 h | TD : 16 h | TP : 0 h | Autonomie : 22 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Après avoir présenté les mécanismes physiques dans les semiconducteurs et les propriétés électroniques et optiques qui en découlent, l'AF décrira différentes applications de ces matériaux en microélectronique et optoélectronique
+
+Mots-clés : Semiconducteurs, diélectriques, composants, microélectronique, optoélectronique
+
+
+
+Programme	Propriétés cristallines et élaboration des matériaux semiconducteurs
+Structure de bandes des semiconducteurs
+Conduction électrique d'un matériau semiconducteur
+Phénomènes de transport de charges dans les semiconducteurs
+Diélectriques: propriétés et applications
+Quelques composants électroniques
+
+Composants optoélectroniques pour l'émission et la détection
+
+
+Compétences	◊ Savoir expliquer l'origine des propriétés physiques des matériaux semiconducteurs et des diélectriques
+◊ Être capable de manipuler les concepts décrivant les propriétés physiques des matériaux semiconducteurs et des diélectriques
+
+◊ Être capable de décrire les principes physiques liés au transport électrique et à l'intéraction électron/photon dans les semiconducteurs
+
+◊ Savoir expliquer le fonctionnement des grandes familles de composants semiconducteurs (transistors, photodiode, cellule solaire, diode laser)
+
+Travail en
+Objectifs : Travail en groupe pour approfondir un domaine particulier ou émergent en lien avec la
+autonomie
+physique des semiconducteurs et ses applications en microélectronique/ optoélectronique
+
+Méthodes : Des sujets de synthèse seront proposés à des petits groupes (sujets possibles : cellule
+
+photovoltaïque, spintronique, transistor à un photon, LED bleues, graphène et matériaux 2D etc.).
+
+Restitution du travail effectué = soutenance orale
+
+Henry Mathieu. Physique des semiconducteurs et des composants électroniques. 5ème édition,
+Bibliographie
+
+
+Dunod, 2009.
+
+Emmanuel ROSENCHER. Optoélectronique. Masson, 1998.
+
+Charles KITTEL. Physique de l'état solide. Dunod, 1998.
+
+Test écrit : 80% de la note finale.
+Contrôle des
+
+connaissances
+Restitution orale : 20% de la note finale.
+
+
+
+
+
+
+
+
+
+
+

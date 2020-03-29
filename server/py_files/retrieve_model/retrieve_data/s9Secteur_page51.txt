@@ -1,0 +1,97 @@
+
+ AF ENV 3.2
+
+
+Systèmes d'information géographique (SIG)
+
+Geographical Information Systems
+
+Responsable(s) : Jean-Sébastien Beaulne, Perrine Charvolin
+
+| Cours : 12 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+Acquérir une connaissance du vocabulaire du SIG et une vue globale de ce que peut apporter un SIG dans la gestion des problématiques environnementales.
+
+Introduction à la géodésie, systèmes de projections et géoréférencement
+
+Introduction aux fondements physiques et techniques de la télédétection : orbitographie, ondes électromagnétiques, capteurs, télécommunication, caractéristiques des images aérospatiales optiquesdisponibles (résolution spatiale, résolution spectrale..), et leurs domaines d’utilisations
+
+Introduction aux différents logiciels de SIG (ArcGIS, QGIS, GRASS, MapINFO …) et présentation des applications.
+
+Mots-clés : Systèmes d’Informations Géographique, Analyse spatiale, Télédétection, Images Vectorielles, Matricielles, Géodésie, Modèle Numérique de Terrain (MNA, MNT)
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+
+
+
+
+Bibliographie
+
+
+
+Présentation générale des SIG et leurs applications, introduction à la géodésique (systèmes de référence, projections spatiales).
+
+Définition des SIG, Géomatique, Analyse spatiale, télédétection Topologie, notion d’échelles
+Géoréférence et projections (Géoïdes, UTM…)
+Intégration et visualisation de données
+
+Les types de données, l'analyse spatiale et la production de données.
+Les couches d’informations vectorielles et matricielles
+Images satellitaires et Radar
+Modèles Numériques d’Altitudes, modèle hydrogéologique
+
+Spectres électromagnétiques
+
+Présentation des principaux logiciels et leurs utilisations
+Exemple de l’utilisation des SIG pour des problématiques environnementales.
+Problèmes appliqués en SIG
+Présentation des résultats dans un SIG et outils d’aide à la décision
+
+◊ Connaître les normes de métadonnées géographiques
+◊ Connaître les règles de présentation des données cartographiques et notamment des règles de sémiologie
+
+◊ Savoir faire des requêtes intégrant des critères géométriques
+◊ Acquérir les connaissances de base du logiciel QuantumGIS® (QGis) et les notions élémentaires de géomatique
+
+
+
+Allali,Gérard. Apprendre QGIS par l'exemple: Quand le Système d'Information Géographique devient libre. CreateSpace Independent Publishing Platform, 2015.
+
+Brimicombe, Allan. GIS Environmental Modeling and Engineering. CRC Press Reference, 2009.
+
+Dixon Barnali, Venkatesh Uddameri. GIS and Geocomputation for Water Resource Science and Engineering. American Geophysical Union, 2016.

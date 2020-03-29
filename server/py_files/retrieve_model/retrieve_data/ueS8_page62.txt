@@ -1,0 +1,83 @@
+
+ AF ELC D-11
+
+
+Introduction aux vibrations aléatoires
+
+Introduction to Random Vibration
+
+Responsable(s) : Alain LE BOT, Julien HUILLERY, Joël PERRET-LIAUDET
+
+| Cours : 12 h | TD : 8 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+De nombreux problèmes d'ingénierie mécanique concernent la réponse vibratoire de structures mécaniques soumises à des forces aléatoires.
+
+Citons le cas de structures élancées soumises au vent, des plates formes offshores soumises à la houle, de véhicules excités par la route, de bâtiments sollicités par un séisme, du bruit de frottement induit par la rugosité, de fuselages d'avions excités par une couche limite turbulente, etc.
+
+L'objectif de ce cours est d'apporter à l'élève des éléments de vibrations aléatoires. Nous introduirons les notions de signal aléatoire et leurs propriétés spectrales et fournirons des méthodes d'estimation de la réponse probabiliste de systèmes soumis à des forces aléatoires.
+
+De nombreux exemples concrets illustreront les concepts et résultats abordés. Mots-clés : Vibrations, systèmes linéaires, processus stochastiques, estimation spectrale
+
+
+Programme	Cours Introduction aux vibrations aléatoires
+Chapitre 1 Processus stochastiques
+- Généralités sur les probabilités
+- Variable aléatoire
+- Vecteur aléatoire
+- Processus stochastique
+- Analyse spectrale
+- Continuité,dérivation,intégration
+Chapitre 2 Vibrations en petites déformations
+1. Oscillateur à 1 degré de liberté
+2. Systèmes à n degrés de liberté
+3. Solides déformables
+Chapitre 3 Réponse spectrale des systèmes linéaires
+- Présentation du problème
+- Moyenne, corrélation et spectre de la réponse
+- Corrélation et spectre entre excitation et réponse Chapitre 4 Probabilité de seuil et maximum
+- Densité de probabilité de la réponse
+- Dépassement de seuil
+- Occurence des maxima
+
+
+
+Compétences
+
+
+
+
+
+
+Bibliographie
+
+
+
+
+
+
+Contrôle des connaissances
+
+
+◊ Savoir calculer et interpréter les densités spectrales de signaux aléatoires
+◊ Savoir calculer les fonctions de réponse en fréquences des systèmes mécaniques simples
+◊ Savoir estimer les quantités spectrales des réponses des systèmes linéaires excités par des signaux aléatoires
+
+
+Le Bot A. Introduction aux vibrations aléatoires. Dunod, 2019.
+
+Le Bot A. Foundation of statistical energy analysis in vibroacoustics. Oxford University Press, 2015.
+
+G. Fleury. Analyse spectrale - Méthodes non-paramétriques et paramétriques. Ellipses, 2001.
+
+
+La note finale de l'AF sera basée sur :
+- les rapports de TP (30%)
+- la restitution du bureau d'étude (20%)
+- un test individuel final (50%)

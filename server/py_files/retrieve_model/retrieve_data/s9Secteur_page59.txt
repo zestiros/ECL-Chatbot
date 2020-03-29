@@ -1,0 +1,73 @@
+
+Filière GBD
+
+Bâ t i m e n t Du rab l e
+
+Sustainable Building
+
+Responsables : Eric VINCENS
+
+
+
+Présentation
+
+Le « bâtiment » représente près de 40% de la consommation totale d’énergie en France et contribue à hauteur de 25% aux émissions de gaz à effet de serre. Pour diminuer son impact, les pouvoirs publics se sont fixés comme objectif de réduire par 4 la consommation du parc résidentiel d’ici 2050. Ces objectifs semblent possible en considérant le bâtiment dans son ensemble, comme un système dont les performances énergétiques dépendent de son enveloppe, de l’usage qu’il en est fait et de sources de production locales permettant de satisfaire tout ou partie de sa propre consommation. L’organisation de cette filière est construite sur cette base et doit permettre : (i) en phase de conception de faire des choix de morphologie, de matériaux et de mixte énergétique, (ii) en phase d’exploitation de réaliser un diagnostic énergétique et faire des recommandations pour améliorer la performance.
+
+
+
+
+Départements/laboratoires
+
+MSGMGC
+
+
+
+Programme
+
+BD3.1 - Introduction à l'énergétique du bâtiment
+
+BD3.2 - Constructions à section homogène
+BD3.3 - Confort du bâtiment
+BD3.4 - Systèmes d’énergies renouvelables
+BD3.5 - Projet d'option
+
+
+Compétences visées
+
+◊ Capacité d'analyse des structures et le cheminement des efforts
+◊ Dimensionner les sections de structures à section homogène (bois, acier)
+◊ Realiser un diagnostic thermique d'une enveloppe de bâtiment
+◊ Associer les logiques économiques / responsabilité sociétale et écoresponsabilité
+◊ 
+
+Débouchés
+
+Bureau d'études de structures ou de fluides (air, eau)
+Bureau d'études de thermique
+
+Pré-requis
+
+MOD imposés : "Bâtiment & architecture" / "Aléas et hétérogénéités des structures"
+
+
+MOS imposé : "Procédés généraux de construction"
+
+Évaluation
+
+GBD 3.1 : 7%, GBD 3.2 : 26%, GBD3.3 : 20%, GBD3.4 : 17%, GBD3.5 : 30%,
+
+Site web de l’option
+
+
+Informations complémentaires
+
+MOD fortement recommandés : "Matériaux pour la construction" / "Reconnaissance des sols"
+
+MOS recommandé : "Ouvrages de production d'énergie" / "Géotechnique"
+
+
+
+
+
+
+

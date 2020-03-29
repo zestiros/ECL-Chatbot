@@ -1,0 +1,76 @@
+
+ AF PCM tc 2
+
+
+Chimie
+
+Chemistry
+
+Responsable(s) : Jean-Pierre Cloarec, Naoufel Haddour, Virginie Monnier,
+
+| Cours : 8 h | TD : 12 h | TP : 0 h | Autonomie : 5 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours a pour ambition de donner les bases de chimie et physicochimie des matériaux nécessaires à la compréhension de phénomènes dans les matériaux à l’échelle microscopique (cinétique, réactivité, thermodynamique, liaison faibles, électrochimie). Des applications comme les nouveaux matériaux pour produire de l'énergie (photovoltaïque organique), les centrales énergétiques ou la métallisation de surfaces serviront à utiliser de manière concrète des notions de chimie quantique et d'interactions moléculaires.
+
+Mots-clés : Chimie, matériaux, orbitales moléculaires, thermodynamique statistique, liaisons faibles, cinétique chimique, transfert électronique.
+
+
+Programme	Modèle quantique de la liaison chimique
+Introduction à la thermodynamique statistique
+Réactivité chimique et élément de cinétique chimique
+Transferts électroniques aux interfaces
+
+Liaisons faibles
+
+
+Compétences	◊ Construire et utiliser un diagramme d’orbitales moléculaires pour un édifice moléculaire
+◊ Savoir relier les propriétés physicochimiques macroscopiques et microscopiques de la matière
+◊ Savoir identifier les interactions intermoléculaires et les énergies de liaisons mises en jeu dans une molécule
+
+◊ Savoir choisir des notions théoriques adaptées pour les appliquer à des cas concrets nouveaux en Chimie
+
+Travail en
+Objectifs : Apprendre et assimiler les notions de bases avant chaque amphithéâtre, pour les
+autonomie
+employer dans les amphis et en TD.
+
+Comprendre les liens entre les différentes notions du cours.
+
+Savoir remobiliser les concepts du cours dans des situations concrètes nouvelles
+
+Méthodes : Lecture du polycopié et auto-évaluation avec les exercices corrigés de la plate-forme
+
+Moodle
+
+Michel Guymont. Structure de la Matière. Atomes, liaisons chimiques et cristallographie. Belin,
+Bibliographie
+
+
+2003.
+
+P.W. Atkins, J. De Paula. Chimie Physique. De Boeck, 2013.
+
+J.P. Pérez, A.M. Romulus. Thermodynamique. Fondements et applications.. Masson, 2001.
+
+micro-tests en début d'amphi, sans documents 30% savoir
+Contrôle des
+
+connaissances
+Examen final (1 h) sans documents (ni papier ni électronique) 70% savoir
+
+
+
+
+
+
+
+
+
+

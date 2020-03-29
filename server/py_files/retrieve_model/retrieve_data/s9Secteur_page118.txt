@@ -1,0 +1,80 @@
+
+ AF MOS 4.2
+
+
+Pollution Atmosphérique
+
+Atmospheric Pollution
+
+Responsable(s) : Lionel Soulhac, Pietro Salizzoni, Didier Dragna
+
+| Cours : 16 h | TD : 4 h | TP : 0 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L’objectif du cours est de fournir aux étudiants les bases scientifiques et méthodologiques pour:
+- Comprendre les enjeux et les problématiques liés à la pollution atmosphérique, dans les contextes industriels (rejets chroniques, risques accidentels) et d’aménagement du territoire, en particulier en milieu urbain
+
+- Appréhender les phénomènes physiques et les modèles théoriques qui régissent la météorologie locale ainsi que le transport, la diffusion et la transformation de polluants dans l’atmosphère
+
+- Connaître les approches de modélisation (principes, limitations) de la pollution atmosphérique
+
+Mots-clés : Atmosphère, Pollution, Environnement, Risques, Modélisation
+
+
+
+Programme	1. Introduction générale
+2. Dynamique de la couche limite atmosphérique
+3. Interface sol-atmosphère
+4. Écoulements en terrain complexe
+5. Dispersion atmosphérique
+6. Dispersion atmosphérique
+7. Fluctuations de concentration
+8. Explosions
+
+Le cours sera accompagné de deux séances de TD de 2h consacrées à des exercices et à deux séances de BE de 4h consacrées à la mise au point et à l'utilisation d'un modèle de dispersion atmosphérique adapté à l’étude d’un rejet de polluants.
+
+Compétences
+◊ Appréhender les enjeux de la pollution atmosphérique
+
+◊ Connaitre les principaux phénomènes physiques de la pollution atmosphérique
+
+◊ Connaitre les approches de simulation de la pollution atmosphérique
+
+◊ Mettre en oeuvre un modèle de dispersion atmosphérique
+
+Options Génie Civil et Environnement, Energie, Transports
+Options /
+
+Masters
+Masters: Mécanique (conseillé), SOAC (obligatoire)
+
+BLACKADAR, A.K. Turbulence and diffusion in the atmosphere. Springer Verlag, 1997.
+Bibliographie
+
+
+50% Examen final + 50% Rapport de BE
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

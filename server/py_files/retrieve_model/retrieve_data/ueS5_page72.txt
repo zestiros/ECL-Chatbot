@@ -1,0 +1,86 @@
+
+ AF IDM a 4-EG
+
+
+Biomécanique des tissus vivants et biomatériaux prothétiques
+
+Biomechanics of living tissues and biomaterials for artificial joint
+
+Responsable(s) : Clotilde Minfray, Vincent Fridrici, Thierry Hoc
+
+| Cours : 20 h | TD : 4 h | TP : 4 h | Autonomie : 18 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Dans la problématique de développement de dispositifs prothétiques pour le biomédical et notamment en chirurgie orthopédique, il est nécessaire de connaître les propriétés des matériaux vivants pour choisir des substituts et les utiliser à bon escient. Ce module propose dans un premier temps une étude détaillée des propriétés mécaniques de différents tissus vivants (os, peau, cellule, organe...). Le choix de matériaux bio-compatibles pour des prothèses sera ensuite abordé en discutant les problèmes engendrés par les sollicitations mécaniques et le milieu environnant (endommagement, biocompatibilité...). Le but du cours est donc d'utiliser des notions de mécanique et science des matériaux pour justifier les choix faits de nos jours en terme de prothèses et de reconstruction osseuse.
+
+Mots-clés : Biomécanique, Biomatériaux, Tissus vivants (os), prothèses articulaires
+
+
+
+Programme
+Biomécanique
+
+L'os : un matériau anisotrope vivant
+
+Les tissus mous
+
+De la cellule à l'organe
+
+Biomatériaux
+
+Les grandes classes de matériaux de substitutions (céramiques, métaux et polymères)
+
+Les propriétés des biomatériaux : biocompatibilité, frottement et usure, fatigue.
+
+BE :
+
+Synthèse d'un article scientifique concernant les biomatériaux
+
+◊ Identifier les lois de comportement mécanique des tissus vivants (modèle rhéologique)
+Compétences
+
+
+◊ Savoir expliquer le processus de repousse osseuse
+
+◊ Être capable d'appréhender les notions de biocompatibilité des matériaux
+
+◊ Connaître les grandes familles de matériaux utilisés dans les prothèses orthopédiques
+
+Objectifs : Etude de cas dont le but est d’approfondir un sujet au choix.
+Travail en
+
+autonomie
+Méthodes : Travail à faire en autonomie par groupe de 2 avec rapport écrit et présentation orale
+
+B.D. Ratner. Biomaterials science - Third edition. Academic Press, 2013.
+Bibliographie
+
+
+Note = 0,5 x note test + 0,4 x note étude de cas + 0,1 x note BE
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

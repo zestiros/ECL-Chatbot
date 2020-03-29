@@ -1,0 +1,88 @@
+
+ AF MOS 6.3
+
+
+Microsystèmes, microcapteurs, microfluidique
+
+Microsystems, biosensors, microfluidics
+
+Responsable(s) : Emmanuelle Laurenceau, Ian O’Connor
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 4 h | BE : 12 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+En partant de l’exemple d’un lab-on-chip pour l’analyse biologique, les problématiques liées à l’intégration de différentes composantes et fonctions sur un système miniaturisé seront développées et explicitées. Une introduction à la microfluidique (physique à l’échelle microfluidique, influence des lois d’échelle sur la miniaturisation des systèmes, hydrodynamique des systèmes microfluidiques, diffusion, mélange et séparation dans les microsystèmes) ainsi que des notions nécessaires à la compréhension des problèmes d’acquisition du signal de très faible amplitude seront présentées. Les cas des capteurs chimiques et biologiques seront tout particulièrement développés.
+
+Mots-clés : Système miniaturisé, capteur et biocapteur, intégration, microfluidique
+
+
+
+Programme
+Microcapteurs chimiques, biologiques et physiques
+
+Electrocinétique, diffusion et mélange dans des microsystèmes
+
+Détection électronique, importance du bruit, contrôle électronique du déplacement de l'échantillon
+
+BE : Etude de biocapteurs
+
+BE : Microfluidique
+
+BE : Traitement du signal électronique
+
+◊ Connaitre les bases du fonctionnement d’un microcapteur
+Compétences
+
+
+◊ Savoir élaborer un microsystème pour une application donnée
+
+◊ Extraire des données
+
+◊ Analyser une publication scientifique
+
+Option Bio-ingénierie et nanotechnologies
+Options /
+
+Masters
+Module conseillé pour le Master IDS
+
+Module conseillé pour le Master NSE
+
+Module conseillé pour le Master EEEA parcours ESE
+
+Cooper Jonathan M. Biosensors. Oxford University Press, 2004.
+Bibliographie
+
+
+Folch Albert. Introduction to BioMEMS. CRC Press, 2013.
+
+Tabeling Patrick. Introduction à la microfluidique. Belin, 2003.
+
+évaluations BE
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

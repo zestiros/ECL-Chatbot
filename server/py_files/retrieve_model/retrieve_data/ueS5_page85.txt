@@ -1,0 +1,69 @@
+
+ AF PCM a 3-EG
+
+
+Electrochimie et Chimitronique
+
+Electrochemistry and Chemitronic
+
+Responsable(s) : Guy stremsdoerfer, Naoufel Haddour
+
+| Cours : 12 h | TD : 12 h | TP : 8 h | Autonomie : 12 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'Electrochimie est une science qui fédère de nombreux domaines comme ceux de la chimie, biochimie, matériaux, l'électronique et l'énergétique. C'est une clé pour comprendre la transformation de la matière et le suivi de cette transformation ainsi que les transferts d'énergie.
+
+La Chimitronique s'intéresse aux technologies liées à la production et au stockage de l'énergie électrique, aux transformations de la matière inerte et vivante (bio-électrochimie), mais également touche aux micro-systèmes analytiques comme les capteurs intégrés. Enfin, elle concerne les technologies liées à la protection des matériaux (lutte contre la corrosion) et de l'environnement (techniques de dépollution).
+
+Mots-clés : Thermodynamique et Cinétique électrochimique, Corrosion, Analytique, Micro-systèmes.
+
+
+
+Programme	Compte tenu de la diversité des domaines de l'ingénierie électrochimique, le cours propose de donner les grandes lois de la thermodynamique électrochimique (systèmes à l'équilibre), de la cinétique, et de la dynamique des transferts. Ce cours doit permettre au futur ingénieur d'avoir un socle de connaissance utile à la compréhension des problèmes électrochimiques rencontrés dans les systèmes énergétiques, dans le domaine médical, dans l'ingénierie des procédés, dans l'environnement (les techniques de retraitement des effluents). Les cours seront complétés par des TD et des TP (4 types) abordant, entre autres :
+
+- L'élaboration de la matière à partir de l'étude d'un réacteur électrochimique
+- La ruine du matériau dans une étude de corrosion
+- L'analyse médicale à partir d'un bio capteur
+
+
+Compétences	◊ Maitriser des phénomènes de transferts électroniques aux interfaces
+◊ Savoir faire le lien entre les descriptions macroscopiques et microscopiques
+◊ Analyser et comprendre les paramètres limitatifs de l'énergétique électrochimique
+◊ Saisir les enjeux industriels et nouvelles technologies dans le domaine de la micro et nano échelle
+
+Travail en
+Objectifs : Une étude de corrosion ou une étude de traitement de dépollution environnemental
+autonomie
+Méthodes : Etude par binôme ou trinôme d’un type de traitement environnemental
+
+électrochimique. Rapport bibliographique et présentation de 15 minutes en restitution.
+
+1- G.Charlot, J. Badoz-Lambling, B.Trémillon,. Les réactions électrochimiques,. Masson Paris, 1959.
+Bibliographie
+
+
+AJ. Bard, LR Faulkner,. Electrochimie : principes, méthodes et applications,. Masson Paris, 1983.
+
+A.Brajter-Toth, J.Q.Chambers,. Electroanalytical Methods for Biological Materials. M. Dekker, Inc, 2002.
+
+Note AF = 0.5 Savoir + 0.5 Savoir-Faire
+Contrôle des
+
+connaissances
+Note Savoir=note examen écrit, note Savoir-Faire=moyenne des notes de TP et de l’étude faite
+
+en autonomie
+
+
+
+
+
+
+
+

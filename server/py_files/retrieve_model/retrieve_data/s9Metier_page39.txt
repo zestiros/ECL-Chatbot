@@ -1,0 +1,71 @@
+
+ AF MOM 1.2
+
+
+Management de la qualité
+
+Quality Management
+
+Responsable(s) : Pierre Bourgeoisat
+
+| Cours : 14 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours   |
+
+
+Objectifs de la formation
+
+
+Comprendre les enjeux de la qualité dans l'entreprise.
+Intégrer la démarche de qualité et/ou de progrès continu dans le cursus professionnel.
+
+Acquérir les bases des méthodes et des outils utilisés dans le domaine de la qualité, pour en faciliter : leur choix, leur appropriation ou le développement de leur utilisation.
+
+Mots-clés : Gestion, qualité, quality, management, assurance qualité, processus, système qualité, politique qualité, audit, résolution de problèmes, Amélioration Continue, MSP, SPC, maitrise, statistique, 5S
+
+
+
+Programme	Historique, Concepts et vocabulaire. La qualité en Entreprise Management et Coûts de la qualité et coûts de la Non Qualité
+Les normes ISO 9000 et 14000 - Organismes certificateurs et accréditeurs
+Déploiement d'une démarche Qualité dans la stratégie d'une entreprise
+Audit Qualité Interne et externe.
+Amélioration de la qualité, Résolution de problèmes, introduction au Lean Management Les indicateurs de performance
+Outils standard (5S, 5 pourquoi, Brainstorming, etc.)
+Outils spécifiques (AMDEC, Plan d'expérience, etc.)
+Outils statistiques MSP (SPC)
+Exemple d'outils spécifique : Analyse de la valeur
+
+
+Compétences	◊ Améliorer tout type de processus.
+◊ Intégrer la démarche qualité au quotidien.
+◊ Comprendre les enjeux de la Qualité en entreprise.
+
+
+Bibliographie	M. Pillet & D. Duret. Qualité en production. Editions d'Organisation, 1997.
+
+Jean-Marie Gogue. Management de la qualité. 2001.
+
+Bernard Froma. Du manuel qualité au manuel de management : l'outil stratégique. 2007.
+
+
+Contrôle des
+QCM
+connaissances
+100% savoir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

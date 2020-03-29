@@ -1,0 +1,74 @@
+
+ AF FLE tc 3
+
+
+Projet thématique
+
+Thematic project
+
+Responsable(s) : Jean-Marc Vignon, Alexis Giauque
+
+| Cours : 0 h | TD : 0 h | TP : 9 h | Autonomie : 7 h | BE : 6 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Cette AF a pour objectif de mettre en œuvre l'ensemble des savoirs et savoir-faire de l'UE, à travers un projet thématique en groupe. De la définition du thème et l'organisation des séances, à la restitution des résultats, en passant par la réalisation des expériences et leur interprétation, les élèves devront illustrer une thématique en vue d'en faire une synthèse orale pour l'ensemble du groupe et d'en réaliser une synthèse écrite.
+
+Mots-clés : Expériences et simulations numériques, Travail en équipe et mode projet.
+
+
+
+Programme	Définition du projet et organisation
+Réalisation des expériences
+Analyse et dépouillement
+Rapport et soutenance orale
+
+
+Compétences	◊ Savoir identifier les principales phénoménologies et régimes d'écoulement
+◊ Savoir effectuer une analyse dimensionnelle et une analyse d'ordre de grandeur d'un problème aux limites
+
+◊ Maîtriser les bases des systèmes à flux continu et les bilans de charge
+◊ Savoir mettre en œuvre des méthodes expérimentales et numériques en mécanique des fluides et énergétique
+
+Travail en
+Objectifs : Réalisation des mesures, analyse et dépouillement des résultats.
+autonomie
+Méthodes : 1h au cours de chaque séance expérimentale
+
+2h de BE d'analyse et de dépouillement des résultats.
+
+N1= note de savoir-faire
+Contrôle des
+
+connaissances
+N2= note de méthodologie
+
+Note de l'AF= 0,3 x N1 + 0,7 x N2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

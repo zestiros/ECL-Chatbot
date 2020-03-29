@@ -1,0 +1,86 @@
+
+ AF MOS 5.5
+
+
+Visualisation interactive de données
+
+Interactive Data Visualization
+
+Responsable(s) : Romain Vuillemot
+
+| Cours : 0 h | TD : 28 h | TP : 0 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Ce cours a pour objectif de présenter les outils et méthodes situées au bout de la chaîne de traitement des Big Data:
+à savoir l’analyse visuelle et communication des données. Cette étape est cruciale aussi bien pour les analystes de données, mais aussi pour les décideurs qui doivent comprendre des résultats complexes sans être experts, au moyen d’interfaces graphiques intuitives et de tableaux de bords.
+
+Mots-clés : Visualisation de données, méthodes de projection multidimensionnelles, algorithmes de layout de graphes, benchmark et développement logiciel de visualisation, méthodologie de test, JavaScript.
+
+
+
+Programme
+Introduction à la visualisation de données; Principes d'encodages visuels, perception, principes
+
+cognitifs et design; Typologie des graphiques, techniques d'interaction et d'animation; Etudes de
+
+cas, prototypage papier; Aspects algorithmiques et architectures logicielles de la visualisation;
+
+Cas d’études et utilisation d’outils de référence de l’industrie (Tableau, Raw, Google Fusion Table);
+
+Initiation et JavaScript avancé; Projet web de visualisation.
+
+◊ A l’issu du cours, l’élève sera capable de faire un choix informé sur les méthodes et
+Compétences
+
+
+paramétrisation de méthodes visuelles d’analyse de données à utiliser.
+
+Secteur Informatique. Option Informatique et communication
+Options /
+
+Masters
+
+
+Tamara Munzner. Visualization Analysis and Design. CRC Press, 2014.
+Bibliographie
+
+
+Scott Murray. Interactive Data Visualization for the Web. O'Reilly, 2017.
+
+Devoirs notés (40%) et projet de visualisation (60%)
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,88 @@
+
+ AF ELC F-5
+
+
+Ordre, chaos, fractales
+
+Order within Chaos
+
+Responsable(s) : Christophe BAILLY, Didier DRAGNA, Christophe BOGEY
+
+| Cours : 22 h | TD : 0 h | TP : 0 h | Autonomie : 10 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Le concept de chaos déterministe a profondément modifié la façon d'aborder de nombreux problèmes, en particulier depuis les travaux de Lorenz. Le cours présente les idées physiques et les principales notions théoriques utilisées pour décrire le comportement de ces systèmes chaotiques (non linéaires et à faible nombre de degrés de liberté " efficaces "). Une bonne partie des exemples présentés en introduction sont à connotation mécanique, mais le champ d'application concerne tous les domaines de la physique et même au-delà (biologie, médecine ou économie), comme le montrera le cours et les exemples pour réaliser le mini-projet.
+
+Mots-clés : Physique non linéaire, Systèmes dynamiques, Fractales, Stabilité, Bifurcations, Dimensions fractales (non entières).
+
+
+
+Programme
+De l'ordre au chaos : exemples et méthodes de description (temporelle et fréquentielle, espace
+
+des phases, sections de Poincaré).
+
+Systèmes dynamiques. Applications à temps discret ; cartes itérées. Perte de stabilité des
+
+solutions, bifurcations, cycles limites, exposants de Lyapunov).
+
+Transition vers le chaos et notion d'attracteur étrange.
+
+Objets fractals ; dimensions non entières. Exemples et applications.
+
+Chaos dans les systèmes dissipatifs. Sensibilité aux conditions initiales. Outils de caractérisation
+
+(dimensions fractales, exposants de Lyapunov). Exemples (Hénon, Rössler, Lorenz ...).
+
+Notions sur le chaos dans les systèmes hamiltoniens (mécanique céleste) - Notions sur le contrôle
+
+du chaos.
+
+◊ Compréhension des concepts fondamentaux des systèmes non linéaires
+Compétences
+
+
+◊ Appropriation de ces concepts par simulations numériques simples
+
+◊ Compréhension du domaine d'application et de ses limites
+
+Objectifs : Maîtriser les concepts et outils des systèmes chaotiques et de la description fractale.
+Travail en
+
+autonomie
+Méthodes : Etudes analytiques (un peu) et numériques (essentiellement) de systèmes non
+
+linéaires et chaotiques décrits par un nombre limité d'EDO. Caractérisation des attracteurs chao-
+
+tiques, dimension fractales, exposants de Lyapunov.
+
+Bergé P., Pomeau Y., Vidal Ch.. L'ordre dans le chaos. Hermann, 1984.
+Bibliographie
+
+
+Alligood K., Sauer T., Yorke J.. Chaos: An introduction to dynamical systems. Springer, 1996.
+
+Manneville P.. Instabilités, chaos et turbulence. Editions de l'Ecole Polytechnique, 2004.
+
+Examen écrit (1h 20%); Réalisations par binôme d'études numériques à choisir dans une liste
+Contrôle des
+
+connaissances
+(40%); Exposé oral (mini-projet par groupes 40%).
+
+
+
+
+
+
+
+
+
+
+

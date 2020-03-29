@@ -1,0 +1,78 @@
+
+ AF ELC C-2
+
+
+Circuits et Dispositifs en Micro-Ondes
+
+Microwave Circuits and Devices
+
+Responsable(s) : Arnaud BREARD
+
+| Cours : 14 h | TD : 4 h | TP : 4 h | Autonomie : 6 h | BE : 4 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+La connaissance des problèmes dans le domaine des hyperfréquences devient incontournable avec l'explosion des télécommunications et plus généralement le développement d'applications électroniques pour des fréquences de plus en plus élevées. L'objectif de ce cours est d'introduire les concepts de base utiles à l'analyse et à la conception des circuits et des dispositifs micro-ondes. Les notions abordées dans ce cours permettront notamment d'appréhender un système de télécommunications dans son ensemble depuis le circuit électronique jusqu'à la transmission des ondes.
+
+Application en lien avec le cours: télécommunication, RADAR, transmission d'énergie sans fil, ...
+
+Mots-clés : Radio-fréquences, micro-ondes, antennes, adaptation, paramètres S, guide d'onde, cavité résonante, filtres.
+
+
+
+Programme	1) Circuits en hyperfréquences
+- Lignes de transmission. Equation des télégraphistes. Ligne micro ruban. Guide d'ondes.
+- Adaptation d'impédance. Paramètres S.
+- Circuits passifs. Conception de filtres. Coupleurs directionnels.
+- Circuits actifs. Amplificateur radio fréquences.
+
+2) Dispositifs électromagnétiques en micro-ondes - Cavités résonnantes. Résonateurs diélectriques. - Antennes. Diagramme de rayonnement. Gain.
+- Réseau d'antennes
+- Bilan de puissance en télécommunications et en radar
+
+TP: étude complète d'un micro-onde : fonctionnement du magnétron, guide d'onde, cavité résonante, mesure d'émission à l'aide d'antenne dipôle, ...
+
+Compétences
+◊ Maîtriser les notions et méthodes d'adaptation d'impédances
+
+◊ Dimensionner une ligne micro-ruban
+
+◊ Dimensionner et concevoir un filtre
+
+◊ Utiliser les paramètres S
+
+Objectifs : Savoir utiliser un outil de simulation (ADS) circuit et de simulation électromagnétique
+Travail en
+
+autonomie
+2,5D micro-onde adaptée au circuit imprimé.
+
+Etudier et dimensionner à partir d'un cahier des charges des systèmes vus en cours ainsi que
+
+certains systèmes évoqués mais non étudiés dans les détails.
+
+Méthodes : 1 BE d'introduction au logiciel ADS, les étudiants sont répartis en 6 groupes pour 3
+
+sujets différents (2 variantes du cahier des charges par sujet). Ils ont 6h pour le traiter.
+
+Un rapport et une restitution de groupe finalise l'activité.
+
+D. POZAR. microwave engineering. Addison-Wesley, 1990.
+Bibliographie
+
+
+Test 60%
+Contrôle des
+
+connaissances
+TP 10%
+
+Projet autonomie en groupe (rapport + soutenance) 30%
+
+
+

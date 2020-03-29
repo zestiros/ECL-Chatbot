@@ -1,0 +1,85 @@
+
+ AF INFO 3.6
+
+
+Calcul et modélisation géométrique pour l'informatique graphique
+
+Geometric Calculation and Modeling for Computer Graphics
+
+Responsable(s) : Raphaëlle Chaine
+
+| Cours : 10 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 10 h | Projet : 0 h | langue du cours :   |
+
+
+Objectifs de la formation
+
+
+La popularisation des techniques de numérisation 3D a entraîné l’essor des techniques de modélisation numérique des objets. Il est en effet indispensable de bénéficier de traitements efficaces et rapides pour obtenir, transmettre, éditer et déformer des modèles de qualité, à partir de données brutes parfois très bruitées et redondantes. Le but de cet enseignement est d’introduire la notion de calcul géométrique utile à la modélisation numérique des formes. On approfondira en particulier la question de la génération de maillage comme discrétisation de la géométrie d’une forme 2D ou 3D et on présentera les approches de la Géométrie Algorithmique pour les générer, simplifier, raffiner et manipuler, en s’appuyant sur des structures géométriques aux propriétés particulières.
+
+Mots-clés : Calcul géométrique, génération de maillages, reconstruction 3D, simplification et raffinement de maillages, Techniques basées sur la triangulation de Delaunay et le diagramme de Voronoï, sculpture virtuelle
+
+
+
+Programme
+Maillages :
+
+-Définitions
+
+-Génération de maillages, reconstruction 3D et sculpture virtuelle
+
+-Simplification et raffinement de maillages
+
+-Amélioration de maillages, codage
+
+Calcul Géométrique et Géométrie Algorithmique :
+
+-Notions élémentaires de GA en 2D (cartes planaires, graphes, triangulation, enveloppe convexe)
+
+-Construction de l'enveloppe convexe en 2D: algorithme optimal (en diviser et construire)
+
+-Algorithmes incrémentaux
+
+-Triangulation de Delaunay en 2D (et dual: diagramme de Voronoï) : définitions générales,
+
+propriétés
+
+-Diagrammes de puissances
+
+-Algorithme optimal de construction de la triangulation de Delaunay (diviser et construire), et
+
+algorithmes incrémentaux
+
+◊
+Compétences
+
+
+◊
+
+◊
+
+◊
+
+Pascal Frey, Paul-Louis George. Mesh Generation, 2nd Edition. Wiley-ISTE, 2008.
+Bibliographie
+
+
+Mario Botsch, Leif Kobbelt, Mark Pauly, Pierre All. Polygon Mesh Processing. K Peters/CRC Press,
+
+2020.
+
+M. de Berg, M. van Kreveld, M. Overmars, O. Schwar. Computational Geometry Algorithms and
+
+Applications. Springer-Verlag, 1997.
+
+Test final et note de BE
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+

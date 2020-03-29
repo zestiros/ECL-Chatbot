@@ -1,0 +1,69 @@
+
+ AF MOD 11.4
+
+
+Méthodes variationnelles pour les EDP
+
+Variational methods for PDEs
+
+Responsable(s) : Martine MARION
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les méthodes variationnelles ou méthodes d'énergie sont fondamentales dans l'étude des équations aux dérivées partielles (ou EDP) linéaires et surtout non linéaires. Elles reposent sur des estimations des solutions dans des espaces fonctionnels adaptés et sur l'utilisation d'outils puissants d'analyse fonctionnelle. Le but de ce cours est de
+
+- présenter les notions fondamentales d'analyse à la base de ces méthodes
+- montrer comment elle peuvent être utilisées pour étudier des EDP stationnaires (dites elliptiques) ainsi que des EDP d'évolution (dites paraboliques).
+
+Ces notions seront notamment illustrées par l'étude de divers problèmes issus de la physique mathématique. Pré-requis : il est recommandé d'avoir suivi le cours S8 'Analyse Fonctionnelle' (ou toute formation équivalente).
+
+Mots-clés : Equations aux dérivées partielles, solutions faibles, problèmes linéaires et non linéaires, méthodes variationnelles
+
+
+
+Programme	Chapitre 1. Espaces de Sobolev
+- notions sur les distributions
+- théorèmes de trace et de densité
+Chapitre 2. Problèmes aux limites elliptiques linéaires
+- Méthodes variationnelles
+- Problèmes aux valeurs propres
+Chapitre 3. Problèmes elliptiques non linéaires
+- Topologie faible
+- Méthode de Galerkin
+Chapitre 4. Problèmes paraboliques
+- Fonctions à valeurs vectorielles
+- Formulation variationnelle d'un problème modèle
+
+
+Compétences	◊ Acquérir les notions d'analyse permettant l'étude des EDPs
+◊ Savoir les appliquer à divers problèmes
+
+
+Masters	Master mention "Mathématiques appliquées, statistiques", parcours "Maths en action"
+
+affiliés
+
+
+Bibliographie	H. Brézis. Analyse fonctionnelle. Dunod, 2005.
+
+L. Evans. Partial Differential Equations. AMS, 1998.
+
+J.-L. Lions. Quelques méthodes de résolution des problèmes aux limites non linéaires. Dunod et Gauthier-Villars, 1969.
+
+
+Contrôle des	Examen de 2H (note de savoir 70%) - Compte-rendus de BE (note de savoir-faire 30%)
+
+connaissances
+
+
+
+
+
+

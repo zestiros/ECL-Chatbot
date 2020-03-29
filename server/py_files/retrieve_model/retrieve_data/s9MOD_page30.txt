@@ -1,0 +1,79 @@
+
+ AF MOD 5.1
+
+
+Physiologie humaine et biotechnologies
+
+Human physiology and biotechnology
+
+Responsable(s) : Emmanuelle LAURENCEAU
+
+| Cours : 16 h | TD : 0 h | TP : 4 h | Autonomie : 0 h | BE : 8 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+L'objectif est de mettre à niveau les connaissances de base en physiologie et de permettre la compréhension des mécanismes de communication et de régulation de l'organisme. L'intégration entre les différentes fonctions sera abordée
+à partir d'exemples concrets pour les applications biomédicales en s'appuyant sur l'étude de systèmes tels que les systèmes cardiovasculaire et immunitaire. Une seconde partie permettra d'approcher le fonctionnement d'une cellule vivante dans son milieu naturel et d'appréhender les potentialités des cellules et des biomolécules qui les composent dans les secteurs de la santé. L'accent sera mis sur le lien entre structure, environnement et aptitude à remplir une fonction biologique. Le cours sera illustré par les développements de la biologie moléculaire.
+
+Mots-clés : Cellules, biologie moléculaire, systèmes immunitaire et cardiovasculaire, applications biomédicales
+
+
+
+Programme	Organisation de la cellule vivante
+Organisation du corps humain : Systèmes cardio-vasculaire, immunitaire
+Mécanismes biologiques fondamentaux
+Les cellules dans leur environnement
+TP : Analyse de cellules par microscopie optique et croissance cellulaire
+BE : Pharmacologie
+
+BE : Analyse de la fonction cardiaque par imagerie
+
+
+Compétences	◊ Connaitre les bases en biologie cellulaire et moléculaire
+◊ Comprendre le fonctionnement du corps humain et les relations structure-fonction biologique
+◊ Appréhender les enjeux dans le secteur de la santé
+◊ Appliquer les connaissances à la résolution d'une problématique
+
+Activités /
+approfondir le cours sur le système cardio-vasculaire et la pharmaco-cinétique
+Autonomie
+
+
+Master Ingénierie de la Santé (IdS)
+Masters
+
+affiliés
+MOD obligatoire pour l'option BIN Filière BIO
+
+Alberts Bruce M. (Collab.) Johnson Alexander (Coll. Biologie moléculaire de la cellule. Flammarion
+Bibliographie
+
+
+Médecine-Sciences, 2004.
+
+Étienne Jacqueline. Biochimie génétique, biologie moléculaire. Masson, 2006.
+
+Silverthorn Dee Unglaub. Physiologie humaine. Pearson education, 2007.
+
+Evaluations TP et BE, examen final
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+

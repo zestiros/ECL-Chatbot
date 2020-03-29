@@ -1,0 +1,80 @@
+
+ AF FLE tc 1
+
+
+Sensibilisation et bases théoriques
+
+Introduction and theoretical bases
+
+Responsable(s) : Julian Scott , Mathieu Creyssels
+
+| Cours : 26 h | TD : 18 h | TP : 4 h | Autonomie : 12 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Cette AF propose une introduction à l'UE par la découverte expérimentale et présente les concepts fondamentaux de la mécanique des fluides et de l'énergétique.
+
+Mots-clés : Découverte de la mécanique des fluides, Equations fondamentales, Cadres simplificateurs
+
+
+
+Programme	Introduction
+Cinématique et lois fondamentales
+Fluide visqueux newtonien
+Nombre de Reynolds
+
+Régimes et structures d'écoulement en fonction du nombre de Reynolds Ecoulements turbulents
+Vorticité et bases de l'aérodynamique
+Energie, thermodynamique et écoulements compressibles
+Transfert de chaleur
+Mélanges fluides
+
+Combustion et flammes
+
+
+Compétences	◊ Savoir décrire les lois fondamentales de la mécanique des fluides et de l'énergétique et leurs principaux cadres simplificateurs
+◊ Savoir identifier les principales phénoménologies et régimes d'écoulement
+◊ Savoir effectuer une analyse dimensionnelle et une analyse d'ordre de grandeur d'un problème aux limites
+
+◊ Maîtriser les bases des systèmes à flux continu et les bilans de charge
+
+Travail en
+Objectifs : Maitrise des concepts théoriques
+autonomie
+Sensibilisation à la rédaction de rapport et à la mise en forme de résultat
+
+Méthodes : 3 TD (3 x 2h) : Enoncés d'exercices
+
+1 TP (4h) : Supports de formation + rédaction d'un rapport de 5 pages
+
+E. Guyon, J.-P. Hulin, L. Petit. Hydrodynamique physique. CNRS Editions, EDP Sciences, 2012.
+Bibliographie
+
+
+G. K. Batchelor. An Introduction to Fluid Dynamics. Cambridge University Press, 1967.
+
+C. Bailly and G. Comte-Bellot. Turbulence. Springer, 2015.
+
+Examen terminal sans document (85%), Rapport du TP de sensibilisation (15%)
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+
+

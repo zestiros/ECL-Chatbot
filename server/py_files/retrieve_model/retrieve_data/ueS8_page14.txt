@@ -1,0 +1,92 @@
+
+ AF ELC A-10
+
+
+Vivant, Information et Système (Fermé en 2019-2020)
+
+Life, Information and Systems
+
+Responsable(s) : Julien HUILLERY, Bénédicte LAFAY, Gérard SCORLETTI
+
+| Cours : 12 h | TD : 16 h | TP : 0 h | Autonomie : 4 h | BE : 0 h | Projet : 0 h | Langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Comprendre le vivant, ses formes, structure et organisation, son fonctionnement et sa variation, est indispensable pour appréhender le monde dont nous faisons partie et dont nous dépendons. De nombreuses propriétés du vivant n'apparaissent qu'au niveau du système biologique considéré dans sa globalité. De même, la notion d'information est au cœur des mécanismes d'adaptation, de reproduction et d'évolution. L'objectif de cet enseignement est de présenter la pertinence et le potentiel d'application de l'approche système et de la théorie de l'information à l'étude du vivant.
+
+Mots-clés : Vivant, ADN, ARN, Réplication, Transcription, Évolution, Adaptation, Émergence, Théorie de l'information, Information génétique, Stockage, Codage, Transmission de l'information, Systèmes, Rétroaction, Régulation, Réseaux, Interconnexions.
+
+
+
+
+Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compétences
+
+
+
+
+
+
+Travail en autonomie
+
+
+
+
+I - Vivant
+a) Le processus de la vie
+b) Information biologique II - Information
+a) Théorie de l'information en biologie
+b) Interactions et réseaux d'information III - Systèmes
+
+a) Modèles dynamiques des systèmes vivants
+b) La rétroaction
+
+Pour chaque partie, des séances de TD permettront de mettre en application les notions du cours.
+
+◊ Connaître et analyser l'objet d'étude (le vivant)
+◊ Identifier et formuler les questions et les enjeux propres à l'étude du vivant
+◊ Appliquer l'approche systémique à l'analyse du fonctionnement du vivant (ingénierie inverse)
+◊ Comprendre les enjeux de stockage, de codage et de transmission de l'information génétique
+
+Objectifs : Étude d'un article scientifique à l'interface des trois aspects du cours. Chaque groupe, de 7 ou 8 élèves selon l'effectif, étudie un article différent.
+Méthodes : Travail demandé :
+- écrire un résumé retraçant les enjeux et la démarche de l'article.
+- effectuer une présentation orale à l'ensemble des élèves.
+- animer une séance de questions pour un autre groupe.
+- évaluer un troisième groupe
+
+
+
+Bibliographie	L. Von Bertalanffy. General System Theory, Foundations, Development, Applications. George Braziller, 1968.
+
+C.E. Shannon. A Mathematical Theory of Communication. Bell System Technical Journal, 1948.
+
+N. Wiener. Cybernetics or Control and Communication in the Animal and the Machine. MIT Press, 1948.
+
+
+
+Contrôle des	Comptes rendus de TD (binôme)
+
+connaissances	Résumé et restitution de l'étude bibliographique (groupe)
+Test final écrit (individuel)
+
+Savoir : 30%; Savoir-faire : 70%

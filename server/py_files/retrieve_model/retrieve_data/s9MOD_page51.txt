@@ -1,0 +1,83 @@
+
+ AF MOD 8.4
+
+
+Représentation et manipulation de données structurées
+
+
+Responsable(s) : Daniel MULLER
+
+| Cours : 16 h | TD : 0 h | TP : 0 h | Autonomie : 0 h | BE : 12 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Quelle que soit la technologie sous-jacente, les systèmes d'information s'appuient sur un certain nombre de paradigmes incontournables : structuration des données, usage de méta données, vérifications d'intégrité, réutilisation par transformation plutôt que par duplication, échange d'informations structurées entre applications ou modules...Ce cours s'attache à montrer comment les standards basés sur XML favorisent ou même induisent certains fondamentaux comme l'intégrité des données, l'interopérabilité des applications, voire leur internationalisation, et comment les nombreuses applications qui en découlent s'inscrivent dans cette dynamique au sein de systèmes dont la complexité va croissant.
+
+Mots-clés : XML, DTD, XML Schema, Xpath, XSLT, Webservices
+
+
+
+Programme	Introduction à la problématique des systèmes d'information Structuration des données - XML
+Intégrité des informations - validation, DTD, schémas
+Interopérabilité - espaces de nommage
+Recherche d'information - Xpath, XQuery
+Transformations - XSLT
+Échange d'informations, Services Web - XML-RPC
+
+Exemples d'applications - SVG, XSL-FO
+
+
+Compétences	◊ Appréhender les potentialités et le fonctionnement de l'écosystème XML
+◊ Maîtriser la notion de document bien formé
+◊ Savoir invoquer l'outil adéquat face à un problème concret
+
+
+
+Activités /
+
+Autonomie
+
+
+
+Bibliographie
+
+
+
+
+
+Contrôle des connaissances
+
+
+BE 1 - Conception d'un document XML
+BE 2 - Transformations avec XSLT
+
+BE 3 - Focus sur une application (SVG, XSL-FO, ...)
+
+E. R. Harold, W. Scott Means. XML in a Nutshell. 3rd Edition - O'Reilly, 2004.
+
+E. van der Vlist. XML Schema, the W3C's Object-Oriented Descriptions for XML. O'Reilly, 2002.
+
+J. E. Simpson. XPath and XPointer, Locating Content in XML Documents. O'Reilly, 2002.
+
+
+50% savoir (QCM), 50% savoir-faire (moyenne des BEs)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

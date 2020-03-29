@@ -1,0 +1,78 @@
+
+ AF MOD 6.4
+
+
+Microsystèmes Autonomes
+
+Autonomous microsystems
+
+Responsable(s) : Ian O'CONNOR, Pedro ROJO-ROMEO
+
+| Cours : 16 h | TD : 0 h | TP : 8 h | Autonomie : 0 h | BE : 4 h | Projet : 0 h | langue du cours
+
+|
+
+
+
+Objectifs de la formation
+
+
+Les avancées spectaculaires dans les micro-nano-technologies permettent l'intégration de fonctionnalités très diverses dans un volume inférieur au mm3. Les microsystèmes autonomes, s'appuyant sur cette intégration et à la base de l'émergence de l'internet des objets, ne nécessitent pas d'apport externe énergétique, sont capables de communiquer sans fil et intègrent des capteurs/actuateurs ainsi que des circuits de traitement de l'information. Leurs applications sont nombreuses : automobile, génie civil, santé, chaînes de production ...
+
+L'objectif de cette AF est d'étudier les principes de conception et de fabrication des microsystèmes autonomes :
+technologies micro-nano-électroniques, capteurs / actuateurs, récupération d'énergie, conception faible consommation.
+
+Mots-clés : technologies micro-nano-électroniques, capteurs / actuateurs, récupération d'énergie, conception faible consommation
+
+
+
+Programme	Introduction aux principes des technologies microélectroniques
+Description des technologies spécifiques des capteurs / actuateurs intégrés, applications
+Récupération d'énergie ambiante
+Conditionnement électronique du signal
+
+Contraintes liées à l'intégration nanométrique (thermique, mécanique, bruit, ...)
+
+
+Compétences	◊ Comprendre les enjeux et les principes des microsystèmes autonomes, les situer dans les
+◊ Connaître les techniques de fabrication et les principes de fonctionnement des microcapteurs intégrés
+
+◊ Etre capable d'analyser un circuit intégré de conditionnement du signal issu d'un capteur
+◊ Connaître les techniques de récupération d'énergie (mécanique, thermique, photovoltaique) à l'échelle intégrée
+
+Activités /
+TP : Introduction aux micro-nanotechnologies en salle blanche
+Autonomie
+TP : Conception d'un bloc d'amplification CMOS faible bruit, faible consommation, faible tension
+
+BE : synthèse d'un microsystème autonome
+
+Master Electronique, Energie Electrique, Automatique (3EA)
+Masters
+
+affiliés
+
+
+S. Senturia. Microsystem Design. Springer, 2000.
+Bibliographie
+
+
+N. Maluf. An Introduction to Microelectromechanical Systems Engineering. Artech, 2004.
+
+50% savoir, 50% savoir-faire
+Contrôle des
+
+connaissances
+
+
+
+
+
+
+
+
+
+
+
+
+

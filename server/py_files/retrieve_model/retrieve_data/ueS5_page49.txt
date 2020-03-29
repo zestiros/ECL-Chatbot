@@ -1,0 +1,70 @@
+
+ AF PCM tc 3
+
+
+Travaux Pratiques de Physique-Chimie
+
+Practical works in Physic and chemistry
+
+Responsable(s) : Christelle Yeromonahos, José Penuelas
+
+| Cours : 0 h | TD : 0 h | TP : 24 h | Autonomie : 0 h | BE : 0 h | Projet : 0 h | langue du cours :
+
+|
+
+
+
+Objectifs de la formation
+
+
+Cette action de formation permet d'appréhender par l'expérience, donc de façon plus intuitive, des concepts fondamentaux abordés dans l'UE et d'en voir les applications notamment dans le domaine industriel. Elle permet également d’aborder des notions importantes pour un ingénieur, liées à la mesure et en particulier à la mise au point de protocoles de mesures.
+
+Elle est dispensée uniquement sous forme de travaux pratiques.
+
+Mots-clés : Nanotechnologie, Imagerie, Laser, Spectroscopie, Chromatographie, Cinétique chimique, Électrochimie, Liaisons intermoléculaires
+
+
+Programme	Les élèves suivront 3 travaux pratiques (TP) de physique: Analyse fréquentielle – Optique de Fourrier Thermographie Infrarouge / Cellule solaire
+Spectrophotométrie ou Fibre Optique – Principe et application aux capteurs.
+Les élèves suivront 3 travaux pratiques (TP) de chimie:
+Étude électrochimique de la corrosion galvanique des métaux
+Étude des réactions d’oxydo-réduction par spectrophotométrie UV-Visible – Cinétique chimique Chromatographie en phase gazeuse
+
+
+Compétences	◊ Être capable de relier les propriétés de l’espace des fréquences à l’espace réel
+◊ Connaître les mécanismes de détection et d’analyse de lumière visible et infrarouge
+◊ Etre capable de relier des mesures spectrophotométriques ou voltampérométriques à la cinétique d’une réaction rédox
+
+◊ Connaître et mettre au point le protocole de détection d’espèces chimiques par chromatographie
+
+Travail en
+Objectifs : Préparer les travaux pratiques
+autonomie
+Méthodes : Lecture des documents sur l'intranet
+
+Questionnaire à remplir et à inclure dans le compte-rendu de TP
+
+Questions préliminaires (Savoir, 20% de la note)
+Contrôle des
+
+connaissances
+Travail (Savoir-faire, 50% )
+
+Compte-rendu écrit (Méthodologie, 30%)
+
+Note : moyenne des 6 TP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
