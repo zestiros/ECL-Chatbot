@@ -1,10 +1,14 @@
 import React, { Component } from "react";
 import axios from "axios"
 import { addResponseMessage , addLinkSnippet } from "react-chat-widget";
+import messageSound from "../../assets/open-ended.mp3";
+
 
 class Satisfaction extends Component {
   constructor(props) {
     super(props);
+    this.sound = new Audio(messageSound);
+
   }
 
   Oui() {
