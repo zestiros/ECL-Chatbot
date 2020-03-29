@@ -3,8 +3,8 @@ import React from 'react';
 import bot from "../assets/bot.png"
 
 const Info = () => (
-	<div className="card" id="card">
-		<div className="card-image" style={{height: "150px"}}>
+	<div  id="card">
+		{/* <div className="card-image" style={{height: "150px"}}>
           <img src={bot} alt="bot"/>
           <span className="card-title">Hellooo!</span>
         </div>
@@ -12,7 +12,7 @@ const Info = () => (
           <p>
           this is our glorious chatbot bitches 
           </p>
-        </div>
+        </div> */}
 	</div>
 );
 

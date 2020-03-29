@@ -2,6 +2,8 @@ import React,{Component} from 'react';
 import axios from "axios";
 import {Widget,addResponseMessage} from 'react-chat-widget';
 import messageSound from '../../assets/open-ended.mp3';
+import logo from "../../assets/bot.png"
+
 
 
 import 'react-chat-widget/lib/styles.css'
@@ -86,6 +88,10 @@ handleNewUserMessage=(newMessage)=>{
             <div>
                 <Widget
                     handleNewUserMessage={this.handleNewUserMessage}
+                profileAvatar={logo}
+                title="Chatbot"
+                subtitle=" "
+                senderPlaceHolder="taper un message..."
                 />
             </div>
         )
