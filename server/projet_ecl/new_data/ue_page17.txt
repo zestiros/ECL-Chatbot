@@ -1,0 +1,36 @@
+AF INF tc3
+Projet d’application Web
+WebApp Lab (Learning by doing)
+Responsable(s) : René Chalon, Daniel Muller
+| Cours : 8 h | TD : 10 h | TP : 0 h | Autonomie : 12 h | BE : 0 h | Projet : 0 h | langue du cours : |
+Objectifs de la formation
+L’objectif de cette Action de Formation est de mettre en pratique les notions et compétences introduites par les autres
+AF dans le cadre d'un projet de groupe, concernant la conception et le développement d’une application web.
+L'architecture de cette application sera basée sur une interface Web dynamique, et un service développé en Python côté
+serveur.
+Le projet consistera à concevoir une application depuis le modèle de données jusqu'aux interfaces utilisateur (IHM) en
+passant par les interactions client-serveur.
+Mots-clés : Projet informatique, application web, service web, client-serveur, HTML5, CSS3, Javascript, Ajax, JSON,
+Python, SQL
+Programme Contexte et outils du développement web
+Modèle de données
+Interfaces utilisateur
+Architecture client-serveur et protocole applicatif
+Compétences ◊ Maîtriser les outils et langages de base pour la programmation web (HTML, CSS, Javascript)
+◊ Comprendre l'architecture client-serveur basée sur des services web
+◊ Savoir réaliser la recette d'un logiciel
+◊ Maîtriser les spécificités de la gestion de projet informatique (versioning)
+Travail en
+autonomie
+Objectifs : Conception, développement et test d'une application.
+Méthodes : Les étudiants sont divisés en groupe projet de 4 à 5 personnes. Ils ont à écrire un
+cahier des charges, à livrer une application fonctionnelle et testée, et à effectuer la recette d'une
+application réalisée par un groupe concurrent.
+Bibliographie Wesley Hales. HTML5 and JavaScript Web Apps . O'Reilly, 2012.
+Eric Ell iot. Programming JavaScript Applications: Robust Web Architecture with Node, HTML5,
+and Modern JS Libraries . O'Reilly, 2014.
+Leonard Richardson, Mike Amundsen, Sam Ruby. RESTful Web APIs . O'Reilly, 2013.
+Contrôle des
+connaissances
+Note de savoir (50%) : Examen écrit
+Note de savoir-faire (50%) : note du livrable
