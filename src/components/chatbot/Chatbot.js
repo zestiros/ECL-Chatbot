@@ -76,6 +76,7 @@ class Chatbot extends Component {
 
   handleNewUserMessage = newMessage => {
     this.df_text_query(newMessage);
+   
 
     // addResponseMessage(res.toString());
   };

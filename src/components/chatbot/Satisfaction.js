@@ -11,19 +11,19 @@ class Satisfaction extends Component {
 
   }
 
-  Oui() {
+  async Oui() {
     addResponseMessage("Merci, Au revoir!");
+    await axios.get("/api/satisfied")
   }
 
   Non() {
     this.df_text_query()
   }
 
-  async df_text_query(text) {
+  async df_text_query() {
     let model = "r";
     await axios
       .post("/api/df_text_query", {
-        text,
         model
       })
       .then(response => {

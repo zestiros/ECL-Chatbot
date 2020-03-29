@@ -31,6 +31,10 @@ app.get("/api/hello", invokeChatbotWelcome);
 
 app.post('/api/df_text_query', invokeChatbot);
 
+app.get("/api/satisfied", () => {
+    question = ""
+})
+
 
 
 
@@ -39,7 +43,7 @@ app.post('/api/df_text_query', invokeChatbot);
 
 let generativeModelScript = path.join(__dirname, '.', '/py_files/generative_model/main.py')
 let retrieveModelScript = path.join(__dirname, '.', '/py_files/retrieve_model/retrieve_model.py')
-
+let question = ""
 
 async function invokeChatbotWelcome(req, res) {
     console.log('welcome');
@@ -59,10 +63,12 @@ async function invokeChatbotWelcome(req, res) {
 async function invokeChatbot(req, res) {
 
     console.log("new message from client")
-    console.log(req.body.text)
-    console.log(req.body.model)
+
+
 
     if (req.body.model == "g") {
+        question = req.body.text
+
         var options = {
             mode: 'text',
             args: [req.body.text]
@@ -77,10 +83,12 @@ async function invokeChatbot(req, res) {
 
     } else {
 
+        console.log("retrieeeve" + question)
+
         let resp = []
         var options = {
             mode: 'text',
-            args: [req.body.text]
+            args: [question]
         }
 
         await PythonShell.run(retrieveModelScript, options, function(err, results) {
