@@ -3,14 +3,14 @@ import React from 'react';
 import bot from "../assets/bot.png"
 
 const Info = () => (
-	<div className="card">
-		<div className="card-image" style={{heigth: "150px"}}>
+	<div className="card" id="card">
+		<div className="card-image" style={{height: "150px"}}>
           <img src={bot} alt="bot"/>
           <span className="card-title">Hellooo!</span>
         </div>
         <div className="card-content">
           <p>
-          ecl chatbot
+          this is our glorious chatbot bitches 
           </p>
         </div>
 	</div>
