@@ -67,6 +67,7 @@ async function invokeChatbot(req, res) {
 
 
     if (req.body.model == "g") {
+        console.log("generative" + req.body.text)
         question = req.body.text
 
         var options = {
