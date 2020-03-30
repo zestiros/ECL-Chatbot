@@ -3,7 +3,8 @@ import axios from "axios";
 import {
   Widget,
   addResponseMessage,
-  renderCustomComponent
+  renderCustomComponent,
+  toggleMsgLoader
 } from "react-chat-widget";
 import messageSound from "../../assets/open-ended.mp3";
 import logo from "../../assets/bot.png";
@@ -38,6 +39,7 @@ class Chatbot extends Component {
   }
 
   async df_text_query(text) {
+    toggleMsgLoader();
     let model = "g";
     await axios
       .post("/api/df_text_query", {
@@ -51,6 +53,7 @@ class Chatbot extends Component {
           addResponseMessage("are u satisfied with this reply?"),
           1500
         );
+        toggleMsgLoader();
         renderCustomComponent(Satisfaction);
       })
       .catch(err => {
@@ -61,11 +64,14 @@ class Chatbot extends Component {
   }
 
   async hello() {
+    toggleMsgLoader();
     await axios
       .get("/api/hello")
       .then(response => {
         console.log(response);
+        toggleMsgLoader();
         addResponseMessage(response.data);
+        
       })
       .catch(err => {
         console.log(err);
@@ -76,9 +82,6 @@ class Chatbot extends Component {
 
   handleNewUserMessage = newMessage => {
     this.df_text_query(newMessage);
-   
-
-    // addResponseMessage(res.toString());
   };
 
   render() {
