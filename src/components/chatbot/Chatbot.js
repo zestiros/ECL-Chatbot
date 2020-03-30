@@ -52,10 +52,11 @@ class Chatbot extends Component {
         addResponseMessage(response.data);
         toggleMsgLoader();
         setTimeout(() => {
-          addResponseMessage("êtes-vous satisfait de cette réponse?");
           toggleMsgLoader();
+          addResponseMessage("êtes-vous satisfait de cette réponse?");
+          renderCustomComponent(Satisfaction);
         }, 1500);
-        renderCustomComponent(Satisfaction);
+       
       })
       .catch(err => {
         console.log(err);
@@ -93,6 +94,7 @@ class Chatbot extends Component {
           title="Chatbot"
           subtitle=" "
           senderPlaceHolder="taper un message..."
+          badge=""
         />
       </div>
     );

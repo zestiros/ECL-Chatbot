@@ -15,8 +15,11 @@ class Satisfaction extends Component {
   }
 
   async Oui() {
-    
-    addResponseMessage("Merci, Au revoir!");
+    toggleMsgLoader();
+    setTimeout(()=>{
+      toggleMsgLoader();
+      addResponseMessage("Merci, au revoir!")
+    },1500)
     await axios.get("/api/satisfied");
   }
 
