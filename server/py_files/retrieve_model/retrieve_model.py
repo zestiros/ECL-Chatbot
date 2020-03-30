@@ -56,6 +56,17 @@ def LemNormalize(doc):
     words = nltk.word_tokenize(doc)
     return words
 
+def get_abstract(doc):
+    k = 0
+    abstract = []
+    for i in doc.split('\n'):
+        if i!="":
+            k=k+1
+            abstract.append(i)
+        if k==2:
+            break
+    return abstract
+
 def key_search(question,all_doc,match_dict):
     new_doc = copy.deepcopy(all_doc)
     TfidfVec = TfidfVectorizer(tokenizer=LemNormalize)
@@ -65,9 +76,11 @@ def key_search(question,all_doc,match_dict):
     ind = vals.argsort()[0][-4:-1]
     for i in ind:
         answer = match_dict["{}".format(i)]
+        abstract = get_abstract(all_doc[i])
         doc_site = match_dict["{}".format(answer.split("_")[0])]
         print("{}".format(doc_site))
         print ("{}".format(answer.split("_")[-1].split(".")[0]))
+        print(abstract[0]+" - "+abstract[1])
     return ind
 
 

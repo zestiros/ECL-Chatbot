@@ -48,12 +48,13 @@ class Chatbot extends Component {
       })
       .then(response => {
         console.log(response);
-        addResponseMessage(response.data);
-        setTimeout(
-          addResponseMessage("are u satisfied with this reply?"),
-          1500
-        );
         toggleMsgLoader();
+        addResponseMessage(response.data);
+        toggleMsgLoader();
+        setTimeout(() => {
+          addResponseMessage("êtes-vous satisfait de cette réponse?");
+          toggleMsgLoader();
+        }, 1500);
         renderCustomComponent(Satisfaction);
       })
       .catch(err => {
@@ -71,7 +72,6 @@ class Chatbot extends Component {
         console.log(response);
         toggleMsgLoader();
         addResponseMessage(response.data);
-        
       })
       .catch(err => {
         console.log(err);

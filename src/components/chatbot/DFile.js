@@ -13,7 +13,7 @@ class DFile extends Component {
      <div className="rcw-snippet">
        <h5 className="rcw-snippet-title">{this.props.title}</h5>
        <div className="rcw-snippet-details">
-       <a href={this.props.value} target="_blank" className="rcw-link">ouvrir dans un nouvel onglet
+       <a href={this.props.value} target="_blank" className="rcw-link">{this.props.abstract} 
        </a>
        
        </div>

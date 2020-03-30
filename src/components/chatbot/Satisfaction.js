@@ -38,10 +38,11 @@ class Satisfaction extends Component {
         for (let i = 0; i < 3; i++) {
           var link = {
             title: "Voir " + response.data[i].page,
-            link: response.data[i].link
+            link: response.data[i].link,
+            abstract : response.data[i].abstract
           };
           toggleMsgLoader();
-          renderCustomComponent(DFile, { title: link.title, value: link.link });
+          renderCustomComponent(DFile, { title: link.title, value: link.link , abstract : link.abstract });
         }
       })
       .catch(err => {

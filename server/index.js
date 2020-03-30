@@ -95,12 +95,14 @@ async function invokeChatbot(req, res) {
         await PythonShell.run(retrieveModelScript, options, function(err, results) {
             if (err) console.log(err);
 
-            for (i = 0; i < 6; i += 2) {
+            for (i = 0; i < 9; i += 3) {
                 console.log(i + "\n")
                 var j = i + 1;
+
                 var file = {
                     link: results[i],
-                    page: results[j]
+                    page: results[j],
+                    abstract: results[++j]
                 }
                 resp.push(file)
             }
