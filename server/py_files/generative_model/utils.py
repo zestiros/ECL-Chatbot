@@ -124,8 +124,8 @@ def prepareData(lang1, lang2, DATA_FILE,reverse=False,stem=False):
     # print("Read %s sentence pairs" % len(pairs))
     pairs = TrimWords(pairs)
     
-    for pair in [pair for pair in pairs if not filterPair(pair)]:
-        print('%s (%d) -> %s (%d)' % (pair[0],len(pair[0].split()),pair[1],len(pair[1].split())))  
+    # for pair in [pair for pair in pairs if not filterPair(pair)]:
+    #     print('%s (%d) -> %s (%d)' % (pair[0],len(pair[0].split()),pair[1],len(pair[1].split())))  
     
     pairs = filterPairs(pairs)
     

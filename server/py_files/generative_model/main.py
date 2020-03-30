@@ -128,9 +128,9 @@ if __name__=='__main__':
     # define path
     dirname =os.path.dirname(__file__)
     DATA_FILE = os.path.join(dirname,'../data/data.txt')
-    ENCODER_FILE1 = os.path.join(dirname,'../no_stem_checkpoints/encoder20000_para.pkl') #no use stemming
+    # ENCODER_FILE1 = os.path.join(dirname,'../no_stem_checkpoints/encoder20000_para.pkl') #no use stemming
     ENCODER_FILE2 = os.path.join(dirname,'../stem_checkpoints/encoder_35000_stem_ns_para.pkl') #use stemming
-    DECODER_FILE1 = os.path.join(dirname,'../no_stem_checkpoints/decoder20000_para.pkl') # no use stemming
+    # DECODER_FILE1 = os.path.join(dirname,'../no_stem_checkpoints/decoder20000_para.pkl') # no use stemming
     DECODER_FILE2 = os.path.join(dirname,'../stem_checkpoints/decoder_35000_stem_ns_para.pkl') #use stemming
  #prepare data
     SOS_token = 0
