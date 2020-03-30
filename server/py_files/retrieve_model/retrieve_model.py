@@ -66,7 +66,8 @@ def key_search(question,all_doc,match_dict):
     for i in ind:
         answer = match_dict["{}".format(i)]
         doc_site = match_dict["{}".format(answer.split("_")[0])]
-        print("{}{}".format(doc_site,answer.split("_")[-1].split(".")[0]))
+        print("{}".format(doc_site))
+        print ("{}".format(answer.split("_")[-1].split(".")[0]))
     return ind
 
 

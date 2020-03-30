@@ -95,8 +95,14 @@ async function invokeChatbot(req, res) {
         await PythonShell.run(retrieveModelScript, options, function(err, results) {
             if (err) console.log(err);
 
-            for (i = 0; i < 3; i++) {
-                resp.push(results[i])
+            for (i = 0; i < 6; i += 2) {
+                console.log(i + "\n")
+                var j = i + 1;
+                var file = {
+                    link: results[i],
+                    page: results[j]
+                }
+                resp.push(file)
             }
             console.log(resp)
             res.send(resp)

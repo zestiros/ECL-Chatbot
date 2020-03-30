@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import axios from "axios"
-import { addResponseMessage , addLinkSnippet } from "react-chat-widget";
+import { addResponseMessage , renderCustomComponent } from "react-chat-widget";
 import messageSound from "../../assets/open-ended.mp3";
-
+import DFile from "./DFile"
 
 class Satisfaction extends Component {
   constructor(props) {
@@ -31,11 +31,12 @@ class Satisfaction extends Component {
         // addResponseMessage(response.data);
         for(let i=0;i<3;i++){
             var link={
-                title : "file "+i,
-                link : response.data[i],
-                target:'_blank'
+                title : "Voir "+response.data[i].page,
+                link : response.data[i].link,
             }
-            addLinkSnippet(link)
+            // addLinkSnippet(link)
+            renderCustomComponent(DFile, {title:link.title,value: link.link});
+
         }
       })
       .catch(err => {
