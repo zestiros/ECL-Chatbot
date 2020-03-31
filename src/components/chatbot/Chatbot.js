@@ -50,7 +50,6 @@ class Chatbot extends Component {
         console.log(response);
         toggleMsgLoader();
         addResponseMessage(response.data);
-        this.setState({ notif: notif + 1 });
         toggleMsgLoader();
         setTimeout(() => {
           toggleMsgLoader();
