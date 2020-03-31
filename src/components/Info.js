@@ -15,7 +15,8 @@ const Info = () => (
       * Il y a combien de cours en mth tc1 ?<br />
       * Comment est évalué le cours d’analyse numérique ?<br />
       * Qui est le président du club Japon ?<br />
-      * Quelle est l’adresse e-mail du trez pole logistique ?<br />
+      * Quelle est l’adresse e-mail du trez pole logistique ?<br /><br/>
+
       Notre Chatbot n’a pas été suffisamment bien nourri en données pour générer
       des phrases efficacement, alors soyez indulgents.
       <br />
