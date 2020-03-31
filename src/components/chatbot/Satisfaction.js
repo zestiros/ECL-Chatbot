@@ -18,7 +18,7 @@ class Satisfaction extends Component {
     toggleMsgLoader();
     setTimeout(()=>{
       toggleMsgLoader();
-      addResponseMessage("Merci, au revoir!")
+      addResponseMessage("Bien reçu, Merci!")
     },1500)
     await axios.get("/api/satisfied");
   }

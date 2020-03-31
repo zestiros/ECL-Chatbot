@@ -1,0 +1,90 @@
+Gros clubs AEECL 2020						
+Bar // (Bar Parallèle)						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Barreau	Vincent	Pathey	06 34 37 93 98	vincent.barreau@ecl18.ec-lyon.fr	18
+Trez'	Fossey	Loïk	Medda	06 82 48 67 25	loik.fossey@ecl18.ec-lyon.fr	18
+VP Carte	Rocher 	Maël	Raky	07 50 83 37 22	mael.rocher@ecl18.ec-lyon.fr	18
+VP Com	Bernard--Michinov	Alexandre	Apodo	06 78 14 92 35	alexandre.bernard-michinov@ecl18.ec-lyon.fr	18
+VP TeamBuilding	Maurin	Tanguy	Domi	06 58 71 41 38	tanguy.maurin@ecl18.ec-lyon.fr	18
+VP Affiche	Loubert	Marie	ZumZum	06 29 42 59 57	marie.loubert@ecl18.ec-lyon.fr	18
+VP Activité	Halna du fretay	Selim	Waysso 	06 58 89 01 55	selim.halna-du-fretay-basse@ecl18.ec-lyon.fr 	18
+VP Activité	Goze	Valentin	Rizz	06 23 18 59 93	valentin.goze@gmail.com	18
+VP Activité	Coulet	Paul	Akhar	06 89 56 20 00	paul.coulet@ecl18.ec-lyon.fr	18
+Club Bretagne						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Michel	Julien	Nheyl	06 43 57 10 79	julien.michel@ecl18.ec-lyon.fr	18
+SG	Babin	Camille	Roxhsi		camille.babin@ecl18.ec-lyon.fr	18
+Trez'	Fresnel	Olivier	Khapp	07 86 89 89 10	olivier.fresnel@ecl18.ec-lyon.fr	18
+Commuz'						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Haguet	Vincent	Khappa	07 69 29 32 59	vincent.haguet@ecl18.ec-lyon.fr	18
+Vice-Prez'	Wattinne	Edouard	Doudou	06 51 71 20 61	edouard.wattinne@edu.em-lyon.com	18
+Trez'	Cressend	Nina	Palma	06 61 05 37 35	nina.cressend@ecl16.ec-lyon.fr	16
+SG	Courbin	François	Dumelon	06 95 10 91 26	francois.courbin@ecl18.ec-lyon.fr	18
+Respo Costumes	Grillet	Clervie		06 95 30 90 54	clerviegc@gmail.com	18
+Respo Costumes	Edelman	Iris				18
+Respo Com'	Guinot	Julien	Joke	06 82 07 01 17	Julien.guinot@ecl18.ec-lyon.fr 	18
+Respo Com'	Wolowska	Klara		06 40 93 36 14	klara.wolowska@edu.em-lyon.com	18
+Respo Partenariat	De Bejarry	Constance		06 01 27 20 20	constancedebejarry@gmail.com	18
+Respo Partenariat	Coste	Hippolyte		06 47 77 25 79	costehippolyte@yahoo.fr	16
+Respo Décors	Allard	Lison		06 77 08 56 37		18
+Respo Décors	Le Henaff	Martin	Genatz	06 81 07 36 71	martin.le-henaff@ecl16.ec-lyon.fr	16
+Respo Son 🎧	Vungoc	Aurélien	TER	06 64 83 95 17	aurelien.vu-ngoc@ecl18.ec-lyon.fr	18
+Webmaster 💻	Laville	Bastien	Makhy	06 79 53 22 36	bastien.laville@ecl17.ec-lyon.fr	17
+Ciné						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'						
+SG						
+Trez'						
+VP Com'						
+Danse						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Graydon	Paul	Nambouhr	06 89 71 67 65	paul.graydon@ecl18.ec-lyon.fr	18
+SG	Brac	Joey	Llybhron	06 04 67 85 80	joey.brac@ecl18.ec-lyon.fr	18
+Trez'	Bustin	Heloïse	Lyhçh	06 51 10 83 88	heloise.bustin@ecl18.ec-lyon.fr	18
+VP Com'	Pianet	Victor				18
+Assoc'Harissa (Club Kebab)						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Chef Chef	Vignal	Guilhem	Kasthor	07 81 67 26 39	guilhem.vignal@ecl18.ec-lyon.fr	18
+Vice Chef	Chin	Michaël 	Taggy	06 51 86 04 98	michael.chin@ecl18.ec-lyon.fr 	18
+Secrétaire Généchef	Duverneuil	Louis	Gadjo	06 38 68 17 27	louis.duverneuil@ecl18.ec-lyon.fr 	18
+Chef Trez'	Julienne	Josselin	Lexh	06 89 84 98 76	josselin.julienne@ecl18.ec-lyon.fr	18
+Chef R&D	Maurin	Tanguy	Domi	06 58 71 41 38	tanguy.maurin@ecl18.ec-lyon.fr	18
+VP Hygiène	Vie	Apolline	Vanah	06 42 36 70 00	apolline.vie@ecl18.ec-lyon.fr	18
+VP Com'	Kadiri	Yoness	Nobby	06 68 03 98 46	yoness.kadiri@ecl18.ec-lyon.fr	18
+VP Cuisson	Lamaignère	Pauline	Sluh	06 32 72 28 34	pauline.lamaignere@ecl18.ec-lyon.fr	18
+VP Sécuritas	Drouets	Grégoire	Phynaud	06 12 05 76 47	gregoire.drouets@ecl18.ec-lyon.fr	18
+VP Salade	Class	Arthur	Ninbu	06 11 26 33 12	arthur.class@ecl18.ec-lyon.fr	18
+VP Tomate	Retailleau	Kévin	Kast	07 85 58 19 12	kevin.retailleau@ecl18.ec-lyon.fr	18
+VP Oignon	Hébrard	Thomas	Zangho	06 18 22 92 75	thomas.hebrard@ecl18.ec-lyon.fr	18
+VP RH	Crunet	Hugo	Glooh	06 52 45 91 28	hugo.crunet@ecl18.ec-lyon.fr	18
+VP Lean Management	Lesavre	Marc	Daymon	06 95 11 63 82	marc.lesavre@ecl18.ec-lyon.fr	18
+VP Projet	Hambli	Khaled	Zema	06 49 85 99 93	khaled.hambli@ecl18.ec-lyon.fr	18
+Oenologie						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Gilli	Michael	Jungko	06 40 90 53 59	michael.gilli@ecl18.ec-lyon.fr	18
+SG	Mera Martinez	Leire	Galla	07 69 45 54 08	leire.mera-martinez@ecl18.ec-lyon.fr	18
+Trez'	Graydon	Paul	Nambouhr	06 89 71 67 65	paul.graydon@ecl18.ec-lyon.fr	18
+Photo						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez	Leclerc	Fabien	Rossoh	06 05 21 56 12	fabien.leclerc@ecl18.ec-lyon.fr	18
+SG	Heintz	Leslie	Symah	06 75 76 64 34	leslie.heintz@ecl18.ec-lyon.fr	18
+Trez	Godoy	Nathan	5.1	06 74 53 37 64	nathan.godoy@ecl18.ec-lyon.fr	18
+Com' Int'	Barot	Julie	Lexhy	06 10 41 43 34	julie.barot@ecl18.ec-lyon.fr	18
+Studio / Matos	Lassus	Thibaud	C'fay	06 66 88 81 92	thibaud.lassus@ecl18.ec-lyon.fr	18
+VP P(ipeau)rojet	Le Franc 	Thomas 	Vholt	06 15 08 54 50	thomas.le-franc@ecl18.ec-lyon.fr	18
+VP Sortie	Anselmo Haddad	Victória	Derhya	07 66 14 31 70	victoria.anselmo-haddad@ecl18.ec-lyon.fr	18
+VP formation 	Cochard	Léo	Béranh 	06 35 96 94 06	leo.cochard@ecl18.ec-lyon.fr	18
+VP concours 	Boucif 	Sherazzade	Téka	07 81 13 63 58	Sherazzade.boucif@ecl18.ec-ec-lyon.fr	18
+VP Argentique / Matos	Pham	Rémi	Khar	06 95 93 00 20	remi.pham@ecl18.ec-lyon.fr	18
+Com' Ext	Nguyen	Frédéric	Santah	06 18 78 72 75	frederic.nguyen@ecl18.ec-lyon.fr	18
+Studio Rock						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Venault	Mahé	Riskah	06 18 79 35 93	paul.legrand@ecl18.ec-lyon.fr	19
+SG	Legrand	Paul	Komah	06 67 37 84 47 	paul.legrand@ecl18.ec-lyon.fr	18
+Trez'	Guerra	Julie	Orion	06 88 91 06 23	julie.guerra@ecl19.ec-lyon.fr	19
+Club Week end						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Numa	Gout	Pam	06  08 08 64 04	numa.gout@ecl18.ec-lyon.fr	18
+SG	Ariaux	Pierre-Emmanuel	Titi	06 23 86 60 55	pierre-emmanuel.ariaux@ecl18.ec-lyon.fr	18
+Trez'	Le Guen	Augustin	Khara	06 51 03 20 90	augustin.le-guen@ecl18.ec-lyon.fr	18

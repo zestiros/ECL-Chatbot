@@ -1,0 +1,168 @@
+Asso' Indépendantes 2020						
+BDAlt (Bureau Des Alternants)						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail 	Promo
+Prez'						
+Vice-Prez'						
+Trez'						
+SG						
+VP inté						
+VP sponsors						
+VP events						
+VP events						
+VP com						
+VP com						
+Centrale COSMOS						
+Poste	Nom	Prenom	Surnom	tel	Email	Promo
+Prez						
+Chef Projets						
+Trez						
+VP Sponsors						
+VP projet 						
+VP Matos						
+VP Comm'						
+Communauté Chrétienne						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'						
+Vice-Prez'						
+Trez'						
+Respo Com						
+Respo Com						
+Respo Intervenants						
+Respo Liturgie						
+Respo Week-ends						
+Respo Week-ends						
+Cheer Up ! 						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Jusseaume	Thomas	Stampy	624911542	thomas.jusseaume@ecl19.ec-lyon.fr	E19
+SG	Lopez	Cristina	Vahima	769511257	cristina.lopez@ecl19.ec-lyon.fr	E19
+RespoHop	Le Rodallec	Mylène	Schally	635947061	mylène.le rodallec@ecl19.ec-lyon.fr	E19
+Trez'	Benkirane	Nabil	Raika	659806570	nabil.benkirane@ecl19.ec-lyon.fr	E19
+VP Com	Jumel	Katlyn	Rytah	677029319	katlyn.jumel@ecl19.ec-lyon.fr	E19
+VP Com	Molina	Claudia	Bizah	626577112	claudia.molina@ecl19.ec-lyon.fr	E19
+VP Projets	Greatti	Tristan	Wish		tristan.greatti@ecl19.ec-lyon.fr	E19
+Ambassadeur Fédé	Wifak	Olivier	Kodah	781665231	olivier.wifak@ecl19.ec-lyon.fr	E19
+VP Démacharge	Divialle	Julien	Nokah	651412360	julien.divialle@ecl19.ec-lyon.fr	E19
+VP Events	Haddad	Océane	Tweest	781376713	océane.haddad@ecl19.ec-lyon.fr	E19
+VP Events	De Chavagnac	Blanche	Harty	785834194	blanche.de chavagnac@ecl19.ec-lyon.fr	E19
+VP Events	Pothain	Léon	Zécrox		léon.pothain@ecl19.ec-lyon.fr	E19
+VP Events	Bouveresse	Romain	Strawby		romain.bouveresse@ecl19.ec-lyon.fr	E19
+VP Events	Sanchez-Assa	Mathilde	Azah		mathilde.sanchez-assa@ecl19.ec-lyon.fr	E19
+CLT  (Centrale Lyon fait son Téléthon)						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Miloyan	Camille	Lumyh	07 82 52 38 07	camille.miloyan@ecl19.ec-lyon.fr	E19
+SG	Sakata	Naomi	Tora	769277599	naomi.sakata@ecl19.ec-lyon.fr	
+Trez'	Sivignon	Noémie	Nynta		noemie.sivignon@ecl19.ec-lyon.fr	E19
+VP Com' Int			Lahmon			
+VP Partenariat&Sponsors	Suresh	Saban	Lankha	07 81 65 10 85	saban.suresh@ecl9.ec-lyon.fr	E19
+VP Sports (BDS)	Guilloteau 	Pierre	Asmhar	06 44 11 83 09	pierre.guilloteau@ecl19.ec-lyon.fr 	E19
+VP Com' Ext	Gilbert	Emilie	Rifah	06 37 93 23 04 	emilie.gilbert@ecl19.ec-lyon.fr 	E19
+VP Art et Culture (BDA)	Giuliani	Mathilde	Qhobah	07 62 20 17 88	mathilde.giuliani@ecl19.ec-lyon.fr	E19
+VP Events	Angrand	Clara	Na'hé	618446279	clara.angrand@ecl19.ec-lyon.fr	E19
+VP Events	Khamesi	Victor	Yenna	640439203	victor. khamesi@ecl19.ec-lyon.fr	E19
+VP Events			Kheotz			
+VP Events			Kayppi			
+Eclymun						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Bourgeon	Axel	Bassoh-Mhynsha	07 86 77 78 43	axel.bourgeon@ecl19.ec-lyon.fr	E19
+SG	Turck	Jean	Zânhson	07 82 78 49 60	jean.turck@ecl19.ec-lyon.fr	E19
+Trez'	Bourgerie	Rémi	Éhokoh	07 51 65 95 12	rémi.bourgerie@ecl19.ec-lyon.fr	E19
+VP Com	Tahlil	Abdelilah	Bivé	07 53 25 67 80	abdelilah.tahlil@ecl19.ec-lyon.fr	E19
+Com Int	Marette	Chloé 	Thena	06 02 35 94 14	chloé .marette@ecl19.ec-lyon.fr	E19
+Com Ext	Baudry	Charles	Hairor	06 18 93 17 77	charles.baudry@ecl19.ec-lyon.fr	E19
+VP Event	Michel	Thomas	Breyz	06 36 92 36 05	thomas.michel@ecl19.ec-lyon.fr	E19
+Respo MUN	Puel	Paul-Swann	---------	07 95 31 20 59	paul-swann.puel@ecl19.ec-lyon.fr	E19
+Respo MUN	Lefevre	Adèle	Darhaby 	06 06 42 46 55	adèle.lefevre@ecl19.ec-lyon.fr	E19
+Enactus Centrale Lyon						
+Poste	Nom	Prenom	Surnom	tel	Email	Promo
+Prez'						
+SG						
+VP Projets						
+EPSA						
+Poste	Nom	Prenom	Surnom	tel	Email	Promo
+Prez'	Jacquet	Mathieu	TukTuk	649510651	mathieu.jacquet@ecl18.ec-lyon.fr	E18
+Directeur Projet	Matteï	Calixthe	Cyshu	668540573	calixthe.matteï@ecl18.ec-lyon.fr	E18
+Directeur Technique	Kawczynski	Martin	Kappa	781101687	martin.kawczynski@ecl18.ec-lyon.fr	E18
+Fablab						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Pôle Administratif						
+Prez'	Simarik	Eva	Lendrah	06 67 62 67 26	eva.simarik@ecl19.ec-lyon.fr	E19
+SG	Ferrari	Luca	Lambo	07 66 52 66 75	luca.ferrari@ecl19.ec-lyon.fr	E19
+Trez'	Lémery	Antoine	Worhta	06 95 94 57 38	antoine.lémery@ecl19.ec-lyon.fr	E19
+Pôle Communication						
+Chef com	Bozhok	Pavlo	Rixhou	646853182	pavlo.bozhok@ecl19.ec-lyon.fr	E19
+VP Projet/Event	Porion	Chloé	Eyskha	659714934	chloé.porion@ecl19.ec-lyon.fr	E19
+VP Projets/Event	Docquer	Louis			louis.docquer@ecl19.ec-lyon.fr	E19
+VP Sécu/Team Building	Haeberle	François			françois.haeberle@ecl19.ec-lyon.fr	E19
+Pôle Logistique						
+Chef Log	Lefevre	Corentin	Lynhçard	631234686		E19
+VP Elec	Fleury	Paul	Ryko	06 51 23 97 63	paul.fleury@ecl19.ec-lyon.fr	E19
+VP Elec	Ménard	Hyacinthe	Harrah	06 66 82 20 29	hyacinthe.menard@ecl19.ec-lyon.fr	E19
+VP Machine	Orlacchio	Federico	Lanoh	06 64 48 07 50	federico.orlacchio@ecl19.ec-lyon.fr	E19
+VP Machine	Ruffié	Luc			luc.ruffié@ecl19.ec-lyon.fr	E19
+VP Machine	Samson	Matéo			matéo.samson@ecl19.ec-lyon.fr	E19
+VP Machine	Thomas	Bremond	Dehflo	643736774	bremond.thomas@ecl19.ec-lyon.fr	E19
+VP Makerlab	Ménard	Vivian	Deskoh	06 47 70 63 01	vivian.ménard@ecl19.ec-lyon.fr	E19
+Forum						
+Poste	Nom	Prénom	Surnom	Tel	email	promo
+Prez'	Tan	Adrien	Pyla	698985198	adrien.@ecl19.ec-lyon.fr	E19
+Vice-Prez'					.@ecl19.ec-lyon.fr	
+Trez'	Daniel	Maxime	Zynah	627063492	maxime.@ecl19.ec-lyon.fr	E19
+SG	de Cremoux	Eloi	Dassy	649768144	eloi.@ecl19.ec-lyon.fr	E19
+Logistique	Poncet	Thomas	Kapik	06 10 83 65 80	thomas.@ecl19.ec-lyon.fr	E19
+Logistique					.@ecl19.ec-lyon.fr	
+Démarchage	André--Matahri	Louise	Sparauh	06 45 59 65 98	louise.@ecl19.ec-lyon.fr	E19
+Démarchage					.@ecl19.ec-lyon.fr	
+Démarchage					.@ecl19.ec-lyon.fr	
+Com Ext					.@ecl19.ec-lyon.fr	
+Partenariats - Com Int	Vialette	Gaïa	Shéyrell	635146009	gaïa.@ecl19.ec-lyon.fr	E19
+Partenariats - RI					.@ecl19.ec-lyon.fr	
+VP event	Abidi	Saoussen	Kahdy	751957900	saoussen.@ecl19.ec-lyon.fr	E19
+VP Challenge					.@ecl19.ec-lyon.fr	
+J.E.						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Porte	Tom	Pmos	06 68 14 68 48	tom.porte@ecl19.ec-lyon.fr	2019E
+Vice-Prez'	Denisart	Bastien	Pickhy	07 82 74 27 82	bastien.denisart@ecl19.ec-lyon.fr	2019E
+Trez'	Bruneau	Marin	Êttom	 06 21 99 28 65 	marin.bruneau@ecl19.ec-lyon.fr	2019E
+SG	Daveau	Mickael	Spacyo	06 19 36 67 81	mickael.daveau@ecl19.ec-lyon.fr	2019E
+Vice Trez	Devulder	Adam	Tzekh	 06 18 73 25 52	adam.devulder@ecl19.ec-lyon.fr	2019E
+Responsable Prospection	Gaubil	Julien	Panham	06 71 28 79 18	julien.gaubil@ecl19.ec-lyon.fr	2019E
+Manager Prospection	Crozier	Quentin	Cuistow	06 52 33 00 70	quentin.crozier@ecl19.ec-lyon.fr	2019E
+Manager Prospection	Ghelfi	Manon	Tchykie	06 73 92 35 01	manon.ghelfi@ecl19.ec-lyon.fr	2019E
+Community Manager	Suresh	Saban	Lankha	07 81 65 10 85	saban.suresh@ecl19.ec-lyon.fr	2019E
+Chargé Com/Event	Roblet	Christophe	Nekhen	06 81 48 54 03	christophe.roblet@ecl19.ec-lyon.fr	2019E
+Responsable Partenariats	Michel	Thomas	Breyz	06 36 92 36 05	thomas.michel@ecl19.ec-lyon.fr	2019E
+Responsable Qualité	Martinelli 	Clément	Makoh	06 32 52 62 10	clément.martinelli @ecl19.ec-lyon.fr	2019E
+Manager Numérique	Cywie	Nathan	Touille	06 51 51 99 13	nathan.cywie@ecl19.ec-lyon.fr	2019E
+Manager études	Boucansaud	Tristan	Pid'ow	06 13 87 52 48	tristan.boucansaud@ecl19.ec-lyon.fr	2019E
+Manager études	Buisson	Hippolyte	Leemouh	 07 82 13 55 69	hippolyte.buisson@ecl19.ec-lyon.fr	2019E
+Manager études	Jollant	Amandine	Meah	06 59 15 43 11	amandine.jollant@ecl19.ec-lyon.fr	2019E
+Manager études	Millet	Alexandre	Skohtt	06 45 67 18 88	alexandre.millet@ecl19.ec-lyon.fr	2019E
+Manager études	Otero Del Val	Sarah	Rybel	07 81 13 40 65	sarah.otero del val@ecl19.ec-lyon.fr	2019E
+Smart'up						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Agostini	Hugo	Indigo	679366361		E19
+SG						
+SG						
+Trez'						
+Vice-Prez'						
+Soli						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Marette	Chloé	Thena	602359414	chloé.marette@ecl19.ec-lyon.fr	E19
+SG	Demnati	Imane	Nappyh	783477557	imane.demnati@ecl19.ec-lyon.fr	E19
+Trez'	Delamarre	Sébastien	Lazuli	780446249	sébastien.delamarre@ecl19.ec-lyon.fr	E19
+Pôle Com	Wasson	Tanguy	Tayger	647122346	tanguy.wasson@ecl19.ec-lyon.fr	E19
+Pôle Com	Haziza	Lucie	Pritz	633437420	lucie.haziza@ecl19.ec-lyon.fr	E19
+Pôle Com	Ramé	Nicolas	Sekah	622238662	nicolas.ramé@ecl19.ec-lyon.fr	E19
+Pôle Event	Moraes da Silveira	Marina	Kayppi	764259158	marina.moraes da silveira@ecl19.ec-lyon.fr	E19
+Pôle Event	Khamesi	Victor	Yenna	640439203	victor.khamesi@ecl19.ec-lyon.fr	E19
+Pôle Event	Sergent	Paul	Kheotz	695143089	paul.sergent@ecl19.ec-lyon.fr	E19
+Pôle Event	Angrand	Clara	Na'hé		clara.angrand@ecl19.ec-lyon.fr	E19
+Pôle Projet	Laurent	Boris	Marhin	781399198	boris.laurent@ecl19.ec-lyon.fr	E19
+Pôle Projet	Lafont	Maxime	Kurk	672434872	maxime.lafont@ecl19.ec-lyon.fr	E19
+Pôle Projet	Otero Del Val	Sarah	Rybel	781134065	sarah.otero del val@ecl19.ec-lyon.fr	E19
+Pôle Projet	Ghelfi	Manon	Tchykie	673923501	manon.ghelfi@ecl19.ec-lyon.fr	E19
+Pôle Projet	Schneider	Léo	Tifleth	783162189	léo.schneider@ecl19.ec-lyon.fr	E19
+4L Piston						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Thomas	Pierre-Guillaume	Cobry	06 48 97 67 07	pierre-guillaume.thomas@ecl18.ec-lyon.fr	2018E
+Trez'	Reinhart	Joseph	Toback	06 88 80 29 50	joseph.reinhart@ecl18.ec-lyon.fr	2018E

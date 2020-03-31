@@ -18,9 +18,6 @@ from nltk.stem.snowball import FrenchStemmer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import copy
-import sys
-
-nltk.download('punkt')
 
 
 
@@ -56,6 +53,7 @@ def LemNormalize(doc):
     words = nltk.word_tokenize(doc)
     return words
 
+
 def get_abstract(doc):
     k = 0
     abstract = []
@@ -66,6 +64,7 @@ def get_abstract(doc):
         if k==2:
             break
     return abstract
+    
 
 def key_search(question,all_doc,match_dict):
     new_doc = copy.deepcopy(all_doc)
@@ -77,10 +76,9 @@ def key_search(question,all_doc,match_dict):
     for i in ind:
         answer = match_dict["{}".format(i)]
         abstract = get_abstract(all_doc[i])
+        print(abstract)
         doc_site = match_dict["{}".format(answer.split("_")[0])]
-        print("{}".format(doc_site))
-        print ("{}".format(answer.split("_")[-1].split(".")[0]))
-        print(abstract[0]+" - "+abstract[1])
+        print("you can find the whole document here ; {} in {}".format(doc_site,answer.split("_")[-1].split(".")[0]))
     return ind
 
 
@@ -96,11 +94,11 @@ def stemString(s,stemmer):
 
 if __name__ == '__main__':
     
-    dirname = os.path.dirname(__file__)
+    dirname = "C://Users//ruiya//Desktop//projet_ecl"
 
     raw_data_path = os.path.join(dirname,'scolarite_raw_data')
     raw_files = os.listdir(raw_data_path)
-    DATA_FILE_retrieve = os.path.join(dirname,'retrieve_data/')
+    DATA_FILE_retrieve = os.path.join(dirname,'retrieve_data//')
     stemmer = FrenchStemmer()
     
     files = os.listdir(DATA_FILE_retrieve)
@@ -128,11 +126,8 @@ if __name__ == '__main__':
     match_dict['annuaire3'] = 'https://drive.google.com/file/d/1_q_FMD1vOId294EchtenQ3MLAVhE5WCz/view?usp=sharing'
     match_dict['annuaire4'] = 'https://drive.google.com/file/d/1x39hSpHCzfwg_nckempf4ArqU0vOFWgh/view?usp=sharing'
     match_dict['annuaire5'] = 'https://drive.google.com/file/d/1VlD1ZpAUbEEZwSE1b4FZ12qwFgP1gSZL/view?usp=sharing'
-       
-#node server
-    text_from_node_server = str(sys.argv[1])
+    
+    val = key_search("le trez du club danse",all_doc,match_dict)
 
-    val = key_search(text_from_node_server,all_doc,match_dict)
 
-    sys.stdout.flush()
 

@@ -1,0 +1,139 @@
+Petits clubs AEECL mandat 2020						
+Allemagne						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Ebermann	Louis	Insphy	49 1 51 62 41 88 56	louis.ebermann@ecl18.ec-lyon.fr	18
+SG	Gehrke	Julien	Révy	06 80 81 04 69	julien.gehrke@ecl18.ec-lyon.fr	18
+Trez'	Gehrke	Julien	Révy	7 80 81 04 69	julien.gehrke@ecl18.ec-lyon.fr	18
+Archi						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Urvoy	Siméon	Nyboh	06 12 66 14 21	simeon.urvoy@ecl18.ec-lyon.fr	18
+SG	Leslie	Heintz	Symah	06 75 76 64 34	leslie.heintz@ecl18.ec-lyon.fr	18
+Trez'						
+Astro						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Cochard	Léo	Béranh	06 35 96 94 06	leo.cochard@ecl18.ec-lyon.fr	18
+SG	David 	Raphaëlle	Ferder	06 13 01 26 31	raphaelle.david@ecl18.ec-lyon.fr	18
+Trez'	Revol	Gatien	Tzêthong	06 95 54 73 46	gatien.revol@ecl18.ec-lyon.fr	18
+BD						
+Poste	Nom	Prénom	Surnom	N°Tel	E-mail	Promo
+Prez'	Nedelec	Paul	Phrygoh	06 40 09 08 60	paul.nedelec@ecl18.ec-lyon.fr	18
+SG	Conan	Erwan	Menhyr	06 95 89 92 70	erwan.conan@ecl18.ec-lyon.fr	18
+Trez'	Lhullier	Séraphin	Syghy	07 81 24 82 58	seraphin.lhullier@ecl18.ec-lyon.fr	18
+Centrale Rainbow						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Turck	Jean	Zânhson	07 82 78 49 60 	jean.turck@ecl19.ec-lyon.fr	E19
+SG	Sivamanogaran	Mathuti	Volee	06 16 09 03 24	mathuti.sivamanogaran@ecl19.ec-lyon.fr	E19
+Trez'	Guerra	Julie	Orion	06 88 91 06 23	julie.guerra@ecl19.ec-lyon.fr	E19
+CCHECL (Club Changement d'Heure de l'ECL)						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Flagel	Paul	Tchekoh	06 95 31 11 26	paul.flagel@ecl18.ec-lyon.fr	18
+SG	Parinello	Guillaume	Noss	07 86 83 13 35	guillaume.parinello@ecl18.ec-lyon.fr	18
+Trez'	Parinello	Guillaume	Noss	8 86 83 13 35	guillaume.parinello@ecl18.ec-lyon.fr	18
+Chti						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Kawczynski	Martin	Khappe	07 81 10 16 87	martin.kawczynski@ecl18.ec-lyon.fr	18
+SG	Boutoille	Louis	Gathor	06 05 03 99 23	louis.boutoille@ecl18.ec-lyon.fr	18
+Trez'	Delay	Leopold	Zorroh	07 81 72 32 75	leopold.delay@ecl18.ec-lyon.fr	18
+Corse						
+Poste	Nom	Prénom	Surnom	N°Tel	E-mail	Promo
+Prez'	Giordani	Lisandru	Dahmss	06 21 03 90 40	lisandru.giordani@ecl18.ec-lyon.fr	18
+SG	Pasqualini	Alexandre	Zoukhau	06 45 34 24 15	alexandre.pasqualini@ecl18.ec-lyon.fr	18
+Trez'	Pasqualini	Alexandre	Zoukhau	06 45 34 24 15	alexandre.pasqualini@ecl18.ec-lyon.fr	18
+Dessin						
+Poste	Nom	Prénom	Surnom	N°Tel	E-mail	Promo
+Prez'	Barsacq	Alicia	Trachar	07 61 58 26 65	alicia.barsacq@ecl18.ec-lyon.fr	18
+SG	Meddahi	Myriam	Kahdy	06 03 36 31 17	myriam.meddahi@ecl18.ec-lyon.fr	18
+Trez'	Becourt	Pierre-Olivier	Yufoh	06 76 48 86 71	pierre-olivier.becourt@ecl18.ec-lyon.fr	18
+Ecriture						
+Poste	Nom	Prénom	Surnom	N°Tel	E-mail	Promo
+Prez'	Bergese	Théotime	Lafeta	07 69 66 04 90	theotime.bergese@ecl19.ec-lyon.fr	19
+SG	Morillon	Hyppolite	Vilo	06 78 27 68 24	hyppolite.morillo@ecl19.ec-lyon.fr	19
+Trez'	Guerra	Julie	Orion	06 88 91 06 23	julie.guerra@ecl19.ec-lyon.fr	19
+Finance						
+Poste	Nom	Prénom	Surnom	N°Tel	E-mail	Promo
+Prez'	Tissot	Raphaël	Oraum	06 49 17 71 50	raphael.tissot@ecl19.ec-lyon.fr	19
+SG	Steiger	Pierre	Rizon	06 65 11 64 00	pierre.stieger@ecl19.ec-lyon.fr	19
+Trez'	Houcine	Ryan	easyJet	07 60 06 73 34	ryan.houcine@ecl19.ec-lyon.fr	19
+Fruits (club cocktail)						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Blet	Jean-Baptiste	Dhrohbot	06 46 87 27 60	jean-baptiste.blet@ecl18.ec-lyon.fr	18
+SG	Lutz	Chloé	Flymm	06 60 86 77 95	chloe.lutz@ecl18.ec-lyon.fr	18
+Trez'	Barsacq	Alicia	Trachar	07 61 58 26 65	alicia.barsacq@ecl18.ec-lyon.fr	18
+Improvisation						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Decorse	Benoit	Trakop	07 89 33 09 90	benoit.decorse@ecl18.ec-lyon.fr	18
+SG	Rodriguez	Ivain	O'Lyon		ivain.rodriguez@ecl17.ec-lyon.fr	17
+Trez'	Le Franc	Thomas	Vholt	06 15 08 54 50	thomas.le-franc@ecl18.ec-lyon.fr	18
+Japon						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Graydon	Paul	Nambouhr	06 89 71 67 65	paul.graydon@ecl18.ec-lyon.fr	18
+SG	Leflon	Benjamin	Hakhah	06 24 32 01 36	benjamin.leflon@ecl18.ec-lyon.fr	18
+Trez'	Royer	Paco	Eskha	07 83 91 61 20	paco.royer@ecl18.ec-lyon.fr	18
+JDS/JDR						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Gallone	Léo	Gholaph	07 81 42 81 83	leo.gallone@ecl18.ec-lyon.fr	18
+SG	Conan	Erwan	Menhyr	06 95 89 92 70	erwan.conan@ecl18.ec-lyon.fr	18
+Trez'	Cabioch	Killian	Blothym	07 81 44 74 28	killian.cabioch@ecl18.ec-lyon.fr	18
+Respo JDS	Travia	William	Ayahm			18
+Respo Escape	Collet	Alexandre	Dreuh			18
+Respo JDR	Charbaluk	Paul	Fhloyd			18
+Kaamelott						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Becourt	Pierre-Olivier	Yufoh	06 76 48 86 71	pierre-olivier.becourt@ecl18.ec-lyon.fr	18
+SG	Gallone	Léo	Gholaph	07 81 42 81 83	leo.gallone@ecl18.ec-lyon.fr	18
+Trez'	Nedelec	Paul	Phrygoh	06 40 09 08 60	paul.nedelec@ecl18.ec-lyon.fr	18
+Le Short						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Denis	Loïc	Rhapso	07 81 05 87 18	loic.denis@ecl18.ec-lyon.fr	18
+SG	Giordani	Lisandru	Dahmss	06 21 03 90 40	lisandru.giordani@ecl18.ec-lyon.fr	18
+Trez'	Lakhal	Zaccharie	Tighrou	07 93 15 91 56	zaccharie.lakhal@ecl18.ec-lyon.fr	18
+Le Mouvement						
+Poste	Nom	Prénom	Surnom	N°Tel	E-mail	Promo
+Prez'	Daviet	Amélie	Sthox	06 87 75 02 18	amelie.daviet@ecl18.ec-lyon.fr	18
+SG	Loubert	Marie	ZumZum	06 29 42 59 57	marie.loubert@ecl18.ec-lyon.fr	18
+Trez'	Loubert	Marie	ZumZum	7 29 42 59 57	marie.loubert@ecl18.ec-lyon.fr	18
+Maroc						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Salaheddine	Mesdar	Salah	07 66 83 44 35	salaheddine.mesdar@ecl18.ec-lyon.fr	18
+SG	Laassel	El-Mehdi	Xahwi	07 69 99 04 51	el-mehdi.laassel@ecl18.ec-lyon.fr	18
+Trez'	Benosmane	Zakariya	Khôblen	06 69 03 11 95	zakariya.benosmane@ecl18.ec-lyon.fr	18
+Métal						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Zanoni	Alexandre	Mylio	06 07 64 02 10	alexandre.zanoni@ecl18.ec-lyon.fr	18
+SG	Legrand	Paul	Komah	06 67 37 84 47	paul.legrand@ecl18.ec-lyon.fr	18
+Trez'	Raul	Simon	Zharo	07 60 66 03 18	simon.raul@ecl18.ec-lyon.fr	18
+Musique						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Nedelec	Paul	Phrygoh	06 40 09 08 60	paul.nedelec@ecl18.ec-lyon.fr	18
+SG	Pianet	Victor	Pyhlow	06 85 95 89 99	victor.pianet@€cl18.ec-lyon.fr	18
+Trez'	Pianet	Victor	Pyhlow	7 85 95 89 99	victor.pianet@€cl18.ec-lyon.fr	18
+Patisserie						
+Poste	Nom	Prénom	Surnom	N°Tel	E-mail	Promo
+Prez'	Meddahi	Myriam	Kadhy	06 03 36 31 17	myriam.meddahi@ecl18.ec-lyon.fr	18
+SG	Gabbar	Hamza	Mashy	06 51 13 07 74	hamza.gabbar@ecl19.ec-lyon.fr	19
+Trez'	Le Peletier d'Aunay	Béatrice	Zygwhal	06 68 14 60 36	beatrice.le-peletier-daunay@ecl19.ec-lyon.fr	19
+Potager						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Sulpice	Lucas	H-Ayss	06 46 01 73 34	lucas.sulpice@ecl19.ec-lyon.fr	19
+SG	El Mrini	Mathias	Zaïoh	06 02 31 02 25	mathias.el-mrini@ecl19.ec-lyon.fr	19
+Trez'	Bourenane	Adam	Bentoh	07 83 78 35 67	adam.bourenane@ecl19.ec-lyon.fr	19
+Serial Gamers						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Sfeir	Liliam	Ristaphe	06 03 40 44 50	liliam.sfeir@ecl18.ec-lyon.fr	18
+SG	Li	Lionel	Bidhouph	06 99 31 98 52	lionel.li@ecl18.ec-lyon.fr	18
+Trez'	Pasqualini	Alexandre	Zoukhau	06 45 34 24 15	alexandre.pasqualini@ecl18.ec-lyon.fr	18
+Club Sud-Est						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Maiche	Ines	Babah	06 51 85 36 37	ines.maiche@ecl18.ec-lyon.fr	18
+SG	Berenguel	Méline	Pantah	06 83 89 52 63	meline.berenguel@ecl18.ec-lyon.fr	18
+Trez'	Ferrari	Mathilde	Ziza	06 89 19 62 79	mathilde.ferrari@ecl18.ec-lyon.fr	18
+Sud-Ouest						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Sainte Marie	Adrien	Reness	06 52 91 80 68	adrien.saintemarie@ecl18.ec-lyon.fr	18
+SG	Bailleux	Grégoire	Lotha/Kuhlé	06 40 76 36 87	gregoire.bailleux@ecl18.ec-lyon.fr	18
+Trez'	Barreau	Vincent	Pathey	06 34 37 93 98	vincent.barreau@acl18.ec-lyon.fr	18
+Théâtre						
+Poste	Nom	Prénom	Surnom	N° Tel	E-mail	Promo
+Prez'	Pianet	Victor	Pylhow	06 85 95 89 99	victor.pianet@ecl18.ec-lyon.fr	18
+SG	Nedelec	Paul	Phrygoh	06 40 09 08 60	paul.nedelec@ecl18.ec-lyon.fr	18
+Trez'	Chaize	Nicolas	Tahiti		nicolas.chaize@ecl18.ec-lyon.fr	18
