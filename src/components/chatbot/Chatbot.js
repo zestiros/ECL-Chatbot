@@ -4,7 +4,8 @@ import {
   Widget,
   addResponseMessage,
   renderCustomComponent,
-  toggleMsgLoader
+  toggleMsgLoader,
+  toggleWidget
 } from "react-chat-widget";
 import messageSound from "../../assets/open-ended.mp3";
 import logo from "../../assets/bot.png";
@@ -16,7 +17,7 @@ class Chatbot extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      messages: []
+      notif: 0
     };
 
     this.sound = new Audio(messageSound);
@@ -35,7 +36,6 @@ class Chatbot extends Component {
       await this.resolveAfterXSeconds(1.2);
       this.hello();
     }
-    // addResponseMessage("Welcome ");
   }
 
   async df_text_query(text) {
@@ -50,13 +50,13 @@ class Chatbot extends Component {
         console.log(response);
         toggleMsgLoader();
         addResponseMessage(response.data);
+        this.setState({ notif: notif + 1 });
         toggleMsgLoader();
         setTimeout(() => {
           toggleMsgLoader();
           addResponseMessage("êtes-vous satisfait de cette réponse?");
           renderCustomComponent(Satisfaction);
         }, 1500);
-       
       })
       .catch(err => {
         console.log(err);
@@ -91,10 +91,10 @@ class Chatbot extends Component {
         <Widget
           handleNewUserMessage={this.handleNewUserMessage}
           profileAvatar={logo}
-          title="Chatbot"
+          title="ECL Chatbot"
           subtitle=" "
           senderPlaceHolder="taper un message..."
-          badge=""
+          badge={this.state.notif}
         />
       </div>
     );
